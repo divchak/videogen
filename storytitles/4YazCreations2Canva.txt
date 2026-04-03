@@ -1,0 +1,85 @@
+How to Create Long 3D Cartoon Story Videos ✅
+
+1. CREATE A STORY
+2. IMAGE PROMPT GENERATION
+3. CHARACTER IMAGE GENERATION
+4. GENERATE SCENES IMAGES
+5. IMAGE TO VIDEO GENERATION
+6. MERGE VIDEOS & UPLOAD
+
+
+a) Creating a story - chatgpt
+
+
+Prompt 1 ஒரு சிறுமி மற்றும் அவள் பாட்டியைப் பற்றிை ஒரு கிராமத்து நீதி கயதயை எனக்குக் ககாடு, அந்தக் கயதைில் உணர்ச்சியும் பாடமும் இருக்க வவண்டும்
+நீளம் 1 நிமிடம் இருக்க வவண்டும்.
+பாட்டி மற்றும் சிறுமி கதாபாத்திரங்கள் கயதைில் 100% சீராக இருக்க வவண்டும்.
+
+Output:
+-> THis will give detailed story
+
+
+b) Image Prompt generation
+
+Prompt 2
+இந்தக் கயதைின் ஒவ்கவாரு காட்சிக்கும் ஒரு Image Prompt ககாடுங்கள். இந்தக் கயதைின் இரண்டு முக்கிை கதாபாத்திரங்களான பாட்டி மற்றும் சிறுமி
+ஒவ்கவாரு காட்சிைிலும் முற்றிலும் சீராக இருக்க வவண்டும், வமலும் ஒவ்கவாரு காட்சியும் ஒன்வறாகடான்று இயணக்கப்பட வவண்டும் என்பயத நியனவில்
+ககாள்ளுங்கள்.
+பட பாணி 3D கார்ட்டூன் பாணிைில் இருக்க வவண்டும். இந்தக் கயதைின் அயனத்து காட்சிகயளயும் கூகிளின் ஃப்வளா AI இன் பிவரம்-யப-ஃபிவரம்
+அம்சத்யதப் பைன்படுத்தி உருவாக்குவவன், இது வீடிவைாவுடன் ஆடிவைாயவயும் உருவாக்குகிறது. எனவவ, அவர்களின் உயரைாடயையும் வசர்க்கவும்.
+படத்யத வீடிவைா ப்ராம்ட்டுடன் கபாருத்தவும்.
+
+Note:WIth white background
+
+
+o/p:
+It will generate a prompt with instructions on character consistency
+
+🎬 Character Consistency (Use in ALL scenes — VERY IMPORTANT)
+Grandmother (Paati Kamala):
+70-year-old South Indian village grandmother, warm brown skin, grey hair tied in a low bun, round face with wrinkles, kind eyes, wearing simple faded cotton saree (light maroon with green border), small red bindi, thin gold nose ring, barefoot, gentle smile.
+
+Girl (Meena):
+8-year-old South Indian village girl, dark brown skin, big expressive eyes, black hair in two braids with red ribbons, wearing yellow frock with small flower prints, barefoot, emotional face expressions.
+
+Style:
+Pixar-quality 3D cartoon, cinematic lighting, colorful village environment, soft depth of field, ultra detailed, expressive characters.
+
+🎬 Scene 1 — Village Life Introduction
+🖼️ Image Prompt
+Ultra detailed 3D cartoon style, a small South Indian village house with thatched roof, morning sunlight...
+
+
+
+c) Character Image generation: - Whisk UI
+
+
+d) Image to Video Generation  - Grok
+
+d.1) In grok-> Imagine -> Video option should be selected
+
+a) for normal youtube, select aspect ration as is 16:9
+b) add all images for video generation
+c) Ensure that make video option is selected
+
+d) Just give the below prompt which was generated earlier
+
+Scene 1 — Village Life Introduction
+🖼️ Image Prompt
+Ultra detailed 3D cartoon style, a small South Indian village house with thatched roof, morning sunlight, grandmother Kamala sitting on a wooden chair cleaning rice in a plate, little girl Meena sitting near her looking bored and sad, consistent character design, cinematic warm lighting, Pixar style, emotional atmosphere, rural background with trees and cows.
+
+🎥 Video Motion Prompt
+Slow camera push-in toward Meena's sad face, gentle breeze moving saree and hair, natural village ambient motion.
+
+🎙️ Dialogue
+Meena: “பாட்டி... நம்ம வீட்டில் நல்ல பொம்மைகளே இல்ல... எல்லாருக்கும் இருக்கே...”
+Paati: “என்னம்மா... நம்மிடம் இருக்கிறதுல தான் சந்தோஷம் இருக்கணும்...”
+
+e) Likewise generate all videos
+
+
+f) Merge videos and upload
+
+Canva
+
+vn for mobile

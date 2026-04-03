@@ -1,0 +1,56 @@
+1) Step1: Creating polished version of story from rough out line
+Crafting your story
+-> Start with a rough outline like below in the prompt
+
+Prompt1: chatgpt
+write a short story of max finds a small dragon egg in the forest and take it at home the a small baby dragon is ached from the egg max name the dragon leo and then leo grows into big dragon and they playing in village one day some loe is out in the forest and some hunters starts pursuit and traps leo they catch leo it huge cage max searching for leo and finds him caged he at night unlock the cage and the hunter finds out about max free leo . both and leo and max fight hunters and defeats them comes home back
+
+
+o/p:
+-> Chatgpt polishes and enhances the story , making it ready for animation
+
+
+2) Step2: Divide the story into 24 scenes
+
+Prompt2: Divide the story into 24 scenes
+
+3) Step3: Generating Image Prompts:
+
+-> Use ChatGPT to create detailed image prompts for each scene.
+-> Save the character appearance prompts for consistency.
+
+prompt3: to Chatgpt
+Write detailed image prompts for each scene of story, describing the visuals in a way that fits an animated video. Ensure the main character's appearance remains consistent throughout the story. For instance, if the main character is a tiger, describe it consistently as "a brave orange tiger with black stripes and a kind smile" in every scene to maintain visual continuity. At the end of each prompt, include: "3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colors, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyperrealistic Detailing, cinematic."
+
+
+o/p:
+Chat gpt will generate image prompts for all the scenes in the story
+
+3.1) Appearance details of character images for consistency
+
+Max, an adventurous boy with short, messy brown hair and a tan complexion, wearing a faded t-shirt, cargo shorts, and sturdy sneakers,
+
+Leo a tiny baby dragon emerges from the cracked egg. Its soft blue scales shimmer in the light, and its small wings flutter
+
+....
+
+Leo a massive dragon with sapphire blue scales and glowing golden eyes. His large wings and sharp claws exude power,
+
+PROTIP: By saving the character design prompt we can maintain consistency across all the screens
+-> Thus ensuring max and leo look the same in all scenes
+
+3.2) Thus by the end of this section, image prompts are ready
+
+4) Using leonardo ai to generate images from these prompts
+
+Leonard ai : phoenix6.9
+
+-> for every image prompt, add the saved appearance details prompt for consistency
+
+5) Turning images to video: using KlingAI
+-> Now we will have video
+
+
+6) Final touches using: Capcut
+
+7) Voice over: Eleven labs

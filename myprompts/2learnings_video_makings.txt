@@ -1,0 +1,121 @@
+1) To generate 3D video
+https://www.youtube.com/watch?v=v4_aD-_WdpQ
+a) Step1 : Prompt for the grandma/grandchild tamil story
+
+a.1) படத்தில் உள்ள உரையின் எழுத்துப்படியெடுத்தல் (Transcription) இதோ:
+ஒரு சிறுவன் மற்றும் அவன் பாட்டியைப் பற்றிய ஒரு கிராமத்து நீதி கதையை எனக்குக் கொடு, அந்தக் கதையில் உணர்ச்சியும் பாடமும் இருக்க வேண்டும். நீளம் 1 நிமிடம் இருக்க வேண்டும்.
+பாட்டி மற்றும் சிறுவன் கதாபாத்திரங்கள் கதையில் 100% சீராக இருக்க வேண்டும்.
+==============================
+a.2) இந்தக் கதையின் ஒவ்வொரு காட்சிக்கும் ஒரு Image Prompt கொடுங்கள். இந்தக் கதையின் இரண்டு முக்கிய கதாபாத்திரங்களான பாட்டி மற்றும் சிறுவன் ஒவ்வொரு காட்சியிலும் முற்றிலும் சீராக இருக்க வேண்டும், மேலும் ஒவ்வொரு காட்சியும் ஒன்றோடொன்று இணைக்கப்பட வேண்டும் என்பதை நினைவில் கொள்ளுங்கள்.
+பட பாணி 3D கார்ட்டூன் பாணியில் இருக்க வேண்டும். இந்தக் கதையின் அனைத்து காட்சிகளையும் கூகிளின் ஃப்ளோ AI இன் பிரேம்-பை-ஃபிரேம் அம்சத்தைப் பயன்படுத்தி உருவாக்குவேன், இது வீடியோவுடன் ஆடியோவையும் உருவாக்குகிறது. எனவே, அவர்களின் உரையாடலையும் சேர்க்கவும். படத்தை வீடியோ ப்ராம்ட்டுடன் பொருத்தவும்.
+
+b) Go to gemini or grok and create a story for this, using a.1
+-> This is the output which contains the complete story
+கதையின் தலைப்பு: பொறுமையின் பலன்
+அழகான ஒரு பசுமையான கிராமம். அங்கே ஏழு வயது சிறுவன் கவின், தன் அன்புப் பாட்டி வள்ளியம்மாளுடன் வசித்து வந்தான். கவின் மிகவும் சுட்டிப்பையன், எதையும் உடனே செய்து முடிக்க வேண்டும் என்று நினைப்பான்; அவனுக்குப் பொறுமை கிடையாது.
+ஒரு நாள், கவின் மிகவும் ஆசையாக ஒரு மாங்கொட்டையைத் தோட்டத்தில் விதைத்தான். ஆனால், செடி வளர்கிறதா என்று தெரிந்துகொள்ளும் ஆவலில், தினமும் மண்ணைத் தோண்டிப் பார்த்தான். இதனால் அந்த விதை முளைக்கவே இல்லை. ஏமாற்றமடைந்த கவின், அழுதுகொண்டே பாட்டியிடம் ஓடினான்.
+பாட்டி கவினைத் தன் மடியில் அமர்த்தி, கனிவாகக் கண்ணீரைத் துடைத்துவிட்டார். பிறகு, தான் பின்னிக்கொண்டிருந்த மூங்கில் கூடையைக் காட்டி, "கண்ணா, இந்தக் கூடையை நான் ஒரே நிமிடத்தில் பின்னிவிடவில்லை. ஒவ்வொரு குச்சியாகப் பொறுமையாகப் பின்னினால்தான் இது உறுதியாக இருக்கும். இயற்கையும் அப்படித்தான். ஒரு விதை மரமாக மாற, அதற்கு நேரமும், அமைதியான சூழலும் தேவை. நீ அவசரப்பட்டால் அதன் வளர்ச்சி அழிந்துவிடும்" என்று அன்பாகக் கூறினார்.
+தன் தவறைப் புரிந்துகொண்ட கவின், மீண்டும் ஒரு புதிய விதையை விதைத்தான். இம்முறை அவன் அவசரப்படவில்லை; பொறுமையோடு தினமும் தண்ணீர் மட்டும் ஊற்றி வந்தான். சில வாரங்களில் மண்ணைப் பிளந்துகொண்டு ஒரு அழகான பச்சைத் துளிர் எட்டிப்பார்த்தது. அதைக் கண்ட கவினின் நெஞ்சம் மகிழ்ச்சியில் நிறைந்தது; பாட்டி அவனைக் கட்டியணைத்து முத்தமிட்டார்.
+
+நீதி / பாடம்: பொறுமையே சிறந்த வெற்றியைத் தரும். அழகான மற்றும் உறுதியான விஷயங்கள் உருவாவதற்கு நேரம் எடுக்கும்.
+
+
+c) Now go to gemini/grok copy the a.2 prompt and get the image prompt
+
+Prompt:
+இந்தக் கதையின் ஒவ்வொரு காட்சிக்கும் ஒரு Image Prompt கொடுங்கள். இந்தக் கதையின் இரண்டு முக்கிய கதாபாத்திரங்களான பாட்டி மற்றும் சிறுவன் ஒவ்வொரு காட்சியிலும் முற்றிலும் சீராக இருக்க வேண்டும், மேலும் ஒவ்வொரு காட்சியும் ஒன்றோடொன்று இணைக்கப்பட வேண்டும் என்பதை நினைவில் கொள்ளுங்கள்.
+பட பாணி 3D கார்ட்டூன் பாணியில் இருக்க வேண்டும். இந்தக் கதையின் அனைத்து காட்சிகளையும் கூகிளின் ஃப்ளோ AI இன் பிரேம்-பை-ஃபிரேம் அம்சத்தைப் பயன்படுத்தி உருவாக்குவேன், இது வீடியோவுடன் ஆடியோவையும் உருவாக்குகிறது. எனவே, அவர்களின் உரையாடலையும் சேர்க்கவும். படத்தை வீடியோ ப்ராம்ட்டுடன் பொருத்தவும்.
+
+Output:
+நிச்சயமாக! 'பொறுமையின் பலன்' என்ற கதையின் ஒவ்வொரு காட்சிக்கும் 3D கார்ட்டூன் பாணியில் படக் குறிப்புகள் (Image Prompts) மற்றும் வீடியோ குறிப்புகள் (Video Prompts) இதோ. கூகிளின் Flo AI-க்குத் தேவையான உரையாடல் மற்றும் ஒலி விளைவுகளையும் இதில் சேர்த்துள்ளேன்.
+
+கதாபாத்திரங்களின் சீரான தன்மைக்காக:
+* கவின்: 7 வயது சிறுவன், நீல நிற சட்டை மற்றும் காக்கி அரைக்கால் சட்டை அணிந்திருப்பான். அவனது முகம் சுறுசுறுப்பாகவும் ஆர்வமாகவும் இருக்கும்.
+* பாட்டி: வயதான பெண், பாரம்பரிய சாம்பல் நிற பருத்தி புடவை அணிந்திருப்பார். Her முகம் கனிவாகவும் அன்பாகவும் இருக்கும்.
+
+Style (For All Scenes)
+Pixar-quality 3D cartoon, soft cinematic lighting, vibrant village colors, emotional facial animation, smooth camera motion, depth of field, ultra expressive eyes, warm sunset tones.
+
+நிச்சயமாக! 'பொறுமையின் பலன்' என்ற கதையின் ஒவ்வொரு காட்சிக்கும் 3D கார்ட்டூன் பாணியில் படக் குறிப்புகள் (Image Prompts) மற்றும் வீடியோ குறிப்புகள் (Video Prompts) இதோ. கூகிளின் Flo AI-க்குத் தேவையான உரையாடல் மற்றும் ஒலி விளைவுகளையும் இதில் சேர்த்துள்ளேன்.
+
+கதாபாத்திரங்களின் சீரான தன்மைக்காக:
+* கவின்: 7 வயது சிறுவன், நீல நிற சட்டை மற்றும் காக்கி அரைக்கால் சட்டை அணிந்திருப்பான். அவனது முகம் சுறுசுறுப்பாகவும் ஆர்வமாகவும் இருக்கும்.
+* பாட்டி: வயதான பெண், பாரம்பரிய சாம்பல் நிற பருத்தி புடவை அணிந்திருப்பார். அவனது முகம் கனிவாகவும் அன்பாகவும் இருக்கும்.
+
+### காட்சி 1: அறிமுகம் - சுட்டிப்பையன் கவின்
+
+| அம்சம் | விளக்கம் |
+| :--- | :--- |
+| படக் குறிப்பு (Image Prompt) | A vibrant, stylized 3D cartoon image of a beautiful South Indian village with green fields and traditional tiled-roof houses. A young boy, KAVIN (7, with short curly hair, blue shirt, and khaki shorts), is actively running past a small house. His GRANDMOTHER (elderly, kind face, in a grey cotton saree) sits on the porch, working on a bamboo basket. The background is lush with palm trees. The style is soft, warm, and playful. |
+| வீடியோ குறிப்பு (Video Prompt) | The scene starts with a close-up of a small, traditional house. Kavin runs into the frame, full of energy. A grandmother is on the porch. Kavin shouts, "பாட்டி! பாட்டி!" Grandmother laughs and says, "ஏன் கவின் இப்படி ஓடுற?" (Background noise: Birds chirping, distant cows.) |
+
+---
+
+### காட்சி 2: மாங்கொட்டை விதைத்தல்
+
+| அம்சம் | விளக்கம் |
+| :--- | :--- |
+| படக் குறிப்பு (Image Prompt) | Continuation from image_0.png. Inside the small garden behind their house. KAVIN is kneeling on soft earth, carefully placing a large mango seed into a freshly dug hole. His face is full of eager anticipation. GRANDMOTHER is seated nearby, her bamboo basket close by, watching him with a gentle smile. The garden has other plants and a small watering pot. 3D cartoon style. |
+| வீடியோ குறிப்பு (Video Prompt) | Kavin is busy in the garden. He has a small shovel. He places the seed. He looks up at his grandmother and asks, "பாட்டி, இந்த மாங்கொட்டை எப்போ மரமாகும்?" Grandmother smiles gently. (Sound: Earth being dug, soft water pouring.) |
+
+---
+
+### காட்சி 3: பொறுமையின்மை மற்றும் ஏமாற்றம்
+
+| அம்சம் | விளக்கம் |
+| :--- | :--- |
+| படக் குறிப்பு (Image Prompt) | Building on image_1.png. A closer shot of the same garden spot. KAVIN, now visibly upset and crying, is digging up the same soil with his hands. The large mango seed is half-buried but starting to decay. GRANDMOTHER is comforting him, wiping tears from his face with the corner of her saree. Her hand is on his shoulder. Their house is visible in the background. The mood is somber but warm. 3D cartoon style. |
+| வீடியோ குறிப்பு (Video Prompt) | Kavin is crying. He runs out of the garden toward his grandmother on the porch. He says, "பாட்டி, செடி வளரல, அழிஞ்சிடுச்சி!" (Grandmother hugs him, wiping his tears.) She says, "கவலைப்படாதே கண்ணா." (Sound: Crying, wind softly blowing.) |
+
+---
+
+### காட்சி 4: பாட்டியின் பாடம் (உவமை)
+
+| அம்சம் | விளக்கம் |
+| :--- | :--- |
+| படக் குறிப்பு (Image Prompt) | Continuation from image_2.png. Inside the house. KAVIN is sitting on GRANDMOTHER'S lap. She is holding up a half-woven bamboo basket (like the one in image_0.png), pointing with her other hand to a small piece of wood being woven in. Her face is kind and explanatory. Kavin looks intently at the basket, his tears dried. The background is simple and warm. 3D cartoon style. |
+| வீடியோ குறிப்பு (Video Prompt) | Kavin is on his grandmother's lap. She shows him the basket. She says, "பாரு கவின், இந்தக் கூடையை நான் ஒரே நிமிடத்துல பின்னல. ஒவ்வொரு குச்சியா பொறுமையா பின்னினால்தான் இது உறுதியா இருக்கும். விதையும் அப்படித்தான். நீ அவசரப்பட்டால் அதன் வளர்ச்சி அழிந்துவிடும்." Kavin smiles and nods. (Sound: The sound of weaving, soft birds.) |
+
+---
+
+### காட்சி 5: இரண்டாவது முயற்சி (பொறுமையுடன்)
+
+| அம்சம் | விளக்கம் |
+| :--- | :--- |
+| படக் குறிப்பு (Image Prompt) | Setting is the same garden spot as image_1.png and image_2.png. KAVIN, now calm and determined, is placing another large mango seed into the earth. His hand holds a small watering pot. GRANDMOTHER is in the background, her bamboo basket weaving in progress. The mood is peaceful. 3D cartoon style. |
+| வீடியோ குறிப்பு (Video Prompt) | Kavin is back in the garden. He has a new seed. He places it carefully. He uses the watering pot. He looks back at his grandmother. She smiles and says, "இப்படியா கவின், பொறுமையா பண்ணு." (Sound: Pushing the seed into soil, water pouring.) |
+
+---
+
+### காட்சி 6: வெற்றி மற்றும் மகிழ்ச்சி
+
+| அம்சம் | விளக்கம் |
+| :--- | :--- |
+| படக் குறிப்பு (Image Prompt) | The culmination scene. Setting is the same garden spot. A tiny, vibrant green mango shoot is peeking out of the soft soil. KAVIN, with a wide, joyful expression, is pointing at the shoot. GRANDMOTHER is next to him, her arm around him, giving him a kiss on his cheek. Her bamboo basket is complete. The sun is shining brightly. The village background from image_0.png is visible. 3D cartoon style. |
+| வீடியோ குறிப்பு (Video Prompt) | Kavin is looking at the garden. A tiny green shoot is there. He jumps up and down. He shouts, "பாட்டி, பாட்டி, துளிர் வந்திருச்சி! பாருங்க!" (Grandmother comes running and hugs him.) She says, "பார்த்தாயா கண்ணா, பொறுமையின் பலன் இதுதான்!" (Sound: Laughter, happy birds, celebratory music.)
+
+
+
+d) Now go to google whisk: or now it is google flow
+https://labs.google/fx/tools/whisk
+https://labs.google/fx/tools/flow/project/518d89ed-0f6f-4b53-89ae-10b1d2b9bfca
+
+d.1) give this prompt in google flow
+ பாட்டி: வயதான பெண், பாரம்பரிய சாம்பல் நிற பருத்தி புடவை அணிந்திருப்பார். Her முகம் கனிவாகவும் அன்பாகவும் இருக்கும்.
+
+
+Style (For All Scenes)
+Pixar-quality 3D cartoon, soft cinematic lighting, vibrant village colors, emotional facial animation, smooth camera motion, depth of field, ultra expressive eyes, warm sunset tones.
+
+Note: With white background
+
+d.2) Grandma image will be generated and download it
+-> Now generate boy with below prompt
+
+ கவின்: 7 வயது சிறுவன், நீல நிற சட்டை மற்றும் காக்கி அரைக்கால் சட்டை அணிந்திருப்பான். அவனது முகம் சுறுசுறுப்பாகவும் ஆர்வமாகவும் இருக்கும்.
+i want the boy to look indian
+
+Style (For All Scenes)
+Pixar-quality 3D cartoon, soft cinematic lighting, vibrant village colors, emotional facial animation, smooth camera motion, depth of field, ultra expressive eyes, warm sunset tones.
+
+Note: With white background

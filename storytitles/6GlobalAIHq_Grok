@@ -1,0 +1,108 @@
+1) Creating a script using chatgpt
+
+Prompt1 - Chatgpt:
+generate an AI story of a 3D character of a boy who owns a dog robot. It must be 90 seconds, and also write the voiceover
+
+
+
+output from chatgpt:
+
+
+Story Title: "Bolt, My Best Friend"
+Story (Scene-by-Scene – 90 Seconds)
+Scene 1 – Opening (0–10s)
+
+A bright futuristic neighborhood at sunrise.
+
+A young boy named LEO runs through the street holding a glowing remote.
+
+Scene 2 – Robot Dog Introduction (10–25s)
+
+A metallic dog named BOLT races beside him, its joints moving smoothly, eyes glowing with excitement.
+
+Bolt barks with digital chirps and wags its metal tail.
+
+Scene 3 – Daily Life Bond (25–40s)
+
+Quick montage:
+
+Bolt fetches a holographic ball.
+
+Bolt protects Leo from falling while skating.
+
+They laugh and play like real best friends.
+
+Scene 4 – The Problem (40–60s)
+
+Suddenly, Bolt’s power core sparks.
+
+Warning lights flash on its body.
+
+Bolt collapses.
+
+Leo kneels beside it, scared and shaking.
+
+Scene 5 – The Choice (60–80s)
+
+Leo opens Bolt’s chest panel, removing his favorite power crystal.
+
+He places it into Bolt’s core.
+
+Bolt reboots... stronger, brighter.
+
+Scene 6 – Ending (80–90s)
+
+Bolt stands, licks Leo’s face with a warm digital glow.
+
+They run together into the sunset.
+
+Text appears: "Friendship doesn't need a heartbeat."
+
+Voiceover Script (90 Seconds)
+"In a world where technology was everywhere... friendship was still rare."
+
+"Leo didn't just own a robot dog."
+
+"He found a best friend."
+
+2) Generate prompt for scenes:
+
+Prompt2 - chatgpt
+Write the prompt to generate the scenes
+
+Output:
+Below are clean, high-quality AI VIDEO GENERATION PROMPTS written scene-by-scene for your 90-second 3D story "BOLT, MY BEST FRIEND".
+
+They are optimized for cinematic 3D / Disney-Pixar style and can be used with tools like Veo, Sora, Runway, Pika, or Luma.
+
+🎬 SCENE 1 (0–10s) — FUTURISTIC MORNING
+Prompt:
+A cinematic 3D animated scene at sunrise in a bright futuristic neighborhood, soft golden light reflecting off clean buildings, flying vehicles in the distance. A young boy named Leo runs happily down the street holding a glowing remote. Disney-Pixar style, expressive character animation, smooth camera tracking, shallow depth of field, warm color grading, ultra-high quality 3D render.
+
+🐕 SCENE 2 (10–25s) — ROBOT DOG INTRODUCTION
+Prompt3:
+A friendly robot dog named Bolt runs beside the boy, sleek metallic body with rounded edges, glowing blue eyes, animated digital tail wagging. The robot dog moves with playful energy, making cute digital bark sounds. Cinematic 3D animation, Pixar-style proportions, dynamic camera movement, motion blur, bright and joyful atmosphere.
+
+
+3) Generate image screens
+In grok -> Imagine -> Create image
+
+Prompt4: THis is for first scene
+A friendly robot dog named Bolt runs beside the boy, sleek metallic body with rounded edges, glowing blue eyes, animated digital tail wagging. The robot dog moves with playful energy, making cute digital bark sounds. Cinematic 3D animation, Pixar-style proportions, dynamic camera movement, motion blur, bright and joyful atmosphere.
+
+-> Image for robot will be created and we can select the image we want in grok
+
+Prompt5:
+In customize video section  type prompt - Make them say , "lets go"
+
+Output:
+Now a video will be generated with dialogue - lets go
+
+4) Next step is to generate next scene
+-> Now copy next scene contents from chatgpt
+
+To maintain consistency between videos
+a) Play first video near end and right click and select Copy Video Frame
+or we can take screenshot and attach the file
+b) Then come to imagine box where we can prompt and Paste the Video frame
+c) Then put the next scene prompt

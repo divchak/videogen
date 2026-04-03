@@ -1,0 +1,137 @@
+
+1) Steps
+1. Create a Story - Chatgpt
+2. Character Image Generation
+3. Generate Scene Prompts
+4. Story Voiceover
+5. Generate Video Prompts
+6. Generate Video
+7. Tips
+
+
+2)
+a) Getting 10 to 20 stories
+a.1) Prompt1 in Chatgpt:
+
+Write 10 short stories featuring only two characters — "a boy and a dragon".
+Each topics suitable for a children's animation YouTube channel in Tamil language. Ensure the topics are engaging, age-appropriate, and culturally relevant to Tamil-speaking kids. Each story topic should be distinct and conducive to animation, incorporating elements of adventure, magic, mythical creatures, or heroic quests that captivate young audiences.
+The narratives must be dramatic, suspenseful, and captivating enough to hold the Viewer's attention until the very last moment. Every story should deliver a memorable And thought-provoking lesson at the end, leaving a lasting impact on the audience's Mind.
+
+Output
+1. சிறுவன் டிராகன் முட்டை கண்டுபிடிக்கிறார்
+
+Story Idea: சிறுவன் காடுகளில் விளையாடும் போது ஒரு மின்னும், பொலிவு நிறைந்த டிராகன் முட்டையை கண்டுபிடிக்கிறான். அவன் அதை வளர்த்து, இறுதியில் நம்பிக்கையுடன் ஒரு வலிமையான டிராகனாக மாற்றுகிறான்.
+
+Lesson: பொறுமை, அன்பு, மற்றும் பொறுப்புடன் நடப்பது நம்பமுடியாத நட்புகளை உருவாக்கும்.
+
+a.2) Creating script
+
+Prompt2: using chatgpt
+சிறுவன் டிராகன் முட்டை கண்டுபிடிக்கிறார்
+
+Story Idea: சிறுவன் காடுகளில் விளையாடும் போது ஒரு மின்னும், பொலிவு நிறைந்த டிராகன் முட்டையை கண்டுபிடிக்கிறான். அவன் அதை வளர்த்து, இறுதியில் நம்பிக்கையுடன் ஒரு வலிமையான டிராகனாக மாற்றுகிறான்.
+
+Lesson: பொறுமை, அன்பு, மற்றும் பொறுப்புடன் நடப்பது நம்பமுடியாத நட்புகளை உருவாக்கும்.
+
+
+Write this story and make into video script in Tamil from the narrator's point of view that explains a story to children in a soothing and simple manner. The script should be approximately 2 minutes long and exclusively use the narrator's perspective, without including any dialogue or viewpoints from other characters. The language should be gentle, engaging, and easy to understand for kids
+
+a.3) Character image generation
+
+Prompt3: Grok
+
+"This is perfect, now let’s start one by one shot, I need text to image prompt to visualize each characters. At the end of each AI Image prompt, include: '3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colours, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyper realistic Detailing, cinematic.'"
+
+-> Now we will get prompt for generating each of the characters
+
+a.3.1) Image generation prompt for boy
+
+from prompt output we got in step a.3, form the below prompt by including this all prompts to have continuity and informity:
+WRITE TEXT TO IMAGE PROMPT FOR THE BOY, FRONTAL VIEW FOR CHARACTER SHEET AGAINST A WHITE BACKGROUND.
+
+Prompt1: for boy
+Write text to image prompt for The Boy, frontal view for character sheet against a white background.
+
+A curious young Tamil village boy around 10 years old, with big expressive brown eyes, short black hair, wearing a simple half-sleeve shirt and cotton shorts, standing barefoot on soft grass. His face shows innocence, curiosity, and wonder. Add a small sling bag and wooden stick in his hand. The background should hint at a green tropical forest with birds flying in the distance.
+Style: 3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colours, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyper realistic Detailing, cinematic.
+
+Prompt2: for Dragon
+Write text to image prompt for The Dragon Egg, frontal view for character sheet against a white background.
+
+A large, glowing dragon egg resting on a bed of soft forest moss. The shell is golden with faint blue cracks that shimmer with magical light. A warm mystical glow radiates around it, with sparkles of light floating in the air. Leaves gently sway in the soft breeze, and sunlight filters through the trees above.
+Style: 3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colours, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyper realistic Detailing, cinematic.
+
+-> Now we have prompts for generating image
+
+a.3.2) Generate character images using grok
+
+
+a.4) Generate Scene Prompts - to grok
+
+Prompt:
+Now convert the story into “15 scenes” and write detailed AI image prompts for each scene of story, describing the visuals in a way that fits an animated video. Ensure the main character’s appearance remains consistent throughout the story. At the end of each AI image prompt, include: “3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colours, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyper realistic Detailing, cinematic.”
+
+a.4.1) After giving this prompt we will get scene by scene breakup
+
+Sample output:
+...........................................
+Story Title: The Boy and the Dragon Egg
+Scene Breakdown (15 Scenes)
+
+Scene 1 – Morning in the Village
+Prompt:
+A peaceful Tamil village at sunrise, golden light spilling over thatched huts and coconut trees. Birds fly across the pink-orange sky as a gentle breeze moves through green paddy fields. The young Tamil boy stands barefoot on the path, holding a wooden stick and his small sling bag, looking toward the distant forest with curiosity and excitement.
+Style: 3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colours, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyper realistic Detailing, cinematic.
+
+Scene 2 – Entering the Forest
+Prompt:
+The boy walks deeper into a lush tropical forest filled with tall banana trees, vines, and glowing patches of sunlight through the leaves. He steps softly on mossy ground, his eyes wide with wonder as he looks around at colorful butterflies and birds flying past. The forest feels magical and full of secrets.
+Style: 3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colours, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyper realistic Detailing, cinematic.
+
+Scene 3 – Strange Glow in the Distance
+Prompt:
+A mysterious soft golden-blue light glows behind the thick trees. The boy stands still, surprised and curious, gripping his stick tightly. The mist swirls around him as beams of magical light peek through the branches, illuminating his amazed face.
+Style: 3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colours, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyper realistic Detailing, cinematic.
+
+Scene 4 – Discovery of the Dragon Egg
+Prompt:
+The boy kneels beside a large glowing golden egg resting on a bed of moss. The egg has faint blue cracks that shimmer softly. Tiny sparkles of magic float in the air. The boy’s face lights up with awe and wonder as he reaches out gently to touch the egg.
+Style: 3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colours, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyper realistic Detailing, cinematic.
+
+...
+
+Scene 15 – Hope in the Sky
+Prompt:
+The baby dragon takes flight into the glowing dawn sky, leaving behind a trail of sparkling light. The boy watches from the hilltop, holding his sling bag and stick, smiling with wonder and hope as the dragon disappears into the clouds. The morning sun rises over the forest.
+Style: 3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colours, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyper realistic Detailing, cinematic.
+
+At the end of a.4 we will be getting the scenes generated
+
+a.5) Story Voice over:
+Initial complete story we got will be used in voice over
+
+a.5.1) Google ai studio for voice over:
+https://aistudio.google.com/generate-speech?model=gemini-2.5-pro-preview-tts
+
+text to speech can be used
+
+
+
+a.6) Generate Video Prompts - grok
+-> This is the final prompt
+
+Prompt:
+
+Now create the video prompt for the story into “15 scenes” and write detailed Video 3 generation prompts for each scene of story, describing the visuals in a way that fits an animated video. Ensure the main character’s appearance remains consistent throughout the story. At the end of each video generation prompt, include: “3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colours, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyper realistic Detailing, cinematic.”
+
+Output: This will generate the prompt for generating the video
+
+Prompt output generated:
+Veo 3 Video Generation Prompts (15 Scenes)
+Scene 1 – Morning in the Village
+Prompt:
+Wide cinematic shot of a peaceful Tamil village at sunrise. Golden rays of sunlight spread across lush green paddy fields, thatched huts, and swaying coconut trees. Birds flutter through the pink sky. Slowly pan forward to reveal the young Tamil boy standing barefoot on a dusty path, holding a wooden stick and a small sling bag, gazing toward the distant forest with curiosity. Gentle wind rustles his shirt and hair, creating a sense of early morning adventure.
+Style: 3D Pixar cartoon style, Ultra HDR, 3D intricate details, vibrant colours, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyper realistic Detailing, cinematic.
+
+a.7) for actual video generation from prompt they used chatglm
+a.8) For editing they used canva

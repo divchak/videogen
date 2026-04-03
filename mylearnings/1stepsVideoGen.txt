@@ -1,0 +1,20 @@
+1) Creating an engaging story
+-> Generate story using gemini or chatgpt(preferred)
+3) Generate story script using chatgpt
+4) Create images for each screen using grok
+5) Create
+
+
+1) Grok Settings:
+Grok -> Settings -> Behavior -> Enable Automatic video Generation
+
+-> This needs to be turned off because grok ai automatically generates video without we giving instruction
+-> Thus we can control when to generate video and when not to generate video
+
+
+2) To maintain consistency between videos
+a) Play first video near end and right click and select Copy Video Frame
+or we can take screenshot and attach the file
+b) Then come to imagine box where we can prompt and Paste the Video frame
+c) Then put the next scene prompt
+
