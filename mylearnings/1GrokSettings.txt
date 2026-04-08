@@ -2,7 +2,7 @@
 -> Generate story using gemini or chatgpt(preferred)
 3) Generate story script using chatgpt
 4) Create images for each screen using grok
-5) Create
+
 
 
 1) Grok Settings:
