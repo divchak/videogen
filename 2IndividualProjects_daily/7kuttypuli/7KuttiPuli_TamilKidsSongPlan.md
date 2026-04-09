@@ -367,8 +367,8 @@ then a rapid cascade of ten, twenty, fifty fireflies blinking
 on across the jungle floor and canopy creating a galaxy of 
 tiny golden-green lights in the indigo darkness, the full moon 
 beginning its arc over the highest canopy trees casting silver 
-light in dramatic shafts through the canopy, Tamil text 
-'குட்டி புலி' materialising in cool silver moonlight letters 
+light in dramatic shafts through the canopy, English text 
+'KUTTY PULI' materialising in cool silver moonlight letters 
 with the English 'KUTTI PULI' below, extremely cinematic Pixar 
 opening, deep indigo-silver-gold three-color palette, 8K
 ```

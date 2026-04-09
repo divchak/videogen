@@ -511,13 +511,13 @@ large bold golden eye icon (simple friendly cartoon eye shape)
 materialises beside his head with a warm glow and a satisfying 
 pop sound, Kutti Yaanai using his tiny trunk to point directly at 
 his own large round dark-brown eyes with maximum expression of 
-pride and clarity, Tamil word 'கண்' (eye) appears in warm golden 
+pride and clarity, english word 'EYE' (eye) appears in warm golden 
 text with English 'EYES' below in friendly rounded font, a split 
 panel on the right shows what the eyes see — vivid burst of bright 
 orange marigolds, a brilliant butterfly, glowing oil lamps in rich 
 colour, then a golden ear icon appears with the same warm pop beside 
 his head, Kutti Yaanai's enormous floppy ear straightens upright 
-and he taps it gently with his trunk tip, the word 'காது' (ear) 
+and he taps it gently with his trunk tip, the word 'EAR' (ear) 
 appears in bright amber with 'EARS' below, a second split panel 
 shows sound waves in visible golden arcs representing nadaswaram 
 music and temple bells, both icons pulse in sequence with the song 
@@ -540,14 +540,14 @@ teaching pose, a golden nose icon materialising beside his face,
 his trunk rising and curving toward a single oversized bright 
 orange marigold flower held in his trunk tip, visible fragrance 
 swirls rising from the flower in soft golden and warm-pink spiral 
-ribbons that float lazily upward, Tamil word 'மூக்கு' (nose) in 
+ribbons that float lazily upward, English word 'NOSE' (nose) in 
 golden warm text with 'NOSE' below in friendly font, a split 
 panel on the right shows what the nose smells — bursts of marigold, 
 jasmine, and sweet fruits, then the most emotionally powerful beat: 
 Kutti Yaanai lowers his trunk slowly and places the very tip with 
 total gentleness against his own chest, a warm golden heart shape 
 beginning to glow softly from inside his chest radiating outward like 
-a gentle lamp, Tamil word 'மனம்' (heart) appearing in warm deep gold 
+a gentle lamp, Englishs word 'HEART' (heart) appearing in warm deep gold 
 with 'HEART' below, a small heart icon pulsing in rhythm with 
 the song beat, Thaatha Yaanai visible in the soft-focus background 
 with his golden wisdom aura glowing warmly and his head nodding 
@@ -578,7 +578,7 @@ a carved stone pillar decorated with festival lights, Kurangan now
 effectively tied to the pillar in a complete garland knot with both 
 arms pinned to sides and feet barely touching the ground, spinning 
 slowly on the spot like a festival decoration, enormous yellow eyes 
-going in circles, garland flowers covering his face, 'அய்யோ!' 
+going in circles, garland flowers covering his face, 'Ayyo!' 
 exploding on screen in enormous wobbly orange letters, then Thaatha 
 Yaanai appearing in frame with total unruffled calm dignity, his 
 trunk making ONE single smooth elegant arc movement that perfectly 
@@ -674,7 +674,7 @@ gymnastic moves between two stone pillars using his tail as a pendulum
 wearing his garland as a cape now, the grand Koyil Yaanai standing 
 majestic at absolute center as the regal anchor of the whole scene, 
 his ornaments sending spectacular golden light reflections dancing 
-across all the stone walls, 'பாம்!' text exploding on screen at 
+across all the stone walls, 'Paaom!' text exploding on screen at 
 each beat, festival flowers frozen in air between each flash like 
 golden stars, ultra high-energy vibrant Pixar festival quality, 
 maximum temple golden-orange color grade, 8K
@@ -742,13 +742,13 @@ point like a small golden star, Kurangan at the left balancing on
 Thaatha's head trying to look dignified and mostly succeeding, Kutti 
 Yaanai then turns his trunk directly toward the camera in a close-up 
 insert shot — breaking the fourth wall — the trunk tip pointing 
-straight at the viewer, Tamil text 'நீயும் ஒரு யானை!' materialising 
+straight at the viewer, English text 'Neeyum Oru Yaanai!' materialising 
 in brilliant golden temple-fire lettering around the pointing trunk, 
 a magnificent slow-motion rain of orange marigold and white jasmine 
 petals descending from the temple gopuram above like golden snow 
 catching the last rays of sunset, the sky behind transitioning from 
-gold to deep rose to indigo with the first stars appearing, bold Tamil 
-title 'குட்டி யானை' materialises in liquid gold above all, epic wide 
+gold to deep rose to indigo with the first stars appearing, bold English 
+title 'KUTTY YAANAI' materialises in liquid gold above all, epic wide 
 cinematic camera pull-back, ultra Pixar cinematic quality, most 
 vibrant warm saffron-gold temple color grade, unforgettable finale, 8K
 ```

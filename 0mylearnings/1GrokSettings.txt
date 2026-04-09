@@ -5,10 +5,10 @@
 
 
 
-1) Grok Settings:
+1) Grok Settings:p
 Grok -> Settings -> Behavior -> Enable Automatic video Generation
 
--> This needs to be turned off because grok ai automatically generates video without we giving instruction
+-> This needs to be turned off because grok ai auFtomatically generates video without we giving instruction
 -> Thus we can control when to generate video and when not to generate video
 
 
