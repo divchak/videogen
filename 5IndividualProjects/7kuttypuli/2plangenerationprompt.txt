@@ -1,0 +1,32 @@
+i want to create a kids tamil song which should be a massive hit. Can you consider all the elements which could make this song success and give me a thorough plan :
+Use the document : 5KuttiSingam_TamilKidsSongPlan.md for template reference
+
+Please take of the following part A and Part B while preparing the plan for song
+Part A
+1) Script
+2) Explanation of characters and character image prompts
+3) Scene prompts
+Musical prompts It should capture kids attention and should be colourful 3D animation pixar style video Let the output be captured in a document
+4) Lyrics or video content should not contain tamil letter ழ "zha"
+(Avoid using the tamil word contain letter "ழ்" or "ழ" in lyrics it is not recognized by suno ai properly. change plan accordingly)
+5) No moderated content in prompt
+6) The song should be catchy and easy to sing along for kids
+7) I am planning to create music/song using suno ai. so can you categorize further details on this song: a) Lyrics b) Styles to be included and styles to be excluded c) Instruments to be used d) Vocal - Type of vocal, male or female or both. If both who needs to sing what part Update all these in this document
+8) Each scene should be of 10 seconds. Hence plan the number of scenes with each 10 seconds
+
+Part B:
+KUTTI PULI (குட்டி புலி) — Baby Tiger
+**Recommended Rank: #2 — Natural Progression from Lion**
+
+| Factor | Details |
+|---|---|
+| **Signature Sound** | 😾 **GRRR-ROAR!** — Tiger growl (slightly different from lion roar = new signature but familiar energy) |
+| **Tamil Cultural Connection** | Tamil Nadu STATE ANIMAL — every Tamil child has a deep identity connection to the tiger |
+| **Story Angle** | Baby tiger afraid of the dark jungle at night — learns that true strength comes from facing fears, not running from them |
+| **Visual Wow Factor** | Glowing stripes in a moonlit jungle — incredibly striking 3D night scene with fireflies and moonlight |
+| **Why It's #2** | Lion fans will IMMEDIATELY click on Tiger — sibling-rivalry energy between lion and tiger = built-in excitement. Could do a crossover episode later! |
+| **Suno AI Signature Sound** | Sharp veena pluck + dhol burst = Tiger pounce sound |
+| **Target Views** | 75M+ (State animal identity + night jungle visual = new aesthetic entirely) |
+| **Moral** | "True strength is not in your stripes — it is in your brave heart!" |
+| **Characters** | Kutti Puli (baby tiger), Amma Puli (mother tiger), Maan (deer who becomes friend not prey) |
+| **Avoid** | Any violent hunting scenes — keep it playful and non-threatening |
