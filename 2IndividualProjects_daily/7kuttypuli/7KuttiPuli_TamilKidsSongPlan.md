@@ -508,16 +508,14 @@ ambient lighting, Kutti Puli positioned centrally facing the
 camera in clear interactive teaching mode, FIRST EMOTION: 
 enormous scared expression — eyes at maximum cartoon width, 
 ears flat, all four legs trembling, tail between legs, stripes 
-at absolute minimum dim flicker, large bold Tamil text 'பயம்' 
+at absolute minimum dim flicker, large bold English text 'Bayam' 
 (Fear) materialises in deep cool indigo-blue with a shivery 
-wavy font with 'FEAR' below in small rounded English text, a 
-cool blue trembling icon beside the text, Kutti Puli's whole 
-body vibrating with an exaggerated cartoon fear tremble, pause 
+wavy font with 'FEAR' below in small rounded English text, pause 
 of half a second, then DRAMATIC TRANSFORMATION — Kutti Puli 
 straightening to full height, chest forward, both front paws 
 raised with extended cartoon claws, teeth revealed in a 
 determined expression, stripes FLASHING brilliant gold, text 
-'வீரம்' (Courage) exploding onto screen in bold warm gold with 
+'Veeram' (Courage) exploding onto screen in bold warm gold with 
 'BRAVE!' in English, a bold upward-arrow power icon, the 
 transformation from scared to brave shown in a satisfying 
 morph sequence, warm inviting educational Pixar quality, 
@@ -538,7 +536,7 @@ same soft moonlit clearing, THIRD EMOTION: Kutti Puli breaks
 into the most joyful spinning leap with all four paws extended 
 upward, stripes blazing full gold, face showing absolute maximum 
 open-mouthed joy with every tooth visible in delight, text 
-'சந்தோஷம்' (Happiness) bouncing onto screen in warm bright 
+'Santhosham' (Happiness) bouncing onto screen in warm bright 
 sunny-yellow with a joyful bouncing font and a star-burst icon, 
 'HAPPY!' in English below, fireflies swirling around him in 
 response to his joy like attracted moths, a shower of tiny 
@@ -546,7 +544,7 @@ golden sparkles falling around him mid-spin, then FOURTH
 EMOTION: Kutti Puli landing softly and looking directly at 
 camera with the most gentle expression, one front paw placed 
 softly against his own chest over the heart, his stripes 
-shifting in color from gold to a warm rose-gold, text 'அன்பு' 
+shifting in color from gold to a warm rose-gold, text 'Anbu' 
 (Love) appearing in rose-gold with a steady pulsing heart icon, 
 'LOVE' in English below, Minnaminni flying a slow circular path 
 around Kutti Puli that forms a visible glowing ring — a heart 
@@ -581,7 +579,7 @@ shadow, Maan turning to look at what is staring at her and
 seeing Kurangan's enormous terrified yellow eyes, both 
 simultaneously producing their LOUDEST possible startled 
 expression and falling backward — Kurangan off the vine, 
-Maan stumbling backward into a bush — 'அய்யோ!' exploding 
+Maan stumbling backward into a bush — 'Ayyo!' exploding 
 on screen in enormous wobbly letters, Kutti Puli watching 
 this entire sequence with both front paws pressed against 
 his face in the universal face-palm of secondhand embarrassment, 
@@ -679,7 +677,7 @@ spectacular natural suit of fairy-lights — sitting completely
 still to not disturb them while they pulse in perfect rhythm, 
 Amma Puli at the clearing edge watching with her steady warm 
 copper glow and the most radiant expression of maternal pride 
-imaginable, 'கர்ர்!' text exploding in gold on screen at every 
+imaginable, 'Garrr!' text exploding in gold on screen at every 
 beat, ultra vibrant maximum night color energy, 8K
 ```
 
@@ -749,8 +747,7 @@ raised paw at the highest point like a golden star, Kurangan
 at the back balanced on Amma's head still with fireflies 
 decorating him, Kutti Puli turning his head directly to 
 camera in close-up insert, eyes blazing gold, raising one 
-claw-spread paw directly at the viewer, Tamil text 'நீயும் ஒரு 
-புலி!' materialising in brilliant moonlight-silver and golden-
+claw-spread paw directly at the viewer, English text 'Neeyum oru PULI!' materialising in brilliant moonlight-silver and golden-
 stripe letters around the pointing paw, the fireflies spelling 
 out 'KUTTI PULI' in the air behind him, bold title blazing, 
 epic wide pull-back, ultra Pixar moonlit cinematic quality, 8K
