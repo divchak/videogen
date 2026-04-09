@@ -256,18 +256,27 @@
 > Project folder: projects/2kuttypuli/
 
 ---
+---
+
+## Prompt 34
+## for generating prompt to get good youtube title/description/tag
+📅 **April 9, 2026 – Session 2 | Order: #14**
+> I am going to do song on Kutty Yanai, suggest me good Description and tags which could have max reach with kids and also good title. also create a document for the same 
+
 
 ---
 
-## 📊 PROMPT SUMMARY BY DATE
+---
 
-| Date | Session | No. of Prompts | Topics Covered |
-|---|---|---|---|
-| April 6, 2026 | Session 1 | 19 | Moral story topics, File creation, Video analysis, Murukku song plan, Jalebi song plan, Suno AI lyrics/instruments, Prompt history |
-| April 7, 2026 | Session 2 | 14 | Claude model comparison, Tamil YouTube channels research, Kutti Singam (Lion) full plan, Suno AI prompts (A/B/C/D), Next animal songs roadmap, Kutti Yaanai (Elephant) full plan, Educational layer change (5 Senses), Kutti Puli (Tiger) full plan |
-| **Total** | **2 Sessions** | **33 Prompts** | |
+
 
 ---
 
-*End of prompt log — Last updated: April 7, 2026*
+
+
+
+
+
+
+*End of prompt log — Last updated: April 9, 2026*
 
