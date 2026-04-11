@@ -127,6 +127,43 @@ animal sounds for kids tamil
 #KuttiPuli #TamilKidsSeries #Kurangan #TamilKidsUniverse
 ```
 
+### 🎨 Series Playlist Cover & Trailer Thumbnail Image Generation Prompt
+> ✅ **Copy-paste into Midjourney, DALL-E 3, Adobe Firefly, or any AI image generator.**
+> *Use this prompt for the series playlist cover, channel banner, and series trailer thumbnail.*
+
+```
+3D Pixar-style animated YouTube series cover thumbnail, Tamil kids animal song universe — 
+a multi-character ensemble poster featuring ALL the series animal heroes together.
+Composition: a grand group portrait arranged in a dynamic staggered row against a vivid Tamil jungle 
+backdrop. Characters from left to right, all in their most iconic pose:
+🦁 Kutti Singam — a baby golden lion front-left, mouth wide open in a ROAR with tiny claws raised, 
+fur glowing warm amber in jungle sunlight.
+🐘 Kutti Yaanai — a chubby baby elephant center-left, trunk curled up in a PAOOM blast, marigold 
+garland around neck, temple gold bindi on forehead, ears spread wide.
+🐯 Kutti Puli — a fierce baby tiger slightly to the right, glowing orange stripes in moonlit contrast, 
+amber eyes blazing with energy, one paw raised with tiny claws.
+🦚 Mayil Kutty — a baby peacock at center-right, full rainbow feather spread at maximum, teal-gold 
+feathers fanning outward, beak open in a KE-YOW call, every feather catching a rainbow shimmer.
+🐠 Vanna Meen — a brilliantly glowing bioluminescent fish hovering in a splash of water at the right 
+edge, cheeks puffed in a BLOOP, all her colors at maximum glow.
+Center foreground stealing focus: Kurangan the monkey — leaping with maximum glee between all the 
+animals, arms spread wide, grinning the biggest grin of his monkey life, a mango in one hand flying 
+loose from the leap, his eyes catching light from all the animals' signature glow effects.
+Background: a grand Tamil universe — half lush green jungle with golden sunlight on the left, 
+half bioluminescent deep blue ocean on the right, a Tamil temple gopuram silhouette at the distant 
+center horizon connecting both worlds under a dawn sky that transitions from deep indigo through 
+rose to gold.
+Bold series title overlay: "குட்டி Animal Songs 🐾" in large bold mixed Tamil-English cartoon font 
+in warm gold, English subtitle "Tamil Kids Song Universe" below in vivid orange. Each character's 
+name + signature sound displayed in small bright text tags: GARRR! • PAOOM! • GRRR! • KE-YOW! • BLOOP!
+Color palette: full spectrum — golden amber jungle, deep bioluminescent blue, rainbow feathers, 
+saffron temple gold. Lighting: magical combined — warm jungle sunlight on the left, deep ocean 
+bioluminescent glow on the right, meeting in the center in a warm magical light. 
+Style: Pixar 3D animation quality at its absolute peak, a movie-poster-level ensemble composition, 
+every animal clearly recognizable, maximum color and energy. 16:9 aspect ratio, 4K YouTube 
+thumbnail resolution.
+```
+
 ---
 
 ## 📅 PART 6 — SERIES UPLOAD CALENDAR

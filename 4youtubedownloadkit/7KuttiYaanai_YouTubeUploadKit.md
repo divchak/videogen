@@ -251,6 +251,27 @@ tamil kids 2026
 - [ ] Font: Bold, thick, rounded (kids safe)
 - [ ] Test thumbnail at small size (mobile) — face must still be clear
 
+### 🎨 Thumbnail Image Generation Prompt
+> ✅ **Copy-paste into Midjourney, DALL-E 3, Adobe Firefly, or any AI image generator.**
+
+```
+3D Pixar-style animated YouTube thumbnail, Tamil kids song about a baby temple elephant.
+Main character center-frame: Kutti Yaanai — a small, chubby, adorable baby elephant in extreme close-up, 
+trunk curled upward in a triumphant PAOOM pose with a visible blast of air from the trunk tip, enormous 
+round warm brown eyes wide with wonder and joy, oversized floppy ears spread wide framing the face, 
+traditional Tamil temple decoration on the forehead — a painted golden bindi mark and a small marigold 
+garland around the neck. Expression: pure delight and gentle wonder. Background: a grand Tamil temple 
+festival in full color — vibrant saffron and gold temple gopuram towers visible through a shower of 
+marigold flowers, oil lamp rows glowing warm amber along the temple steps, festival crowd in colorful 
+sarees just visible as bokeh in deep background. Right corner: Kurangan — the monkey in maximum 
+comic shock, one hand to his mouth, eyes cartoonishly wide at the trunk PAOOM. Bold text overlay: 
+"PAOOM! 🎺" in thick bold marigold-yellow cartoon font with a warm saffron glow outline, Tamil text 
+"குட்டி யானை" in large festival-gold letters. Color palette: marigold yellow, saffron orange, 
+warm gold, temple red. Lighting: festival golden afternoon light, warm lamp glow, bright and joyful. 
+Style: Pixar 3D animation quality, rich warm Tamil festival colors, kids-safe, culturally celebratory. 
+16:9 aspect ratio, 4K YouTube thumbnail resolution.
+```
+
 ---
 
 ## 📅 PART 6 — UPLOAD STRATEGY

@@ -1,0 +1,33 @@
+1) For each of the topic can you create plans in separate document to create youtube video - covering the following 
+-> Let this video be in english and it should be very easily understandable with relevant images and video references in video 
+a) Youtube Script for the topic 
+b) Audio script for the same which is insync with video plan 
+c) Video scene plan with prompt to generate the same 
+d) HOw to get necessary images 
+e) Provide necessary references 
+d) Good Suno music prompt for the same 
+e) Analysis on how this content will be a hit or not? 
+f) For youtube video,  Title, Description and tag for this 
+g) Let video be 5 minute long and max 6 to 7 minutes 
+h) Generate all the individual document for each topic in this location : C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\projects\4NicheTopics
+
+
+
+
+2) 
+In each of the document, under youtube script I see all sections with time frame of 30 seconds, but i see only one liners 
+
+like Below:
+**[HOOK — 0:00–0:30]**
+"IRL — which stood for 'In Real Life' — was a social networking app that claimed to have 20 million monthly active users. Investors including SoftBank valued it at $1.17 billion — making it a unicorn. When the company shut down in 2023, an SEC investigation had found that 95% of those 20 million users were bots, fake accounts, or automated activity. The entire user base was almost entirely fabricated."
+
+
+
+Can you provide detailed script which is engaging/suspenseful at the same time with some comedy in it, to cover the specified timeframe
+
+By giving detailed description you should not compromise on being to the point. 
+
+Please update all the documents's Youtube script content to match the duration specified 
+
+
+3) In each of the document, taking YOUTUBE SCRIPT  as input, i want to provide prompt to eleven labs, so that it could play that text to audio in the preferred tone. Can you update the document having eleven labs script and update it as required

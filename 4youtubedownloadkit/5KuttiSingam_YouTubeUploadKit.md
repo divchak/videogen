@@ -202,6 +202,26 @@ brave kids song tamil
 - [ ] Font: Bold, thick, rounded (kids safe)
 - [ ] Test at small size (mobile) — roaring face must be clear
 
+### 🎨 Thumbnail Image Generation Prompt
+> ✅ **Copy-paste into Midjourney, DALL-E 3, Adobe Firefly, or any AI image generator.**
+
+```
+3D Pixar-style animated YouTube thumbnail, Tamil kids song about a baby lion.
+Main character center-frame: Kutti Singam — a small, fluffy golden-amber baby lion in extreme close-up, 
+mouth wide open in a powerful ROAR, tiny sharp milk teeth fully visible, bright amber eyes blazing with 
+fierce cub energy, round fluffy ears alert, front paws raised with tiny claws dramatically extended, 
+golden fur catching warm jungle sunlight creating a backlit halo glow. Expression: the most adorably 
+fierce roar face — small but absolutely determined. Background: lush deep jungle green with warm golden 
+sunlight shafts filtering through the canopy, tropical leaves framing the scene, soft bokeh jungle depth. 
+Right corner: Kurangan — a brown monkey character with his eyes bugged wide and jaw dropped in an 
+exaggerated comic shock reaction, one hand on cheek. Bold text overlay: "GARRR! 🦁" in thick bold 
+golden-yellow cartoon font with a deep amber outline that looks like it's vibrating from the roar, 
+Tamil text "குட்டி சிங்கம்" in large warm-gold letters. Color palette: golden amber, jungle green, 
+warm saffron, sunlight gold. Lighting: warm dappled jungle sunlight, golden backlight on the lion 
+making his fur glow, bright and inviting. Style: Pixar 3D animation quality, warm vibrant colors, 
+kids-safe, heroic energy. 16:9 aspect ratio, 4K YouTube thumbnail resolution.
+```
+
 ---
 
 ## 📅 PART 6 — UPLOAD STRATEGY

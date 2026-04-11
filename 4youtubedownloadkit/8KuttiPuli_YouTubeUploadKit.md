@@ -203,7 +203,30 @@ brave kids song tamil
 - [ ] Tiny fireflies around the tiger for magic visual
 - [ ] Kurangan with wide shocked eyes in dark corner
 - [ ] Colours: Deep indigo night + glowing orange + gold moonlight
-- [ ] ⚠️ Dark thumbnail is DIFFERENT from all other bright Tamil kids songs = scroll-stopping
+- [ ] 🌙 Dark thumbnail is DIFFERENT from all other bright Tamil kids songs = scroll-stopping
+
+### 🎨 Thumbnail Image Generation Prompt
+> ✅ **Copy-paste into Midjourney, DALL-E 3, Adobe Firefly, or any AI image generator.**
+
+```
+3D Pixar-style animated YouTube thumbnail, Tamil kids song about a baby tiger at night.
+Main character center-frame: Kutti Puli — a small, fierce, beautiful baby tiger in dramatic close-up 
+against a deep indigo moonlit night, orange and black stripes glowing with an internal bioluminescent 
+warmth as if the stripes themselves emit light, bright amber-gold eyes catching the moonlight and blazing 
+with an electric intensity, tiny sharp claws extended and raised, the tip of each claw catching a 
+pinpoint of golden moonlight. Expression: playfully fierce — the most intense baby tiger face, 
+eyes alive with jungle night energy. Background: deep indigo-violet night jungle, a large full moon 
+visible in the top corner casting silver light through dark jungle leaves, fireflies drifting as tiny 
+gold sparks against the darkness, a distant temple silhouette visible. Right corner: Kurangan — 
+the monkey visible in the darkness with TWO enormous glowing white eyes in the shadows, expressing 
+maximum terrified shock. Bold text overlay: "GRRR! 🐯" in thick bold glowing orange-fire letters 
+that appear lit from within, casting orange light on the surrounding dark space, Tamil text "குட்டி புலி" 
+in vivid electric-orange letters. Color palette: deep indigo night, glowing orange, gold moonlight, 
+electric amber. Lighting: dramatic moonlit night, tiger stripes glowing with warm internal light, 
+firefly gold sparks. Style: Pixar 3D animation quality, dramatic high-contrast dark-and-orange palette, 
+unlike any other bright Tamil kids thumbnail — this thumbnail is DARK AND GLOWING. Kids-safe, 
+thrilling not scary. 16:9 aspect ratio, 4K YouTube thumbnail resolution.
+```
 
 ---
 

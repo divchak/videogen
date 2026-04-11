@@ -190,6 +190,26 @@ jalebi jalebi song,
 - [ ] Font: Bold, thick, rounded (kids safe)
 - [ ] Test at small size (mobile) — spiral shape must pop
 
+### 🎨 Thumbnail Image Generation Prompt
+> ✅ **Copy-paste into Midjourney, DALL-E 3, Adobe Firefly, or any AI image generator.**
+
+```
+3D Pixar-style animated YouTube thumbnail, Tamil kids song about Jilebi (Indian spiral sweet).
+Main character center-frame: Jilebi — a brilliantly glowing saffron-orange spiral sweet character 
+in mid-spin, radiating golden syrup light, enormous round sparkling cartoon eyes catching the sweet 
+shop light, syrup drops flying outward in slow-motion golden arcs from every curve of her spiral body. 
+Expression: spinning joy, the sweetest face imaginable, one glossy syrup droplet balancing perfectly 
+on her tip before falling. Background: a warm Tamil sweet shop interior, brass pots and golden sweets 
+visible, Thaatha (the loving grandpa shopkeeper) visible warmly in the background. Left corner: 
+Vellam Velu — a small round jaggery block character completely stuck in a golden syrup puddle, arms 
+and legs flailing comically, expression of maximum sticky distress. Bold text overlay: "சொட்டு சொட்டு! 🍭" 
+in thick golden-yellow cartoon letters with a syrup-drip texture on each letter, Tamil text "ஜிலேபி ஜிலேபி" 
+in large bright saffron letters. Color palette: deep saffron-orange, hot golden-yellow, rose-pink syrup, 
+warm cream. Lighting: warm sweet shop golden glow, caramel-light backlit syrup drops catching light 
+like amber gems. Style: Pixar 3D animation quality, high-saturation warmth, irresistibly sweet visual 
+atmosphere, kids-safe, bright. 16:9 aspect ratio, 4K YouTube thumbnail resolution.
+```
+
 ---
 
 ## 📅 PART 6 — UPLOAD STRATEGY

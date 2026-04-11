@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Bilingual + Rain + Colour Hook)
 ```
-Mayil Kutty | Baby Peacock Tamil Song |மயில் குட்டி கே யோ யோ மயில் 🦚🌈 |  Spread Your Wings!
+மயில் குட்டி கே யோ யோ மயில் 🦚🌈 | Mayil Kutty | Baby Peacock Tamil Song | Spread Your Wings!
 ```
 
 ### 🥈 Option 2 — Gift & Self-Belief Focus
@@ -110,11 +110,11 @@ Then the RAIN comes — and EVERYTHING changes! 🌧️🌈
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE FULL ANIMAL SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ Episode 1 — குட்டி சிங்கம் (Kutti Singam — Baby Lion) → https://youtu.be/aMU8yECM5FQ
-▶️ Episode 2 — குட்டி யானை (Kutti Yaanai — Baby Elephant) → https://youtu.be/RapwiYRBq5g
-▶️ Episode 3 — குட்டி புலி (Kutti Puli — Baby Tiger) → https://youtu.be/oExb3IjFxnw
-▶️ All Tamil Animal Songs Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
-▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
+▶️ Episode 1 — குட்டி சிங்கம் (Kutti Singam — Baby Lion) → [LINK]
+▶️ Episode 2 — குட்டி யானை (Kutti Yaanai — Baby Elephant) → [LINK]
+▶️ Episode 3 — குட்டி புலி (Kutti Puli — Baby Tiger) → [LINK]
+▶️ All Tamil Animal Songs Playlist → [LINK]
+▶️ Subscribe → [CHANNEL LINK]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new animal song every month!
@@ -214,6 +214,30 @@ your gift will shine tamil
 - [ ] Thavalai Kutty leaping with joy somewhere visible
 - [ ] Colours: Deep turquoise, bright gold, vivid green, indigo — full peacock spectrum
 - [ ] ⚠️ Feather spread thumbnail = most visually unique thumbnail in the ENTIRE series = maximum scroll-stop
+
+### 🎨 Thumbnail Image Generation Prompt
+> ✅ **Copy-paste into Midjourney, DALL-E 3, Adobe Firefly, or any AI image generator.**
+
+```
+3D Pixar-style animated YouTube thumbnail, Tamil kids song about a baby peacock in the rain.
+Main character center-frame: Mayil Kutty — a small, exquisitely beautiful baby peacock in the most 
+spectacular full feather-spread pose, all tail feathers fanned outward to their absolute maximum in a 
+perfect crown arc, each feather eye catching raindrops and refracting them into tiny prismatic rainbows, 
+the vivid teal-blue-green feather colors intensified by the rain to their most saturated state, 
+enormous joyful round eyes catching the rain-light and sparkling, beak open in the KE-YOW call with 
+visible joy radiating from every feather. Expression: pure transcendent joy — this is the moment 
+her gift is finally revealed. Background: a Tamil forest floor in heavy tropical rain, rain-lit green 
+leaves creating a rich emerald backdrop, individual raindrops catching light as they fall through 
+the feather canopy, a rainbow forming in the misted background light. Left corner: Kili Rajan — 
+the vain green parrot with beak dropped completely open in stunned disbelief, one wing raised to 
+his cheek in comic shock. Right corner: Thavalai Kutty — the small frog leaping upward in joyful 
+celebration, both tiny frog arms raised. Bold text overlay: "KE-YOW! 🦚" in thick bold turquoise-gold 
+letters with a rainbow shimmer on each letter, Tamil text "மயில் குட்டி" in vivid peacock-turquoise 
+letters. Color palette: deep turquoise, iridescent teal-green, rain-silver, vivid gold feather eyes, 
+emerald forest. Lighting: rain-diffused forest light creating prismatic rainbow sparkle on every 
+wet feather surface. Style: Pixar 3D animation quality, the most spectacular feather visual in Tamil 
+kids content, breathtaking rainbow-tropical atmosphere. 16:9 aspect ratio, 4K YouTube thumbnail resolution.
+```
 
 ---
 

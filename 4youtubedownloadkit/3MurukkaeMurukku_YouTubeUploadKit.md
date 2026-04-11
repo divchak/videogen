@@ -197,6 +197,25 @@ kids dance song tamil
 - [ ] Font: Bold, thick, rounded (kids safe)
 - [ ] Test at small size (mobile) — spiral shape must be clear
 
+### 🎨 Thumbnail Image Generation Prompt
+> ✅ **Copy-paste into Midjourney, DALL-E 3, Adobe Firefly, or any AI image generator.**
+
+```
+3D Pixar-style animated YouTube thumbnail, Tamil kids song about Murukku (crispy Indian spiral snack).
+Main character center-frame: Murukku Mama — a large anthropomorphized golden-brown crispy spiral murukku 
+character with enormous joyful round cartoon eyes, mouth wide open in the middle of a giant CRUNCH bite, 
+crumbs flying outward in a comic explosion, both arms raised in pure snack-joy. Expression: maximum 
+comic delight, the happiest crunch face ever. Background: warm saffron-golden Tamil kitchen backdrop 
+with spiral murukku decorative patterns, a glowing wooden plate stacked with fresh golden murukku visible 
+behind him. Right corner: Sambar Saami — a small round sambar pot character with wide shocked-hungry 
+cartoon eyes and a cartoonish drool, staring at the murukku with maximum longing. Bold text overlay: 
+"MORA MORA! 🥨" in thick crispy-brown cartoon font with a golden outline, Tamil text "முறுக்கு முறுக்கு" 
+in large warm-saffron letters above. Color palette: warm golden-yellow, deep crispy brown, saffron orange, 
+cream white. Lighting: warm inviting kitchen golden glow, soft backlight on murukku making it look 
+irresistibly crunchy. Style: Pixar 3D animation quality, bright, warm, kids-safe, high saturation, 
+no dark elements. 16:9 aspect ratio, 4K YouTube thumbnail resolution.
+```
+
 ---
 
 ## 📅 PART 6 — UPLOAD STRATEGY

@@ -202,6 +202,30 @@ tamil kavacham animation
 - [ ] Sacred, majestic — NO cartoonish elements
 - [ ] Test at small size — Murugan's face and vel must be recognizable
 
+### 🎨 Thumbnail Image Generation Prompt
+> ✅ **Copy-paste into Midjourney, DALL-E 3, Adobe Firefly, or any AI image generator.**
+
+```
+3D Pixar-style cinematic animated YouTube thumbnail, Tamil devotional song — Skandha Shashti Kavasam 
+for children. Main character center-frame: Lord Murugan — a magnificent 3D animated divine form, 
+youthful and radiant, standing in a heroic pose with the Vel (divine spear) raised in the right hand 
+pointing upward, left hand in a blessing gesture, wearing vivid saffron-gold silk dhoti with intricate 
+golden border, traditional Tamil pearl and gold ornaments — ear studs, necklaces, armlets — peacock 
+feather crown on head, the peacock Mayil visible on the left side in brilliant teal-green-gold plumage, 
+the Valampuri white conch in background. His expression: serene, powerful, divine, protective — the 
+specific expression of a deity who is also a beloved protector of children. Background: the majestic 
+Tiruchendur temple gopuram tower at golden dawn, the Bay of Bengal visible behind it in deep indigo-gold, 
+the sky transitioning from deep blue to divine rose-gold dawn light, oil lamps and camphor flames in 
+rows creating a warm sacred glow along the temple steps. Divine light rays emanating from Lord Murugan 
+in warm gold-white, the entire scene bathed in sacred golden morning light. Bold text overlay: 
+"ஸ்கந்த ஷஷ்டி கவசம்" in large sacred gold Tamil letters with a divine glow, English subtitle 
+"ANIMATED 4K | FIRST EVER" in smaller gold badge text. Color palette: deep saffron, sacred gold, 
+divine ivory-white, Tiruchendur dawn blue. Lighting: sacred golden dawn light, divine radiance from 
+the Vel, temple lamp warm glow. Style: high-quality 3D animation, majestic not cartoonish, sacred 
+and accessible to children, culturally reverent. No comic elements. 16:9 aspect ratio, 4K YouTube 
+thumbnail resolution.
+```
+
 ---
 
 ## 📅 PART 6 — UPLOAD STRATEGY
