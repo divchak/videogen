@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Spin-off Hook + Comedy Sound + Action)
 ```
-குட்டி கொரங்கு ஊ ஆ கொரங்கு 🐒 | Kutti Korangu | Baby Monkey Tamil Song | CRASH Along!
+Kutti Korangu | Baby Monkey Tamil Song |குட்டி கொரங்கு ஊ ஆ கொரங்கு 🐒 |  CRASH Along!
 ```
 
 ### 🥈 Option 2 — Comedy + Sharing Focus
@@ -115,10 +115,10 @@ wisdom in the jungle — will Kurangan listen? 🤔
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH MORE — THE KUTTI SINGAM UNIVERSE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ Episode 1 — குட்டி சிங்கம் (Kutti Singam — Baby Lion) → [LINK]
+▶️ Episode 1 — குட்டி சிங்கம் (Kutti Singam — Baby Lion) → https://youtu.be/aMU8yECM5FQ
 ▶️ Episode 2 — குட்டி யானை (Kutti Yaanai — Baby Elephant) → https://youtu.be/RapwiYRBq5g
 ▶️ All Tamil Kids Songs Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
-▶️ Subscribe → https://www.youtube.com/channel/UCaWY97J3rfctU-nEBIw_D7g
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new Tamil kids song every week!
