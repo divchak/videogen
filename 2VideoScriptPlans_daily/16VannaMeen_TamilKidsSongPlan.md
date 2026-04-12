@@ -376,7 +376,7 @@ right of frame — Vanna Meen appearing, swimming directly toward
 the camera, the most vivid colored fish imaginable in these warm 
 coastal waters, she stops in front of the camera and produces one 
 perfect bubble which floats upward in slow motion — BLOOP!, bold 
-3D Tamil text 'வண்ண மீன்' materialising from the ascending bubble 
+3D English text 'Color Fish' materialising from the ascending bubble 
 trail in brilliant bioluminescent letters — each letter a different 
 fish-scale color, English 'Vanna Meen' below in rounded ocean-blue 
 font with a bubble texture, ultra cinematic warm underwater 
@@ -520,16 +520,16 @@ transition, 8K
 3D Pixar animation underwater educational counting sequence, a 
 warm tropical ocean gradient background — clear blue-teal water 
 with light shafts and drifting bioluminescent particles, bold 
-Tamil numeral 'ஒன்று' (1) materialising in the ocean water in 
+English numeral 'One' (1) materialising in the ocean water in 
 brilliant deep red with a coral texture — as if carved from 
 living red coral, simultaneously ONE red coral bloom erupting 
 open below it in real-time with a satisfying underwater bloom 
 animation, a red BLOOP bubble drifting upward, Vanna Meen doing 
 one BLOOP and a single red stripe appearing on her scales, then 
-'இரண்டு' (2) in warm golden yellow with a sea anemone petal 
+'Two' (2) in warm golden yellow with a sea anemone petal 
 texture, TWO yellow sea anemones opening their flower-like forms, 
 yellow BLOOP bubbles rising, Vanna Meen gaining yellow, then 
-'மூன்று' (3) in vivid royal blue with a sea fan branching texture, 
+'Three' (3) in vivid royal blue with a sea fan branching texture, 
 THREE graceful sea fans spreading their blue branches, blue BLOOP 
 bubbles, Vanna Meen visibly becoming more colorful with each 
 addition, the accumulating color stripes beginning to make her 
@@ -547,11 +547,11 @@ Pixar quality, 8K
 
 **🎬 Scene Prompt:**
 ```
-3D Pixar animation underwater counting color climax, bold Tamil 
-numeral 'நான்கு' (4) in vivid emerald sea-glass green, FOUR 
+3D Pixar animation underwater counting color climax, bold English 
+numeral 'Four' (4) in vivid emerald sea-glass green, FOUR 
 graceful sea grass fronds waving in perfect synchrony releasing 
 streams of tiny green bubbles, Vanna Meen's scales gaining a 
-green shimmer layer, then 'ஐந்து' (5) in vivid purple sea-urchin 
+green shimmer layer, then 'Five' (5) in vivid purple sea-urchin 
 texture, FIVE purple starfish opening their arms simultaneously 
 in a slow radial bloom, purple BLOOP bubbles floating, then the 
 spectacular culmination: all five color bubble-streams — red, 
@@ -779,11 +779,11 @@ in Tamil kids animation, then Vanna Meen turning to face the
 camera directly in close-up, her glowing scales at maximum, 
 her enormous warm amber-gold eyes catching every color of the 
 world behind her, one gentle BLOOP from her that sends a small 
-rainbow bubble directly toward the camera, Tamil text 'நீயும் 
-துணிந்து நீந்து!' materialising in bioluminescent rainbow 
+rainbow bubble directly toward the camera, English text 'You 
+Too Swim!' materialising in bioluminescent rainbow 
 letters around her, 'BLOOP!' below it pulsing in the same 
 warm light, the entire ocean behind her in full bioluminescent 
-glory, the bold Tamil title 'வண்ண மீன்' blazing above in 
+glory, the bold English title 'Color Fish' blazing above in 
 liquid ocean-light letters, epic cinematic pull-back revealing 
 the full magnificent deep world, maximum Pixar bioluminescent 
 visual peak, the most otherworldly beautiful scene in Tamil 

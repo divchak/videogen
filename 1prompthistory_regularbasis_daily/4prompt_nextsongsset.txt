@@ -1,0 +1,35 @@
+1) I am done with preparing youtube kids songs as mentioned in plan. I am planning to create next set of songs for my tamil kids youtube channel.
+Deep Analyse the current theme of kids songs which are massive hit. Based on the analyis, Can you create a list of next set of themes for songs which would be massive hit among kids. Also create document similar to this document.
+
+
+
+2)
+a)  Go through next set of songs mentioned in 
+
+C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\plans\17_NextThemeSeries_TamilKidsSongsRoadmap.md
+
+b) Similar to plans mentioned in: C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\plans
+
+Create similar song plans for each of the songs mentioned under section: ## 🏆 TOP 10 NEW THEME IDEAS — Ranked by Hit Potential C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\plans\17_NextThemeSeries_TamilKidsSongsRoadmap.md
+
+c) THe document template should be similar to : 5KuttiSingam_TamilKidsSongPlan.md 
+d) Ensure that following are met:
+1) Script
+2) Explanation of characters and character image prompts
+3) Scene prompts
+Musical prompts It should capture kids attention and should be colourful 3D animation pixar style video Let the output be captured in a document
+4) Lyrics or video content should not contain tamil letter ழ "zha"
+(Avoid using the tamil word contain letter "ழ்" or "ழ" in lyrics it is not recognized by suno ai properly. change plan accordingly)
+5) No moderated content in prompt
+6) The song should be catchy and easy to sing along for kids. It should
+have elements of emotion, comedy, educational content.
+7) I am planning to create music/song using suno ai. so can you categorize further details on this song: a) Lyrics b) Styles to be included and styles to be excluded c) Instruments to be used d) Vocal - Type of vocal, male or female or both. If both who needs to sing what part Update all these in this document
+8) Each scene should be of 10 seconds. Hence plan the number of scenes with each 10 seconds
+9) At the end create Youtube upload kit for this song similar to: C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\youtubeuploadkits\5KuttiSingam_YouTubeUploadKit.md
+
+
+
+
+
+
+

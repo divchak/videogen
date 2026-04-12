@@ -9,7 +9,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (AMMAAAA Hook + Pongal + Festival MOO Challenge)
 ```
-குட்டி மாடு AMMAAAA மாடு 🐄🎊 | Kutti Maadu | Pongal Baby Cow Tamil Song | MOO Along!
+Cheerful Baby Cow Tamil Song |குட்டி மாடு AMMAAAA மாடு 🐄🎊 | Kutti Maadu |  MOO Along!
 ```
 
 ### 🥈 Option 2 — Home + Grandmother Emotional Focus
@@ -128,14 +128,14 @@ AMMAAAA! பொங்கல்! 🐄🎊
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH MORE — THE TAMIL KIDS ANIMAL SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ குட்டி சிங்கம் (Kutti Singam — Baby Lion — COURAGE) → [LINK]
-▶️ குட்டி கொரங்கு (Kutti Korangu — Baby Monkey — SHARING) → [LINK]
-▶️ முயல் குட்டி (Muyal Kutty — Baby Rabbit — FOCUS) → [LINK]
-▶️ முதலை மாமா (Muthalai Mama — Crocodile — KINDNESS) → [LINK]
-▶️ வண்ண பட்டாம்பூச்சி (Vanna Pattaambuchi — Butterfly — BELIEVE IN YOURSELF) → [LINK]
+▶️ குட்டி சிங்கம் (Kutti Singam — Baby Lion — COURAGE) → https://youtu.be/aMU8yECM5FQ
+▶️ குட்டி கொரங்கு (Kutti Korangu — Baby Monkey — SHARING) → https://youtu.be/wYSZ5h_Vr1o
+▶️ முயல் குட்டி (Muyal Kutty — Baby Rabbit — FOCUS) → https://youtu.be/elq9skYTx9g
+▶️ முதலை மாமா (Muthalai Mama — Crocodile — KINDNESS) → https://youtu.be/2dW7JkVSYcw
+▶️ வண்ண பட்டாம்பூச்சி (Vanna Pattaambuchi — Butterfly — BELIEVE IN YOURSELF) → https://youtu.be/p1L9hlapcRM
 ▶️ குட்டி யானை (Kutti Yaanai — Baby Elephant) → https://youtu.be/RapwiYRBq5g
 ▶️ All Tamil Kids Songs Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
-▶️ Subscribe → https://www.youtube.com/channel/UCaWY97J3rfctU-nEBIw_D7g
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe for new Tamil kids songs every week!

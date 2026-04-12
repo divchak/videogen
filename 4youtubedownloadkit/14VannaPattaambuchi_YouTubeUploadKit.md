@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (FLUTTER Hook + Transformation Tease + Cultural)
 ```
-வண்ண பட்டாம்பூச்சி FLUTTER WOW 🦋 | Vanna Pattaambuchi | Butterfly Tamil Song | FLUTTER Along!
+Self-Belief Butterfly Tamil Song | வண்ண பட்டாம்பூச்சி FLUTTER WOW 🦋 | Vanna Pattaambuchi | FLUTTER Along!
 ```
 
 ### 🥈 Option 2 — Transformation + Emotional Parent Trigger
@@ -132,13 +132,13 @@ WOW! WOW! வண்ண சிறகுகள்! 🦋🌈
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH MORE — THE TAMIL KIDS ANIMAL SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ குட்டி சிங்கம் (Kutti Singam — Baby Lion — COURAGE) → [LINK]
-▶️ குட்டி கொரங்கு (Kutti Korangu — Baby Monkey — SHARING) → [LINK]
-▶️ முயல் குட்டி (Muyal Kutty — Baby Rabbit — FOCUS) → [LINK]
-▶️ முதலை மாமா (Muthalai Mama — Crocodile — DON'T JUDGE) → [LINK]
+▶️ குட்டி சிங்கம் (Kutti Singam — Baby Lion — COURAGE) → https://youtu.be/aMU8yECM5FQ
+▶️ குட்டி கொரங்கு (Kutti Korangu — Baby Monkey — SHARING) → https://youtu.be/wYSZ5h_Vr1o
+▶️ முயல் குட்டி (Muyal Kutty — Baby Rabbit — FOCUS) → https://youtu.be/elq9skYTx9g
+▶️ முதலை மாமா (Muthalai Mama — Crocodile — DON'T JUDGE) → https://youtu.be/2dW7JkVSYcw
 ▶️ குட்டி யானை (Kutti Yaanai — Baby Elephant) → https://youtu.be/RapwiYRBq5g
 ▶️ All Tamil Kids Songs Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
-▶️ Subscribe → https://www.youtube.com/channel/UCaWY97J3rfctU-nEBIw_D7g
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new Tamil kids song every week!

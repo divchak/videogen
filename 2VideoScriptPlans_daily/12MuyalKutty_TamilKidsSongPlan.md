@@ -366,7 +366,7 @@ moonlight outlining every aerial root in sharp silver-white, the
 moonlight slowly arriving at the forest floor to illuminate a patch 
 of soft silver-white moss, camera slow push-in to the silver moss 
 where two enormous sapphire-blue eyes suddenly blink open catching 
-full moonlight, bold 3D Tamil text 'முயல் குட்டி' materialises in 
+full moonlight, bold 3D English text 'BABY RABBIT' materialises in 
 silver-white moonbeam letters with firefly particles drifting through 
 them, English 'Muyal Kutty' below in soft rounded dreamlike font, 
 ultra cinematic silver-blue moonlit color palette, deepest Pixar 
@@ -505,15 +505,15 @@ maximum warm Pixar comedy quality, 8K
 ```
 3D Pixar animation moonlit educational counting sequence, deep blue-
 silver gradient night sky background with scattered star clusters and 
-a soft glowing moon above, large bold Tamil numeral 'ஒன்று' (1) 
+a soft glowing moon above, large bold English numeral 'One' (1) 
 materialising from moonlight particles in a silver-white glow with 
 soft sparkling animation, Muyal Kutty doing ONE deliberate focused 
 hop below it — perfectly controlled, nose forward, ears back in a 
 streamlined shape, one glowing silver paw-print appearing on the 
-moonlit grass where she landed, then 'இரண்டு' (2) in warm soft gold, 
+moonlit grass where she landed, then 'Two' (2) in warm soft gold, 
 TWO controlled hops and two golden paw-prints in a line, then 
-'மூன்று' (3) in soft mint-green, THREE hops and three soft green 
-prints forming a hop-trail, then 'நான்கு' (4) in soft pale lavender, 
+'Three' (3) in soft mint-green, THREE hops and three soft green 
+prints forming a hop-trail, then 'Four' (4) in soft pale lavender, 
 FOUR hops and a growing beautiful trail of mixed glowing paw-prints 
 in silver-gold-green-lavender, Aamai at the left side of frame very 
 slowly and ceremonially lifting one foot per number — currently 
@@ -532,7 +532,7 @@ magical educational Pixar quality, 8K
 **🎬 Scene Prompt:**
 ```
 3D Pixar animation educational counting comedy climax, continuing 
-from the counting sequence, bold Tamil numeral 'ஐந்து' (5) materialising 
+from the counting sequence, bold English numeral 'Five' (5) materialising 
 in brilliant silver-white with maximum fanfare and sparkle, Muyal 
 Kutty approaching the fifth hop with building theatrical confidence — 
 a visible extra flourish mid-air spinning pirouette that is genuinely 
@@ -541,7 +541,7 @@ gasps in admiration — then the landing: both front paws crossing over
 each other in what appears to be a deliberate artistic choice but is 
 clearly a mistake, time slowing in dramatic ultra-slow-motion as the 
 forward tilt begins, the THUD unfolding in seven distinct stages of 
-comic slow-motion, 'ஐந்து?' text appearing mid-fall with a question 
+comic slow-motion, 'Five?' text appearing mid-fall with a question 
 mark, then 'THUD!' on landing, then silence, then Muyal Kutty looking 
 down at her own two front paws which are wrapped around each other 
 like a pretzel, examining them with forensic curiosity then glaring 
@@ -739,13 +739,13 @@ forward to break the fourth wall — looking directly into the camera
 with the most inviting warm confidence, closing her eyes, taking 
 ONE visible breath, opening them — the silver-blue glow at full 
 intensity, raising one small white paw and pointing at the viewer, 
-Tamil text 'நீயும் மெல்ல HOP பண்ணு!' materialising in pure silver 
+English text 'You also hop softly!' materialising in pure silver 
 moonlight letters around her pointing paw with fireflies drifting 
 through each letter, Nilaa Amma sending one final warm focused beam 
 downward that encircles all characters in a glowing ring, fireflies 
 arranging overhead into a constellation crown, the pond in the 
 background reflecting the entire magical scene perfectly, bold 
-silver title 'முயல் குட்டி' blazing above in moonbeam letters, 
+silver title 'Baby Rabbit' blazing above in moonbeam letters, 
 epic cinematic pull-back, ultra Pixar celestial magic quality, 
 deepest silver-blue-gold moonlit color grade, 8K unforgettable finale
 ```

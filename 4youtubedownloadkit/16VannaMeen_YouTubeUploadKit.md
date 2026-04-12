@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Bilingual + BLOOP Hook + Participation)
 ```
-வண்ண மீன் BLOOP BLOOP மீன் 🐠 | Vanna Meen | Colorful Fish Tamil Song | BLOOP Along!
+Colorful Fish Tamil Song | வண்ண மீன் BLOOP BLOOP மீன் 🐠 | Vanna Meen |  BLOOP Along!
 ```
 
 ### 🥈 Option 2 — Courage / Discovery Focus
@@ -129,12 +129,12 @@ BLOOP! BLOOP! BLOOP! 🐠
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH MORE — THE ANIMAL SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ Episode 1 — குட்டி சிங்கம் (Kutti Singam — Baby Lion) → [LINK]
-▶️ Episode 2 — குட்டி யானை (Kutti Yaanai — Baby Elephant) → [LINK]
-▶️ Episode 3 — குட்டி புலி (Kutti Puli — Baby Tiger) → [LINK]
-▶️ Episode 4 — மயில் குட்டி (Mayil Kutty — Baby Peacock) → [LINK]
-▶️ All Tamil Kids Songs Playlist → [LINK]
-▶️ Subscribe → [CHANNEL LINK]
+▶️ Episode 1 — குட்டி சிங்கம் (Kutti Singam — Baby Lion) → https://youtu.be/zbC7ed-KijE
+▶️ Episode 2 — குட்டி யானை (Kutti Yaanai — Baby Elephant) → https://youtu.be/RapwiYRBq5g
+▶️ Episode 3 — குட்டி புலி (Kutti Puli — Baby Tiger) → https://youtu.be/oExb3IjFxnw
+▶️ Episode 4 — மயில் குட்டி (Mayil Kutty — Baby Peacock) → https://youtu.be/n3BU6AhCX28
+▶️ All Tamil Kids Songs Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new Tamil kids song every week!

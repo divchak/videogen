@@ -398,7 +398,7 @@ group dynamic quality, 8K resolution
 **🎬 Scene Prompt:**
 ```
 3D Pixar animation breathtaking golden garden morning opening, an 
-exquisite Tamil garden at sunrise, every surface catching the first 
+exquisite garden at sunrise, every surface catching the first 
 warm golden rays — dew on every spider web strand creating a lattice 
 of tiny diamonds, flower buds opening in real-time petal by petal 
 — roses, jasmine, marigolds, chrysanthemums — each with a soft 
@@ -413,11 +413,11 @@ until two enormous warm amber-brown eyes fill the frame and blink
 open with morning gentleness, Paappu stretches in a tiny endearing 
 caterpillar stretch — front segments reaching forward, then the 
 whole body extending, she looks up toward the butterfly high above 
-with a quietly wondering expression, 3D Tamil title text 'வண்ண 
-பட்டாம்பூச்சி' materialises from the butterfly's wing trail in 
+with a quietly wondering expression, 3D English title text ' Butterfly' 
+materialises from the butterfly's wing trail in 
 the most vivid rainbow letters — red to orange to yellow to green 
 to blue to violet — with light-mote particles drifting through each 
-letter, English subtitle 'Vanna Pattaambuchi' below in rounded 
+letter, English subtitle 'Pattaambuchi' below in rounded 
 dreamlike rainbow font, ultra warm Pixar garden morning quality, 
 golden-green-rainbow color palette, 8K
 ```
@@ -557,18 +557,18 @@ deepest Pixar maternal-warmth quality, 8K
 ```
 3D Pixar animation vibrant rainbow educational counting sequence, 
 lush garden gradient background with soft morning sky and flower 
-silhouettes, bold Tamil numeral 'ஒன்று' (1) materialising in the 
+silhouettes, bold English numeral 'One' (1) materialising in the 
 most brilliant deep crimson-red with a warm glow as if the numeral 
 itself is made of rose petals, a single red hibiscus below it 
 opening dramatically in real-time — its petals unfurling outward 
 — releasing a burst of crimson FLUTTER light, Thumpi immediately 
 covered in red hibiscus pollen glow looking proudly red, Paappu 
 doing her tiny caterpillar FLUTTER below with all front legs raised, 
-then 'இரண்டு' (2) in vivid pure sunshine yellow with a sunflower 
+then 'Two' (2) in vivid pure sunshine yellow with a sunflower 
 petal texture, two large sunflowers opening simultaneously turning 
 to face the viewer, yellow FLUTTER light burst, Thumpi adding 
 yellow to his red glow — becoming orange — looking delighted, 
-then 'மூன்று' (3) in the richest royal blue with a morning glory 
+then 'Three' (3) in the richest royal blue with a morning glory 
 texture, three blue morning glories spiraling open, blue FLUTTER 
 light, all three color-light bands beginning to accumulate across 
 the bottom of the frame creating the first three stripes of a 
@@ -585,12 +585,12 @@ growing colors, arms raised, maximum Pixar rainbow educational joy, 8K
 
 **🎬 Scene Prompt:**
 ```
-3D Pixar animation educational counting rainbow climax, bold Tamil 
-numeral 'நான்கு' (4) in vivid emerald green with a vine-tendril 
+3D Pixar animation educational counting rainbow climax, bold English 
+numeral 'Four' (4) in vivid emerald green with a vine-tendril 
 texture, green passion flower vines spiraling open releasing green 
 FLUTTER light, Thumpi now a glowing four-color creature — red-
 yellow-blue-green — looking like the happiest rainbow being alive, 
-then 'ஐந்து' (5) in the richest royal violet-purple with a violet 
+then 'Five' (5) in the richest royal violet-purple with a violet 
 petal texture, five delicate violet flowers opening in a coordinated 
 burst releasing the final violet FLUTTER light, then the spectacular 
 moment: all five color-light streams — crimson, yellow, blue, 
@@ -705,7 +705,7 @@ the first like a spiderweb of light, each crack releasing a
 new jet of vivid color — crimson here, gold there, blue from 
 another crack, green from another — then the moment: the cocoon 
 SHATTERS from inside outward in the most spectacular slow-motion 
-explosion of colored light in Tamil animation history — silk 
+explosion of colored light in  animation history — silk 
 fragments flying outward in arcs trailing rainbow light, a color 
 shockwave expanding outward across the entire garden making every 
 flower, every leaf, every dewdrop flash in rainbow sequence from 
@@ -747,8 +747,8 @@ ant formation: every single ant simultaneously stopped mid-step,
 all their antennae pointing at exactly the same angle toward the 
 butterfly above, a moment of collective wonder, Shot 5 — the 
 sunflower children cluster, one of them leaning toward another 
-and whispering with enormous round eyes: the Tamil text '...இது 
-பாப்பு...' appearing as a gentle speech bubble in wonder, then 
+and whispering with enormous round eyes: the English text 'this is  
+Paappu...' appearing as a gentle speech bubble in wonder, then 
 a wide shot of the butterfly above them all hovering in the 
 rainbow light, wings full, smiling Paappu's familiar gentle smile — 
 unchanged, just more herself — looking down at them all with the 
@@ -818,15 +818,15 @@ profoundly warm and inviting expression — Paappu's eyes in the
 butterfly's face — looking at the viewer not from above but as 
 an equal, she spreads her wings to their absolute maximum possible 
 extension — a rainbow that fills the entire screen — takes ONE 
-visible gentle breath, Tamil text 'நீயும் ஒரு பட்டாம்பூச்சி!' 
+visible gentle breath, English text 'You, too, are a butterfly!' 
 materialising from her wing-light in the most vivid rainbow letters 
-ever rendered in Tamil kids animation, 'FLUTTER!' below it with 
+ever rendered in  kids animation, 'FLUTTER!' below it with 
 a cascading rainbow wing-beat animation, fireworks of garden 
 petals exploding upward in every color, confetti of rose petals 
 and marigold petals and jasmine flowers raining in slow motion, 
 the garden pond in the background reflecting the entire finale 
-scene in perfect rainbow colors, bold Tamil title 'வண்ண 
-பட்டாம்பூச்சி' blazing above in liquid rainbow letters, 
+scene in perfect rainbow colors, bold English title ' 
+Butterfly' blazing above in liquid rainbow letters, 
 Thumpi somewhere behind the butterfly quietly crying the happiest 
 tears of his life, Roja Amma's petals trembling with the fullness 
 of a promise kept, epic cinematic pull-back revealing the full 

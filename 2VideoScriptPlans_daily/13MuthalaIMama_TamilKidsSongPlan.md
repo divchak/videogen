@@ -324,7 +324,7 @@ the water surface in ultra-slow motion, catching and refracting the
 golden dawn light, the eyes blink once slowly and warmly like the 
 most welcoming greeting imaginable, a wide natural smile appearing 
 below the water line, then the SNAP! in golden river splash slow-
-motion, bold 3D Tamil text 'முதலை மாமா' blazing into frame in warm 
+motion, bold 3D English text 'Uncle Crocodile' blazing into frame in warm 
 golden-amber river-light letters with lotus petal particles floating 
 through them, English 'Muthalai Mama' below, ultra cinematic 
 gold-blue river dawn palette, Pixar quality 8K
@@ -465,16 +465,16 @@ heartwarming quiet-tenderness quality, 8K
 ```
 3D Pixar animation golden river educational counting sequence, warm 
 golden-amber river gradient background with gentle river ripples 
-and lily pad silhouettes, large bold Tamil numeral 'ஒன்று' (1) 
+and lily pad silhouettes, large bold English numeral 'ONE' (1) 
 materialising from river-light particles in a warm pink-gold, 
 one perfect pink lotus flower unfurling to full bloom below it 
 with Muthalai Mama doing ONE perfectly timed SNAP beside it — 
-golden ring expanding across the water on the beat, then 'இரண்டு' 
+golden ring expanding across the water on the beat, then 'TWO' 
 (2) in gleaming silver-blue, two silver fish leaping in 
 synchronised arcs from the water and landing with a satisfying 
 splash, their aerial shapes forming a perfect 2 shape for a 
 moment, Muthalai Mama's TWO SNAP response with two golden rings 
-expanding perfectly, then 'மூன்று' (3) in warm river-green, 
+expanding perfectly, then 'THREE' (3) in warm river-green, 
 three extremely round frogs doing the SNAP hand-game with their 
 front feet while very clearly trying to also be ready to flee 
 at any moment — multitasking comically, Muthalai Mama doing THREE 
@@ -493,10 +493,10 @@ quality, 8K
 **🎬 Scene Prompt:**
 ```
 3D Pixar animation educational counting comedy climax, continuing 
-from the counting sequence, bold Tamil numeral 'நான்கு' (4) in 
+from the counting sequence, bold English numeral 'FOUR' (4) in 
 vivid warm orange-gold, four ducks in a line all SNAPping their 
 orange bills simultaneously in rhythm like a tiny duck percussion 
-section, 'ஐந்து' (5) in brilliant golden-amber appearing with 
+section, 'FIVE' (5) in brilliant golden-amber appearing with 
 maximum fanfare build-up, all the previously reluctant animals 
 on the river bank visibly realising this is a moment — Kili Maami 
 closes her beak once, twice, then commits: SNAP, hedgehog uncurls 
@@ -608,7 +608,7 @@ still water, placing her on a lily pad with the care of setting
 down something infinitely precious, the river surface returning 
 to gold-mirror stillness, both of them in the sunset light, 
 Vaaththu Kutty opening her beak with the most wonder-filled 
-expression: the Tamil text 'என் மாமா!' appearing in warm golden 
+expression: the English text 'MY UNCLE!' appearing in warm golden 
 letters beside her, the river-bank animals watching in utter 
 stunned silence, this image: the most beautiful 10 seconds in 
 the Tamil kids series, full sunset color grade, maximum Pixar 
@@ -705,13 +705,13 @@ the largest golden ring of the entire film that reaches both
 banks and becomes a visible arch of golden light above the river, 
 he then turns to camera in close-up — his enormous warm amber 
 eye filling the frame — one slow, warm, deliberate wink — then 
-his wide smile, Tamil text 'நீயும் என் நண்பனே!' materialising 
+his wide smile, english text 'You too are my friend!' materialising 
 in warm golden river-light letters around his face with lotus 
 petal particles, 'SNAP!' below it in bold amber, the full sunset 
 river reflecting everything perfectly below, all characters visible 
 both above the water and in the perfect reflection below, lotus 
 flowers arranged in the perfect pattern he made that morning now 
-illuminated by the sunset, bold Tamil title 'முதலை மாமா' 
+illuminated by the sunset, bold english title 'UNCLE CROCODILE' 
 materialising above in liquid golden river letters, epic cinematic 
 pull-back, ultra Pixar quality, golden sunset river color grade 
 at maximum beauty, 8K unforgettable finale

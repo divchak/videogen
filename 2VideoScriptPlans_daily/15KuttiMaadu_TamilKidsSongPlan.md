@@ -376,8 +376,8 @@ the village coming to life with movement and warmth, then the
 camera entering a warm mud-walled barn where among the golden 
 straw two enormous honey-brown cartoon eyes blink open, Kutti 
 Maadu already decorated from last night — flower garland, bells, 
-forehead tilak — stretching awake, the bold 3D Tamil title text 
-'குட்டி மாடு' blazing into frame in festival gold with marigold 
+forehead tilak — stretching awake, the bold 3D English title text 
+'Baby Cow' blazing into frame in festival gold with marigold 
 petal particles and cowbell shimmer, English 'Kutti Maadu' below, 
 ultra warm festival Pixar quality, morning-gold-saffron color 
 palette, 8K
@@ -523,16 +523,16 @@ festival light, deepest Pixar small-character-lost quality, 8K
 ```
 3D Pixar animation Pongal educational counting sequence, warm red-
 earth Tamil village ground as the background with white rice flour 
-kolam patterns, bold Tamil numeral 'ஒன்று' (1) appearing in the 
+kolam patterns, bold English numeral 'One' (1) appearing in the 
 style of kolam white rice flour on red earth — drawn as if by 
 an invisible hand in the traditional kolam style, below it ONE 
 perfect kolam circle drawn in white with a satisfying soft chalk-
 on-earth sound, the circle briefly glowing warm amber-gold from 
 within, Kutti Maadu stepping forward and doing ONE happy AMMA! 
-with bells jingling, then 'இரண்டு' (2) drawn in kolam style, 
+with bells jingling, then 'Two' (2) drawn in kolam style, 
 TWO parallel lines drawn beneath with a second satisfying sound, 
 Kutti Maadu doing TWO bell-jingle steps with two AMMAAs, then 
-'மூன்று' (3) drawn as kolam numerals, THREE small triangles 
+'Three' (3) drawn as kolam numerals, THREE small triangles 
 appearing in kolam style, Kutti Maadu's THREE AMMAAs in sequence 
 with her bells creating their own rhythm, each new kolam shape 
 appearing to extend a path FORWARD — circle, then lines, then 
@@ -552,10 +552,10 @@ quality, 8K
 **🎬 Scene Prompt:**
 ```
 3D Pixar animation educational counting climax and trail-formation 
-moment, bold Tamil numeral 'நான்கு' (4) drawn in kolam style, 
+moment, bold English numeral 'Four' (4) drawn in kolam style, 
 FOUR star shapes appearing in kolam white on red earth with warm 
 amber inner glows, Kutti Maadu doing four AMMAAs with building 
-excitement, then 'ஐந்து' (5) with a FIVE elaborate traditional 
+excitement, then 'Five' (5) with a FIVE elaborate traditional 
 kolam pattern — the full most complex design in the sequence — 
 appearing section by section in a rapid kolam-drawing animation, 
 then the spectacular trail-revelation: all five shapes — 
@@ -568,7 +568,7 @@ the most beautiful trail in Tamil kids animation, Kutti Maadu's
 bells beginning to jingle faster as she looks at the path then 
 at Kaakka who nods once with maximum dignity, then at the 
 distant glowing doorway — her forehead tilak reflecting the 
-warm light from it, the word 'வீடு!' appearing in festival 
+warm light from it, the word 'Home!' appearing in festival 
 gold letters at the doorway, maximum Pixar trail-discovery 
 moment quality, 8K
 ```
@@ -618,8 +618,8 @@ at maximum Tamil festival beauty, 8K
 ```
 3D Pixar animation emotionally pivotal wisdom scene, the festival 
 street sounds fading slightly as the bridge's emotional tone takes 
-over, Paatti's voice audible from somewhere in the distance — "குட்டி 
-மாடே!" — Kutti Maadu's ears rotating toward the sound but unable 
+over, Paatti's voice audible from somewhere in the distance — "Kutty 
+Maadaae!" — Kutti Maadu's ears rotating toward the sound but unable 
 to identify the direction among the festival sounds, Kaakka hopping 
 close to her and positioning himself at exactly her eye level on 
 a kolam-pot rim, his head tilting with absolute intent, then 
@@ -627,7 +627,7 @@ pointing his beak in a clear directional line at the kolam
 pattern on the ground beneath them, then looking at her, then 
 pointing again, repeating: his beak tracing the kolam path 
 direction with maximum clarity, the speech bubble showing the 
-Tamil text 'கோலம் பாரு!' appearing, Kutti Maadu looking at 
+English text 'Kolam Paaru!' appearing, Kutti Maadu looking at 
 the kolam, back at Kaakka, back at the kolam — the enormous 
 honey-brown eyes processing this — then: the moment of 
 understanding crossing her face like the sun appearing from 
@@ -664,7 +664,7 @@ warmth of the hands that drew them that morning, her marigold
 garland swaying with each step, the bells creating a steady 
 building rhythm, Paatti's voice gradually clearer and more 
 distinct from the direction of the glowing doorway — 
-"குட்டி மாடே!" — Kutti Maadu's ears locking forward with 
+"Kutti Maadae!" — Kutti Maadu's ears locking forward with 
 certainty, her pace increasing from careful walk to purposeful 
 trot, the kolam light trail intensifying behind her like a 
 glowing wake, the warm doorway growing larger and brighter 
@@ -695,7 +695,7 @@ running calf-gallop, the bells on her ankles ringing at maximum
 speed, marigold garland bouncing, tilak shining, the running 
 hoof-falls on the final kolam shapes making them all light up 
 simultaneously in a glowing cascade behind her, Paatti's arms 
-closing around Kutti Maadu in the warmest full embrace — she 
+closing around Kutti Maadu — she 
 is laughing and crying simultaneously, her face buried in the 
 flower garland, then Kutti Maadu lifting her head and delivering 
 the most spectacular joyful AMMAAAA!!! of the entire song — 
@@ -773,12 +773,12 @@ wave down every kolam pattern on every street simultaneously
 creating a spectacular cascade of amber light, then Kutti Maadu 
 stepping forward to break the fourth wall — looking directly 
 into camera, her enormous honey-brown eyes at their warmest, 
-her bells giving one clear ring, Tamil text 'நீயும் வீடு திரும்பு!' 
+her bells giving one clear ring, English text 'You too Return Home!' 
 materialising in Pongal gold letters with marigold petal particles, 
 'AMMAAAA!' below it in warm orange cowbell shimmer, Paatti visible 
 behind her smiling with complete warmth, the full kolam trail 
 from Scene 10 glowing its warmest in the background — the path 
-of love — still lit, bold Tamil title 'குட்டி மாடு' blazing in 
+of love — still lit, bold English title 'Kutti Maadu' blazing in 
 festival-gold liquid letters above, epic cinematic pull-back 
 showing the entire village in Pongal celebration, the most 
 beautiful Tamil village morning ever rendered in animation, 
