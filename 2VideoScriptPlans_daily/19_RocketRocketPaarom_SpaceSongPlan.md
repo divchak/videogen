@@ -159,7 +159,7 @@
 
 **🖼️ Character Image Prompt:**
 ```
-A cute 3D Pixar-style animated Tamil girl character aged 5, warm brown skin
+A cute 3D Pixar-style animated  girl character aged 5, warm Bright complexion 
 glowing with the soft light of a thousand stars, large round expressive dark
 eyes that literally reflect tiny twinkling points of starlight giving her a
 dreamer's gaze, hair in two adorable puffs tied with gold star-shaped clips,
@@ -191,7 +191,7 @@ character design sheet
 **🖼️ Character Image Prompt:**
 ```
 A distinguished 3D Pixar-style animated elderly Tamil man character aged 65-70,
-warm dark brown skin with silver-grey hair neatly combed, a kind and wise face
+in bright complexion with silver-grey hair neatly combed, a kind and wise face
 full of gentle laugh lines and deep eyes behind round silver-rimmed spectacles,
 wearing a simple white veshti with a neatly pressed cream cotton shirt, a
 treasured old ISRO badge pinned to his chest pocket glowing faintly with warm
@@ -331,7 +331,7 @@ constellations in their dark depths, her small notebook with hand-drawn
 rockets beside her, a warm clay cup of chai steaming on the parapet, the
 sound of cricket insects in the warm night air, a sudden bright shooting
 star races across the sky above her and she gasps sitting upright with
-pure joy and points, bold 3D Tamil title text 'ராக்கெட் ராக்கெட் பாரோம்'
+pure joy and points, bold 3D title text 'Rocket Rocket Let's Go!'
 beginning to materialise in stardust from the shooting star trail, ultra
 warm Pixar night-wonder quality, deep indigo and warm gold night color
 palette, 8K
@@ -439,13 +439,13 @@ Pixar space wonder quality, 8K
 ```
 3D Pixar animation educational planet counting sequence, clean deep
 space background of deep indigo with scattered star-clusters, bold
-Tamil numeral 'ஒன்று' (1) bouncing in from the top in brilliant red,
+numeral 'One' (1) bouncing in from the top in brilliant red,
 Mars appearing as a rich red sphere with visible surface texture and
 a friendly face, the red Star Friend character standing on Mars surface
-doing a brave pose, then 'இரண்டு' (2) in warm amber-gold, Saturn
+doing a brave pose, then 'Two' (2) in warm amber-gold, Saturn
 appearing with its magnificent ring system that sparkles and rotates
 slowly, the amber Star Friend character sitting on Saturn's rings as
-a swing, then 'மூன்று' (3) in brilliant green, Earth appearing — most
+a swing, then 'Three' (3) in brilliant green, Earth appearing — most
 beautiful in the sequence — showing India prominently from space with
 the Indian subcontinent's shape in vivid detail, the green Star Friend
 character waving a tiny Indian flag from the surface, all three planets
@@ -461,11 +461,11 @@ educational Pixar quality, 8K
 
 **🎬 Scene Prompt:**
 ```
-3D Pixar animation educational counting continuation, 'நான்கு' (4)
+3D Pixar animation educational counting continuation, 'Four' (4)
 in brilliant white as the Moon character Sandhiran does a full turn
-showing his complete spherical beauty, 'ஐந்து' (5) in bright electric
+showing his complete spherical beauty, 'Five' (5) in bright electric
 blue and the blue Star Friend bouncing energetically across the frame
-trailing blue sparkle, then 'ஆறு' (6) in magnificent gold and all six
+trailing blue sparkle, then 'Six' (6) in magnificent gold and all six
 Star Friend characters appearing together in a perfect arc, each their
 own color — red, amber, green, white, blue, gold — all doing different
 simultaneous dance moves — one backflipping, one spinning, one waving,
@@ -510,8 +510,8 @@ looks like Sriharikota against a brilliant dawn sky, the Indian
 tricolour blazing on the rocket body as it climbs with tremendous power,
 the Tamil Nadu coastline visible below showing the Bay of Bengal with
 its characteristic deep blue, small map inset of Tamil Nadu glowing
-softly showing Tamil cultural geography, text appearing in Tamil and
-English: 'தமிழர் கட்டிய ராக்கெட்' (Rocket built by Tamil people),
+softly showing Tamil cultural geography, text appearing in English:
+'Rocket Built by Tamil People',
 a brief montage of diverse Tamil faces — engineers, scientists, young
 people — looking up at the launch with pride, transitioning to Tara's
 face in her dream rocket watching the real launch from space with pure
@@ -560,7 +560,7 @@ to ignite sending shockwaves of golden light rippling across the pad
 surface, every character grabbing something and bracing for the
 magnificent WHOOOOSH, building percussion crescendo with each
 countdown number generating a visible soundwave expanding outward
-from the rocket engines, 'ராக்கெட் ராக்கெட்' text spinning in from
+from the rocket engines, 'Rocket Rocket' text spinning in from
 orbit, maximum Pixar pre-launch energy, 8K
 ```
 
@@ -580,7 +580,7 @@ light, all six Star Friends dancing across the orbital paths, Tara's
 dream rocket at the center of the image with its porthole window
 showing Tara's face in extreme close-up — eyes wide with the absolute
 most profound awe and joy any five-year-old has ever felt in Tamil
-animation, 'ராக்கெட் ராக்கெட்' text forming from the actual light
+animation, 'Rocket Rocket' text forming from the actual light
 of the stars in the background, golden and stardust confetti filling
 all space, Tara's rocket horn producing a WHOOOOSH that sends a
 visible shockwave rippling across the star field, the most magnificent
@@ -604,7 +604,7 @@ one final sketch — a small figure of herself in a spacesuit on the
 moon beside a rocket — then closes it with quiet determination, she
 turns directly to the camera for the first time breaking the fourth
 wall with absolute serene confidence, pointing upward at the stars
-and Tamil text 'நீயும் விண்ணை தொடு!' (You touch the sky too!) 
+and text 'You Touch the Sky Too!'
 appearing in brilliant stardust gold around her pointing finger,
 a final real shooting star crossing the sky above her, Thatha still
 peaceful beside her wearing his ISRO badge which glows one last time

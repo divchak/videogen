@@ -7,7 +7,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED
 ```
-ஓடி வா ரயில் 🚂 | Odi Vaa Rail | Tamil Train Kids Song | TOOT-TOOT! Mountain Adventure
+Tuck Tuck Tamil Train Kids Song 🚂|ஓடி வா ரயில் 🚂 | Odi Vaa Rail | TOOT-TOOT! Mountain Adventure
 ```
 ### 🥈 Option 2
 ```
@@ -76,11 +76,14 @@ blue-green Nilgiri mountain landscape with tea plantations on slopes, morning
 mist rolling through valleys, warm golden dawn light on mountain peaks.
 Right corner: Raju the Station Master in white uniform waving his red flag
 with maximum enthusiasm. Bold text: "TOOT-TOOT! 🚂" in thick golden cartoon
-font with deep forest-green outline, Tamil text "ஓடி வா ரயில்" in warm gold.
+font with deep forest-green outline, English text "Come running, train!" in warm gold.
 Color palette: blue-green train, mountain greens, golden dawn, misty white.
 Style: Pixar 3D, warm adventure colors, kids-safe. 16:9 ratio, 4K resolution.
 ```
+tags
 
+
+TamilTrainSong, Odi Vaa Rail, Tamil Kids Songs, Chukku Mookku, Ooty Toy Train, Nilgiri Mountain Railway, Kids Train Adventure, Tamil Rhymes for Toddlers, Learning Tamil for Kids, Tamil Counting Song, Toot Toot Train, Chuk Chuk Rail, Childrens Tamil Music 2026, Tamil Heritage for Kids, Transport Songs, Preschool Learning Tamil, Baby Songs Tamil, Animated Train Story, Nilgiri Express, Ooty Hills, Tamil Action Song, Fun Tamil Rhymes, Nursery Rhymes Tamil
 ---
 
 ## 📅 PART 6 — UPLOAD STRATEGY

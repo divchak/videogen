@@ -257,7 +257,282 @@ golden-cream as the dosa sets from the edge inward, delicate tiny bubbles
 forming on the surface as the dosa cooks, a thin curl of fragrant steam rising
 and visible in the pre-dawn kitchen light, the entire room beginning to smell
 delicious (visualized as golden wavy aroma lines drifting outward from the
-tava, 'சீ சீ சீ!' SIZZLE text emerging from the steam), Pixar ASMR peak, 8K
+tava, 'Sizzle! Sizzle! Sizzle!' SIZZLE text emerging from the steam), Pixar ASMR peak, 8K
+```
+
+---
+
+## Scene 3: PONNI WAKES UP TO THE DOSA SMELL! (0:20–0:30)
+**Title:** "The Nose Knows!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation most adorable awakening sequence in the series, Ponni's
+bedroom in the early morning, the child in the deepest possible sleep —
+completely still, blanket pulled up to her nose — then: the golden aroma
+lines from the kitchen begin drifting under the door and across the floor
+and spiraling upward toward the bed, the first aroma line reaching Ponni's
+nose, one nostril flaring involuntarily in sleep, then the other, then
+both — the aroma lines entering and triggering the specific brain reaction
+that only dosa smell can cause, Ponni's sleeping face going through a
+rapid sequence: confused → curious → recognition → AWAKE, one eye snapping
+open while the other stays technically asleep, her feet beginning to push
+the blanket off before the rest of her body is conscious this is happening,
+the word 'DOSAI!' forming in golden letters from the aroma lines drifting
+past her nose, Ponni sitting upright with her hair in maximum morning chaos
+and one finger pointing toward the kitchen with absolute certainty, the
+most perfect transition from sleep to food-motivated consciousness ever
+animated, Pixar morning-awakening comedy peak, 8K
+```
+
+---
+
+## Scene 4: CHORUS — ALL FOOD CHARACTERS INTRODUCED (0:30–0:40)
+**Title:** "Meet the Tamil Breakfast Family!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation spectacular food characters introduction sequence,
+the kitchen suddenly revealed in full morning activity, all four food
+characters making their grand entrance simultaneously — the Idli Twins
+bouncing out of their steamer basket in a puff of warm steam, landing
+side by side and immediately pointing at each other in confusion before
+checking their distinguishing bindi dots, Saambaar appearing in a bubble
+of enthusiastic activity with vegetables visibly doing circuits inside
+him, Sattni arriving with measured calm and immediately positioning
+herself adjacent to Saambaar with the quiet superiority of someone who
+knows they will always be needed last and longest, the freshly made
+golden dosa on the tava behind all of them completing the ensemble,
+'Idli! Dosai! Saambaar! Sattni!' appearing in their respective colors
+as each character is named, Ponni arriving in the kitchen doorway in
+her pyjamas at exactly this moment with the most perfect timing, her
+expression going from half-asleep to absolutely delighted as she sees
+the full breakfast assembly, Pixar food-character-introduction quality, 8K
+```
+
+---
+
+## Scene 5: THE PERFECT GOLDEN DOSA! (0:40–0:50)
+**Title:** "Ponnira Dosai!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation most visually delicious scene in the series, Paatti's
+dosa reaching the precise moment of perfection — the edges curled slightly
+and perfectly crisp, the center still slightly soft, the surface color
+an absolutely magnificent gradient from the most gorgeous golden amber
+at the edges to warm cream gold at the center, Paatti's spatula sliding
+under it with the practiced certainty of decades, the dosa folding
+perfectly in half with a satisfying crunch-sound visualized as golden
+sparkle lines along the fold, being lifted from the tava and placed on a
+fresh banana leaf with ceremony, Saambaar immediately beginning to pour
+himself enthusiastically toward the dosa from one side while Sattni
+positions herself elegantly on the other side, the full scene: golden
+dosa on fresh green banana leaf flanked by the deep orange-red of sambar
+and the clean white-green of chutney, the steam rising from all three
+creating a fragrant visual crown, Ponni sitting cross-legged before this
+spread with complete reverence, Paatti watching with quiet master-
+craftsperson satisfaction, Pixar food-beauty quality, 8K
+```
+
+---
+
+## Scene 6: COUNTING COLORS 1–3 (0:50–1:00)
+**Title:** "White! Golden! Red!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation educational food-color counting sequence, each food
+color revealed with maximum visual appetizing appeal, 'One' (1) in
+brilliant white as the Idli Twins step forward — perfectly round, steam-
+white, soft-surfaced — glowing with the warm white of freshly steamed
+idli, 'Venmai Idli!' (White Idli!) in white text, both twins waving
+with matching smiles, 'Two' (2) in warm golden amber as the freshly
+made dosa is revealed in full — its magnificent golden-amber surface
+catching the kitchen light in the most appetizing way possible —
+'Ponnira Dosai!' (Golden Dosa!) in golden text, 'Three' (3) in rich
+deep red-orange as Saambaar steps forward in his most magnificent
+enthusiasm — bubbling, steaming, the deep red-orange of a perfect
+sambar full of vegetables — 'Sivappu Saambaar!' (Red Sambar!) in
+warm red text, each food item appearing with its color creating an
+immediate visual association that children will carry every time they
+see these foods, confetti in food colors on each reveal, Pixar food-
+education quality, 8K
+```
+
+---
+
+## Scene 7: COUNTING 4–6 — TUMMY FULL! (1:00–1:10)
+**Title:** "Green! More! And Tummy Full!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation educational counting continuation, 'Four' (4) in
+fresh vivid green as Sattni steps forward with her immaculate green
+coconut chutney surface and her perfectly measured calm superiority —
+'Pacchai Sattni!' (Green Chutney!) in green text, Sattni giving a single
+modest bow, 'Five' (5) in warm amber as a mini-montage of Ponni eating
+one idli, then a piece of dosa, then sipping sambar, then scooping
+chutney — each bite producing a visible wave of satisfaction on her
+face, 'Six' (6) in warm golden as the final count coincides with Ponni
+leaning back with both hands on her perfectly round satisfied tummy —
+'Vairu Niraindhadhu!' (Tummy Full!) — the most universally satisfying
+Tamil breakfast conclusion, Ponni's expression showing the specific
+quality of someone who has just had exactly enough of something perfect,
+the Idli Twins visible doing a satisfied synchronized lean-back matching
+Ponni's posture, Saambaar's bubbling reduced to a peaceful satisfied
+simmer, Pixar food-satisfaction quality, 8K
+```
+
+---
+
+## Scene 8: SAMBAR AND CHUTNEY DANCE BREAK! (1:10–1:20)
+**Title:** "The Kitchen Dance!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation peak comedy kitchen dance break, Saambaar and Sattni
+in their long-awaited duet — their completely opposite personalities
+creating the most comedic dance partnership in the food character series:
+Saambaar doing a wildly enthusiastic dance that involves spinning, sloshing
+enthusiastically, sending small vegetable chunks flying rhythmically and
+always catching them again, his bubbling increasing with each beat,
+Sattni doing a perfectly measured minimalist dance that is somehow three
+times as impressive for its restraint — each subtle movement precisely
+calculated for maximum grace, her chilli-oil stripe catching the light
+with each refined turn, the contrast between 'too much sambar energy' and
+'exactly right chutney elegance' visible in every move, the Idli Twins
+joining with their perfectly synchronized identical dance that keeps being
+disrupted by them accidentally doing different things and then arguing
+about who started it, Ponni clapping along from the doorway in delight,
+Paatti watching from the tava with a smile she is trying to hide, the
+kitchen itself seeming to dance with them in warm morning light, Pixar
+food-comedy peak, 8K
+```
+
+---
+
+## Scene 9: FARM TO PLATE STORY BEGINS (1:20–1:30)
+**Title:** "It Starts in the Field!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation farm-to-plate educational journey opening, the kitchen
+dissolving into a vision of a Tamil Nadu rice field at dawn — golden-green
+paddy stretching to the horizon, morning mist over the water, the sky
+turning from deep blue to warm amber as the sun rises, a farmer visible
+in the field at work — a Tamil woman in a colourful saree with her pallu
+tucked for working, her feet in the water, bending with practiced ease
+to plant young rice seedlings in the soft earth, each seedling placed
+with the care of someone who knows exactly what this effort will become,
+the water in the field reflecting the golden morning sky, other farmers
+visible further back in the field, birds landing on the paddy borders
+to watch, the visual abundance of a Tamil Nadu rice landscape in full
+morning productivity, 'Vivasaayi Nel Vithaitthar!' (Farmer planted the
+rice!) in warm earth-brown letters emerging from the water ripples,
+Ponni visible at the edge of the frame watching this vision unfold with
+her breakfast still warm in her hands, Pixar farm-wonder quality, 8K
+```
+
+---
+
+## Scene 10: FARMER'S GIFT → PAATTI'S LOVE (1:30–1:40)
+**Title:** "From Field to Kitchen to Heart!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation gratitude and connection scene, the farm vision
+continuing: the rice harvest — golden paddy cut and gathered, the
+smell of fresh harvest visible as warm golden particles in the air —
+then transforming to a rice mill, then to a market, then to Paatti's
+hands receiving a fresh bag of rice with the careful assessment of
+an expert, then Paatti's kitchen the night before where the rice and
+lentils soaking in the fermentation vessel — the batter beginning its
+overnight transformation — then the morning and Paatti's hands grinding,
+then pouring, then spreading — the complete chain from farmer's sweat
+to Paatti's love made visible as one unbroken line of care, each
+transition carrying the warmth of one pair of caring hands to the next,
+'Naamakkaaga Thaayaritthar!' (Prepared with love for us!) in warm gold
+letters connecting farmer's hands to Paatti's hands to Ponni's smile,
+Ponni in the present moment looking at her idli with completely new eyes
+— seeing the entire chain of love and labor behind every bite, Pixar
+gratitude-connection quality, 8K
+```
+
+---
+
+## Scene 11: BANANA LEAF MEAL SPREAD! (1:40–1:50)
+**Title:** "The Tamil Breakfast Table!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation most abundantly beautiful Tamil breakfast scene, the
+family coming together for the complete banana leaf breakfast spread —
+fresh green banana leaves laid on the clean floor or low table, Paatti
+serving: white idli steaming in its full round perfection, golden dosa
+folded elegantly, deep red sambar ladled in a satisfying arc, green
+coconut chutney placed precisely, a small cup of filter coffee for
+the adults (dark with perfect cream foam), fresh green chilli on the
+side, the entire spread at peak visual appetite appeal — the banana leaf
+green making every color more vivid, the steam rising from the food
+creating a fragrant visual halo, the Idli Twins somehow visible on
+the banana leaf as two actual round idlis looking up with their round
+happy faces, Saambaar and Sattni in their vessels looking particularly
+proud of their placement, the family gathering around — Amma, Appa,
+Ponni — and the immediate comfortable ritual beginning, Paatti still
+on her feet ready to serve more (always), the most authentically
+Tamil morning scene in the series, Pixar food-abundance quality, 8K
+```
+
+---
+
+## Scene 12: FAMILY BREAKFAST TOGETHER (1:50–2:00)
+**Title:** "Together at the Banana Leaf!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation warm family unity scene, the complete family at
+their banana leaf breakfast — three generations if we count Paatti
+— each in their characteristic morning state: Appa slightly formal
+even at breakfast, Amma watching everyone with quiet maternal satisfaction,
+Ponni eating with complete focused attention to the food she is discovering
+anew after having seen its journey, Paatti still standing ready to serve
+though everyone has plenty, the natural conversation and easy silences
+of a family that is genuinely comfortable together, the golden morning
+light now fully through the kitchen window creating warm morning light
+across the meal, the Idli Twins visible as actual food being eaten with
+complete reverence by Ponni who now understands every bite is a farmer's
+and Paatti's love made tangible, the filter coffee aroma visible as warm
+brown swirling lines joining the dosa steam in the morning air, the
+scene capturing exactly what the word 'home' means when expressed through
+Tamil food and morning and family, Pixar family-warmth quality, 8K
+```
+
+---
+
+## Scene 13: GRAND FINALE — TAMIL FOOD PRIDE! (2:00–2:10)
+**Title:** "Idli Dosai Tamilar Unavu!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation triumphant food-pride finale, Ponni standing up from
+the banana leaf with the most satisfied expression in the entire series,
+looking directly at camera for the first time, both hands patting her
+absolutely perfectly round content tummy, the full breakfast spread still
+visible behind her on the banana leaf, Paatti visible in the kitchen
+doorway with the quiet warm pride of someone whose greatest work is
+making others happy, Saambaar and Sattni doing their final comedy bow
+side by side (Saambaar's bow enthusiastic enough to spill slightly,
+Sattni's perfectly measured), the Idli Twins doing their simultaneous
+identical bow and then looking at each other with identical expressions
+of satisfaction, Ponni raising both hands and pointing both index fingers
+toward the camera with the biggest smile of the entire series,
+'Neeyum Saappidu! Idli Dosai Tamilar Unavu!' (You eat too! Idli Dosa
+is Tamil food!) blazing in golden-red letters from her pointing fingers,
+a final glorious SIZZLE sound from the kitchen tava where Paatti has
+already started making more for anyone who wants seconds, the most
+deliciously satisfying finale in the entire song series, Pixar
+Tamil-food-pride peak, 8K
 ```
 
 ---

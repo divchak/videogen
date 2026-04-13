@@ -1,0 +1,16 @@
+1) so no Tamil characters will be rendered in the video. All 13 scene prompts are now fully clean of Tamil characters and any language labels that would trigger Tamil script display
+
+2) Previous prompts - April 13, 2026 
+
+Here are your previous prompts from this session (oldest to most recent):
+1) Create a massive hit Tamil kids song plan — Using 5KuttiSingam_TamilKidsSongPlan.md as template, with full Part A (script, characters, scene prompts, Suno AI details) and Part B (Vanna Meen fish song), including YouTube upload kit.
+2) "my previous request stopped in middle, pls continue from where it stopped and complete the request"
+3) Add Thumbnail image generation prompt — Under the ## 🖼️ PART 5 — THUMBNAIL CHECKLIST section in all YouTube upload kit documents.
+4) Create next set of song plans — Deep analyse current hit themes, create song plans for all songs under ## 🏆 TOP 10 NEW THEME IDEAS in 17_NextThemeSeries_TamilKidsSongsRoadmap.md, plus YouTube upload kits for each.
+5) Remove Tamil characters from scene prompts (file 19 — RocketRocketPaarom) — Tamil characters in scene prompts should be transliterated or in English only.
+6) Remove "bold 3D Tamil title text" type labels — These labels would still cause Tamil characters to render in video (file 19).
+7) Make similar Tamil character changes in video plans 20 to 27 — Remove all Tamil characters from scene prompts across files 20–27.
+8) Change transliterated text to English in scene prompts — All text rendered in video should be plain English, not transliterated Tamil (files 19–27).
+9) "give me my previous 10 prompts in this session" ← current prompt
+
+3) in all All my song plans present in C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\plans - as part of educational content, has counting from 1 to 6 in its content. Can you think of alternation options other than counting from 1 to 6 for educational content and based on the new idea, upate scenes/songs/all relevant create the new plans in a separate folder(C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\newplanedu) without disturbing the existing documents?

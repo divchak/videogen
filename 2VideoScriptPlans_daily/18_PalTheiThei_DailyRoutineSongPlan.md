@@ -166,7 +166,7 @@
 
 **🖼️ Character Image Prompt:**
 ```
-A cute 3D Pixar-style animated Tamil boy character aged 4, chubby warm-brown
+A cute 3D Pixar-style animated Tamil boy character aged 4, chubby bright complexion
 cheeks, enormous expressive dark eyes with long lashes, wild dishevelled black
 bedhead hair sticking up in six directions, wearing soft blue star-print pyjamas
 slightly too big for him with one foot showing, holding a tiny red toothbrush
@@ -196,7 +196,7 @@ warm terracotta and gold home color palette, 8K resolution
 **🖼️ Character Image Prompt:**
 ```
 A beautiful 3D Pixar-style animated young Tamil mother character aged 28-30,
-warm brown skin glowing with morning freshness, large kind expressive dark
+warm Bright complexion skin glowing with morning freshness, large kind expressive dark
 eyes with a permanently warm expression, long dark hair tied in a neat bun
 with a small string of white jasmine flowers, wearing a bright warm yellow
 cotton saree with a green border tucked up at the waist for morning housework,
@@ -224,7 +224,7 @@ ultra warm maternal Pixar quality, 8K resolution, character sheet
 **🖼️ Character Image Prompt:**
 ```
 An extremely expressive 3D Pixar-style animated Tamil grandmother character
-aged 65-70, warm wrinkled face full of laugh lines and absolute joy, silver
+aged 65-70, bright complexion skin,red bindi in forehead,arm wrinkled face full of laugh lines and absolute joy, silver
 hair pulled back in a neat bun with a small marigold flower, enormous thick
 round spectacle frames with large eyes magnified behind them in an endearing way,
 wearing a pale cream and rose cotton saree, sitting in MID-DANCE — one arm
@@ -454,11 +454,11 @@ Pixar magical discovery quality, 8K
 ```
 3D Pixar animation bright educational counting sequence, clean warm
 cream bathroom background with colorful geometric tile accents, large
-bold Tamil numeral 'ஒன்று' (1) bouncing in from the top in rich golden
+bold English numeral 'One' (1) bouncing in from the top in rich golden
 with rubbery satisfying cartoon physics and a thump sound, one smooth
 large brushstroke arc appears below it cleaning a cartoon tooth section
-with a sparkle trail, then 'இரண்டு' (2) bouncing in vivid orange and
-two coordinated strokes with double sparkle, then 'மூன்று' (3) in
+with a sparkle trail, then 'Two' (2) bouncing in vivid orange and
+two coordinated strokes with double sparkle, then 'Three' (3) in
 bright lime-green and three perfect circular scrubbing motions shown
 on the cartoon tooth cross-section in a cute animated diagram style,
 Muthu visible in corner counting enthusiastically on his fingers —
@@ -478,14 +478,14 @@ bright warm Pixar educational clarity, 8K
 **🎬 Scene Prompt:**
 ```
 3D Pixar animation educational counting and direction completion scene,
-continuation of bright counting sequence, bold Tamil numeral 'நான்கு'
-(4) bouncing in vivid electric purple, fifth number 'ஐந்து' (5) in
-bright sky-blue, sixth 'ஆறு' (6) in bubblegum pink completing the full
+continuation of bright counting sequence, bold English numeral 'Four'
+(4) bouncing in vivid electric purple, fifth number 'Five' (5) in
+bright sky-blue, sixth 'Six' (6) in bubblegum pink completing the full
 count of six, then the scene transitions to a large friendly cartoon
 tooth diagram with four bright colored directional arrows appearing one
-by one — a yellow arrow pointing up labeled 'மேலும்', green pointing
-down labeled 'அடியும்', blue pointing right labeled 'வலது', red
-pointing left labeled 'இடது', an animated toothbrush character tracing
+by one — a yellow arrow pointing up labeled 'UP', green pointing
+down labeled 'DOWN', blue pointing right labeled 'RIGHT', red
+pointing left labeled 'LEFT', an animated toothbrush character tracing
 each direction creating glowing color trails on the tooth surface,
 when all four directions are completed the four color trails connect
 to form a glowing six-pointed star on the tooth surface, then the star
@@ -564,7 +564,7 @@ of complete surprise and mild indignation, everyone in the bathroom
 frozen in absolute identical horror poses — Amma, Appa, Muthu, and
 the giant Toothbrush character all simultaneously mid-motion with
 eyes at maximum cartoon width and mouths in perfect round O shapes,
-enormous 'அய்யோ!' text exploding on screen in orange wobbly letters,
+enormous 'Ayyo!' text exploding on screen in orange wobbly letters,
 the teeth plate bouncing off the bathroom mirror in slow motion with
 a cartoon BOING sound effect creating a comedy ripple in the mirror
 surface, multiple family members diving in different directions to
@@ -647,12 +647,12 @@ white light that illuminates the entire bathroom like sunrise, tiny
 golden and pearl sparkle stars filling the air like the most magical
 morning snowfall, Muthu stepping forward toward the camera and breaking
 the fourth wall — pointing his tiny toothbrush directly at the viewer
-with absolute conviction, Tamil text 'நீயும் தேய்!' materializing in
+with absolute conviction, English text 'You too Brush Teeth!' materializing in
 bright golden letters around his pointing brush, Paatti's false teeth
 making one final friendly cameo arc through the air in the background
 before landing perfectly (everyone ignores it now with affectionate
 resignation), golden confetti and soft white sparkle fireworks blooming
-overhead, bold Tamil title 'பல் தேய் தேய்' blazing in warm golden
+overhead, bold English title 'Brush Teeth' blazing in warm golden
 letters above all, ultra warm joyful Pixar finale quality, 8K
 ```
 

@@ -239,9 +239,27 @@ the canopy, 8K
 
 ---
 
-## Scene-by-Scene Prompts (Key Scenes):
+## Scene-by-Scene Prompts (All 13 Scenes):
 
-**Scene 2 — PAATTI AT THE GATE (0:10–0:20):**
+**Scene 1 — CHENNAI TO VILLAGE: THE JOURNEY (0:00–0:10):**
+```
+3D Pixar animation journey transition sequence, beginning with the chaotic
+warm sounds and visuals of Chennai — auto-rickshaw horns, crowded street,
+apartment buildings, a small boy Velu in the back seat of a bus pressed
+against the window watching the city give way to the outskirts, the
+visual storytelling of Tamil Nadu's landscape shifting from urban concrete
+to green fields to waving palms to red soil roads as the bus travels,
+Velu's backpack on his lap with a city kid's accessories looking increasingly
+out of place as the landscape greens, his expression transforming from bored
+city-child to increasingly awake and excited as he recognizes the approach of
+the village he loves, a rooster crow sound effect the moment the first
+palm-thatched roof appears, the bus pulling to a village stop with a gentle
+lurch, the door opening to warm golden village light and the smell of
+jasmine and earth after rain, Velu's feet on the bus step — pause — then
+gone at a run, ultra warm Pixar journey-arrival quality, 8K
+```
+
+**Scene 2 — PAATTI AT THE GATE — ARMS WIDE! (0:10–0:20):**
 ```
 3D Pixar animation most emotionally powerful arrival scene in the series,
 Paatti standing at her beautiful traditional Tamil village home gate in the
@@ -250,10 +268,116 @@ absolute love and relief and joy simultaneously, her cream saree soft in
 the warm afternoon light, Velu running the last 20 meters toward her at
 absolute maximum speed with arms already wide for the hug, the collision
 of their hug launching both of them slightly off balance, Paatti holding
-him with extraordinary strength for such a small elderly woman, 'அம்மம்மா!'
+him with extraordinary strength for such a small elderly woman, 'Oh Grandma!'
 appearing in warm golden letters from the embrace like physical warmth
 made visible, every Tamil adult watching will cry, Pixar most emotionally
 resonant family scene quality, 8K
+```
+
+**Scene 3 — COCONUT OIL HAIR MASSAGE (0:20–0:30):**
+```
+3D Pixar animation pure sensory Tamil memory scene, Velu seated on a
+wooden stool in the sunlit courtyard of the village home, Paatti standing
+behind him with a small brass vessel of warm coconut oil in her hand,
+the oil catching golden afternoon light as it pours in a thin fragrant
+stream, Paatti's hands moving through Velu's hair with the same practiced
+grace of every Tamil grandmother since memory began, Velu's expression
+cycling from initial mild protest ('Paatti, no!') to immediate involuntary
+relaxation to complete melted contentment as the warm oil and gentle
+hands work their magic, a large mango tree providing dappled shade over
+the scene, the sound of village birds in the background, Paatti humming
+softly to herself as she works — the same tune she has always hummed,
+a large copper vessel of warm water nearby for the bath to follow, this
+is the most universally recognized Tamil sensory memory in the entire
+series, Pixar sensory-memory peak, 8K
+```
+
+**Scene 4 — BANANA LEAF MEAL — SO MUCH FOOD! (0:30–0:40):**
+```
+3D Pixar animation abundant village meal scene, a large fresh green
+banana leaf laid on the clean red oxide floor — the most traditional
+Tamil Nadu meal presentation — Paatti serving from multiple vessels:
+steaming white rice mounded generously, dark fragrant sambar ladled
+in a beautiful arc, bright green coconut chutney, golden ghee poured
+in a slow satisfying pool in the rice center, crispy pappadums piled
+on the side, a cluster of golden mango pickle, Velu seated cross-legged
+before this extraordinary spread with eyes going wider with each new
+addition, Paatti refusing to stop serving despite Velu's increasingly
+comical protests that there is already enough, more vessels appearing
+from the kitchen, 'Sappidu sappidu!' (Eat eat!) as her only response
+to everything, the afternoon sun through the kitchen door creating
+beautiful light on the gleaming banana leaf, the abundance and love
+visible in every serving gesture, Pixar family-abundance warmth, 8K
+```
+
+**Scene 5 — MANGO TREE CLIMBING (0:40–0:50):**
+```
+3D Pixar animation pure childhood freedom scene, the magnificent ancient
+mango tree in Paatti's courtyard — its huge trunk, spreading branches
+forming perfect climbing architecture, clusters of green mangoes visible
+in the canopy, Velu at the base looking up with the assessment of an
+experienced young climber, then beginning to climb with the fluid
+confidence of a child doing what children were made for, pulling himself
+up to the first fork — sitting triumphant — then higher, the courtyard
+and Paatti's house visible below through the canopy, Paatti visible far
+below looking up with one hand shading her eyes and a slight smile that
+she keeps carefully neutral so she doesn't encourage him to go higher,
+the ancient tree's subtle bark face visible — the expression of patient
+ancestral delight at witnessing what it has witnessed across generations
+of this family's children, green mango leaves creating a flickering
+gold-green light around Velu, the most free and alive moment in the
+series, Pixar childhood-freedom quality, 8K
+```
+
+**Scene 6 — COUNTING PAATTI'S GIFTS — 1, 2, 3 (0:50–1:00):**
+```
+3D Pixar animation warm educational counting sequence, each gift of love
+from Paatti appearing as a numbered visual treasure, 'One' (1) in warm
+gold as a bowl of steaming rice appears with coconut oil — her first
+gift, 'Two' (2) in amber as Paatti's hands visible applying the hair oil
+— the second gift of care and touch, 'Three' (3) in rich green as the
+mango tree with Velu in its branches — the gift of freedom and nature,
+each 'gift' appearing with a warm golden sparkle and a heartbeat pulse,
+a visual love-letter to grandmother gifts, Velu visible at the edge
+of each frame receiving each gift with a different expression of joy
+and contentment, Paatti barely visible in each scene but her presence
+felt in everything, 'One! Two! Three!' text forming in warm Tamil-gold
+calligraphy, Pixar educational-love quality, 8K
+```
+
+**Scene 7 — COUNTING — 4, 5, 6 (1:00–1:10):**
+```
+3D Pixar animation continuing educational love-counting, 'Four' (4)
+in warm rose as a close-up of Paatti's bedtime story telling — lamplight
+on their two faces, her lips moving and Velu's eyes wide, the fourth
+gift of stories and imagination, 'Five' (5) in deep warm brown as a
+morning temple visit — Paatti and Velu at a small village temple at
+dawn, the stone floor cool under their feet, the scent of camphor and
+jasmine, the fifth gift of cultural memory, 'Six' (6) in brilliant
+warm white as the full banana leaf meal spread again — now as the
+sixth gift of nourishment and abundance, all six gifts appearing
+together in a beautiful warm mosaic showing the complete architecture
+of grandmother love, 'Four Five Six!' in warm colours, 'Sorkam!' (Heaven!)
+blazing in the center bringing all the images together, Pixar warm
+educational-love quality, 8K
+```
+
+**Scene 8 — VILLAGE DANCE BREAK! (1:10–1:20):**
+```
+3D Pixar animation joyful village courtyard celebration, Velu and Paatti
+dancing together in the packed-earth courtyard under the mango tree in the
+golden afternoon light, Paatti showing Velu a traditional folk dance step
+with infinite patience while Velu attempts it with maximum enthusiasm and
+approximately 50% accuracy to both their delight, village animals joining
+the dance in their own ways: the family cow doing a dignified slow head-bob,
+the house hen and her chicks doing a scattered panicked version of any dance
+step they try, the village dog doing enthusiastic spins that have nothing to
+do with any rhythm but maximum joy, the ancient mango tree's leaves swaying
+in the afternoon breeze in perfect time, Paatti's saree catching the golden
+light as she moves, Velu's coconut-oiled hair gleaming as he spins, the
+village sounds — birds, distant temple bells, a child playing somewhere —
+providing the warmest acoustic backdrop in the series, Pixar village-joy
+peak, 8K
 ```
 
 **Scene 9 — UNDER THE MANGO TREE (1:20–1:30):**
@@ -272,7 +396,45 @@ creating the most nostalgic and beautiful image in the entire series,
 Pixar emotional maximum, Studio Ghibli warmth, 8K
 ```
 
-**Scene 12 — GOODBYE AT BUS STOP (1:50–2:00):**
+**Scene 10 — PAATTI'S BEDTIME STORY (1:30–1:40):**
+```
+3D Pixar animation most intimate scene in the series, night has fallen over
+the village home, a single oil lamp burning on the low wooden table casting
+warm amber light across the room, Velu lying on a woven mat with a soft
+cotton pillow, Paatti seated beside him in her wooden chair with her saree
+edge draped over her knee, her voice audible as a warm low murmur telling
+a story that Velu has heard twelve times before but that is still the most
+interesting thing in the world, the story visualizing briefly in dreamy
+soft-edged vignettes above them — a tiny prince, a magic bird, a mountain
+of treasure — each story-image ephemeral and dream-soft, Velu's eyes
+growing heavier with each sentence, his hand finding Paatti's hand in the
+lamplight and holding it loosely, Paatti noticing his eyes closing and
+continuing the story more slowly, more gently, just for him, the village
+night sounds coming through the window — crickets, a distant owl, wind
+through the mango tree — the most perfectly safe night in the world,
+Pixar emotional bedtime quality, 8K
+```
+
+**Scene 11 — MORNING TEMPLE VISIT (1:40–1:50):**
+```
+3D Pixar animation sacred morning ritual scene, pre-dawn blue light as
+Paatti and Velu walk together along a village path to the small local
+temple — Paatti in a fresh white saree, Velu slightly sleepy but upright,
+both barefoot on the cool stone temple path, the temple visible ahead:
+a small beautiful ancient structure with carved gopuram decorated with
+flowers, the smell of camphor and jasmine visible as golden wavy aroma
+lines in the air, the priest visible performing the morning aarti —
+the camphor flame a brilliant warm orange in the pre-dawn blue,
+Paatti and Velu both with hands pressed together in namaskaram, the
+temple bell ringing and its sound visible as warm golden rings expanding
+outward through the still morning air, Velu's sleepy face becoming
+peaceful and awake simultaneously in the temple atmosphere, Paatti's
+expression the serene pride of passing on something precious, other
+village elders visible in the background nodding in warm recognition,
+Pixar sacred-morning quality, 8K
+```
+
+**Scene 12 — GOODBYE AT THE BUS STOP (1:50–2:00):**
 ```
 3D Pixar animation bittersweet but hopeful farewell scene, a small village
 bus stop with one wooden bench and a hand-painted destination board, the
@@ -281,11 +443,29 @@ hers looking at him with total love and slight sadness that she immediately
 covers with a warm brave smile, Appa gently guiding Velu toward the bus,
 Velu looking back at Paatti with his lower lip trembling slightly — then
 finding courage — waving with his whole arm, Paatti waving back with
-both arms until the bus starts to move, 'நான் மீண்டும் வருவேன்!'
+both arms until the bus starts to move, 'I Will Come Again!'
 appearing in warm letters from her waving hands, a single tear on Paatti's
 cheek that she immediately wipes with the end of her saree and replaces
 with a smile of promise, the most perfectly balanced emotional farewell
 scene — sad but full of love and the certainty of return, 8K
+```
+
+**Scene 13 — THE PROMISE — I WILL RETURN (2:00–2:10):**
+```
+3D Pixar animation warm resolution finale, the bus moving away with Velu's
+face pressed against the window watching Paatti's figure on the road getting
+smaller — but still waving — but still smiling — Velu's small hand pressed
+flat against the bus window glass toward her, then a slow dissolve to Velu
+back in Chennai at his desk with his city backpack and city window view —
+but his eyes are somewhere else entirely, a small mango leaf tucked into
+his pencil case, a tiny folded paper in his pocket that is clearly a note
+from Paatti, he opens his notebook and writes one line: 'Paatti en manam!'
+(Paatti is in my heart!), he turns to the camera directly for the first
+time with a quiet certain smile and points to his heart — 'அம்மம்மா!'
+appearing in warm golden letters from that pointing, a final flash of the
+village home and the mango tree and Paatti's face in warm memory light,
+the most emotionally complete finale in the family series, pure Tamil
+intergenerational love, Pixar emotional resolution peak, 8K
 ```
 
 ---

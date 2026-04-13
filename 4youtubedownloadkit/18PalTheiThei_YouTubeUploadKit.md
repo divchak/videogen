@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Daily Habit + Pearl Hook + Action)
 ```
-பல் தேய் தேய் 🦷 | Pal Thei Thei | Tamil Brush Your Teeth Song | Pearl Smile Kids Song
+Tamil Brush Your Teeth Song | பல் தேய் தேய் 🦷 | Pal Thei Thei |  Pearl Smile Kids Song
 ```
 
 ### 🥈 Option 2 — Parenting Tool Focus
@@ -60,16 +60,9 @@ Your child will WANT to brush every morning after this song! 🏆
 ✅ Morning routine discipline — joyfully!
 ✅ Respect for Paatti (with plenty of laughs!)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📺 WATCH NEXT — "Nal Palakkam" Good Habits Series:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ Song 2 — Kuli Kuli (Bath Time Song): [LINK]
-▶️ Song 3 — Thookam Varudhu (Bedtime Song): [LINK]
-▶️ Song 4 — Soru Saapduvom (Eating Song): [LINK]
-
 🦁 WATCH THE ANIMAL SERIES TOO:
-▶️ குட்டி சிங்கம் (Baby Lion): [LINK]
-▶️ குட்டி யானை (Baby Elephant): [LINK]
+▶️ குட்டி சிங்கம் (Baby Lion): https://youtu.be/zbC7ed-KijE
+▶️ குட்டி யானை (Baby Elephant): https://youtu.be/RapwiYRBq5g
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 SUBSCRIBE for new Tamil kids songs every week!
@@ -88,19 +81,9 @@ Tamil nursery rhyme, Tamil kids animation, Pixar Tamil kids
 
 ### Primary Tags (High Search Volume):
 ```
-Tamil kids song
-Tamil children song
-Tamil brush teeth song
-brush teeth Tamil
-Tamil morning routine song
-Tamil daily habits
-Tamil kids animation
-Tamil nursery rhyme
-Tamil dental song
-pal thei thei
-பல் தேய் தேய்
-Tamil toddler song
-Tamil 3D animation kids
+Tamil kids song,Tamil children song,Tamil brush teeth song,brush teeth Tamil
+Tamil morning routine song,Tamil daily habits,Tamil kids animation,Tamil nursery rhyme
+Tamil dental song,pal thei thei,பல் தேய் தேய்,Tamil toddler song,Tamil 3D animation kids
 ```
 
 ### Secondary Tags (Long-tail SEO):

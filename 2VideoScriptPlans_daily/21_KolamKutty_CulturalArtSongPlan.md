@@ -259,37 +259,314 @@ rice flour in her right hand, she kneels with practiced ease at the threshold,
 her right hand beginning its first graceful sweeping motion across the red
 floor preparing the space, the red oxide glowing in the lamp light, morning
 birds beginning to call in the coconut palms outside, a beautiful mist of
-pre-dawn blue light, 'கோலம் குட்டி' title forming from the first rice flour
+pre-dawn blue light, 'Little Kolam' title forming from the first rice flour
 traces, Ghibli sacred-morning quality in Pixar rendering, 8K
 ```
 
 ---
 
-## Scenes 2–13: (Condensed Prompts)
+## Scene 2: FIRST DOTS ARE PLACED (0:10–0:20)
+**Title:** "The Master's Hands!"
 
-**Scene 2 (0:10–0:20):** Paatti's hands in extreme close-up placing the first perfect dots in a grid pattern — the TAP-TAP-TAP sound visible as impact rings from each dot — the grid forming — an artisan at work.
+**🎬 Scene Prompt:**
+```
+3D Pixar animation artisan close-up sequence, Paatti's hands in extreme
+close-up — deeply graceful hands with decades of practice in every
+movement — placing the first perfect grid of rice flour dots on the red
+oxide floor with extraordinary precision, each tap of the fingertips
+leaving a perfect small white circle, the TAP-TAP-TAP sound visualized
+as tiny ripple-rings of warm golden light radiating outward from each
+dot as it lands, the grid of dots forming in beautiful geometric rows
+with perfect spacing — the foundation of the entire kolam pattern —
+the red oxide floor between the white dots creating a striking graphic
+contrast, the small kuthuvilakku oil lamp visible to the side casting
+warm amber light across the forming pattern, the dots catching the lamp
+light and glowing slightly at their edges, Paatti's expression showing
+the deep peaceful focus of a master at work — every movement unhurried
+but unerring, the total concentration of someone doing something
+sacred, Pixar artisan-in-action quality, Ghibli craft reverence, 8K
+```
 
-**Scene 3 (0:20–0:30):** Small Chella appears in the doorway rubbing her eyes — sees the half-drawn kolam — eyes going wide — sits cross-legged to watch with open mouth — flour vessel beside Paatti glowing in the morning light.
+---
 
-**Scene 4 (0:30–0:40):** Chella tentatively raises her hand — "Paatti, I want to try!" — Paatti smiles the most loving smile and moves the flour vessel toward Chella — takes her small hand and guides the first dot.
+## Scene 3: CHELLA WAKES UP AND WATCHES (0:20–0:30)
+**Title:** "Wonder in the Doorway!"
 
-**Scene 5 (0:40–0:50):** Close-up on Chella's tongue-out concentration as she places her first solo dot — slightly off-position — she and Paatti both look at it — Paatti says "Perfect!" and means it — Chella's face: absolute pride.
+**🎬 Scene Prompt:**
+```
+3D Pixar animation adorable discovery sequence, small Chella appearing
+in the inner doorway rubbing sleep from her eyes with both fists, her
+hair in a single tousled plait, her teal pavadai slightly twisted from
+sleep, the marigold in her hair listing sideways — then she sees the
+half-drawn kolam and her hands stop mid-eye-rub, eyes opening wider
+and wider as she takes in the geometric white pattern glowing on the
+red floor in the lamp light, her mouth opening slowly in pure awe, she
+tip-toes forward and sits cross-legged at the edge of the kolam at a
+respectful distance watching with absolute absorption, her elbows on
+her knees and her chin in both hands, her eyes tracking every single
+movement of Paatti's fingertips with the total focused attention only
+a deeply curious child can achieve, the flour vessel beside Paatti
+glowing warmly in the lamp light like an invitation, Paatti sensing
+Chella's presence and giving a small warm smile without breaking the
+rhythm of her hands, sacred Tamil morning atmosphere, Pixar dawn-wonder
+quality, 8K
+```
 
-**Scene 6 (0:50–1:00):** Educational counting overlay — one red dot (ஒன்று), two yellow (இரண்டு), three green lines (மூன்று) — each appearing with Chella placing them.
+---
 
-**Scene 7 (1:00–1:10):** Continuing — four blue circles (நான்கு), five flowers beginning to form (ஐந்து), six complete flowers (ஆறு) — the pattern now visible as a unified design.
+## Scene 4: CHELLA ASKS TO TRY (0:30–0:40)
+**Title:** "Can I Try, Paatti?"
 
-**Scene 8 (1:10–1:20):** THE MAGIC MOMENT — the completed section of kolam begins to glow softly — then the lines start to MOVE — the entire kolam pattern flowing like a living thing — Chella gasping in wonder.
+**🎬 Scene Prompt:**
+```
+3D Pixar animation heartwarming learning invitation scene, Chella
+raising her hand tentatively toward Paatti with the most earnest
+expression of someone asking for something very precious — "Paatti,
+naan poda?" (Paatti, can I draw?) — her voice small but hopeful,
+her eyes enormous with wanting to be included in this sacred morning
+art, Paatti's face breaking into the warmest smile of absolute welcome
+and delight, her hand moving the small brass flour vessel toward Chella
+with a gesture that says 'come, this is yours too,' then Paatti
+taking Chella's small flour-dusted fingers in her own graceful worn
+hands and guiding them through the air above the kolam — showing
+the motion before the flour — demonstrating the sacred arc of the
+kolam line with Chella's fingers following in complete trust, the
+morning light coming through the main door creating a beautiful beam
+across both their bent heads as they focus together on the pattern,
+the most profound teaching moment of the series, Ghibli intergenerational
+learning warmth in Pixar quality, 8K
+```
 
-**Scene 9 (1:20–1:30):** The Kolam Mayil peacock rises from the pattern in a shower of geometric light — shakes out its magnificent kolam-patterned tail — begins to dance — the most spectacular visual moment in the entire song series.
+---
 
-**Scene 10 (1:30–1:40):** The central lotus of the kolam blooms in slow motion — each geometric petal opening — its golden center glowing — Chella reaches toward it gently and her flour-dusted finger causes another petal to bloom.
+## Scene 5: FIRST DOT — TOTAL CONCENTRATION (0:40–0:50)
+**Title:** "My Very First Dot!"
 
-**Scene 11 (1:40–1:50):** Paatti and Chella dancing around the living kolam together — peacock dancing between them — the kolam expanding as they dance outward from the doorstep.
+**🎬 Scene Prompt:**
+```
+3D Pixar animation peak child-concentration comedy-warmth scene, Chella
+kneeling before the kolam with her tongue sticking precisely sideways
+from the corner of her mouth in maximum concentration mode, her entire
+small body rigid with the effort of placing one perfect dot, her right
+index finger dipping into the flour vessel and approaching the red floor
+with the slow deliberation of a surgeon, the dot landing — slightly
+off-position, at a charmingly imperfect angle — she and Paatti both
+look at it in the same moment, Chella's expression cycling through
+uncertainty to anxiety to expectation — and then Paatti says 'Azhagaa
+irukku!' (It's beautiful!) with total sincerity, and Chella's entire
+face transforms into the most radiant proud expression in the series,
+her flour-dusted fingertip now held up like a trophy, tiny white flour
+dots already on her nose and cheek from earlier practice attempts,
+her imperfect dot visible in the kolam surrounded by Paatti's perfect
+ones — and somehow the whole pattern is better for it, Pixar peak
+child-pride quality, 8K
+```
 
-**Scene 12 (1:50–2:00):** Neighbors appearing at the gate to see the magnificent kolam — expressions of wonder and appreciation — the kolam has become something everyone shares.
+---
 
-**Scene 13 (2:00–2:10):** Epic aerial pull-back showing the complete kolam in all its glory — enormous, perfect, luminous — Chella's tiny imperfect section visible and beautiful at its heart — she turns to camera with flour-covered hands extended toward viewer — "நீயும் கோலம் போடு!"
+## Scene 6: COUNTING DOTS 1–3 WITH COLORS (0:50–1:00)
+**Title:** "One Red! Two Yellow! Three Green!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation educational counting sequence with kolam magic,
+clean view of the red oxide floor with the kolam pattern as background,
+bold numeral 'One' (1) appearing in brilliant red as a single beautiful
+red dot appears on the floor beside the kolam — Chella placing it with
+her finger dipped in red rice flour, the dot glowing warmly, 'One!'
+in her voice, then 'Two' (2) in warm golden-yellow as two perfect yellow
+dots appear — Chella placing them with growing confidence — each tap
+producing a satisfying TAP sound visualized as a tiny ring of light,
+then 'Three' (3) in bright green as three graceful green connecting
+lines are drawn between dots — Chella's small hand moving in a confident
+sweep, confetti burst of each color raining down as each number lands,
+Paatti's hand visible just at the edge of frame — not helping but
+present — the protective guidance of a master watching a student finding
+their own voice, 'One! Two! Three!' text in their respective colors
+forming from the dots and lines, ultra warm educational Pixar quality, 8K
+```
+
+---
+
+## Scene 7: COUNTING 4–6 — PATTERN FORMS (1:00–1:10)
+**Title:** "Four! Five! Six — It's Beautiful!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation educational counting continuation and pattern
+revelation, 'Four' (4) in rich blue as four graceful blue circles
+appear in the kolam pattern — Chella drawing them with growing
+confidence — each circle completed with a quiet flourish, 'Five'
+(5) in warm pink as five flower petals begin to form from the
+intersecting lines and circles already on the floor — the flower
+emerging from the geometric foundation with breathtaking inevitability,
+then 'Six' (6) in brilliant gold as the sixth element — another
+flower or star shape — causes the entire pattern to suddenly cohere
+as a unified design, the moment of pattern revelation: what were
+separate elements suddenly readable as one beautiful unified kolam,
+Chella leaning back to see the whole pattern for the first time and
+her jaw dropping in quiet wonder, 'One Two Three Four Five Six!' text
+forming from the pattern itself in a rainbow of colors, a wide shot
+showing the complete partial kolam on the red floor in its glowing
+geometric beauty, warm dawn light, Pixar educational wonder quality, 8K
+```
+
+---
+
+## Scene 8: THE KOLAM COMES ALIVE! (1:10–1:20)
+**Title:** "It's Moving! It's ALIVE!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation most magical moment in the cultural series, the
+completed section of kolam on the red oxide floor beginning to respond
+to the love poured into it — the white rice flour lines beginning to
+glow with a soft warm inner light, then the lines beginning to move
+with the slow undulating grace of water in a still pond, the entire
+geometric pattern flowing and rippling like a living thing responding
+to music, the dots lifting slightly from the floor and hanging as
+glowing points of light, the connecting lines bending and curving with
+organic life while maintaining their mathematical precision, Chella
+pressing back slightly with wide eyes — not afraid, but transported —
+her flour-dusted hands coming up to cover her open mouth in pure awe,
+Paatti watching from a slight distance with the serene smile of someone
+who has always known this would happen — this is what happens when art
+is made with love, the living kolam casting warm moving geometric shadows
+on the walls and ceiling of the entrance, the kuthuvilakku lamp flame
+responding with a warm pulse, Pixar magic-awakening quality, 8K
+```
+
+---
+
+## Scene 9: PEACOCK DANCES! (1:20–1:30)
+**Title:** "The Kolam Mayil Rises!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation most visually spectacular moment in the entire
+song series, from the living glowing kolam pattern a shape begins to
+emerge — lines gathering and flowing upward into the unmistakable form
+of a peacock, the Kolam Mayil rising from the floor in a shower of
+geometric light-particles, its body formed entirely from flowing white
+kolam curves that shimmer with inner illumination, its magnificent tail
+fan spreading in an arc that fills half the doorway entrance — each
+tail feather eye a perfect geometric kolam circle mandala in vivid
+blue, green, gold and pink, the peacock raising its geometric head and
+producing a sound that is somehow both a real peacock call and a veena
+chord simultaneously, then beginning to dance with the most extraordinarily
+graceful movement — part classical Bharatanatyam, part peacock display,
+part living sacred art, small Chella at the peacock's feet looking up
+with the most profound wonder expression in the entire series, her
+flour-dusted hands extended toward the dancing kolam creature, the red
+floor beneath them showing the living kolam pattern still flowing and
+glowing as the source of all this magic, ultra breathtaking Pixar
+cultural living-art quality, 8K
+```
+
+---
+
+## Scene 10: LOTUS BLOOMS IN THE CENTER (1:30–1:40)
+**Title:** "Malar! The Flower Blooms!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation sacred living-art revelation scene, at the very
+center of the kolam pattern where Chella placed her first imperfect
+dot, the geometric lotus character Kolam Malar begins to bloom in
+perfect slow motion — each petal a curved kolam line unfolding in
+a smooth geometric arc to reveal more intricate kolam geometry within,
+the golden center mandala expanding outward as petals open one by one
+in a sequence that feels like watching a flower bloom in a nature
+documentary but rendered in sacred geometry, each petal tip catching
+a dewdrop pearl of warm light, the lotus emitting a soft warm golden
+glow that pulses with each new petal opening, Chella reaching toward
+it with one flour-dusted finger — and as her fingertip gently touches
+the nearest petal, a new petal blooms in direct response to her touch,
+her face showing the complete wonder of a child who has just learned
+that her love causes beauty to grow, the dancing Kolam Mayil peacock
+visible behind framing this moment, Paatti's expression showing the
+deepest satisfaction of the entire series, Pixar living-art sacred
+quality, 8K
+```
+
+---
+
+## Scene 11: PAATTI AND CHELLA DANCE TOGETHER (1:40–1:50)
+**Title:** "Dance With the Kolam!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation pure joy celebration scene, Paatti and Chella
+dancing together around the living kolam in the golden morning light,
+Paatti's saree edge catching the warm light as she moves with
+the graceful unhurried rhythm of decades of classical Tamil dance,
+Chella beside her attempting to mirror every move with maximum
+enthusiasm and approximately 60% accuracy, both of them laughing
+at the 40% difference, the Kolam Mayil peacock dancing between
+and around them with geometric grace, its kolam-pattern tail sweeping
+in arcs that leave trails of living light in the air, the kolam on
+the floor expanding outward with each circle of their dance —
+new patterns forming spontaneously wherever their footsteps land
+on the red floor, the entrance doorway behind them framing the
+brightening Tamil morning sky, jasmine flowers from Paatti's hair
+coming loose and landing in the living kolam where they glow,
+the warm morning light making their dancing shadows stretch long
+and beautiful across the red floor, Pixar joyful cultural dance
+quality, 8K
+```
+
+---
+
+## Scene 12: NEIGHBORS GATHER TO ADMIRE (1:50–2:00)
+**Title:** "Everyone Comes to See!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation warm community gathering scene, the gate of the
+Tamil home opening as neighbors begin to appear — first one elderly
+woman pausing at the gate with her morning tea, then a younger woman
+with a child on her hip, then an old man doing his morning walk stopping
+with his newspaper, then children on their way to school stopping to
+stare with wide eyes, all of them gathering at the gate with expressions
+that move through recognition to wonder to pride — the kolam on the
+doorstep visible to them as something remarkable, the Kolam Mayil
+peacock still dancing in the entrance, the living kolam still glowing
+on the red floor, Chella looking up to see the gathering audience and
+then looking at Paatti with pride and then back at the kolam with
+a completely new understanding of what they have created together,
+Paatti at the center of it all serene and warm, the morning light
+now fully golden as the sun rises, the kuthuvilakku lamp still burning
+at the threshold adding its small warm flame to the morning gold,
+the entire scene speaking to the community-connecting power of Tamil
+kolam art, Pixar warm cultural-community quality, 8K
+```
+
+---
+
+## Scene 13: GRAND FINALE — THE FULL KOLAM (2:00–2:10)
+**Title:** "You Draw Kolam Too!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation epic aerial finale revelation, a slow majestic
+camera pull-back from ground level at the kolam beginning to rise
+— first showing the complete doorstep kolam in full overhead glory:
+an enormous, luminous, geometrically perfect pattern of breathtaking
+complexity, every element in its place, the central lotus fully
+bloomed and golden, the peacock at its center in full display tail,
+symmetrical geometric flowers and connecting lines filling every
+space in vivid white on red, and at the very heart of the pattern —
+visible and beautiful, not hidden or corrected — Chella's first
+imperfect dot, slightly off-position, slightly too large, absolutely
+perfect, the living kolam glowing warmly in the full morning light,
+then the camera bringing back down to Chella standing at the edge
+of the kolam facing the camera directly for the first time, her
+flour-covered hands extended palms-up toward the viewer with an
+invitation that is also a gift, 'You Draw Kolam Too!' appearing in
+brilliant kolam-dot letters around her extended flour-dusted hands,
+a single TAP-TAP-TAP of her fingers on the air toward the viewer,
+the most beautiful and empowering finale in the cultural series, 8K
+```
 
 ---
 

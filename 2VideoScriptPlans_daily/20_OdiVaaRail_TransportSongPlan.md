@@ -277,7 +277,7 @@ mountains rising behind the station, Raju the Station Master arriving
 with his morning tea and a small cloth to polish the tracks, somewhere
 in the mist a soft warm golden glow from a tiny headlight approaching —
 the first hint of Chukku Mookku appearing, the distant sound of a tiny
-TOOT-TOOT echoing through the mountain mist, Tamil text 'ஓடி வா ரயில்'
+TOOT-TOOT echoing through the mountain mist, text 'Come Run Little Train!'
 materializing from the steam trail in warm golden letters, ultra
 atmospheric Pixar opening quality with Ghibli mountain magic, 8K
 ```
@@ -317,7 +317,7 @@ move, his wheels beginning to turn slowly then finding their rhythm —
 the first authentic CHUK-CHUK-CHUK as they pick up pace, his TOOT-TOOT
 sends visible sound rings expanding outward from his smokestack across
 the misty platform, small flowers on the platform edge bending in the
-breeze of his departure, 'டூட்! டூட்!' text appearing in warm golden
+breeze of his departure, 'Toot! Toot!' text appearing in warm golden
 steam from the smokestack, Raju waving from the platform with his
 whole arm as Chukku Mookku rounds the first curve into the mountains,
 Pixar departure warmth at maximum, 8K
@@ -325,37 +325,271 @@ Pixar departure warmth at maximum, 8K
 
 ---
 
-## Scenes 4–13: (Summary format)
+## Scene 4: THROUGH THE FIRST TUNNEL! (0:30–0:40)
+**Title:** "Darkness and Light!"
 
-**Scene 4 — TUNNEL (0:30–0:40):**
-Chukku Mookku entering a stone tunnel — darkness → single golden headlight beam piercing through — comedy: all animal passengers disappear into darkness and re-emerge looking slightly scrambled (monkey hanging from ceiling, peacock feathers somehow tied in knot) — EXIT into brilliant mountain sunshine.
+**🎬 Scene Prompt:**
+```
+3D Pixar animation spectacular tunnel entry sequence, Chukku Mookku
+approaching the mouth of an ancient stone railway tunnel carved through
+the solid green mountain, ivy and ferns growing thickly across the stone
+arch of the entrance, Chukku Mookku's headlight-eyes narrowing to a
+focused beam as he enters the darkness, the world outside rapidly
+shrinking to a perfect circle of golden-green mountain light behind him,
+his warm golden headlight beam cutting through velvet darkness ahead
+illuminating railway ties and mossy stone tunnel walls in a beautiful
+spotlight cone, then THE COMEDY: silhouettes visible through the carriage
+windows in the darkness — the monkey has somehow ended up hanging from
+the ceiling by his tail, the peacock's magnificent tail feathers have
+tied themselves into an elaborate impossible knot, the elephant has
+pressed his face against every window simultaneously — then the explosion
+of brilliant mountain sunshine as Chukku Mookku bursts triumphantly from
+the other end with a joyful TOOT-TOOT, all passengers blinking in the
+light looking slightly dishevelled but laughing, dramatic tunnel-exit
+light contrast, ultra Pixar comedy-adventure quality, 8K
+```
 
-**Scene 5 — PASSENGERS BOARD (0:40–0:50):**
-The elephant passenger trying to board the tiny carriage — seven attempts, each more creative than the last — finally enters sideways — his face pressed against every window simultaneously — monkey immediately starts swinging from luggage rack — rabbit checking ticket obsessively.
+---
 
-**Scene 6 — COUNTING MOUNTAINS 1-3 (0:50–1:00):**
-Educational counting with Tamil numerals — each mountain peak numbered, colored differently — green (1), blue (2), purple (3) — Chukku Mookku crests each with a triumphant TOOT.
+## Scene 5: ANIMAL PASSENGERS BOARD WITH COMEDY (0:40–0:50)
+**Title:** "The Impossible Boarding!"
 
-**Scene 7 — COUNTING 4-6 (1:00–1:10):**
-Continuing count — tunnels (4), bridges (5), stations (6) — all six appearing in colorful sequence — full panoramic mountain railway journey view.
+**🎬 Scene Prompt:**
+```
+3D Pixar animation peak comedy boarding sequence at the small misty
+mountain platform, the challenge of fitting magnificently mismatched
+animals into the tiny narrow-gauge carriages, the elephant attempting
+his seventh creative boarding technique — his enormous grey bulk
+approaching the tiny carriage door in a series of increasingly inventive
+angles: first standing normally (absolutely not), then sideways with
+trunk tucked under (almost), then attempting an elaborate shimmy with
+his trunk used as a boarding handle (partial success), his face finally
+compressed into the carriage with all the cartoon physics of a Pixar
+universe, his large gentle face simultaneously occupying every single
+window of the carriage in the most gloriously impossible geometry,
+the monkey who boarded five minutes ago has already established his home
+on the ceiling luggage rack using his tail as a tension rod and looking
+completely comfortable, the nervous rabbit checking his ticket against
+every surface of the platform for verification, the magnificent peacock
+folding its dramatic tail feathers into the carriage door with the
+delicate care of someone parallel-parking a yacht in a bicycle space,
+Raju watching from the platform with a clipboard in maximum professional
+disbelief, warm mountain morning light, Pixar comedy peak, 8K
+```
 
-**Scene 8 — DANCE BREAK (1:10–1:20):**
-All passengers bouncing in perfect CHUK-CHUK rhythm inside the carriages — synchronized train-bounce dance visible through the windows — mountains bouncing past — Chukku Mookku's wheels spinning in rhythm.
+---
 
-**Scene 9 — BIG EXPRESS TRAIN LAUGHS (1:20–1:30):**
-Silver express train roars past — wind from its speed knocks Chukku Mookku sideways slightly — express looks down with mockery expression — Chukku Mookku wobbles but straightens with pure determination — Raju watching from trackside shakes fist at express.
+## Scene 6: COUNTING MOUNTAINS — 1, 2, 3 (0:50–1:00)
+**Title:** "Count the Mountains!"
 
-**Scene 10 — CHUKKU MOOKKU KEEPS GOING (1:30–1:40):**
-Close-up on Chukku Mookku's determined wheels: CHUK-CHUK-CHUK — never stopping — each passenger's face showing trust and love — the loyalty loop on screen — mountain getting closer.
+**🎬 Scene Prompt:**
+```
+3D Pixar animation educational mountain counting sequence, a stunning
+Nilgiri mountain panorama in layered blue-green tones receding into
+the misty distance, bold numeral 'One' (1) bouncing vigorously onto
+screen in brilliant emerald green as the first rounded mountain peak
+rises with lush green tea plantation terracing on its slopes, Chukku
+Mookku cresting it with a triumphant TOOT-TOOT while his passengers
+wave from the tiny windows, confetti in green raining down, then 'Two'
+(2) in rich cool mountain-blue as a second taller peak appears wrapped
+in blue morning mist with Chukku Mookku a tiny determined speck climbing
+its steep face, then 'Three' (3) in deep purple as the most dramatic
+peak yet rises wrapped in purple-tinted cloud, each number appearing
+with a sound-wave burst of its color, 'One Two Three!' text forming
+from the mountain peaks themselves in their respective colors, a
+miniature route map inset in the corner showing the railway line
+threading through all three peaks like a tiny blue thread, an eagle
+circling majestically above the third peak, ultra educational Pixar
+mountain-wonder quality, 8K
+```
 
-**Scene 11 — MOUNTAIN TOP IN SIGHT (1:40–1:50):**
-The summit station becoming visible through clouds — golden afternoon light — Chukku Mookku sees it and his TOOT grows louder and more joyful — all passengers pressing against windows.
+---
 
-**Scene 12 — ARRIVING AT SUMMIT (1:50–2:00):**
-Triumphant arrival at a beautiful mountain-top station — spectacular 360-degree view of blue Nilgiri mountains — all passengers spilling out cheering — the big express train visible far below in the valley, unable to reach the narrow-gauge mountain track.
+## Scene 7: COUNTING — 4, 5, 6 MORE WONDERS! (1:00–1:10)
+**Title:** "Bridges, Tunnels, Stations!"
 
-**Scene 13 — GRAND FINALE (2:00–2:10):**
-Epic pull-back from summit — Chukku Mookku on the highest track point against sunset — turns to camera — biggest TOOT ever — Tamil text 'ஓடி வா!' blazing in sunset gold — Raju waving proud below.
+**🎬 Scene Prompt:**
+```
+3D Pixar animation educational counting continuation, deep blue-green
+Nilgiri mountain perspective continuing from the previous scene, 'Four'
+(4) in warm amber-gold as a dramatic stone railway tunnel entrance appears
+carved directly through solid mountain rock — ancient and beautiful —
+Chukku Mookku disappearing inside with a whistle and reappearing seconds
+later from the other end with a joyful TOOT, 'Five' (5) in bright
+coral-red as a spectacular mountain railway viaduct bridge appears —
+stone arches spanning a breathtaking valley drop to a river far below —
+Chukku Mookku crossing steadily while passengers peer down with wide
+eyes then laugh with the exhilaration of height, then 'Six' (6) in
+warm golden-yellow as a beautifully maintained small mountain station
+comes into view with marigold flower boxes along the platform and a
+cheerful station master waving his flag, all six landmarks in a
+satisfying panoramic arc, Chukku Mookku's route as a golden dotted
+thread linking them all, confetti bursts on each new reveal, Pixar
+educational mountain-journey quality, 8K
+```
+
+---
+
+## Scene 8: DANCE BREAK — BOUNCING TOGETHER (1:10–1:20)
+**Title:** "The CHUK-CHUK Dance!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation maximum energy dance break sequence, alternating
+between the exterior of Chukku Mookku climbing a vivid green mountain
+slope and the interior view through his carriage windows where all four
+passengers are bouncing in perfect synchronized CHUK-CHUK rhythm —
+the elephant's tremendous weight making his carriage section bounce
+the deepest and most satisfying of all, the monkey conducting the
+rhythm from the ceiling luggage rack with both feet and his tail
+providing a second metronome, the rabbit bouncing straight up and down
+with military precision still clutching his ticket but now actually
+smiling, the magnificent peacock whose folded tail feathers fan open
+and close rhythmically to the beat, the carriage windows becoming a
+display of four synchronized bouncing personalities, exterior wide
+shot: all three carriages visibly bouncing to the CHUK-CHUK rhythm as
+the train ascends the green mountain slope, Chukku Mookku's smokestack
+puffing cheerfully in perfect 4/4 time with CHUK-CHUK text appearing
+in each smoke puff, the Nilgiri mountains themselves appearing to
+bounce gently in sympathetic rhythm, Pixar maximum dance energy, 8K
+```
+
+---
+
+## Scene 9: BIG EXPRESS TRAIN LAUGHS (1:20–1:30)
+**Title:** "The Big Train Mocks!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation underdog-defining moment, a perfectly straight
+modern mainline track appearing alongside the narrow mountain track
+on a brief level section, then the silver express train thundering into
+frame at terrifying speed — the wind blast from its passing rocking
+Chukku Mookku sideways on the narrow mountain track, his carriages
+swaying and all passengers grabbing anything available for stability:
+the elephant using his trunk as an emergency anchor, the monkey seizing
+three overhead bars simultaneously, the rabbit's long ears blowing fully
+horizontal in the wind, the peacock's tail feathers streaming sideways
+like a gorgeous flag in a hurricane, the silver express train looking
+down from its greater height with the most dismissively arrogant narrow
+headlight-eyes and a barely perceptible sneer of contempt for the tiny
+mountain train, Chukku Mookku wobbling from the wind blast but his
+wheels gripping the mountain rail with absolute faithful determination —
+he straightens up with quiet dignity, his expression completely unchanged
+from pure determination, Raju visible at a trackside signal post shaking
+his entire body in righteous outrage at the departing express, Pixar
+underdog dignity at maximum expressiveness, 8K
+```
+
+---
+
+## Scene 10: CHUKKU MOOKKU KEEPS GOING! (1:30–1:40)
+**Title:** "Never Give Up!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation quiet determination and deep loyalty scene, beginning
+with an intimate extreme close-up of Chukku Mookku's blue-green wheels
+against the narrow mountain rail — each revolution of metal on metal in
+faithful perfect rhythm, CHUK-CHUK-CHUK, never slowing, never faltering,
+the mountain track visible ahead still climbing steeply toward the clouds,
+then a slow sequence of passenger window close-ups each revealing a face
+of complete trust: the elephant's large gentle eye pressed to the window
+glass with an expression of faithful contentment, the monkey now completely
+still for the first time in the entire video watching the mountain ahead
+with calm focus, the rabbit tucking his ticket away for the first time
+— no longer checking it — instead watching Chukku Mookku's engine with
+quiet affection, the peacock's magnificent eye meeting Chukku Mookku's
+reflection in the carriage window glass with warm recognition, then
+pulling out to a wide shot showing the mountain summit closer now —
+golden afternoon light beginning to catch the highest peak above the
+clouds — Chukku Mookku's smokestack puffing with renewed energy as he
+senses victory approaching, Pixar quiet determination at its most
+moving, 8K
+```
+
+---
+
+## Scene 11: THE MOUNTAIN TOP IN SIGHT! (1:40–1:50)
+**Title:** "Almost There!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation triumph-approaching sequence, the most dramatic
+section of the Nilgiri mountain climb, thick cloud cover just below
+the summit level through which Chukku Mookku is ascending with all
+his remaining determination, golden afternoon light visible above the
+clouds as a warm luminous promise, the moment Chukku Mookku's smokestack
+nose breaks above the cloud layer first — and suddenly he can see it:
+the summit station in full golden afternoon glory sitting above the
+clouds like a jewel, the entire Nilgiri mountain range visible as a
+breathtaking sea of green peaks stretching to every horizon far below,
+the golden-blue late afternoon sky above perfectly clear and brilliant,
+Chukku Mookku's headlight-eyes going from determined narrowed focus to
+the widest most joyful expression of his life, his TOOT growing from
+his regular cheerful pitch to the most triumphant ascending sound he has
+ever produced — rising in pitch like a cheer of pure triumph, all four
+passengers surging to their windows as the clouds thin and the summit
+appears, the big express train visible as a microscopic silver speck far
+below in the distant lowland valley unable to follow this mountain track,
+Chukku Mookku's final magnificent push for the summit, Pixar triumph
+approach peak, 8K
+```
+
+---
+
+## Scene 12: ARRIVING AT SUMMIT STATION (1:50–2:00)
+**Title:** "We Made It!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation triumphant arrival scene, Chukku Mookku pulling into
+the beautifully maintained mountain summit station as golden late afternoon
+light floods across the platform from a breathtaking angle, a small crowd
+of waiting passengers on the platform erupting into genuine spontaneous
+cheering as this beloved small train arrives precisely on time as he
+always does, Raju who has somehow traveled ahead by some mountain shortcut
+standing proud on the platform with his flag raised in the most triumphant
+salute of his career, all four animal passengers spilling out of the
+carriages in their distinctive ways — the elephant backing out sideways
+with great lumbering dignity to the delight of the crowd, the monkey
+swinging out through the carriage window in one fluid arc, the rabbit
+emerging with both ears fully upright and his now-crumpled ticket held
+aloft in victory, the peacock stepping out and immediately spreading its
+magnificent tail in a full spectacular display drawing collective gasps
+from the platform crowd, the 360-degree view from the summit showing the
+magnificent Nilgiri mountain panorama — blue-green peaks stretching in
+every direction — the big express train visible as a tiny silver line far
+below in the distant plains unable to reach this place at all, maximum
+Pixar triumph warmth, 8K
+```
+
+---
+
+## Scene 13: GRAND FINALE — EVERYONE CHEERS! (2:00–2:10)
+**Title:** "Toot! The Champion!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation epic grand finale, a spectacular pull-back camera
+move beginning at platform level showing the complete summit celebration
+— all characters cheering, passengers dancing, flowers being thrown —
+then slowly pulling back and rising to reveal Chukku Mookku at the very
+highest point of the summit track as the sky behind him transforms to
+the most stunning amber-gold sunset ever rendered in Tamil kids animation,
+the entire Nilgiri mountain range below bathed in warm gold, every peak
+catching the last direct light of the day in layers of amber, rose and
+deep blue, Chukku Mookku positioned at the apex of his journey route
+against this impossible backdrop, his smokestack producing cheerful white
+puffs that catch the golden sunset light, he turns his front toward camera
+and delivers the most magnificent TOOT of the entire video — the sound
+visible as a golden sound-wave ring expanding outward across the mountain
+air, 'Come Run! You Will Win!' text blazing in warm sunset gold from his
+smokestack trail, Raju visible far below on the platform waving with both
+arms and his flag, every single character from the entire song visible in
+the frame celebrating this small determined train who made it, pure joy
+and triumph, 8K
+```
 
 ---
 

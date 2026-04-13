@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Space Wonder + ISRO Pride)
 ```
-ராக்கெட் ராக்கெட் பாரோம் 🚀 | Rocket Rocket Paarom | Tamil Space Kids Song | WHOOOOSH! Adventure
+Rocket Rocket Tamil Space Kids Song | ராக்கெட் ராக்கெட் போகிறோம் 🚀 | Rocket Rocket Paarom | WHOOOOSH! Adventure
 ```
 
 ### 🥈 Option 2 — Girl Hero + Dream Focus
@@ -61,18 +61,13 @@ Your child becomes a rocket! Every time! 🏆
 ✅ ISRO — India's space pride
 ✅ "Dream big" values — the most important lesson
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📺 WATCH MORE — "Vaan Payanam" Space Series:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ Song 2 — Nila Nila (Moon Song): [LINK]
-▶️ Song 3 — Nakshathra Nakshathra (Star Song): [LINK]
 
 🦁 LOVE ANIMALS? Watch our Animal Series:
-▶️ குட்டி சிங்கம் (Baby Lion): [LINK]
-▶️ குட்டி யானை (Baby Elephant): [LINK]
+▶️ குட்டி சிங்கம் (Baby Lion): https://youtu.be/zbC7ed-KijE
+▶️ குட்டி யானை (Baby Elephant): https://youtu.be/RapwiYRBq5g
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔔 SUBSCRIBE! New Tamil kids songs weekly!
+🔔 SUBSCRIBE! New Tamil kids songs weekly! 
 👍 LIKE if your child did the WHOOOOSH jump!
 💬 How high did your child jump? 🚀
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

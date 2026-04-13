@@ -217,21 +217,275 @@ I HAVE BEEN WAITING ALL YEAR', ultra comedic Pixar frog energy, 8K
 
 ---
 
-**Scene 3 — THUNDER SCARES MAAYA (0:20–0:30):**
+## Scene 1: HOT DAY SUDDENLY CHANGES (0:00–0:10)
+**Title:** "The Sky is Changing!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation dramatic weather-change opening, a blazing hot Tamil
+afternoon — golden dry light, a still dusty street, a crow sitting on a
+wall panting with its beak open, a flower wilting in the sun, Kutty Maaya
+playing listlessly in the shade of a doorway — then: a single large leaf
+on the courtyard tree turns over showing its pale underside — the first
+sign of wind — then the wind itself arriving suddenly, picking up dust in
+a small spiral, the sky at the horizon going from white-hot haze to a deep
+threatening blue-grey-purple in a matter of seconds, Maaya looking up and
+seeing the sky change with wide uncertain eyes, the temperature dropping
+noticeably as the shadow of the approaching cloud block falls across the
+scene — everything turning from harsh gold to cool blue-grey in an instant,
+a single enormous fat raindrop falling from nowhere in particular and landing
+on the dusty ground with a perfect circular splat, then another, then a
+sudden rushing RUSH of rain beginning, Maaya's yellow coat visible on a hook
+behind her — its moment of need approaching fast, Pixar atmospheric weather-
+transition quality, 8K
+```
+
+---
+
+## Scene 2: THE DARK CLOUD ARRIVES (0:10–0:20)
+**Title:** "Here Comes Meghamma!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation Meghamma reveal scene, the massive dark grey cloud
+character filling the upper half of the frame as she rolls in from the
+horizon, her enormous fluffy-grey-white form with its slightly stern
+eyebrow-like cloud formations visible from below, the light under her
+dramatically different from the sunny sky to the side — a whole world
+in shadow beneath her, individual raindrop characters visible falling
+from her fluffy underside like she is deciding to share something
+precious, Meghamma's expression visible to the audience (though not yet
+to Maaya) — clearly not angry, just enormously enthusiastic about what
+she is about to do, her parai drum tucked under one enormous cloud arm
+beginning to vibrate slightly, Maaya visible below in the doorway looking
+up with one eye slightly closed in a pre-emptive flinch, Paatti appearing
+behind Maaya in the doorway with a warm hand on her shoulder, the contrast
+between the dramatic sky and the warm domestic doorway perfectly framed,
+the whole scene lit with the specific grey-violet light that only comes
+directly before a monsoon rain, Pixar atmospheric character quality, 8K
+```
+
+---
+
+## Scene 3: FIRST THUNDER — MAAYA SCARED! (0:20–0:30)
+**Title:** "BOOM! Maaya Jumps!"
+
+**🎬 Scene Prompt:**
 ```
 3D Pixar animation peak comedy-tension scene, Meghamma in the sky above playing
 her enormous parai drum with building enthusiasm, each beat sending a visible
 shockwave through the clouds, Maaya in the doorway reacting to each BOOM with
 a progressively more dramatic full-body flinch — first boom: slight jump, second
 boom: hides behind Paatti, third boom: appears as just two large eyes peering
-around Paatti's saree, 'இடி இடி!' appearing on screen in quaking orange letters
+around Paatti's saree, 'Thunder! Thunder!' appearing on screen in quaking orange letters
 that physically tremble with each thunder beat, Thambi Frog visible in the garden
 doing the opposite — jumping with MORE joy with each thunder boom, Maaya's
 comic contrast with the frog capturing the exact difference between fear and joy
 as responses to the same stimulus, Pixar comedy peak, 8K
 ```
 
-**Scene 12 — RAINBOW APPEARS (1:50–2:00):**
+---
+
+## Scene 4: PAATTI EXPLAINS — THUNDER IS A DRUM! (0:30–0:40)
+**Title:** "It's Just a Drum, Maaya!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation warm reassurance scene, Paatti kneeling down to Maaya's
+eye level with both hands gently on Maaya's small shoulders, her expression
+the absolute calm wisdom of someone who has heard ten thousand thunderstorms
+and found them all beautiful, pointing upward at the cloud and miming a drum
+beat — TAM-TAM — then pointing at Meghamma visible above and miming the same
+action, Maaya looking up at Meghamma with new cautious eyes, then looking back
+at Paatti with uncertainty, Paatti doing the drum gesture again and breaking
+into a warm smile — 'Paarai adikkiraal!' (She is playing the drum!), the visual
+of Meghamma above suddenly shifting in Maaya's perception — her 'angry' brows
+now visibly just energetically focused eyebrows of a drummer deep in the music,
+Thambi Frog visible through the door rain bouncing with each thunder boom clearly
+already having known this all along, Maaya's expression slowly shifting from
+fear to cautious curiosity to the very beginning of delight, Pixar fear-to-wonder
+emotional transition quality, 8K
+```
+
+---
+
+## Scene 5: MAAYA STEPS TO THE DOORWAY (0:40–0:50)
+**Title:** "One Brave Step Forward!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation brave first-step scene, Maaya now wearing her bright
+yellow raincoat — slightly too large for her, the sleeves bunching at
+the wrists — and her yellow rubber boots, standing at the exact threshold
+of the doorway with her toes at the very edge where the indoor dry floor
+meets the wet outdoor step, looking out at the rain with the yellow coat
+as her armour and her paper boat in her hands as her mission, Paatti
+visible slightly behind offering quiet support but not going further —
+this is Maaya's step to take, the rain visible as a beautiful silvery
+curtain beyond the doorway, Thambi Frog visible in the middle of the wet
+garden doing his seventeenth rain-joy jump and somehow making eye contact
+with Maaya through the rain — a look of absolute encouragement from one
+small creature to another, Maaya's foot lifting from the dry floor and
+moving forward, her boot meeting the wet step, rain beginning to hit
+her yellow coat and run off in perfect streams, the expression on her
+face: the most precisely rendered transition from fear to courage ever
+animated, Pixar emotional-courage quality, 8K
+```
+
+---
+
+## Scene 6: RAINBOW COLORS 1–3 (0:50–1:00)
+**Title:** "Red! Yellow! Green!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation spectacular rainbow counting sequence beginning, Maaya
+now fully outside in the rain, her yellow coat sheeting water, tilting her
+face upward at the sky, 'One' (1) in brilliant red as the first arch of
+color begins to materialize in the rain-sky above — a perfect red curve
+appearing one brushstroke at a time, 'Sivappu Vaanvil!' (Red Rainbow!),
+'Two' (2) in warm golden-yellow as the second band appears just below the
+first — warm amber-gold against the grey-blue sky, 'Mancal Vaanvil!'
+(Yellow Rainbow!), 'Three' (3) in vivid green as the third band completes
+the first partial rainbow arc with brilliant green, 'Pacchai Vaanvil!'
+(Green Rainbow!), each color arriving with a sound — a distinct musical
+note — that together begin to form a chord, Thambi Frog visible below
+each color band doing a color-matching pose with his bright green body,
+Maaya pointing upward at each color with her paper boat hand, rain still
+falling around her but now feeling like sparkle not threat, ultra vivid
+Pixar rainbow-revelation quality, 8K
+```
+
+---
+
+## Scene 7: RAINBOW COLORS 4–6 (1:00–1:10)
+**Title:** "Blue! And More! The Full Rainbow!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation rainbow completion sequence, continuing from where three
+colors have appeared, 'Four' (4) in rich deep blue as the fourth band of
+the rainbow materializes — deep royal blue curving across the sky, 'Neela
+Vaanvil!' (Blue Rainbow!), 'Five' (5) in bright indigo-violet as the fifth
+band fills in with the most mysterious and beautiful color, 'Six' (6) in
+brilliant violet-purple completing the rainbow arc just as the rain begins
+to ease slightly, all six colors now visible as a complete spectacular arc
+from horizon to horizon, each color band reflecting in every puddle on the
+ground below creating a second upward-facing rainbow, the visual of two
+complete rainbows — above and below — with Maaya standing between them,
+all six bands appearing in a satisfying rainbow-complete sequence,
+'Vanna Vaanvil!' (Colorful Rainbow!) in six-colored text blazing across
+the frame, Thambi Frog on a rock with his arms spread wide as if he
+personally arranged all the colors, Meghamma visible at the cloud edge
+above with a modest but deeply satisfied expression, Pixar rainbow-glory
+quality, 8K
+```
+
+---
+
+## Scene 8: RAIN DANCE BREAK! (1:10–1:20)
+**Title:** "Dancing in the Rain!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation pure monsoon joy dance break, Maaya fully committed to
+the rain now — spinning with arms wide, her yellow coat a bright wheel of
+color against the grey-silver rain, Thambi Frog doing his legendary dance
+in the garden puddles — each jump landing with a magnificent SPLASH that
+sends water in perfect parabolic arcs, Paatti visible in the doorway now
+laughing with her hand at her mouth watching Maaya dance, even Paatti's
+toes edging forward onto the wet step, Meghamma above drumming her parai
+with visible joy — each beat sending a fresh wave of rain that Maaya
+runs TOWARD rather than away from, TIPPY-TIPPY-TAP rain on Maaya's yellow
+hood audible and visible as tiny impact-rings, the paper boat in Maaya's
+hand finally launched into a small stream of rainwater running along the
+path — the boat floating away bravely on its inaugural voyage, individual
+large raindrops catching the rainbow light and each containing a tiny
+rainbow reflection as they land, the most joyfully kinetic scene in
+the entire song series, Pixar rain-dance peak, 8K
+```
+
+---
+
+## Scene 9: MEGHAMMA EXPLAINS HERSELF (1:20–1:30)
+**Title:** "I Brought Water for Everyone!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation warm cloud-to-child conversation scene, Meghamma
+leaning down from the sky toward Maaya with her enormous friendly face
+at approachable range, her expression now clearly warm and earnest as
+she shows Maaya her parai drum — demonstrating with an exaggerated mime
+that the thunder is just drumming, not anger, her enormous cloud hands
+miming the water she carries — tilting herself to show the rain flowing
+from her as a gift she is consciously giving to the world below, 'Naan
+thanneer kondu vandein!' (I brought water for all!) her voice the
+deepest warmest boom that is nothing like the scary thunder of earlier,
+the world visible below Meghamma responding to her gift — plants visibly
+lifting in the rain, a dry river bed beginning to fill, a field turning
+from pale to vivid green, a child splashing in a puddle, Maaya looking
+up with total new understanding — her fear completely replaced by
+genuine gratitude for this enormous generous cloud friend, Thambi Frog
+doing a deep respectful bow toward Meghamma from his puddle, Pixar
+character-explanation warmth, 8K
+```
+
+---
+
+## Scene 10: PAPER BOAT IN THE STREAM! (1:30–1:40)
+**Title:** "Sail, Little Boat!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation pure childhood wonder scene, Maaya's paper boat
+sailing along the small stream of rainwater now running freely along
+the village path, the boat navigating its miniature voyage with surprising
+determination — bumping off a pebble, spinning in a small eddy, recovering
+and continuing, Maaya running alongside it on her rain boots with her
+hands slightly out for balance and her eyes completely fixed on the boat,
+the boat given a slight personality — tilting slightly as if looking
+around, responding to the current with what appears to be enthusiasm,
+Thambi Frog leaping alongside the boat in the stream in a parallel
+voyage providing encouragement and occasionally accidentally splashing
+the boat with too much enthusiasm, Paatti visible in the background
+having finally come to the doorstep to watch, a small pebble in the
+path causing the boat to go sideways — suspense — then a new flow of
+water from Meghamma above rights the boat and sends it sailing forward
+again, the rainbow visible above this whole small adventure adding
+magical light to the scene, Pixar childhood-wonder quality, 8K
+```
+
+---
+
+## Scene 11: FULL RAIN DANCE — EVERYONE! (1:40–1:50)
+**Title:** "Everyone Dance!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation grand rain celebration, the scene expanding to show
+not just Maaya's garden but the whole village responding to the monsoon
+rain with joy, children in yellow and red coats running in the street,
+a group of elderly women in sarees letting the rain hit their faces with
+closed eyes and warm smiles, cows standing in the rain with expressions
+of supreme bovine contentment, flowers opening in the rain in real time,
+the frog community of the entire garden — revealed to be many more than
+just Thambi — all celebrating in their own magnificent jumping chorus,
+Meghamma above drumming with both hands now producing the most glorious
+thunder-rhythm anyone has ever heard, TIPPY-TIPPY-TAP rain filling every
+surface, every puddle reflecting the rainbow above, the entire natural
+and human world in its most alive and joyful monsoon state, Maaya at
+the center of it all — no longer in any way afraid — arms wide, face
+upturned, mouth open to taste the rain, the yellow coat the brightest
+thing in the entire grey-silver-rainbow scene, Pixar monsoon-joy peak,
+ultra cinematic wide shot, 8K
+```
+
+---
+
+## Scene 12: RAINBOW APPEARS! (1:50–2:00)
+**Title:** "The Rainbow Bridge!"
+
+**🎬 Scene Prompt:**
 ```
 3D Pixar animation most visually spectacular moment in the entire song series,
 the rain stopping suddenly — a brief 1-second total silence — then a gasp as
@@ -246,6 +500,31 @@ and below — and Maaya standing between them, Thambi Frog posed heroically on
 a rock with both arms spread wide under the rainbow as if he caused it himself,
 Meghamma peering through a break in the clouds with a modest but satisfied expression,
 ultra breathtaking Pixar nature beauty, 8K
+```
+
+---
+
+## Scene 13: GRAND FINALE — THANK YOU RAIN! (2:00–2:10)
+**Title:** "Maariukku Nandri!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation warm, triumphant resolution finale, the rain has fully
+stopped and the world is dripping and gleaming and impossibly vivid in the
+post-rain clarity, every leaf catching a diamond-drop of water that holds
+a tiny rainbow inside, the garden air fresh and cool with the incomparable
+petrichor of monsoon rain on hot earth, Maaya standing in the center of
+the wet garden with her arms spread wide and her face tilted up at the
+clearing sky with the most complete expression of gratitude and joy in
+the series, Thambi Frog beside her in an identical pose, Paatti now fully
+outside on the wet path smiling at them both, the full rainbow still
+visible arching above them all, Maaya turning to the camera directly
+for the first time with an enormous smile, 'Maariukku Nandri!' (Thank you,
+Rain!) forming in brilliant rainbow letters from her upward pointing
+finger, Meghamma visible above the rainbow giving a last modest wave
+before beginning to drift away — already carrying rain for somewhere else
+that needs it — the most joyful and grateful finale in the nature series,
+Pixar gratitude-beauty peak, 8K
 ```
 
 ---
