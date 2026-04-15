@@ -7,7 +7,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED
 ```
-கோலம் குட்டி 🌺 | Kolam Kutty | Tamil Kids Kolam Song | TAP-TAP-TAP! | Tamil Cultural Art Song
+Tamil Kids Kolam Song 🌺| கோலம் குட்டி 🌺| Kolam Kutty | TAP-TAP-TAP! | Tamil Cultural Art Song
 ```
 ### 🥈 Option 2
 ```
