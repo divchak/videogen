@@ -1,0 +1,144 @@
+Suno AI - Guide for No Music + Only Dialogue / Spoken Word
+Best Method to Generate Pure Dialogue (No Singing, No Music)
+
+In the STYLE box, paste this:
+
+spoken word, narration, dialogue only, clear speech, no music, no singing, no melody, no beat, no rhythm, no instrumental, pure voice, audiobook style(You can customize the voice, e.g.)
+professional male narrator, calm and clear spoken dialogue, no music
+dramatic female voice acting, emotional monologue, no background music
+natural conversation, realistic male and female voices, no music at all
+
+In the LYRICS box, start every paragraph or character line with one of these tags:[spoken word]
+[spoken]
+[narration]
+[dialogue]
+[monologue]
+
+Strong Negative Prompt (add at the top of lyrics):
+[no music][no melody][no beat][no rhythm][no singing][no rap][no instrumental][silence in background]
+Example - Single Narrator / Monologue:
+[spoken word]
+Hello everyone, welcome to this story from Mumbai.
+[spoken word]
+Every morning at 6 AM, he would drink his hot chai and rush to the local train station.
+[spoken word]
+But on that rainy Monday, something completely unexpected happened.
+Example - Two-Person Dialogue:
+[spoken word] [Male voice]
+Hey Priya, did you check the new project files?
+[spoken word] [Female voice]
+Not yet. What’s the update? Tell me quickly!
+[spoken word] [Male voice]
+The client rejected everything. We have to finish the redesign by tomorrow morning.
+Extra Tips:
+
+Always repeat the [spoken word] tag before every new paragraph.
+Specify voice types clearly: [deep male narrator], [warm female storyteller], [young male], etc.
+If faint music still appears, add to Style: pure spoken dialogue, voice only, complete silence
+Generate multiple times and choose the cleanest version.
+
+Quick Copy-Paste Template (Single Narrator):
+Style:
+spoken word, professional male narrator, clear speech, no music, no singing, no melody, pure voice
+Lyrics:
+[spoken word]
+Paste your text here paragraph by paragraph.
+Quick Copy-Paste Template (Dialogue):
+Style:
+spoken word, natural conversation, realistic male and female voices, dialogue only, no music, no beat
+Lyrics:
+[spoken word] [Male voice]
+Your first character's line.
+[spoken word] [Female voice]
+Second character's reply.
+[spoken word] [Male voice]
+Continue the conversation.
+
+
+a) My sample:
+
+Sytle:
+
+
+
+LYRICS> **Tone Brief — NARRATOR:** Warm, slightly whimsical storybook opener — sets a sense of wonder from the very first word. Clear and friendly.
+> **Tone Brief — ACCHU:** Bright, breathless, every question feels urgent. Natural child energy — not overdone. Slight delighted giggle quality to the voice.
+> **Tone Brief — APPA:** Calm and warm with a storyteller's timing. Slows down at the key science reveals. Genuine delight when Acchu gets it right.
+
+[VOICE: NARRATOR]
+<break time="0.5s" />
+Every single day...
+<break time="0.3s" />
+Acchu looked up at the sky.
+<break time="0.4s" />
+And every single day...
+<break time="0.3s" />
+she wondered the same thing.
+<break time="0.5s" />
+Why...
+<break time="0.2s" />
+is the sky...
+<break time="0.2s" />
+blue?
+<break time="1.5s" />
+
+[VOICE: ACCHU]
+Appa!
+<break time="0.2s" />
+Appa, Appa, APPA!
+<break time="0.3s" />
+Why is the sky blue?!
+<break time="0.2s" />
+It is SO blue today!
+<break time="0.3s" />
+Why not green?
+<break time="0.2s" />
+Or pink?
+<break time="0.2s" />
+Or PURPLE?!
+<break time="0.2s" />
+Why is it always...
+<break time="0.2s" />
+BLUE?!
+<break time="1.3s" />
+
+[VOICE: APPA]
+Oh HO!
+<break time="0.3s" />
+Now THAT is one of the greatest questions anyone has ever asked me.
+<break time="0.5s" />
+And the answer...
+<break time="0.3s" />
+is more magical than you think.
+<break time="0.4s" />
+Are you ready?
+<break time="1.5s" />
+
+[VOICE: APPA]
+First — let us talk about sunlight.
+<break time="0.3s" />
+Sunlight looks white or yellow to us, right?
+<break time="0.4s" />
+But here is the secret...
+<break time="0.5s" />
+White light is not just one colour.
+<break time="0.3s" />
+It is actually ALL the colours...
+<break time="0.3s" />
+hiding together...
+<break time="0.2s" />
+in one beam.
+<break time="1.5s" />
+
+[VOICE: APPA]
+Watch THIS.
+<break time="0.4s" />
+When I hold this prism up to the sunlight...
+<break time="0.4s" />
+all the hidden colours come OUT!
+<break time="0.5s" />
+Red, orange, yellow, green, blue, violet!
+<break time="0.4s" />
+A whole RAINBOW was hiding inside white light... all along!
+<break time="0.5s" />
+

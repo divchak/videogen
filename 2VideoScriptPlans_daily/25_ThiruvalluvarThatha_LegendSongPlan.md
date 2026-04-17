@@ -139,7 +139,7 @@
 
 **🖼️ Character Image Prompt:**
 ```
-A curious 3D Pixar-style animated Tamil boy character aged 7, warm brown skin,
+A curious 3D Pixar-style animated Tamil boy character aged 7, Bright complexion skin,
 intelligent keen eyes behind small round glasses suggesting he is a reader and
 thinker, wearing a simple school uniform kurta, holding a large old book with
 Tamil script on the cover, in a dream sequence setting — soft golden luminous
@@ -264,6 +264,9 @@ dream-self visible now standing in this space — the same Arjun but
 somehow more alert, more present, more ready, the dream quality
 visible in the slightly luminous soft-edge rendering of everything,
 Pixar dream-world transition quality, 8K
+
+
+
 ```
 
 ---
@@ -276,16 +279,16 @@ Pixar dream-world transition quality, 8K
 3D Pixar animation most reverential and warm character reveal in the series,
 a pre-dawn golden-dark dream space with floating Tamil manuscript pages and
 soft ancient lamp light, the figure of Thiruvalluvar approaching from a gentle
-golden distance — first just the warm glow of wisdom, then gradually his white
-dhoti, then his palm-leaf manuscript, then his face — the most gentle, wise,
-accessible face ever animated for Tamil children, 'OOOOH!' as a deep resonant
+golden distance — first just the warm glow of wisdom, 
+ then his palm-leaf manuscript, then his face — the most gentle, wise,
+accessible face ever animated for Tamil children, as a deep resonant
 temple bell sound radiates outward from him in visible golden soundwave rings,
 Arjun's expression of awe transforming into warmth as Thiruvalluvar kneels to
 his eye level and smiles — the most profound moment of cultural connection in
 the entire song series, warm golden dream light, Pixar Studio Ghibli combined
 reverence-and-warmth quality, 8K
 ```
-
+3D Pixar animation magnificent ancient Tamil kingdom dream panorama, Thiruvalluvar and Arjun walking in the vision of ancient Tamil Nadu — carved temple corridors with their distinctive pillars, courtyards with ancient ponds reflecting the warm golden sky, Tamil children playing in grounds, scholars debating under shade trees with palm-leaf manuscripts, artisans at work on stone carvings, musicians playing veena and mridangam in the evening , a vast ancient river visible in the background with boats crossing, the visual wealth and sophistication of classical Tamil civilization visible in every detail, Arjun walking beside Thiruvalluvar who points here and there with his palm-leaf manuscript indicating things of beauty and wisdom, the world 2000 years old but somehow feeling more real than the present, ancient Tamil script visible in carved inscriptions on every wall, 'Irandaayiram Aandu!' (Two Thousand Years!) text forming from the very stone carvings, Pixar ancient-civilization wonder quality, 8K3D Pixar animation magnificent ancient Tamil kingdom dream panorama, Thiruvalluvar and Arjun walking in the vision of ancient Tamil Nadu — carved temple corridors with their distinctive pillars, courtyards with ancient ponds reflecting the warm golden sky, Tamil children playing in grounds, scholars debating under shade trees with palm-leaf manuscripts, artisans at work on stone carvings, musicians playing veena and mridangam in the evening , a vast ancient river visible in the background with boats crossing, the visual wealth and sophistication of classical Tamil civilization visible in every detail, Arjun walking beside Thiruvalluvar who points here and there with his palm-leaf manuscript indicating things of beauty and wisdom, the world 2000 years old but somehow feeling more real than the present, ancient Tamil script visible in carved inscriptions on every wall, 'Irandaayiram Aandu!' (Two Thousand Years!) text forming from the very stone carvings, Pixar ancient-civilization wonder quality, 8K
 ---
 
 ## Scene 4: ANCIENT TAMIL KINGDOM (0:30–0:40)
@@ -302,14 +305,14 @@ scholars debating under shade trees with palm-leaf manuscripts, artisans
 at work on stone carvings, musicians playing veena and mridangam in the
 evening air, a vast ancient river visible in the background with boats
 crossing, the visual wealth and sophistication of classical Tamil civilization
-visible in every detail, Arjun walking wide-eyed beside Thiruvalluvar who
+visible in every detail, Arjun walking  beside Thiruvalluvar who
 points here and there with his palm-leaf manuscript hand indicating things
 of beauty and wisdom, the world 2000 years old but somehow feeling more
 real than the present, ancient Tamil script visible in carved inscriptions
-on every wall, 'Irandaaviram Aandu!' (Two Thousand Years!) text forming
+on every wall, 'Irandaayiram Aandu!' (Two Thousand Years!) text forming
 from the very stone carvings, Pixar ancient-civilization wonder quality, 8K
 ```
-
+A magnificent cinematic 3D animated ancient Tamil kingdom dream panorama, featuring a Sage and Arjun walking in a vast high-fantasy vision of ancient Tamil Nadu. The scene is rich with detail: carved temple corridors with distinctive pillars, courtyards with ancient ponds reflecting a warm, volumetric golden sky. Tamil children are playing, scholars debate under shade trees holding palm-leaf manuscripts, and artisans work on stone carvings, with musicians playing veena and mridangam in the evening. A vast ancient river is visible in the background with boats crossing, capturing the visual wealth and sophistication of classical Tamil civilization. Ancient Tamil script is visible in carved inscriptions on every wall, with the text 'Irandaayiram Aandu!' (Two Thousand Years!) forming from the stone itself. Emotional, high-end 3D render, soft light, warm amber and gold tones, 8K
 ---
 
 ## Scene 5: FIRST KURAL — SHARE YOUR FOOD (0:40–0:50)
@@ -325,15 +328,15 @@ child then back at the bowl, then — the decision made — breaking the rice
 into two portions and offering half with both hands, the giving gesture
 rendered in warm golden light with small golden sparkles rising from
 the act of sharing, the receiving child's face transforming from hunger
-to warmth, 'Pagirndhu saappidu!' (Share your food!) appearing in warm
-Tamil calligraphy letters above the vision, Thiruvalluvar's expression
+to warmth, 'Share your food!' appearing in warm
+English calligraphy letters above the vision, Thiruvalluvar's expression
 showing the deep satisfaction of someone who wrote this wisdom 2000 years
 ago and sees it still true and still needed, Arjun watching the vision
 and reaching into his dream school bag and taking out his own snack —
 the ancient wisdom immediately becoming present-day action, 'One!' in
 warm gold, Pixar wisdom-made-living quality, 8K
 ```
-
+A cinematic 3D animated scene set in a warm, amber-lit ancient hall. A distinguished, aged Tamil scholar with a white beard, wearing simple, academic-style robes and holding an ancient scroll, is speaking to a young boy, Arjun. They are both smiling. Beside them, a glowing magical hologram appears, depicting two small, smiling ancient Tamil children. They are actively engaged in a shared task: carefully taking a single, large, intricately carved wooden puzzle and happily assembling it together. As they work in cooperation, visible shimmering golden circular ripples and light sparkles radiate outward from their hands, filling the air. Above this cooperative vision, stylized, warm-gold English calligraphy text forms, stating: 'Generosity of Spirit.' The scholar and Arjun both look on with connection. High-resolution 3D character animation, soft volumetric lighting, emotional storytelling, 8K.
 ---
 
 ## Scene 6: COUNTING WISDOM 1–3 (0:50–1:00)
@@ -346,7 +349,7 @@ appearing as a numbered vision beside Thiruvalluvar and Arjun walking,
 'One' (1) in warm gold — the sharing-food vision with its warm sparkles,
 'Two' (2) in clear bright white as a second vision appears: a child
 speaking in front of an assembly — the moment of choosing truth over
-easy falsehood — the word 'Unmai!' (Truth!) rising from the child's
+easy falsehood — the word 'Truth!' (Truth!) rising from the child's
 words as visible light, the child's face showing the small courage
 required to be honest, 'Three' (3) in respectful deep blue as a third
 vision shows a young person pausing at a doorway to let an elder pass

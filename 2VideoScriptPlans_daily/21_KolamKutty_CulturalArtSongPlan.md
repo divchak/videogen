@@ -135,8 +135,8 @@
 
 **🖼️ Character Image Prompt:**
 ```
-A delightful 3D Pixar-style animated Tamil girl character aged 4, warm
-brown skin with fingertips dusted white from rice flour kolam practice,
+A delightful 3D Pixar-style animated Tamil girl character aged 4, bright complexion 
+with fingertips dusted white from rice flour kolam practice,
 dark hair in a simple single plait with a marigold flower tucked in,
 wearing a bright teal pavadai (skirt) with small flower embroidery,
 sitting cross-legged on a deep red oxide floor in front of a partially
@@ -162,7 +162,7 @@ ultra adorable Pixar creative-concentration quality, 8K
 
 **🖼️ Character Image Prompt:**
 ```
-A graceful 3D Pixar-style animated Tamil grandmother character, soft wrinkled
+A graceful 3D Pixar-style animated Tamil grandmother character in bright complexion, soft wrinkled
 hands with extraordinary grace in their movement, wearing a simple clean white
 cotton saree with a pale rose border, silver hair in a neat bun with a small
 jasmine string, kneeling on the red oxide floor with practiced ease, her right

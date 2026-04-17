@@ -150,7 +150,7 @@
 
 **🖼️ Character Image Prompt:**
 ```
-A cheerful 3D Pixar-style animated Tamil boy character aged 6, warm brown
+A cheerful 3D Pixar-style animated Tamil boy character aged 6, bright complexion 
 city-kid energy but slightly dishevelled from village play, wearing a blue
 T-shirt and shorts, dark eyes full of wonder at village life, hair slightly
 wild with a coconut oil shine, carrying a small city backpack that looks
@@ -174,7 +174,7 @@ ultra Pixar heartwarming quality, 8K
 **🖼️ Character Image Prompt:**
 ```
 The definitive 3D Pixar-style animated Tamil grandmother character — the
-Paatti every Tamil person carries in their heart, aged 65-70, warm dark
+Paatti every Tamil person carries in their heart, aged 65-70, bright complexion
 skin with beautiful deep wrinkles that each tell a story of love and laughter,
 large gentle dark eyes with laugh lines radiating from every corner, soft
 silver hair in a traditional bun with a small jasmine garland, wearing a
@@ -341,7 +341,7 @@ each 'gift' appearing with a warm golden sparkle and a heartbeat pulse,
 a visual love-letter to grandmother gifts, Velu visible at the edge
 of each frame receiving each gift with a different expression of joy
 and contentment, Paatti barely visible in each scene but her presence
-felt in everything, 'One! Two! Three!' text forming in warm Tamil-gold
+felt in everything, 'One! Two! Three!' text forming in warm English-gold
 calligraphy, Pixar educational-love quality, 8K
 ```
 
@@ -461,7 +461,7 @@ but his eyes are somewhere else entirely, a small mango leaf tucked into
 his pencil case, a tiny folded paper in his pocket that is clearly a note
 from Paatti, he opens his notebook and writes one line: 'Paatti en manam!'
 (Paatti is in my heart!), he turns to the camera directly for the first
-time with a quiet certain smile and points to his heart — 'அம்மம்மா!'
+time with a quiet certain smile and points to his heart — 'Paatti!'
 appearing in warm golden letters from that pointing, a final flash of the
 village home and the mango tree and Paatti's face in warm memory light,
 the most emotionally complete finale in the family series, pure Tamil

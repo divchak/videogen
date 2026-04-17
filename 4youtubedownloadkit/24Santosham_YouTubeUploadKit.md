@@ -7,7 +7,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED
 ```
-சந்தோஷம் சந்தோஷம் 😊 | Santosham | Tamil Emotions Song for Kids | HA-HA UHH ROAR! | Tamil SEL Song
+சந்தோஷம் சந்தோஷம் Emotions😊 Song for Kids | Santosham | HA-HA UHH ROAR! | Tamil SEL Song
 ```
 ### 🥈 Option 2
 ```
@@ -79,6 +79,8 @@ energy, kids-safe, Inside Out inspired with Tamil warmth. 16:9, 4K.
 ```
 
 ---
+Tags:
+Santosham Santosham, Tamil Emotions Song, Tamil Kids Songs, Feelings in Tamil, Tamil SEL, சந்தோஷம் சந்தோஷம் பாடல், Kutty Muthu, Tamil Nursery Rhymes, Learn Tamil Feelings, Children's Emotional Intelligence, Tamil Educational Videos, Anger Management for Kids Tamil, Happy Sad Angry Brave Tamil, Inside Out Tamil Song, Preschool Tamil Learning, Tamil Rhymes for Kids, Santoshi Kavaali Kopam Thairiyam Anbu, Mindfulness for Kids Tamil, Tamil Poem for Children, SEL Activities Tamil
 
 ## 📅 PART 6 — UPLOAD STRATEGY
 
@@ -99,7 +101,7 @@ energy, kids-safe, Inside Out inspired with Tamil warmth. 16:9, 4K.
 What are YOU feeling right now?
 Post the emoji that matches:
 😄 = SANTOSHAM (Happy!)
-😢 = KAVAALI (A little sad)
+😢 = KAVALAI (A little sad)
 💪 = THAIRIYAM (Brave today!)
 ❤️ = ANBU (Feeling loved!)
 😤 = KOPAM (A bit angry — that's okay!)

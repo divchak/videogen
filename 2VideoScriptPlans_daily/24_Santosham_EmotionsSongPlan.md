@@ -129,6 +129,23 @@
 
 **Who He Is:** The main child character hosting the emotions journey — relatable, expressive.
 
+**🖼️ Character Image Prompt:**
+```
+A charming 3D Pixar-style animated Tamil boy aged 5–6 named Kutti Muthu,
+round chubby face with warm bright complexion tone, large expressive
+dark brown eyes that shift with every emotion — wide with joy, droopy with
+sadness, narrowed with determination — thick slightly unruly black hair
+with one stubborn strand falling across his forehead, wearing a cheerful
+bright blue school uniform shirt with a small star badge on the chest,
+tiny round hands frequently pressed against his chest where five soft
+glowing colored orbs are faintly visible — yellow, blue, red, green,
+pink — representing his five inner emotions, his default expression a
+wide open genuine smile that shows two slightly uneven front teeth, ears
+slightly large giving him an endearing look, the warmth of a South Indian
+child radiating from every feature, Pixar Inside Out host-character quality
+with full Tamil cultural authenticity, 8K
+```
+
 ---
 
 ## Character 2: சந்தோஷி — Santoshi 😄 (Joy)

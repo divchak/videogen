@@ -23,7 +23,8 @@ Tamil Kids Kolam Song 🌺| கோலம் குட்டி 🌺| Kolam Kutty
 ## 📝 PART 2 — YOUTUBE DESCRIPTION
 
 ```
-🌺 கோலம் போடு போடு! TAP-TAP-TAP! 🌺
+🌺 கோலம் போடு போடு! TAP-TAP-TAP! 🌺 Beautiful Melodius Song in Mohana Raga.
+Enjoy the Bliss. Every age group will like it
 The FIRST Tamil kids Kolam song in the world! 🇮🇳✨
 
 Watch what happens when little Chella helps Paatti draw the morning kolam —

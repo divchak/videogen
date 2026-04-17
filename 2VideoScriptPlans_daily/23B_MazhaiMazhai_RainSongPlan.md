@@ -491,11 +491,11 @@ thunder-rhythm, TIPPY-TIPPY-TAP rain filling every surface, every puddle
 reflecting the rainbow above, the entire natural and human world in its most
 alive monsoon state, Maaya at the center — arms wide, face upturned, mouth
 open to taste the rain, the yellow coat the brightest thing in the entire
-grey-silver-rainbow scene, the text "Mazhai Vandhadhu! Naama Aaduom!"
-appearing in joyful rainbow-gradient Latin letters on screen, Pixar monsoon-
+grey-silver-rainbow scene, the text "The rain came! Let's play!!"
+appearing in joyful rainbow-gradient English letters on screen, Pixar monsoon-
 joy peak, ultra cinematic wide shot, 8K.
-Screen text overlay: "Mazhai Vandhadhu! Naama Aaduom!" in rainbow-gradient
-Latin letters only — no Tamil script on screen.
+Screen text overlay: "The rain came! Let's play!!" in rainbow-gradient
+English letters only — no Tamil script on screen.
 ```
 
 ---
@@ -516,10 +516,10 @@ the rainbow's colors reflected in every puddle below creating a second rainbow
 looking upward — so there are two rainbows: above and below — and Maaya
 standing between them, Thambi Frog posed heroically on a rock with both arms
 spread wide as if he caused it himself, Meghamma peering through a break in
-the clouds with a deeply satisfied expression, the text "Vanna Vaanvil!" blazing
-across the sky in spectacular six-color gradient Latin letters, ultra breathtaking
+the clouds with a deeply satisfied expression, the text "Color Rainbow!" blazing
+across the sky in spectacular six-color gradient English letters, ultra breathtaking
 Pixar nature beauty, 8K.
-Screen text overlay: "Vanna Vaanvil!" in six-color gradient Latin letters only.
+Screen text overlay: "Color Rainbow!" in six-color gradient English letters only.
 ```
 
 ---
@@ -539,13 +539,13 @@ sky with the most complete expression of gratitude and joy in the series,
 Thambi Frog beside her in an identical arms-wide pose, Paatti now fully
 outside on the wet path smiling at them both, the full rainbow still visible
 arching above them all, Maaya turning to the camera directly for the first
-time with an enormous smile, the text "Mazhaikku Nandri!" forming in brilliant
-rainbow-gradient Latin letters from her upward pointing finger — six colors,
+time with an enormous smile, the text "Thank you, rain!" forming in brilliant
+rainbow-gradient English letters from her upward pointing finger — six colors,
 one thank-you — Meghamma visible above the rainbow giving a last warm wave
 before beginning to drift away — already carrying rain for somewhere else that
 needs it — the most joyful and grateful finale in the nature series, Pixar
 gratitude-beauty peak, 8K.
-Screen text overlay: "Mazhaikku Nandri!" in rainbow-gradient Latin letters
+Screen text overlay: "Thank you, rain!" in rainbow-gradient English letters
 ONLY — do NOT render Tamil script மழைக்கு நன்றி as an on-screen text overlay.
 ```
 
@@ -575,7 +575,7 @@ ONLY — do NOT render Tamil script மழைக்கு நன்றி as an 
 
 [Verse 1]
 மேகம் வந்தது பார் பார்
-மழை Varum Indru
+மழை Varum இன்று
 திடீரென்று இடி இடி
 மாயா பயந்தாள்!
 
@@ -583,15 +583,15 @@ ONLY — do NOT render Tamil script மழைக்கு நன்றி as an 
 மழை மழை!
 சொட்டு சொட்டு!
 (TIPPY-TIPPY-TAP!)
-மழை Vandhadhu!
+மழை வந்தது!
 நாம் ஆடுவோம்!
 
 [Verse 2 - Rainbow Colors]
-ஒன்று — சிவப்பு வான்வில்
-இரண்டு — மஞ்சள் வான்வில்
-மூன்று — பச்சை வான்வில்
-நான்கு — நீல வான்வில்
-ஐந்து ஆறு — வண்ண வான்வில்!
+ஒன்று — சிவப்பு வானவில்
+இரண்டு — மஞ்சள் வானவில்
+மூன்று — பச்சை வானவில்
+நான்கு — நீல வானவில்
+ஐந்து ஆறு — வண்ண வானவில்!
 
 [Chorus]
 மழை மழை!
@@ -612,7 +612,7 @@ ONLY — do NOT render Tamil script மழைக்கு நன்றி as an 
 
 [Outro — classical slow-down]
 மழைக்கு Nandri!
-வான்வில் வந்தது!
+வானவில் வந்தது!
 மழை... மழை...
 (veena fading out, rain sound ending)
 ```

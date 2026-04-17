@@ -7,7 +7,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED
 ```
-பாட்டி பாட்டி 👵 | Paatti Paatti | Tamil Grandma Love Song | AMMAMMAA! | Tamil Kids Family Song
+Tamil Grandma Love Song | பாட்டி பாட்டி 👵 | Paatti Paatti |  Paatti | Tamil Kids Family Song
 ```
 ### 🥈 Option 2 — Diaspora Emotion Focus
 ```
@@ -30,10 +30,10 @@ Little Velu visits Paatti's village and discovers the sweetest place on Earth!
 Coconut oil massages, mango tree stories, banana leaf meals... ✨
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-👵 THE AMMAMMAA CHALLENGE!
+👵 THE AMMAMMAA! Appatthha! Paatti! AAcchi! CHALLENGE!
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1️⃣ Give your nearest grandparent a hug! 👵
-2️⃣ Shout AMMAMMAA! together!
+2️⃣ Shout AMMAMMAA! Appatthha! Paatti! AAcchi! together!
 3️⃣ Ask them to tell you ONE story 🌿
 4️⃣ Remember it forever ❤️
 

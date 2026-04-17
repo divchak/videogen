@@ -12,7 +12,7 @@
 ```
 ### 🥈 Option 2
 ```
-மழை மழை 🌧️ | Mazhai Mazhai | Classical Tamil Rain Song for Kids | Rainbow Colors | Don't Fear Thunder!
+Tamil Rain Song for Kids🌧️ | மழை மழை  | Mazhai Mazhai |  Rainbow Colors | Don't Fear Thunder!
 ```
 ### 🥉 Option 3
 ```

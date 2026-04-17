@@ -1,0 +1,15 @@
+Timing Reference Table — shows expected duration per scene so you can spot-check sync after generation
+
+--->How to Use in ElevenLabs
+Step-by-Step — ElevenLabs Studio (Multi-Speaker Audio)
+Step 1 → Click "Studio" in the left sidebar (this is the old "Projects")
+Step 2 → Click "+ New Project" or "Create" button at the top
+Step 3 → Name your project e.g. Acchu_Volcano_Audio
+Step 4 → Inside the Studio editor, look for "Add Speaker" or "Characters" panel and create 3 speakers: | Speaker Name | Assign Voice | Model | |---|---|---| | NARRATOR | Antoni | Eleven Multilingual v2 | | ACCHU | Matilda | Eleven Multilingual v2 | | APPA | Adam | Eleven Multilingual v2 |
+Step 5 → For each [VOICE: X] block in the script:
+Paste that block's dialogue as a new paragraph in the editor
+Click on that paragraph → assign the matching Speaker from the dropdown on the left
+Step 6 → Keep the <break time="Xs" /> tags as-is — Studio supports them natively
+Step 7 → Click "Generate All" → wait for all paragraphs to render
+Step 8 → Click "Export" / "Download" → choose WAV (better quality for video editing)
+Step 9 → Drop the audio file onto your video editor timeline at 0:00
