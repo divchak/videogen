@@ -11,7 +11,7 @@
 ```
 ### 🥈 Option 2
 ```
-எறும்பு எறும்பு 🐜 | The Mighty Tiny Ant! | Tamil Proverb Kids Song | MARCH! Never Give Up
+The Mighty Tiny Ant!🐜|எறும்பு எறும்பு 🐜 | Tamil Proverb Kids Song | MARCH! Never Give Up
 ```
 
 ---
@@ -42,9 +42,10 @@ and a grain of sugar is a MOUNTAIN! 😮✨
 ✅ Real science: ants carry 50x their weight!
 ✅ "Small doesn't mean weak" empowerment
 
-#ErumbuErumbu #TamilAntSong #TamilKidsSong #MarchMarch #TamilProverb
+#ErumbuErumbu #TamilAntSong #TamilKidsSong #MarchMarch #TamilProverb#எறும்புஎறும்பு #ErumbuErumbu #TamilAntSong #TamilKidsSongs #MarchMarchAntSong #KuttyErumbu #TamilRhymes #TeamworkSongTamil #TamilProverb #சிறுதுளிபெருவெள்ளம் #TinyAntBigStrength #TamilMoralStories #KidsNatureSongs #AntAnimation #PreschoolTamil #EducationalTamil #TamilCounting #3DTamilKids #InsectSongs #NeverGiveUp #SmallDropsMakeGreatFloods
 ```
-
+tags:
+எறும்பு எறும்பு, Erumbu Erumbu, Tamil Ant Song, Tamil Kids Songs, March March Ant Song, Kutty Erumbu, Tamil Rhymes for Children, Teamwork Song Tamil, Tamil Proverb for Kids, சிறு துளி பெரு வெள்ளம், Tiny Ant Big Strength, Tamil Moral Stories, Kids Nature Songs Tamil, Ant Animation Tamil, Preschool Tamil Songs, Educational Tamil Content, Tamil Counting Song, 3D Tamil Kids Animation, Insect Songs for Kids, Never Give Up Song Tamil, Small Drops Make Great Floods
 ---
 
 ## 🖼️ PART 5 — THUMBNAIL CHECKLIST

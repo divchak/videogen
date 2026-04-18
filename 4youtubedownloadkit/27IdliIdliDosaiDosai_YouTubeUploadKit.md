@@ -7,7 +7,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED
 ```
-இட்லி இட்லி தோசை தோசை 🍳 | Idli Dosai Tamil Kids Song | SIZZLE! Tamil Breakfast Song | Paatti's Kitchen
+Idli Dosai Kids Food Song🍳|இட்லி இட்லி தோசை தோசை | SIZZLE! Tamil Breakfast Song | Paatti's Kitchen
 ```
 ### 🥈 Option 2 — Morning Routine Focus
 ```
@@ -50,7 +50,7 @@ And discover where Idli actually comes from — from the farmer's field! 🌾
 🍳 PARENTS: Play this EVERY morning at breakfast!
 Your child will eat their idli without a fight! Promise! 😄
 
-#IdliDosai #TamilFoodSong #TamilKidsSong #BreakfastSong #PaattiKitchen
+#IdliDosai #TamilFoodSong #TamilKidsSong #BreakfastSong #PaattiKitchenTamilIdliDosaiSong# TamilBreakfastSong# இட்லிதோசைபாட்டு# TamilKidsFood# TamilNurseryRhymes2026# TamilKidsNutrition# TamilCountingSong# TamilMorningRoutine# IdliDosaSong# PaattiKitchen# TamilAnimation2026# TamilKidsChannel# LearnTamilColors# SouthIndianBreakfast# HealthyFoodTamil# DosaiAmmaDosai# TamilRhymes# 3DAnimationTamil# TamilFoodCulture# IdliIdliDosaiDosai# KidsFoodHabits# TamilKidsASMR# SizzleSong# Ponni#
 ```
 
 ---
@@ -58,11 +58,7 @@ Your child will eat their idli without a fight! Promise! 😄
 ## 🏷️ PART 3 — TAGS
 
 ```
-Tamil idli dosai song, Tamil breakfast song kids, idli dosa Tamil song,
-Tamil kids food song, Tamil morning routine song, idli song children,
-dosa song Tamil, Tamil paatti kitchen song, Tamil food culture kids,
-Tamil counting song food, இட்லி தோசை பாட்டு, Tamil kids 2026,
-Tamil animation breakfast, Tamil kids nutrition song, Tamil Pixar food
+Tamil idli dosai song, Tamil breakfast song kids, இட்லி தோசை பாட்டு, Tamil kids food song, Tamil nursery rhymes 2026, Tamil kids nutrition, Tamil counting song, Tamil morning routine, idli dosa song Tamil, Tamil paatti kitchen, Tamil animation 2026, Tamil kids channel, learn Tamil colors, South Indian breakfast kids, healthy food Tamil kids, Dosai Amma Dosai, Tamil rhymes for toddlers, 3D Tamil animation, Tamil food culture, Idli Idli Dosai Dosai, kids food habits, Tamil kids ASMR, Sizzle song
 ```
 
 ---
