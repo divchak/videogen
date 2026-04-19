@@ -13,7 +13,7 @@
 
 ### 🥈 Option 2 — Global Silambam Revival + First Kids Song
 ```
-சிலம்பம் சிலம்பம் ⚔️ | Tamil Martial Art for Kids! | The FIRST Silambam Children's Song Ever!
+The FIRST Silambam Children's Song Ever!⚔️ | 3000-Year Tamil Warrior Art!|சிலம்பம் சிலம்பம் ⚔️| Tamil Martial Art for Kids! 
 ```
 
 ### 🥉 Option 3 — Warrior Identity + Inspiration

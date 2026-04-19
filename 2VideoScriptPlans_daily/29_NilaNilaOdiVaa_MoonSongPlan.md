@@ -232,17 +232,20 @@ character, 8K
 
 **🖼️ Character Image Prompt:**
 ```
-The same beloved 3D Pixar Tamil grandmother character from Songs 18,
-22 and 28 — maintaining perfect visual consistency — silver hair in
-neat bun with marigold, thick round spectacles with magnified warm
-eyes, cream and rose cotton saree, warm laugh-lined face, now seen
-through a warm lit apartment window from the rooftop perspective —
-she is inside looking upward at the sky with her hand softly on the
-window frame, humming gently to herself, her lips forming the words
-of the ancient moon song she has always known, the warm interior
-apartment light framing her in a golden glow against the cool blue
-evening exterior, an expression of timeless peace and connection to
-the sky above, ultra Pixar nostalgic warmth, 8K
+The definitive 3D Pixar-style animated Tamil grandmother character — the
+Paatti every Tamil person carries in their heart, aged 65-70, bright complexion
+skin with beautiful deep wrinkles that each tell a story of love and laughter,
+large gentle dark eyes with laugh lines radiating from every corner, soft
+silver hair in a traditional bun with a small jasmine garland, wearing a
+classic faded but immaculate cream and pale rose cotton saree that speaks
+of dignified village simplicity, arms wide open in the absolute classic
+Tamil grandmother welcome pose — the most universally recognized gesture
+in Tamil culture, standing at the entrance of a beautiful traditional Tamil
+village home — tiled roof, white-washed walls, kolam at the doorstep, a
+large mango tree providing dappled afternoon shade over the scene, her
+expression capturing the complete joy of seeing her grandchild arriving,
+the most emotionally resonant character in the entire series, Pixar
+emotional peak + Studio Ghibli warmth, 8K
 ```
 
 ---
@@ -592,7 +595,7 @@ of the frame making the entire image feel like the most beautiful and
 safe place in the world, the boy pointing his single index finger
 upward directly at the Moon then at the camera then back at the Moon
 — the TWINKLE gesture at maximum meaning — inviting every watching
-child to do the same and call their own Moon, Tamil title text
+child to do the same and call their own Moon, English title text "Nila Nila Odi Va"
 materializing in warm silver letters overhead, ultra Pixar peak finale
 warmth and grandeur, 8K
 ```

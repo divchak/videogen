@@ -1,4 +1,4 @@
-# 🐝 வண்டுகுலம் வண்டுகுலம் (Vandukulam Vandukulam) — YouTube Upload Kit
+# 🐝 வண்டுக்கூட்டம் வண்டுக்கூட்டம் (Vandukuttam Vandukuttam — YouTube Upload Kit
 ### Title • Description • Tags • Strategy | April 2026
 ### Companion to: `33_Vandukulam_BeeSongPlan.md`
 
@@ -8,17 +8,17 @@
 
 ### 🥇 Option 1 — RECOMMENDED (BZZZ Hook + Honey + Cross-Series Reward)
 ```
-வண்டுகுலம் வண்டுகுலம் 🐝🍯 | Vandukulam | BZZZ Along! Tamil Bee Song for Kids | Honey Magic!
+வண்டுக்கூட்டம் வண்டுக்கூட்டம் 🐝🍯 | Vandukuttam | BZZZ Along! Tamil Bee Song for Kids | Honey Magic!
 ```
 
 ### 🥈 Option 2 — Conservation + Educational Angle
 ```
-வண்டுகுலம் வண்டுகுலம் 🐝 | Why Bees Are Magic! | Tamil Kids Science Song | Save the Bees!
+வண்டுக்கூட்டம் வண்டுக்கூட்டம் 🐝 | Why Bees Are Magic! | Tamil Kids Science Song | Save the Bees!
 ```
 
 ### 🥉 Option 3 — Insect Series Sequel + Erumbu Cameo Hook
 ```
-வண்டுகுலம் வண்டுகுலம் 🐝 | The Ant's Bee Neighbour! | Tamil Insect Song | Erumbu is Back!
+வண்டுக்கூட்டம் வண்டுக்கூட்டம்🐝 | The Ant's Bee Neighbour! | Tamil Insect Song | Erumbu is Back!
 ```
 
 ### 📊 Title Strategy by Audience
@@ -37,7 +37,7 @@
 > ✅ **Copy-paste ready. Replace `[LINK]` with actual URLs before uploading.**
 
 ```
-🐝 வண்டுகுலம் வண்டுகுலம் — BZZZ-BZZZ-BZZZ! 🍯
+🐝 வண்டுக்கூட்டம் வண்டுக்கூட்டம் — BZZZ-BZZZ-BZZZ! 🍯
 Spread your arms like wings → spin and BZZZ → you are a bee now! 🐝
 How much honey can YOU collect today?
 
@@ -114,10 +114,10 @@ The bee is a Tamil cultural symbol AND one of the most important creatures on Ea
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎵 SING ALONG — CHORUS LYRICS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-வண்டுகுலம்!
+வண்டுக்கூட்டம்!
 ஜீ ஜீ ஜீ!
 தேன் இனிக்குது!
-வண்டுகுலம்!
+வண்டுக்கூட்டம்!
 (BZZZ-BZZZ-BZZZ! 🐝)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -146,7 +146,7 @@ The bee is a Tamil cultural symbol AND one of the most important creatures on Ea
 📤 SHARE with a teacher — bee conservation is on the curriculum! 🐝🌸
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-#Vandukulam #வண்டுகுலம் #TamilBeeSong #TamilKidsSong #BzzzChallenge
+#Vandukuttam #வண்டுக்கூட்டம் #TamilBeeSong #TamilKidsSong #BzzzChallenge
 ```
 
 ---
@@ -155,8 +155,8 @@ The bee is a Tamil cultural symbol AND one of the most important creatures on Ea
 
 ### ✅ Full Tags List — Copy All
 ```
-vandukulam vandukulam,
-வண்டுகுலம் வண்டுகுலgu,
+vandukuttam vandukuttam,
+வண்டுக்கூட்டம் வண்டுக்கூட்டம்,
 tamil bee song kids,
 bee song tamil,
 honey song kids tamil,

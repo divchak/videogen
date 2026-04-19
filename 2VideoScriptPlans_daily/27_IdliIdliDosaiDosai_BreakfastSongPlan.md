@@ -136,8 +136,7 @@ skin, dark hair in two small pigtails, in the precise moment of transitioning
 from deep sleep to absolute food-awakened alertness — the smell of dosa has
 just reached her nose: one eye still closed, one eye slowly opening, nostrils
 flared wide in maximum appreciation of the dosa aroma drifting in from the
-kitchen, a tiny drool forming at the corner of her slightly open mouth, her
-small feet already pushing the blanket off even though the rest of her is
+kitchen,  her small feet already pushing the blanket off even though the rest of her is
 still theoretically asleep, wearing pastel pyjamas with small flower print,
 warm golden morning light through a window with a coconut tree visible outside,
 ultra adorable half-asleep-but-food-detecting expression, Pixar peak, 8K
@@ -346,14 +345,14 @@ craftsperson satisfaction, Pixar food-beauty quality, 8K
 color revealed with maximum visual appetizing appeal, 'One' (1) in
 brilliant white as the Idli Twins step forward — perfectly round, steam-
 white, soft-surfaced — glowing with the warm white of freshly steamed
-idli, 'Venmai Idli!' (White Idli!) in white text, both twins waving
+idli, 'White Idli! in white text, both twins waving
 with matching smiles, 'Two' (2) in warm golden amber as the freshly
 made dosa is revealed in full — its magnificent golden-amber surface
 catching the kitchen light in the most appetizing way possible —
-'Ponnira Dosai!' (Golden Dosa!) in golden text, 'Three' (3) in rich
+'Golden Dosa!' in golden text, 'Three' (3) in rich
 deep red-orange as Saambaar steps forward in his most magnificent
 enthusiasm — bubbling, steaming, the deep red-orange of a perfect
-sambar full of vegetables — 'Sivappu Saambaar!' (Red Sambar!) in
+sambar full of vegetables — 'RedSambar!' in
 warm red text, each food item appearing with its color creating an
 immediate visual association that children will carry every time they
 see these foods, confetti in food colors on each reveal, Pixar food-
@@ -370,13 +369,13 @@ education quality, 8K
 3D Pixar animation educational counting continuation, 'Four' (4) in
 fresh vivid green as Sattni steps forward with her immaculate green
 coconut chutney surface and her perfectly measured calm superiority —
-'Pacchai Sattni!' (Green Chutney!) in green text, Sattni giving a single
+'Green Chutney!' in green text, Sattni giving a single
 modest bow, 'Five' (5) in warm amber as a mini-montage of Ponni eating
 one idli, then a piece of dosa, then sipping sambar, then scooping
 chutney — each bite producing a visible wave of satisfaction on her
 face, 'Six' (6) in warm golden as the final count coincides with Ponni
 leaning back with both hands on her perfectly round satisfied tummy —
-'Vairu Niraindhadhu!' (Tummy Full!) — the most universally satisfying
+'Tummy Full!' — the most universally satisfying
 Tamil breakfast conclusion, Ponni's expression showing the specific
 quality of someone who has just had exactly enough of something perfect,
 the Idli Twins visible doing a satisfied synchronized lean-back matching
@@ -428,8 +427,7 @@ with the care of someone who knows exactly what this effort will become,
 the water in the field reflecting the golden morning sky, other farmers
 visible further back in the field, birds landing on the paddy borders
 to watch, the visual abundance of a Tamil Nadu rice landscape in full
-morning productivity, 'Vivasaayi Nel Vithaitthar!' (Farmer planted the
-rice!) in warm earth-brown letters emerging from the water ripples,
+morning productivity, 'Farmer planted the rice!' in warm earth-brown letters emerging from the water ripples,
 Ponni visible at the edge of the frame watching this vision unfold with
 her breakfast still warm in her hands, Pixar farm-wonder quality, 8K
 ```
@@ -452,7 +450,7 @@ overnight transformation — then the morning and Paatti's hands grinding,
 then pouring, then spreading — the complete chain from farmer's sweat
 to Paatti's love made visible as one unbroken line of care, each
 transition carrying the warmth of one pair of caring hands to the next,
-'Naamakkaaga Thaayaritthar!' (Prepared with love for us!) in warm gold
+'Prepared with love for us!' in warm gold
 letters connecting farmer's hands to Paatti's hands to Ponni's smile,
 Ponni in the present moment looking at her idli with completely new eyes
 — seeing the entire chain of love and labor behind every bite, Pixar
@@ -527,8 +525,7 @@ Sattni's perfectly measured), the Idli Twins doing their simultaneous
 identical bow and then looking at each other with identical expressions
 of satisfaction, Ponni raising both hands and pointing both index fingers
 toward the camera with the biggest smile of the entire series,
-'Neeyum Saappidu! Idli Dosai Tamilar Unavu!' (You eat too! Idli Dosa
-is Tamil food!) blazing in golden-red letters from her pointing fingers,
+'You eat too! Idli Dosa is Indian food!' blazing in golden-red letters from her pointing fingers,
 a final glorious SIZZLE sound from the kitchen tava where Paatti has
 already started making more for anyone who wants seconds, the most
 deliciously satisfying finale in the entire song series, Pixar

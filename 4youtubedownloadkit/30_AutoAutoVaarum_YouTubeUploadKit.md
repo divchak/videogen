@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (PUTT-PUTT Hook + City Identity + Geography)
 ```
-ஆட்டோ ஆட்டோ வாரும் 🛺 | Auto Auto Vaarum | PUTT-PUTT Tamil Kids Song | Know Your City!
+ஆட்டோ ஆட்டோ வாரும் 🛺 | Auto Auto Varum | PUTT-PUTT Tamil Kids Song | Know Your City!
 ```
 
 ### 🥈 Option 2 — Cultural Icon + City Philosopher Angle
@@ -142,7 +142,7 @@ This song celebrates Tamil Nadu's cities and the auto driver who knows them best
 📤 SHARE with every Tamil Nadu city family — this is YOUR vehicle! 🛺
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-#AutoAutoVaarum #ஆட்டோ #TamilTransportSong #TamilKidsSong #PuttPutt
+#AutoAutoVarum #ஆட்டோ #TamilTransportSong #TamilKidsSong #PuttPutt
 ```
 
 ---
@@ -190,7 +190,7 @@ tamil culture vehicle song
 
 | Tag Group | Tags | Why |
 |---|---|---|
-| **Direct Song** | `auto auto vaarum`, `ஆட்டோ ஆட்டோ வாரும்`, `putt putt kids song` | Exact match search |
+| **Direct Song** | `auto auto varum`, `ஆட்டோ ஆட்டோ வாரும்`, `putt putt kids song` | Exact match search |
 | **Vehicle Series** | `chukku mookku transport`, `odi vaa rail sequel`, `tamil transport song` | Tap Train song audience |
 | **Cultural Icon** | `auto rickshaw song kids`, `yellow auto kids song`, `auto uncle song` | Tamil cultural identity uniqueness |
 | **Geography Education** | `marina beach kids song`, `temple tower kids song`, `geography kids tamil` | Educational parent search |

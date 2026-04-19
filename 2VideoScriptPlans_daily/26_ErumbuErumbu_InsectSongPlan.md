@@ -269,7 +269,7 @@ camera and tapping his antennae together in the ant equivalent of cracking
 knuckles — the universal gesture of 'I am ready for this day', his
 individual leg hairs visible in the macro light, a pure white sugar
 crystal three times his own size nearby waiting to be carried,
-'Sinna Erumbu! Periya Manam!' (Tiny Ant! Big Heart!) materializing
+'Tiny Ant! Big Heart! materializing
 from the morning dew sparkles, ultra charming Pixar micro-hero quality, 8K
 ```
 
@@ -488,8 +488,7 @@ most spectacular grass-tree, the entire colony gathering at the entrance
 for a moment of collective acknowledgement of what they have accomplished,
 Kutty Erumbu at the front with his antennae raised in victory, the ant
 army arranged behind him in a beautiful formation that from above forms
-the shape of the Tamil letter for 'one' (ஒன்று — a nod to the counting
-throughout), each ant doing the synchronized antennae-celebration tap
+the shape of the english letter for 'one' , each ant doing the synchronized antennae-celebration tap
 that is the ant version of applause, Vandukulam circling above in
 celebratory spirals dropping small golden pollen particles that catch
 the afternoon light like confetti, the storage chambers visible through
@@ -543,9 +542,8 @@ of an ant line still visible, still marching, still MARCH-MARCH-MARCHing
 with perfect rhythm and absolute purpose, then back down to close on
 Kutty Erumbu's face at the ant colony entrance, looking directly at the
 camera with the most direct and confident eye contact ever given by an
-insect, raising both front legs in a clear unmistakable salute, 'Neeyum
-Sinnatha? Paravaayillai! Neeyum Velluvai!' (Small too? Never mind! You
-will win too!) materializing from the marching footsteps in warm gold,
+insect, raising both front legs in a clear unmistakable salute, "Small too? Never mind! You
+will win too!"materializing from the marching footsteps in warm gold,
 then a final MARCH-MARCH-MARCH in rhythm with a visible sound wave
 expanding outward from the tiny colony entrance across the entire garden,
 the micro-world's most triumphant and empowering finale, Pixar micro-hero

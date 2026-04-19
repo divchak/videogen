@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Pre-loaded Cultural Phrase + Night Wonder + Moon Friendship)
 ```
-நிலா நிலா ஓடி வா 🌙✨ | Nila Nila Odi Vaa | Tamil Moon Song for Kids | The Moon Is Your Friend!
+Moon Song for Kids 🌙✨| நிலா நிலா ஓடி வா 🌙✨ | Nila Nila Odi Vaa | The Moon Is Your Friend!
 ```
 
 ### 🥈 Option 2 — Grandmother Heritage + Emotional Memory Angle
@@ -131,12 +131,10 @@ This song honours that beautiful ancient tradition — and gives it new life for
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH MORE — THE TAMIL KIDS SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🚀 ராக்கெட் ராக்கெட் பாரோம் (Rocket Rocket Paarom — Space!) → [LINK]
-▶️ 🛁 பல் தேய் தேய் (Pal Thei Thei — Brush Teeth!) → [LINK]
-▶️ 👵 பாட்டி பாட்டி (Paatti Paatti — Grandmother Love) → [LINK]
-▶️ ✨ மின்மினி மின்மினி (Minmini Minmini — Firefly Song!) → [LINK]
-▶️ All Tamil Kids Songs Playlist → [LINK]
-▶️ Subscribe → [LINK]
+▶️ 🚀 ராக்கெட் ராக்கெட் பாரோம் (Rocket Rocket Paarom — Space!) → https://youtu.be/JDN2tEw5HN4
+▶️ 🛁 பல் தேய் தேய் (Pal Thei Thei — Brush Teeth!) → https://youtu.be/XQvz68g-PyM
+▶️ All Tamil Kids Songs Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new Tamil kids song every week!
@@ -145,7 +143,7 @@ This song honours that beautiful ancient tradition — and gives it new life for
 📤 SHARE with every Tamil grandmother — this is HER song given new life! 🌙✨
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-#NilaNila #நிலாநிலாஓடிவா #TamilMoonSong #TamilKidsSong #MoonSong
+#NilaNila #நிலாநிலாஓடிவா #TamilMoonSong #TamilKidsSong #MoonSong#nilanilaodivaa #நிலாநிலாஓடிவா #tamilmoonsongkids #nilanilatamil #babymoonsong #tamilnightsong #bedtimesongtamil #nightskykids #paattipaattisongs #moonstorytamil #tamilfolksongkids #chandiransong #twinklemoon #animatedsongtamil #starskidssong #nurseryrhymesnight #tamillullaby #minminisong #nilanilafolk #தமிழ்குழந்தைபாடல் #nilapaadal #moonlighttamil #vaanpayanam #rocketrocketpaarom #nightwonder #kidstamil2026 #fearofdarktamil #tamilnadukidssong #nilasong
 ```
 
 ---

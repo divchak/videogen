@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Iconic Image + Comedy + Emotional Hook)
 ```
-தாத்தா தாத்தா 👴🥭 | Thaatha Thaatha | The Grandfather Who Still Climbs Mango Trees! | Tamil Kids Song
+The Grandfather Who Still Climbs Mango Trees! 👴🥭| தாத்தா தாத்தா | Thaatha Thaatha | Tamil Kids Song
 ```
 
 ### 🥈 Option 2 — Emotional Diaspora Angle + Memory
@@ -130,11 +130,11 @@ This is Thaatha's gift to you. 👴
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH BOTH GRANDPARENT SONGS TOGETHER!
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 👵 பாட்டி பாட்டி (Paatti Paatti — Grandmother Love!) → [LINK]
+▶️ 👵 பாட்டி பாட்டி (Paatti Paatti — Grandmother Love!) → https://youtu.be/zLG9ZWIF-0s
 ▶️ 👴 தாத்தா தாத்தா (THIS SONG!) 
-▶️ 🌾 பொங்கல் பொங்கல் (Pongal Pongal — Festival Song with Thaatha!) → [LINK]
-▶️ All Tamil Kids Family Songs → [LINK]
-▶️ Subscribe → [LINK]
+▶️ 🌾 பொங்கல் பொங்கல் (Pongal Pongal — Festival Song with Thaatha!) → https://youtu.be/usKc0IY_gHE
+▶️ All Tamil Kids Family Songs → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new Tamil kids song every week!

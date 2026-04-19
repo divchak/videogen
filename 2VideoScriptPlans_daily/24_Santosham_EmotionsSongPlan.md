@@ -337,15 +337,15 @@ sadness quality — sad but never despairing, 8K
 ```
 3D Pixar animation spectacular emotions introduction sequence, all five
 emotion characters bursting out from Muthu's chest area in a shower of
-colorful emotion-sparks and arranging themselves in a line — Santoshi
-(yellow, bouncing), Kavaali (blue, gentle), Kopam (red, steam-puffing),
-Thairiyam (green, cape flaring), Anbu (pink, arms open) — each one
+colorful emotion-sparks and arranging themselves in a line — Happiness
+(yellow, bouncing), Sadness (blue, gentle), Anger (red, steam-puffing),
+Courage (green, cape flaring), Love (pink, arms open) — each one
 performing their signature action simultaneously creating a chaotic but
 perfectly choreographed emotional symphony, 'Joy! Sadness! Anger!
 Courage! Love!' appearing in their respective colors above them,
 Muthu watching with the most delighted expression of recognition,
 kids at home getting to perform each emotion face and action in sequence,
-ultra Pixar inside-out emotion character quality with Tamil cultural
+ultra Pixar inside-out emotion character quality with  cultural
 warmth, 8K
 ```
 
@@ -363,7 +363,7 @@ surprise → disbelief → the first flush of genuine anger, Kopam the Anger
 character visible in a flash — steam rising from his head pressure gauge
 approaching the red zone, fists raised in their ineffectual boxing pose —
 representing the real feeling that Muthu is experiencing right now,
-then the key moment: Paatti's voice in Muthu's memory — 'Moochu vittu
+then the key moment: Paatti's voice in Muthu's memory — moochu vittu
 nillaanum!' (Breathe and stand still!) — Muthu actually stopping,
 actually breathing, the breath visible as a visible stream of air that
 briefly deflates Kopam's steam, Kopam looking slightly surprised at
@@ -535,7 +535,7 @@ each emotion character doing their signature gentle action simultaneously
 now just a warm cheerful puff, Thairiyam's cape flowing peacefully,
 Anbu's arms open — all at once, all valid, all beautiful, 'Every feeling
 is okay!' appearing in all five colors simultaneously above Muthu's
-head like a declaration, the most affirmative and complete emotional
+head like a declaration in english, the most affirmative and complete emotional
 health message in Tamil kids animation, Pixar SEL emotional peak, 8K
 ```
 
@@ -557,8 +557,7 @@ settles to a steady warm golden light of a fully integrated human being,
 Muthu turning to the camera directly for the first time, meeting the viewer's
 eyes with the quiet confident warmth of someone who knows all their feelings
 and is okay with every single one of them, pointing to his heart and then
-toward the camera, 'Neeyum Azhagu! Un Unarvugal Azhagu!' (You are beautiful!
-Your feelings are beautiful!) appearing in five-colored letters from his
+toward the camera, 'You are beautiful! Your feelings are beautiful' appearing in five-colored letters from his
 pointing, the most empowering finale message in the entire song series,
 every child watching understanding they are completely and exactly right
 as they are, Pixar SEL resolution peak, 8K
