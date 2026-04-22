@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (New Beginning + Avvaiyar Authority)
 ```
-விநாயகர் அகவல் 🐘✨ | Vinayagar Agaval | 3D Animation | Avvaiyar's Sacred Hymn | Tamil Devotional
+Vinayagar Agaval 🐘✨| விநாயகர் அகவல் | 3D Animation | Avvaiyar's Sacred Hymn | Tamil Devotional
 ```
 
 ### 🥈 Option 2 — Festival / Exam Season Peak

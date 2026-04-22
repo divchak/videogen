@@ -1104,6 +1104,131 @@ gold palette, 8K
 | Upload Timing | 4 weeks before Mandala Deeksha begins | Nov/Dec annual spike |
 | Tags | ஐயப்பன், Ayyappa, Harivarasanam, Sabarimalai, Swamiye Saranam | |
 
+
+
+[Style of Music: Devotional Carnatic classical in Madhyamavati raga, slow and serene temple lullaby, soulful male vocals exactly like KJ Yesudas, rich emotional depth, smooth gliding gamakas and meends, soft veena and mridangam accompaniment, gentle flute touches, traditional South Indian temple atmosphere, reverent and peaceful, high vocal clarity with slight vibrato, no modern beats]
+
+[Verse 1]
+Harivarasanam Viswamohanam
+Haridadhiswaram Aaradhyapadhukam
+Arivimardhanam Nithyanarthanam
+Hariharatmajam Devamashraye
+
+[Chorus]
+Saranam Ayyappa Swamy Saranam Ayyappa
+Saranam Ayyappa Swamy Saranam Ayyappa
+
+[Verse 2]
+Saranakirtanam Bhaktamanasam
+Bharanalolupam Narthanalasam
+Arunabhasuram Bhoothanayakam
+Hariharatmajam Devamashraye
+
+[Chorus]
+Saranam Ayyappa Swamy Saranam Ayyappa
+Saranam Ayyappa Swamy Saranam Ayyappa
+
+[Verse 3]
+Pranayasathyakam Prananayakam
+Pranathakalpaka Suprabhanjitham
+Pranavamandiram Keerthanapriyam
+Hariharatmajam Devamashraye
+
+[Chorus]
+Saranam Ayyappa Swamy Saranam Ayyappa
+Saranam Ayyappa Swamy Saranam Ayyappa
+
+[Verse 4]
+Thuragavahanam Sundarananam
+Varahadayutham Devavarnitham
+Gurukrupakaram Keerthanapriyam
+Hariharatmajam Devamashraye
+
+[Chorus]
+Saranam Ayyappa Swamy Saranam Ayyappa
+Saranam Ayyappa Swamy Saranam Ayyappa
+
+[Verse 5]
+Sritajanapriyam Chinthithapradam
+Sruthivibhushanam Sadhujeevanam
+Sruthimanoharam Geethalalasam
+Hariharatmajam Devamashraye
+
+[Chorus]
+Saranam Ayyappa Swamy Saranam Ayyappa
+Saranam Ayyappa Swamy Saranam Ayyappa
+
+[Verse 6]
+Sarasanabham Bhootanayakam
+Haridasavaryam Gurukrupakaram
+Saranakirtanam Bhaktamanasam
+Hariharatmajam Devamashraye
+
+[Chorus]
+Saranam Ayyappa Swamy Saranam Ayyappa
+Saranam Ayyappa Swamy Saranam Ayyappa
+
+[Verse 7]
+Saranam Pahi Mam Saranam Pahi Mam
+Saranam Pahi Mam Saranam Pahi Mam
+Saranam Pahi Mam Saranam Pahi Mam
+Hariharatmajam Devamashraye
+
+[Chorus]
+Saranam Ayyappa Swamy Saranam Ayyappa
+Saranam Ayyappa Swamy Saranam Ayyappa
+
+[Outro - slow fade, soft veena and gentle chanting]
+Saranam Ayyappa... Swamy Saranam Ayyappa...
 ---
+
+[Verse 1]
+ഹരിവരാസനം വിശ്വമോഹനം
+ഹരിദധീശ്വരം ആരാധ്യപാദുകം
+അരിവിമർദ്ദനം നിത്യനർത്തനം
+ഹരിഹരാത്മജം ദേവമാശ്രയേ
+
+[Chorus]
+ശരണമയ്യപ്പാ സ്വാമി ശരണമയ്യപ്പാ
+ശരണമയ്യപ്പാ സ്വാമി ശരണമയ്യപ്പാ
+
+[Verse 2]
+ശരണകീർത്തനം ഭക്തമാനസം
+ഭരണലോലുപം നർത്തനാലസം
+അരുണഭാസുരം ഭൂതനായകം
+ഹരിഹരാത്മജം ദേവമാശ്രയേ
+
+[Chorus]
+ശരണമയ്യപ്പാ സ്വാമി ശരണമയ്യപ്പാ
+ശരണമയ്യപ്പാ സ്വാമി ശരണമയ്യപ്പാ
+
+[Verse 3]
+പ്രണയസത്യകം പ്രാണനായകം
+പ്രണതകല്പകം സുപ്രഭാഞ്ചിതം
+പ്രണവമന്ദിരം കീർത്തനപ്രിയം
+ഹരിഹരാത്മജം ദേവമാശ്രയേ
+
+[Chorus]
+ശരണമയ്യപ്പാ സ്വാമി ശരണമയ്യപ്പാ
+ശരണമയ്യപ്പാ സ്വാമി ശരണമയ്യപ്പാ
+
+[Verse 4]
+തുരഗവാഹനം സുന്ദരാനനം
+വരഗദായുധം വേദവർണ്ണിതം
+ഗുരുകൃപാകരം കീർത്തനപ്രിയം
+ഹരിഹരാത്മജം ദേവമാശ്രയേ
+
+[Chorus]
+ശരണമയ്യപ്പാ സ്വാമി ശരണമയ്യപ്പാ
+ശരണമയ്യപ്പാ സ്വാമി ശരണമയ്യപ്പാ
+
+[Verse 5]
+ത്രിഭുവനവിഭവം ത്രിഭുവനോദ്ധാരം
+ത്രിഭുവനപ്രിയം ത്രിഭുവനേശ്വരം
+ഹരിഹരാത്മജം ദേവമാശ്രയേ
+
+[Outro]
+ശരണമയ്യപ്പാ... സ്വാമി ശരണമയ്യപ്പാ
+ശരണമയ്യപ്പാ... സ്വാമി ശരണമയ്യപ്പാ
 *Plan Created: April 19, 2026 | Song 3 of 10 Tamil Devotional Series*
 

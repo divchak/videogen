@@ -276,9 +276,7 @@ Pixar quality, 8K
 setting, the great poet-sage Avvaiyar seated cross-legged under 
 a massive sacred peepal tree whose heart-shaped leaves shimmer 
 in a gentle breeze, writing on a palm-leaf manuscript with a 
-stylus, the verses of the Agaval appearing on the palm leaf 
-as golden Tamil text glowing slightly as they are inscribed, 
-Avvaiyar's face in the focused creative state — eyes soft, 
+stylus, Avvaiyar's face in the focused creative state — eyes soft, 
 lips moving slightly as she tests the sound of each word, 
 the golden light of Vinayagar subtly visible at the tree's 
 roots as if he himself is present guiding the words, fallen 
@@ -409,9 +407,7 @@ transformation palette, 8K
 students of all ages, reciting verses of the Agaval with 
 gestures — her hands moving expressively to indicate each 
 divine attribute she describes, the students repeating after 
-her in the traditional call-and-response learning method, 
-the Tamil words appearing as golden text above the student 
-group as they repeat correctly, a subtle Vinayagar divine 
+her in the traditional call-and-response learning method, a subtle Vinayagar divine 
 presence watching from behind a large tree trunk — just 
 two large warm eyes visible and a curved golden trunk 
 slightly showing, suggesting that Avvaiyar composed these 
@@ -451,8 +447,7 @@ ancient sepia-gold palette, 8K
 3D Pixar sacred animation cosmic journey scene, Lord 
 Vinayagar mounted on the tiny Mooshika mouse riding through 
 a spectacular cosmic landscape — stars, nebulae, sacred 
-geometry patterns, Sanskrit letters floating in cosmic space, 
-the comedy of the enormous god on the tiny mouse balanced 
+geometry patterns, the comedy of the enormous god on the tiny mouse balanced 
 by the absolute dignity of both, Mooshika navigating 
 through the cosmos with surprising speed and perfect 
 confidence, Vinayagar's trunk extended catching the 
@@ -478,7 +473,7 @@ then transforming to show what it truly represents:
 as Vinayagar looks at the modakam and then at the viewer 
 with a knowing expression, the modakam opens like a 
 flower to reveal its interior filled not with coconut 
-jaggery filling but with swirling golden text — the 
+jaggery filling but with swirling golden text "WISDOM" — the 
 accumulated wisdom of all of human experience condensed 
 into sweetness, the sweetness of knowledge and wisdom 
 radiating outward as actual golden light, Vinayagar 
@@ -550,10 +545,7 @@ mudras, Mooshika sitting on his own tiny lotus
 directly below, the sky above a deep celestial 
 blue with golden clouds, the most serene and 
 magnificent representation of absolute divine 
-peace and power in perfect harmony, small golden 
-Tamil text of the most famous Agaval verse 
-floating in the golden light surrounding the 
-throne, utterly majestic yet completely approachable 
+peace and power in perfect harmony,  utterly majestic yet completely approachable 
 energy, ultra serene sacred Pixar quality, 
 celestial pink-gold-blue lotus palette, 8K
 ```

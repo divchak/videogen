@@ -185,7 +185,7 @@ side view, expression radiating divine protection and grace
 **🖼️ Character Image Prompt:**
 ```
 A beautiful 3D Pixar-style animated divine female character, Valli 
-(consort of Lord Murugan), warm golden-brown complexion radiating 
+(consort of Lord Murugan), warm golden-bronze complexion radiating 
 natural vitality and grace, large expressive dark eyes with long 
 lashes full of pure devotion and quiet joy, delicate features with 
 a genuine warm smile, wearing a traditional Tamil silk saree in deep 
@@ -318,7 +318,7 @@ expression of deep peace and sacred reverence on all faces,
 warm camphor-gold and stone-grey color palette, sacred cinematic 
 Pixar quality, 8K
 ```
-
+```markdown 3D Pixar animation warm sacred interior scene, inside the inner sanctum of Tiruchendur temple, ancient stone pillars carved with intricate divine sculptures faintly illuminated, the air thick with jasmine and camphor fragrance shown as golden light particles, priests in white dhotis with sacred ash (vibhuti) markings on foreheads beginning the morning aarti ceremony, large ornate camphor flame trays (karpura aarti) being waved in circles before the @779b8b50-4790-4085-a590-305bbeca230c golden shrine, the golden flame light dancing across ancient stone walls, the sound of nadaswaram and temple bells beginning, devotees in sacred ash (vibhuti) markings on foreheads and bindi  with folded hands visible in the outer corridor, expression of deep peace and sacred reverence on all faces, warm camphor-gold and stone-grey color palette, sacred cinematic Pixar quality, 8K ```
 ---
 
 ### Scene 3: LORD MURUGAN MANIFESTS IN GOLDEN LIGHT (0:20–0:30)
