@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Daily Trigger + Parenting Tool + Sequel Momentum)
 ```
-குளி குளி குதூகலம் 🛁✨ | Kuli Kuli Kuthoogalam | Tamil Bath Time Song for Kids | Splash Along!
+Bath Time Song for Kids🛁✨ |குளி குளி குதூகலம் | Kuli Kuli Kuthoogalam |  Splash Along!
 ```
 
 ### 🥈 Option 2 — Coconut Oil Heritage + Amma Emotional Memory Angle
@@ -154,12 +154,12 @@ Tamil grandmothers have been performing this sacred oiling ritual for over
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH MORE — THE TAMIL KIDS SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🚀 ராக்கெட் ராக்கெட் பாரோம் (Rocket Rocket Paarom — Space!) → [LINK]
-▶️ 👵 பாட்டி பாட்டி (Paatti Paatti — Grandmother Love) → [LINK]
-▶️ 🌙 நிலா நிலா ஓடி வா (Nila Nila Odi Vaa — Moon Song!) → [LINK]
-▶️ 🐜 எறும்பு எறும்பு (Erumbu Erumbu — Ant Song!) → [LINK]
-▶️ All Tamil Kids Songs Playlist → [LINK]
-▶️ Subscribe → [LINK]
+▶️ 🚀 ராக்கெட் ராக்கெட் பாரோம் (Rocket Rocket Paarom — Space!) → https://youtu.be/JDN2tEw5HN4
+▶️ 👵 பாட்டி பாட்டி (Paatti Paatti — Grandmother Love) → https://youtu.be/zLG9ZWIF-0s
+▶️ 🌙 நிலா நிலா ஓடி வா (Nila Nila Odi Vaa — Moon Song!) → https://youtu.be/CtxrCG_hyPc
+▶️ 🐜 எறும்பு எறும்பு (Erumbu Erumbu — Ant Song!) → https://youtu.be/ivYJh-pr2-U
+▶️ All Tamil Kids Songs Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new Tamil kids song every week!
@@ -189,7 +189,8 @@ Tamil girl song, Tamil boy song, Muthu Ponni Tamil, pal thei thei sequel,
 daily routine Tamil kids, morning routine Tamil, evening routine Tamil,
 Tamil kids 2026, new Tamil kids song, Tamil kids animation 2026
 ```
-
+Optimized Tag List (489 Characters)
+Tamil kids song,children's song,bath time,குளி பாடல்,kuli kuli kuthoogalam,nursery rhyme,good habits,nal palakkam,coconut oil,thaengaay ennai,paatti,family song,educational,body parts,wash hands,kids channel,YouTube kids,animation,Pixar Tamil,3D kids,toddler,moral song,hygiene,splash,rubber duck,Mann Arakkan,Kutti Ponni,Manjal Vaathu,diaspora,South Indian,Muthu Ponni,pal thei thei,daily routine,morning,evening,2026,new release,Tamil girl,Tamil boy,Tamil parents,hygiene habits
 ---
 
 ## 🖼️ PART 4 — THUMBNAIL STRATEGY

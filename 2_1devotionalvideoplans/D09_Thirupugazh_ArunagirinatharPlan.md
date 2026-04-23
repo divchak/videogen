@@ -427,28 +427,791 @@ palette, 8K
 
 ---
 
-### Scenes 7–24: Summary of Remaining Scenes
-
-**Scene 7 (1:00–1:10):** Palani — Arunagirinathar composing Thirupugazh at Palani Murugan temple
-**Scene 8 (1:10–1:20):** Murugan grants Arunagirinathar the gift of flight (legendary miracle)
-**Scene 9 (1:20–1:30):** The jealous rivals try to silence Arunagirinathar — Murugan protects him
-**Scene 10 (1:30–1:40):** Arunagirinathar sings before the Tiruvannamalai Murugan — divine approval
-**Scene 11 (1:40–1:50):** The Vel — Murugan's spear as the weapon against ignorance in Thirupugazh
-**Scene 12 (1:50–2:00):** Six sacred abodes of Murugan — Arunagirinathar visits all six composing
-**Scene 13 (2:00–2:10):** A Thirupugazh sabha today — singers performing in a modern hall, same divine energy
-**Scene 14 (2:10–2:20):** Murugan and the Tamil language — Thirupugazh as Tamil's greatest achievement
-**Scene 15 (2:20–2:30):** The dancing Murugan — Thirupugazh's most famous dancing hymns
-**Scene 16 (2:30–2:40):** Arunagirinathar in old age — still composing, face of complete peace
-**Scene 17 (2:40–2:50):** Young Tamil students learning Thirupugazh — passing the flame forward
-**Scene 18 (2:50–3:00):** The Tamil diaspora Thirupugazh society — Singapore, Malaysia, UK singing together
-**Scene 19 (3:00–3:10):** Murugan and his devotees — the intimate divine friendship that Thirupugazh describes
-**Scene 20 (3:10–3:20):** The Vel and the word — Thirupugazh as a verbal Vel cutting through illusion
-**Scene 21 (3:20–3:30):** Arunagirinathar's final composition — the last Thirupugazh before liberation
-**Scene 22 (3:30–3:40):** Murugan receives Arunagirinathar — the poet united with his divine subject
-**Scene 23 (3:40–3:50):** The palm leaf manuscripts — preserved through 600 years to reach us
-**Scene 24 (3:50–4:00):** Closing — Murugan with the Vel and peacock, Arunagirinathar's words floating around him as golden text, title "திருப்புகழ்" in classical gold letters
+### Scene 7: PALANI — ARUNAGIRINATHAR COMPOSES AT THE SACRED MOUNTAIN TEMPLE (1:00–1:10)
+```
+3D Pixar sacred animation sacred
+composition scene, Arunagirinathar
+at Palani — the sacred hill temple
+of Murugan in the Palani hills —
+seated on the sacred steps of
+the Palani Dandayuthapani temple
+with his eyes half-closed in
+the rapture of divine inspiration,
+the Thirupugazh verses forming
+in his mind and emerging as
+sonnet on his lips in the complex
+khandajaathi (broken meter) that
+he pioneered — a rhythm so
+intricate that it seems impossible
+until you hear it, at which
+point it seems inevitable,
+the Palani hills visible behind
+him in the golden dawn light,
+the idol of Murugan as
+Dandayuthapani at the peak
+visible in sacred silhouette,
+Murugan’s divine presence
+felt as a warm golden light
+that seems to come from within
+the dawn itself surrounding
+the composing poet, each verse
+of Thirupugazh as it forms
+shown as a golden thread
+spinning from Arunagirinathar’s
+heart and ascending toward
+the divine Murugan form above,
+the act of composition as
+the most intimate conversation
+between poet and deity, ultra
+devotional composition sacred
+Pixar quality, Palani dawn-
+gold composition palette, 8K
+```
 
 ---
+
+### Scene 8: MURUGAN GRANTS FLIGHT — THE LEGENDARY MIRACLE OF ARUNAGIRINATHAR (1:10–1:20)
+```
+3D Pixar sacred animation divine
+miracle scene, the legendary
+and miraculous event in
+Arunagirinathar’s life when
+Murugan granted him the power
+of divine flight — shown in
+the Thiruvannamalai episode where
+his enemies pushed him from
+the top of the Tiruvannamalai
+temple tower in an attempt
+to silence his divine songs,
+Arunagirinathar falling through
+the air but then the miracle:
+Murugan’s divine peacock
+appearing in golden light
+below the falling poet and
+receiving him on its sacred
+wings, bearing him upward
+through the air as Murugan’s
+divine protection made physical
+and spectacular, Arunagirinathar’s
+face in the moment of being
+received by the divine peacock
+showing the complete transition
+from mortal terror to divine
+extasy — the moment he realized
+Murugan had not abandoned
+him but had prepared this
+precise miracle for this precise
+moment, the enemies below
+watching in shock as the
+poet they tried to destroy
+flies through the air on
+divine wings, ultra miraculous
+sacred Pixar quality, divine
+flight-peacock-gold miracle
+palette, 8K
+```
+
+---
+
+### Scene 9: MURUGAN PROTECTS HIS POET — RIVALS SILENCED BY DIVINE GRACE (1:20–1:30)
+```
+3D Pixar sacred animation divine
+protection of art scene, the
+episode where jealous rivals
+and religious opponents attempted
+to discredit and silence
+Arunagirinathar’s Thirupugazh,
+challeng ing him to perform
+impossible tasks or prove his
+divine connection, shown in
+the traditional episode where
+the rivals set an impossible
+challenge believing he would
+fail, but at the critical
+moment Murugan’s divine
+intervention making the
+impossible possible — not
+because Arunagirinathar asked
+for magical help but because
+the divine Murugan would not
+allow his devoted poet to
+be shamed, the rivals’ attempt
+to destroy the music backfiring
+completely and resulting in
+their own recognition of
+Arunagirinathar’s divine
+connection, the scene showing
+that genuine divine inspiration
+cannot be suppressed — those
+who attempt to silence the
+divine song only create the
+conditions for its louder
+emergence, Murugan’s quiet
+amused form visible above
+the scene confirming that
+he is always present when
+his poet needs him, ultra
+dramatic divine protection
+Pixar quality, divine protection
+of art-gold palette, 8K
+```
+
+---
+
+### Scene 10: TIRUVANNAMALAI — MURUGAN APPROVES THE DIVINE SONG (1:30–1:40)
+```
+3D Pixar sacred animation divine
+approval scene, Arunagirinathar
+performing his Thirupugazh before
+the Murugan shrine in Tiruvannamalai,
+the ancient city of sacred fire
+where Arunachala (Shiva as mountain)
+and Murugan (son of Shiva) are
+both powerfully present, the
+poet singing with complete
+devotion before the sacred idol,
+his voice carrying all the
+complex rhythmic beauty of
+Thirupugazh in the still sacred
+space of the shrine, and then —
+the moment that defines a poet’s
+life — a visible sign of Murugan’s
+approval: the sacred lamp before
+the deity burning brighter,
+the flower garland on the
+idol moving without wind,
+Murugan’s divine form briefly
+visible in the golden light
+of the lamp with an expression
+of unmistakable delight and
+satisfaction at the sacred
+poetry being offered to him,
+Arunagirinathar feeling this
+approval as a physical warmth
+that stops his voice mid-verse
+and fills his eyes with
+the tears of a poet whose
+greatest dream has been
+fulfilled, ultra intimate
+divine approval Pixar quality,
+Tiruvannamalai approval-gold
+palette, 8K
+```
+
+---
+
+### Scene 11: THE VEL — MURUGAN’S SPEAR AS THE WEAPON AGAINST IGNORANCE (1:40–1:50)
+```
+3D Pixar sacred animation divine
+weapon philosophy scene, the Vel —
+Murugan’s divine spear which is
+the central symbol of Thirupugazh’s
+philosophy — shown in its deepest
+meaning as the weapon that
+destroys not demons but ignorance,
+the Vel visualized first in
+its physical form: the most
+perfect sacred spear imaginable,
+its golden tip blazing with
+divine concentrated light,
+then the camera pulling back
+to show the Vel in cosmic
+context: pointing toward the
+human heart where ignorance
+resides, the Vel’s golden light
+penetrating the darkness of
+avidya (ignorance) in the
+human consciousness and
+dissolving it not with force
+but with clarity — the way
+light dissolves darkness
+simply by being present,
+Arunagirinathar’s verses
+about the Vel shown as golden
+text wrapping around the spear
+like sacred decoration, the
+most profound message of
+Thirupugazh: the Vel is
+Murugan’s grace given form —
+when he gives you his Vel
+(his grace-spear) it kills
+your ego not your body,
+ultra profound philosophical
+sacred Pixar quality, Vel
+divine clarity gold palette, 8K
+```
+
+---
+
+### Scene 12: SIX SACRED ABODES — ARUNAGIRINATHAR VISITS MURUGAN’S ARUPADAI VEEDU (1:50–2:00)
+```
+3D Pixar sacred animation pilgrimage
+scene, Arunagirinathar’s sacred
+pilgrimage through all six of
+Murugan’s primary temples in
+Tamil Nadu — the Arupadai Veedu
+— composing Thirupugazh at each,
+shown as a beautiful movement
+sequence: Thiruparankundram
+(the cave temple where Murugan
+married Devasena), Tiruchendur
+(the sea-cliff temple where
+Murugan defeated Soorapadman),
+Pazhamudircholai (the forest
+temple of eternal youth),
+Swamimalai (where Murugan
+taught the Pranava meaning
+to Shiva himself), Tirutani
+(where the devotees find
+peace after the cosmic battle),
+and Palani (the solitary
+hill where Murugan stands
+alone with his staff as the
+ultimate renunciate), each
+temple shown in a brief
+vision as Arunagirinathar
+arrives and composing energy
+flows from each sacred
+place into his Thirupugazh,
+Murugan’s different faces
+at each temple reflecting
+different divine moods: warrior,
+husband, teacher, son, victor,
+ascetic, ultra beautiful
+pilgrimage sacred Pixar
+quality, six temples mandala
+palette, 8K
+```
+
+---
+
+### Scene 13: THIRUPUGAZH SABHA TODAY — THE LIVING TRADITION (2:00–2:10)
+```
+3D Pixar sacred animation contemporary
+Tamil classical music scene, a
+Thirupugazh sabha — a community
+of Thirupugazh practitioners— in
+a contemporary setting, perhaps
+Chennai or Coimbatore or Singapore,
+performing the complex Thirupugazh
+hymns in the original intricate
+khandajaathi rhythm that Arunagirinathar
+composed 600 years ago, the
+sabha hall filled with devotees
+of all ages, a group of five
+to seven performers seated
+before the microphones with
+the mridangam keeping the
+complex rhythmic cycle, the
+veena and violin adding melodic
+depth, the lead vocalist
+handling the extraordinarily
+difficult rhythmic complexities
+with the ease of long practice,
+the audience following with
+small rhythmic claps in perfect
+synchrony showing deep
+connoisseurship of this most
+complex of Tamil devotional
+forms, Arunagirinathar’s form
+visible in spirit above the
+modern performance, his face
+showing profound satisfaction
+that his sacred songs composed
+in devotion 600 years ago
+are still being sung, still
+reaching Murugan, ultra warm
+authentically Tamil classical
+Pixar quality, contemporary
+classical sabha gold palette, 8K
+```
+
+---
+
+### Scene 14: MURUGAN AND THE TAMIL LANGUAGE — THIRUPUGAZH AS TAMIL’S SUMMIT (2:10–2:20)
+```
+3D Pixar sacred animation Tamil
+language divine scene, the profound
+relationship between Murugan and
+the Tamil language — Murugan
+being called Thamizh Kadavul
+(the Tamil God) in the tradition
+because Tamil is his specific
+sacred language, the visualization
+showing the Tamil language itself
+as a living golden river flowing
+directly from Murugan’s divine
+presence, the Agastya sage
+visible receiving Tamil grammar
+from Murugan directly as the
+first transmission of Tamil
+knowledge, then the centuries
+of Tamil literature shown as
+the river growing: Sangam poetry,
+Thirukkural, Devaram, and
+finally Thirupugazh at the
+peak of the river’s sacred
+arc, Arunagirinathar shown
+at this peak composing the
+verse that uses every feature
+of Tamil’s complex phonological
+richness — the alliterations,
+the internal rhymes, the complex
+double meanings (double entendres
+between sacred and secular),
+the most sophisticated Tamil
+possible in service of the
+most sincere devotion possible,
+ultra majestic Tamil civilization
+sacred Pixar quality, Tamil
+language divine gold palette, 8K
+```
+
+---
+
+### Scene 15: THE DANCING MURUGAN — THIRUPUGAZH’S MOST CELEBRATED DANCE HYMNS (2:20–2:30)
+```
+3D Pixar sacred animation divine
+dance scene, Murugan dancing —
+as celebrated in the most joyous
+of Arunagirinathar’s Thirupugazh
+hymns, the ones that describe
+Murugan’s divine dance and
+the peacock’s dancing ecstasy —
+shown in magnificent Pixar
+celebration, Murugan’s youthful
+form in full divine dance:
+the Vel in one hand kept
+still as the pivot of cosmic
+battle while the rest of
+his form is in the pure joy
+of divine movement, his
+pearl anklets sounding with
+the complex rhythms of
+Thirupugazh, the divine peacock
+beside him spreading its
+magnificent tail in full
+display and dancing in mirror
+imitation of its divine Lord,
+the rhythm of the khandajaathi
+meter itself shown as visible
+golden waves emanating from
+the dancing form in perfect
+rhythmic pulses, Arunagirinathar
+visible in the background
+composing and singing with
+the complete ecstasy of one
+who has set his deity to dance
+with his sacred words, ultra
+joyful divine dance sacred
+Pixar quality, divine dance-
+peacock-rhythm gold palette, 8K
+```
+
+---
+
+### Scene 16: ARUNAGIRINATHAR IN OLD AGE — FACE OF COMPLETE PEACE (2:30–2:40)
+```
+3D Pixar sacred animation sacred
+old age scene, Arunagirinathar
+in the final years of his life —
+the once-wayward young man who
+was transformed by Murugan’s
+grace and went on to compose
+1600 Thirupugazh hymns now
+shown in serene old age, his
+face showing the most extraordinary
+transformation that sacred
+devotional life produces: the
+transformation from the confused
+anxious young man we saw at
+the opening to a face of
+absolute settled peace and
+continuous inner joy that
+not even age or physical
+weakness can diminish, still
+composing — his lips moving
+with new Thirupugazh even
+now — seated in the shade of
+a sacred tree near a Murugan
+temple, the small divine glow
+of Murugan’s presence
+constantly around him in
+the soft golden light that
+seems to follow him wherever
+he sits, a young devotee
+seated beside the elder poet
+listening with reverent attention
+as Arunagirinathar shares
+one last verse, the scene
+showing that the greatest
+gift of lifelong devotion
+is not just heaven after death
+but this unshakeable peace
+that becomes your constant
+companion in life, ultra
+profoundly peaceful sacred
+Pixar quality, elder saint
+golden peace palette, 8K
+```
+
+---
+
+### Scene 17: YOUNG STUDENTS LEARN THIRUPUGAZH — THE FLAME PASSES FORWARD (2:40–2:50)
+```
+3D Pixar sacred animation sacred
+tradition transmission scene, a
+contemporary Tamil music school —
+perhaps a Paladam music school
+or a sabha teaching program —
+where a dedicated teacher
+is teaching a group of young
+students the intricate Thirupugazh
+rhythms, the teacher clapping
+out the complex khandajaathi
+cycle on their thigh while
+singing slowly, the students
+following with intense concentration
+that gradually transforms to
+joy as the complex rhythm
+suddenly makes sense and
+their voices find the pattern,
+the most musically challenging
+moment in Carnatic education
+— the first time a Thirupugazh
+rhythm clicks — shown as a
+visible golden flash of musical
+understanding in the student
+who first gets it, whose
+face transforms from frustrated
+concentration to the specific
+delight of a musical mystery
+solved, Arunagirinathar’s spirit
+visible above the classroom
+in approval, the 600-year
+chain of transmission unbroken:
+poet to singer to teacher
+to student to the next
+generation, ultra warm musical
+education sacred Pixar quality,
+classroom transmission gold
+palette, 8K
+```
+
+---
+
+### Scene 18: THE TAMIL DIASPORA — THIRUPUGAZH SUNG ACROSS THE WORLD (2:50–3:00)
+```
+3D Pixar sacred animation global
+Tamil devotion scene, the beautiful
+reality of Thirupugazh in the
+modern Tamil diaspora — Tamil
+communities in Singapore, Kuala
+Lumpur, London, Toronto, Sydney,
+Dubai — all gathered in their
+local Tamil temple halls or
+community centers for Thirupugazh
+sabhas, the same ancient Tamil
+hymns that Arunagirinathar
+composed in 15th-century
+Tiruvannamalai now being sung
+with perfect devotion in
+completely different parts
+of the world, shown as
+a beautiful split-screen
+montage: Singapore sabha,
+London temple hall, Malaysian
+Thaipoosam gathering, Toronto
+community center — each
+group singing the same
+Thirupugazh verse with the
+same devotion and the same
+rhythmic precision, Murugan’s
+divine form visible above
+each gathering simultaneously
+showing that the divine
+has no distance — wherever
+the Thirupugazh is sung
+with genuine devotion,
+Murugan is present in
+that place, the Tamil
+nation existing wherever
+Tamil devotion exists,
+ultra warm global Tamil
+devotion sacred Pixar quality,
+global diaspora gold map
+palette, 8K
+```
+
+---
+
+### Scene 19: MURUGAN AND HIS DEVOTEES — THE INTIMATE DIVINE FRIENDSHIP (3:00–3:10)
+```
+3D Pixar sacred animation intimate
+divine friendship scene, the most
+distinctive quality of Murugan’s
+relationship with his devotees
+as described throughout Thirupugazh —
+not the awe-distance relationship
+of the supreme cosmic deity
+but the intimate friendship
+and even familiar love of
+a deity who genuinely delights
+in his devotees’ company,
+shown as a group of Tamil
+devotees on the steps of a
+Murugan temple in easy, informal,
+joyful devotional conversation
+with Murugan’s translucent
+divine form seated casually
+among them as an equal and
+a friend — laughing at a
+devotee’s self-deprecating
+hunor about their own
+shortcomings, listening with
+genuine interest to another’s
+current life situation, placing
+his divine hand briefly on
+a troubled devotee’s shoulder
+with the natural ease of
+a closest friend, the peacock
+wandering among the group
+picking up the flower petals
+devotees drop, the scene
+showing why Murugan is
+the most beloved deity in
+Tamil Nadu — his divine
+friendship is as warm and
+real as any human friendship,
+ultra intimate divine friendship
+Pixar quality, intimate
+Murugan-devotee gold palette, 8K
+```
+
+---
+
+### Scene 20: THE VEL AND THE WORD — THIRUPUGAZH AS VERBAL DIVINE SPEAR (3:10–3:20)
+```
+3D Pixar sacred animation sacred
+philosophy visualization scene,
+the most profound teaching of
+Thirupugazh: that the sacred
+verse itself IS the Vel — that
+when Thirupugazh is sung with
+true devotion it functions as
+Murugan’s divine spear cutting
+through the darkness of ignorance
+in the singer’s own mind,
+shown as a split visualization:
+on one side the physical Vel
+of divine gold piercing through
+dark illusion, on the other
+the Thirupugazh verse in golden
+Tamil script performing the
+exact same function as it
+enters through the ear and
+passes through the consciousness
+of the singer, the verse’s
+complex rhythm itself acting
+as a vehicle of divine
+consciousness that bypasses
+the analytical mind and reaches
+the heart directly — the
+reason the rhythm is so complex
+is precisely so that the
+analytical mind cannot follow
+it and must surrender to
+the divine flow, Murugan’s
+smile of approval at the
+perfect description showing
+that Arunagirinathar truly
+understood the weapon he
+had been given, ultra profound
+sacred philosophy Pixar quality,
+Vel-word divine parallel
+palette, 8K
+```
+
+---
+
+### Scene 21: ARUNAGIRINATHAR’S FINAL COMPOSITION — THE LAST THIRUPUGAZH (3:20–3:30)
+```
+3D Pixar sacred animation sacred
+final song scene, the poignant
+and sacred moment of Arunagirinathar
+composing what tradition holds
+to be his final Thirupugazh —
+knowing that this life of sacred
+composition is nearing its close,
+the aged poet in his last days
+seated before a Murugan shrine
+with the lamp burning low as
+the evening progresses, his
+body visibly weak with age
+but his eyes still blazing
+with divine fire, his lips
+shaping the final complex
+Thirupugazh verse with the
+same precision and love as
+his first composition decades
+before, the verse being
+shown as golden text emerging
+from his lips and ascending
+directly to Murugan’s divine
+presence above, Murugan
+receiving this last Thirupugazh
+with an expression of the
+profound love that a deity
+feels for a devotee who spent
+an entire lifetime singing
+in their name — the relationship
+complete, perfect, fulfilled,
+the lamp burning with especially
+bright sacred fire as if
+Murugan himself feeds its
+flame for the last composition,
+ultra tender final sacred
+Pixar quality, final song
+golden evening palette, 8K
+```
+
+---
+
+### Scene 22: MURUGAN RECEIVES ARUNAGIRINATHAR — THE POET UNITED WITH DIVINE SUBJECT (3:30–3:40)
+```
+3D Pixar sacred animation divine
+union scene, the sacred tradition
+that at the end of Arunagirinathar’s
+life Murugan received him
+directly into his divine presence —
+shown as the most beautiful
+and tender scene of the
+entire video, the moment of
+physical death being the moment
+of divine arrival, Arunagirinathar’s
+form as his eyes close for the
+last time beginning to glow
+with an inner golden light
+that grows brighter as the
+physical light fades, a golden
+thread visible rising from
+his heart upward into the
+sacred sky, and in the sky
+Murugan’s full divine form
+waiting with his Vel lowered
+in welcome rather than raised
+in battle, his divine arms
+open to receive the poet who
+spent a lifetime singing of
+him, the meeting shown as
+the most natural homecoming —
+not a dramatic cosmic event
+but the simple return of a
+beloved friend to the one
+who was always waiting, the
+peacock spreading its divine
+tail in celebration of the
+arrival, ultra tender divine
+union sacred Pixar quality,
+divine homecoming gold
+palette, 8K
+```
+
+---
+
+### Scene 23: THE PALM LEAF MANUSCRIPTS — 600 YEARS OF PRESERVATION (3:40–3:50)
+```
+3D Pixar sacred animation sacred
+preservation scene, the miraculous
+preservation of Arunagirinathar’s
+Thirupugazh through six centuries
+to reach us, shown as a time-lapse
+of the sacred text across history,
+the original palm leaf manuscripts
+on which the Thirupugazh was
+first written in the 15th century —
+the ancient Tamil script in
+orderly rows on the dried
+palm leaves, held in the
+hands of devoted scholars and
+singing masters who memorized
+and taught them across the
+generations when writing
+was scarce, a montage showing
+the manuscripts passing from
+teacher to student: a scholar
+in a 16th-century lamp-lit
+study, a 17th-century
+temple school, an 18th-century
+print press laboriously
+reproducing the verses, a
+19th-century scholar’s library,
+a 20th-century Thirupugazh
+sabha preserving them in
+audio recordings, and finally
+the modern digital age where
+Arunagirinathar’s voice reaches
+millions through screens,
+the sacred verses themselves
+shown as golden light that
+never fades across all six
+centuries, Murugan’s hand
+visible protecting the
+manuscripts in each era,
+ultra reverent preservation
+sacred Pixar quality,
+palm leaf heritage gold
+palette, 8K
+```
+
+---
+
+### Scene 24: CLOSING — MURUGAN WITH VEL AND PEACOCK, THIRUPUGAZH IN GOLDEN SCRIPT (3:50–4:00)
+```
+3D Pixar sacred animation magnificent
+closing scene, the final perfect
+vision of Murugan — standing
+facing directly toward the
+viewer in his most beloved
+youthful form, the sacred Vel
+held at his right side blazing
+with golden divine light,
+his divine peacock beside
+him with its magnificent tail
+spread in full display of
+blue-green-gold sacred beauty,
+Arunagirinathar’s golden
+Thirupugazh text floating
+around Murugan in a halo
+of sacred Tamil poetry —
+the words of the devotee
+becoming the ornament of
+the deity they praised,
+Murugan’s expression showing
+the specific face of a deity
+who is genuinely pleased
+and genuinely present,
+his eyes looking directly
+at the viewer with the
+divine invitation that
+Thirupugazh has always been:
+come, sing, this poetry
+will be your Vel, this
+devotional song will cut
+through your darkness
+and lead you to me,
+then the sacred name
+“திருப்புகழ்” appearing in
+classical gold fire-script
+before his divine form,
+ultra majestic closing
+sacred Pixar quality,
+Thirupugazh gold closing
+palette, 8K
+```
+
+---
+
 
 ## 📊 PRODUCTION CHECKLIST
 

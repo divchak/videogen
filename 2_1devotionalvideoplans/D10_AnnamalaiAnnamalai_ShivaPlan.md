@@ -448,22 +448,572 @@ gold-fire palette, 8K
 
 ---
 
-### Scenes 7–18: Summary of Remaining Scenes
-
-**Scene 7 (1:00–1:10):** Arunachaleswara temple gopuram — the tallest in South India in morning light
-**Scene 8 (1:10–1:20):** The sacred tank (Brahmateertham) — temple tank with mountain reflection
-**Scene 9 (1:20–1:30):** Small shrines on Girivalam — the 8 lingams at the 8 directions
-**Scene 10 (1:30–1:40):** Ramana's eyes — close-up of the most peaceful eyes ever animated
-**Scene 11 (1:40–1:50):** A family doing Girivalam together — children, parents, grandparents
-**Scene 12 (1:50–2:00):** The Karthigai Deepam fire seen from 20km away — a star on the mountain
-**Scene 13 (2:00–2:10):** Arunachala at sunset — the mountain at its most dramatically red-gold
-**Scene 14 (2:10–2:20):** Shiva and Parvati visible in the mountain at dawn — divine couple in the stone
-**Scene 15 (2:20–2:30):** Virupaksha Cave — where Ramana meditated for years inside the mountain
-**Scene 16 (2:30–2:40):** The sacred spring at the mountain base — water from Shiva's mountain
-**Scene 17 (2:40–2:50):** The eternal flame inside the mountain — the divine fire at the mountain's heart
-**Scene 18 (2:50–3:00):** Closing — Arunachala in full moonlight, the sacred fire on the summit, Shiva's face emerging from the mountain stone looking at the viewer with infinite ancient peace, title "அண்ணாமலை" in fire-gold letters
+### Scene 7: ARUNACHALESWARA TEMPLE GOPURAM — THE TALLEST IN SOUTH INDIA (1:00–1:10)
+```
+3D Pixar sacred animation magnificent
+temple gopuram scene, the Arunachaleswara
+temple’s main Rajagopuram — the
+tallest temple tower in South India
+at 66 meters, with 11 tiers
+covered in thousands of sacred
+sculptural figures — shown at
+dawn in its most dramatic and
+best moment, the rising sun
+golden light touching the
+topmost tier first and cascading
+down the thousands of sculpted
+figures on each tier as the
+light descends, the sacred
+colors of the figures — red,
+gold, white and divine blue —
+glowing in the dawn light,
+the sheer scale of the
+gopuram requiring the human
+forms of pilgrims at its
+base to be tiny in comparison,
+showing the sacred architectural
+statement: before the divine,
+the human is small; before
+the divine, the human is
+also beloved; the thousands
+of sculpted divine beings
+on every tier shown in close-
+up as a universe of sacred
+story frozen in stone, the
+entire Arunachala mountain
+visible behind the gopuram
+as the eternal sacred context
+that gives the temple its
+power, ultra cinematic
+magnificent sacred Pixar
+quality, Rajagopuram dawn-
+gold palette, 8K
+```
 
 ---
+
+### Scene 8: BRAHMA TEERTHAM — THE SACRED TANK WITH THE MOUNTAIN’S REFLECTION (1:10–1:20)
+```
+3D Pixar sacred animation sacred
+water reflection scene, the
+Brahmateertham — the ancient
+sacred temple tank of the
+Arunachaleswara temple — at
+its most visually perfect
+moment: the pre-dawn hour
+when the first light touches
+the water and Arunachala
+mountain’s full form is
+perfectly reflected in the
+still tank water, the mountain
+showing in the reflection
+with uncanny clarity — the
+sacred red-earth triangle
+of Arunachala visible in
+the still water below as
+perfectly as in the sky
+above, the ancient stone
+steps descending into the
+tank on all four sides
+worn smooth by centuries
+of pilgrims’ feet, white-
+dressed morning pilgrims
+visible doing the sacred
+bath in the tank in the
+pre-dawn chill, their forms
+reflected also in the water
+below alongside the mountain’s
+reflection, the profound
+Tamil sacred teaching: the
+temple tank as a mirror
+for both the mountain above
+and the devotee within —
+both sacred realities seen
+clearly in the pure still
+water of sincere devotion,
+ultra peaceful sacred
+Pixar quality, Brahma
+teertham reflection gold
+palette, 8K
+```
+
+---
+
+### Scene 9: THE EIGHT LINGAMS — EIGHT SACRED SHIVA SHRINES IN EIGHT DIRECTIONS (1:20–1:30)
+```
+3D Pixar sacred animation sacred
+geography scene, the eight
+small Shivalingam shrines that
+bracket the Girivalam path
+around Arunachala — each one
+placed at one of the eight
+sacred directions (north, south,
+east, west, and four inter-
+cardinal directions) around
+the mountain, shown as a
+circle viewed from above:
+the mountain at the center,
+the eight ancient stone
+lingam shrines around the
+circumference of the Girivalam
+path like the eight spokes
+of a sacred wheel, each
+little shrine glowing with
+its own golden sacred light
+in the dark early morning,
+the tiny oil lamps at each
+shrine burning as sacred
+beacons, pilgrims pausing
+at each shrine to pray and
+circumambulate the individual
+lingam before continuing
+the Girivalam, Shiva’s divine
+presence felt at each of
+the eight shrines as eight
+different facets of the one
+divine reality — Shiva in
+his eight cosmic directions
+all pointing to the mountain
+at the center that is the
+source of all eight, ultra
+sacred geometry sacred Pixar
+quality, eight directions
+circle gold palette, 8K
+```
+
+---
+
+### Scene 10: RAMANA’S EYES — THE MOST PEACEFUL GAZE EVER ANIMATED (1:30–1:40)
+```
+3D Pixar sacred animation most
+peaceful eyes meditation scene,
+a close-up meditation on the
+eyes of Ramana Maharshi — whose
+gaze is universally described
+by those who received it as
+the most peaceful and most
+powerful thing they ever
+experienced — shown in the
+most still and sacred scene
+of the entire video, Ramana
+seated in his typical half-
+lotus posture in the still
+air of Tiruvannamalai noon,
+the close-up on his eyes:
+large, brown, perfectly
+still, containing not
+the calm of effort but
+the calm of a surface so
+deep that the wind of
+thought cannot reach its
+bottom, his eyes neither
+open with excitement nor
+closed in withdrawal but
+perfectly present in the
+specific quality that all
+disciples described as
+a physical force of peace
+that entered through them
+when his gaze fell on them,
+the viewer of this scene
+becoming the recipient of
+Ramana’s gaze as his
+eyes look gently, directly,
+personally from the screen,
+Arunachala mountain visible
+in the background behind
+his head as his divine
+teacher and source, ultra
+most peaceful sacred Pixar
+quality, Ramana gaze infinite
+peace palette, 8K
+```
+
+---
+
+### Scene 11: FAMILY GIRIVALAM — THREE GENERATIONS WALK TOGETHER (1:40–1:50)
+```
+3D Pixar sacred animation
+multigenerational pilgrimage
+scene, a Tamil family doing
+the Girivalam together at
+full moon — three generations
+visible in the golden lamplight
+of the circumambulation path,
+the grandfather and grandmother
+walking steadily in the front,
+their bare feet knowing every
+step of this path they have
+walked for forty years of
+full moons, the adult children
+and their spouses walking
+behind with the quiet devotion
+of those who have now fully
+understood what they learned
+as children coming here, and
+behind them the grandchildren’s
+young feet — some skipping
+with the pure energy of the
+young, some asking questions
+to the grandparents about
+the shrines they pass, some
+already walking in devotional
+silence with the beginning
+of genuine understanding
+in their young eyes, the
+mountain above all of them
+as the constant sacred presence
+that has witnessed every
+member of this family’s
+devotion across the decades,
+Shiva’s presence felt as
+the warmth of the path
+itself beneath their feet,
+ultra warm multigenerational
+family sacred Pixar quality,
+family Girivalam gold lamp
+palette, 8K
+```
+
+---
+
+### Scene 12: KARTHIGAI DEEPAM — THE SACRED FIRE SEEN FROM 20KM AWAY (1:50–2:00)
+```
+3D Pixar sacred animation sacred
+festival fire scene, the most
+spectacular sacred event of
+Tiruvannamalai — the annual
+Karthigai Deepam when a massive
+sacred fire (the Mahadeepam)
+is lit at the very summit
+of Arunachala mountain at
+dusk on the full moon of
+the month of Karthigai, the
+flame representing Shiva
+himself as the column of
+fire that has no beginning
+and no end — shown in epic
+scale, the view from 20
+kilometers away showing
+Arunachala as a dark silhouette
+against the evening sky and
+at its perfect summit peak
+the sacred flame appearing
+as a star that is simultaneously
+the highest earthly point
+and the lowest heavenly
+point, visible to millions
+of devotees gathered on
+every hill and plain
+around Tiruvannamalai,
+the single flame on the
+mountain summit reflecting
+in thousands of oil lamps
+lighting simultaneously
+in the city below, devotees
+weeping in the sacred
+joy of seeing Shiva’s
+fire, the most ancient
+fire-worship in Tamil
+civilization expressed
+in this moment, ultra
+epic sacred fire Pixar
+quality, Karthigai deepam
+fire-summit palette, 8K
+```
+
+---
+
+### Scene 13: ARUNACHALA AT SUNSET — THE MOUNTAIN AT ITS MOST RED-GOLD (2:00–2:10)
+```
+3D Pixar sacred animation most
+beautiful mountain scene, Arunachala
+at the moment of sunset when
+the sacred red granite of the
+mountain catches the last
+golden-red light of the setting
+sun and the entire mountain
+seems to glow from within with
+an inner fire — showing why
+Tamil tradition has always
+seen Arunachala as Agni-Linga,
+the fire lingam of Shiva,
+the mountain itself as the
+physical manifestation of
+cosmic fire, the sunset light
+transforming the red rock
+face of the mountain into
+deep copper-gold-crimson,
+the scrub and sacred forests
+on the mountain’s lower
+slopes darkening to silhouette
+against the blazing upper
+face, the sacred Girivalam
+path visible at the mountain’s
+base as a thin thread of
+white-clothed pilgrims still
+circumambulating even at
+this hour, the city of
+Tiruvannamalai below in
+the gathering dusk, the
+entire scene showing
+that this mountain is
+alive in a way that
+granite is not supposed
+to be — alive with
+divine fire, alive with
+ancient sacred presence,
+ultra magnificent sacred
+beauty Pixar quality,
+Arunachala sunset crimson-
+gold palette, 8K
+```
+
+---
+
+### Scene 14: SHIVA AND PARVATI IN THE MOUNTAIN — THE DIVINE COUPLE IN THE STONE (2:10–2:20)
+```
+3D Pixar sacred animation divine
+discovery scene, the mystical
+vision that sacred seers and
+devoted meditators have reported:
+seeing the forms of Shiva and
+Parvati visible within the
+rock face of Arunachala itself —
+the mountain containing not just
+the fire of Shiva but the
+complete divine family, shown
+as a devotee seated in deep
+meditation on the Girivalam
+path at the base of the
+mountain in the early morning
+gold light, their eyes closed
+in deep stillness, and then
+their inner vision shown:
+the grey-red granite of the
+mountain face beginning to
+show Shiva’s divine form
+within the natural contours
+of the rock, Parvati’s
+graceful form visible in
+another rock face beside him,
+both present within the
+very stone of the mountain
+as if the rock is their
+divine body and the mountain
+IS the divine couple resting
+in cosmic union, the devotee
+opening their eyes and for
+one moment seeing what
+their inner vision showed—
+then it fades back into
+beautiful ordinary rock,
+but something has been
+received that cannot be
+untaken, ultra mystical
+sacred Pixar quality,
+divine vision mountain-
+gold palette, 8K
+```
+
+---
+
+### Scene 15: VIRUPAKSHA CAVE — WHERE RAMANA MEDITATED FOR YEARS (2:20–2:30)
+```
+3D Pixar sacred animation sacred
+cave meditation scene, the
+Virupaksha Cave — the cave
+partway up Arunachala’s sacred
+flank where Ramana Maharshi
+meditated for years in total
+silent absorption into the
+Self — shown in its most
+sacred simplicity, the small
+stone opening in the mountain’s
+side, inside a sacred space
+of absolute natural simplicity:
+bare rock floor, low ceiling
+of natural stone, a small
+lamp burning in one corner
+as the only ornament, the
+smell of rock and incense,
+Ramana’s presence felt as
+a specific quality of stillness
+that permeates the stone
+itself — years of profound
+meditation having saturated
+the very rock with their
+sacred resonance, a devotee
+entering the cave today
+feeling this specific inherited
+stillness and sitting in
+it with closed eyes, the
+Arunachala mountain visible
+through the narrow entrance
+as a sliver of sacred red
+rock and blue sky, the
+cave as the intimate sacred
+space where the mountain
+and the saint met in the
+most personal way possible,
+ultra peaceful sacred
+Pixar quality, Virupaksha
+cave stone-lamp-peace
+palette, 8K
+```
+
+---
+
+### Scene 16: THE SACRED SPRING — WATER FROM SHIVA’S MOUNTAIN (2:30–2:40)
+```
+3D Pixar sacred animation sacred
+spring scene, one of the small
+natural springs that emerge
+from the base of Arunachala
+where the mountain’s rock
+seeps its sacred water into
+the world, shown in close
+and intimate detail: the
+clear water appearing from
+between grey-red granite
+rocks in a thin but constant
+clear stream, the rocks
+around the spring face
+polished by generations
+of devoted hands touching
+them, small oil lamps placed
+in the rock crevices around
+the spring as devotional
+offerings, the water of
+the spring shown in close-up
+as unusually clear and
+cool and alive — water that
+has percolated through
+sacred granite for centuries
+before emerging, the devotee’s
+cupped hands receiving
+the spring’s water and
+bringing it to the forehead
+in the sacred gesture of
+receiving Shiva’s blessing
+directly from the mountain,
+Arunachala’s sacred form
+visible above as the
+ultimate source from which
+this water comes, the
+profound sacred ecology:
+the mountain gives water
+as it gives grace —
+constantly, quietly, purely,
+ultra intimate sacred
+nature Pixar quality,
+sacred spring rock-water
+palette, 8K
+```
+
+---
+
+### Scene 17: THE ETERNAL FLAME — DIVINE FIRE AT THE MOUNTAIN’S HEART (2:40–2:50)
+```
+3D Pixar sacred animation sacred
+fire meditation scene, the
+mystical eternal flame that
+Tamil tradition holds to burn
+at the very heart of Arunachala
+mountain itself — not a physical
+fire that can be seen externally
+but the divine Agni that IS
+the mountain’s sacred essence,
+visualized as a meditation
+scene: a devotee sitting
+before the Arunachaleswara
+temple’s main fire at the
+sacred homa (fire offering)
+closing their eyes and
+seeing in their inner vision
+the flame simultaneously:
+in the homa kunda before
+them, in the lamp on the
+temple altar, in the eternal
+Karthigai flame on the
+mountain summit, and in
+the invisible divine fire
+at the mountain’s geological
+heart — all the same flame,
+all the same Shiva, all
+the same divine fire that
+created the universe and
+will dissolve it, the
+TejoLinga — Shiva as the
+column of fire — made
+visible in the devotee’s
+inner vision as an infinite
+column of golden sacred
+fire extending from the
+deepest Earth to beyond
+the farthest star, ultra
+profound sacred fire
+meditation Pixar quality,
+Agni eternal fire divine
+palette, 8K
+```
+
+---
+
+### Scene 18: CLOSING — ARUNACHALA IN FULL MOONLIGHT WITH SHIVA’S FACE IN THE STONE (2:50–3:00)
+```
+3D Pixar sacred animation magnificent
+closing scene, the final perfect
+vision of the Annamalai Annamalai
+video — Arunachala mountain
+under the full moon in its
+most magnificent sacred beauty,
+the full moon hanging directly
+above the mountain’s peak
+in a cloudless sky of deep
+indigo, the sacred fire of
+Karthigai Deepam burning
+at the summit like a second
+moon of earthly sacred fire,
+the moonlight illuminating
+the entire mountain in
+the silver-blue light that
+makes Arunachala appear
+to glow from within,
+the Girivalam path visible
+as a thread of white
+lamps at the mountain’s
+base still alive with
+pilgrims, and then —
+the most sacred closing
+image of this entire video —
+Shiva’s divine face emerging
+slowly from the silver
+moonlit rock face of the
+mountain itself, visible
+at first as natural rock
+contours but then unmistakably,
+inevitably, beautifully
+becoming the face of the
+Mahadeva looking directly
+at the viewer with the
+infinite ancient peace
+of one who has been here
+since before time and will
+be here after all time,
+then the sacred name
+“அண்ணாமலை” appearing in
+golden fire-script in
+the moonlit sky, ultra
+majestic closing sacred
+Pixar quality, Arunachala
+full moon-sacred fire-
+divine face closing
+palette, 8K
+```
+
+---
+
 
 ## 📊 PRODUCTION CHECKLIST
 

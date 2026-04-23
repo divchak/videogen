@@ -179,9 +179,9 @@
 
 **🖼️ Character Image Prompt:**
 ```
-A cute 3D Pixar-style animated Tamil girl character aged 4, chubby warm-brown
+A cute 3D Pixar-style animated Tamil girl character aged 4, bright in complexion,chubby 
 cheeks with a tiny smear of red mud, enormous expressive dark eyes with long
-lashes and a mischievous sparkle, wild curly black hair with a loose yellow
+lashes and a mischievous sparkle,  with a loose yellow
 ribbon barely holding it together, wearing a bright green frock with little
 yellow sunflower prints slightly dusty from outdoor play, small red rubber
 slippers, holding a muddy flower with a delightfully reluctant expression
@@ -210,7 +210,7 @@ POST-BATH GLOWING-TWIRL expression, warm terracotta and gold home color palette,
 **🖼️ Character Image Prompt:**
 ```
 A beautiful 3D Pixar-style animated young Tamil mother character aged 28-30,
-warm brown skin with a gentle evening-tired-but-loving expression, large kind
+bright complexion skin with a gentle evening-tired-but-loving expression, large kind
 expressive dark eyes, long dark hair tied in a practical bun with a small string
 of white jasmine flowers, wearing a soft pink cotton saree with silver border
 slightly tucked up for bath-time work, holding a shining copper bath tumbler in
@@ -238,7 +238,7 @@ Pixar quality, 8K resolution, character sheet
 **🖼️ Character Image Prompt:**
 ```
 An extremely expressive 3D Pixar-style animated Tamil grandmother character
-aged 65-70, warm wrinkled face radiating absolute confidence and love, silver
+aged 65-70,bright complexion, warm wrinkled face radiating absolute confidence and love, silver
 hair pulled back in a neat bun with a marigold flower, enormous thick round
 spectacle frames, wearing a pale blue and white cotton saree, standing in a
 bathroom holding an IMPOSSIBLY LARGE bottle of golden coconut oil taller than
@@ -575,7 +575,7 @@ in different directions to catch it — Amma sliding sideways on a river of oil
 with arms windmilling, Ponni sitting in the centre of the golden oil lake with
 her head transformed into a gleaming magnificent oil monument with every curl
 plastered and gleaming, Manjal Vaathu's feet going out from under him and him
-doing a full rotational spin on the oil-slicked tiles, enormous 'அய்யோ!'
+doing a full rotational spin on the oil-slicked tiles, enormous 'Ayyo!'
 text exploding on screen in orange wobbly letters, Paatti standing amid the
 golden chaos surveying it with absolute professional satisfaction and nodding
 — "Perfect." — Pixar absolute comedy peak, 8K
@@ -591,12 +591,12 @@ golden chaos surveying it with absolute professional satisfaction and nodding
 **🎬 Scene Prompt:**
 ```
 3D Pixar animation bright educational counting sequence, clean warm cream
-bathroom background with colourful geometric tile accents, large bold Tamil
-numeral 'ஒன்று' (1) bouncing in from the top in rich golden with rubbery
+bathroom background with colourful geometric tile accents, large bold English
+numeral 'One' (1) bouncing in from the top in rich golden with rubbery
 satisfying cartoon physics, one large smooth scrubbing arc appears below it
 cleaning a cartoon arm section with a sparkle trail showing the mud giving way
-to gleaming skin, then 'இரண்டு' (2) bouncing in vivid orange and two coordinated
-scrubbing strokes with double sparkle trails, then 'மூன்று' (3) in bright
+to gleaming skin, then 'Two' (2) bouncing in vivid orange and two coordinated
+scrubbing strokes with double sparkle trails, then 'Three' (3) in bright
 lime-green and three perfect circular scrubbing motions shown on a cartoon
 body cross-section in cute animated diagram style, Ponni visible in corner
 counting enthusiastically on her fingers — one finger, two fingers, three fingers
