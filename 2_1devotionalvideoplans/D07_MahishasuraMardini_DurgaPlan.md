@@ -113,6 +113,134 @@
 (silence)
 ```
 
+###Tamil full lyrics 
+[Verse 1]
+அயிகிரி நந்தினி நந்தித மேதினி
+விச்வ வினோதினி நந்தநுதே
+கிரிவர விந்த்ய சிரோதி நிவாஸினி
+விஷ்ணு விலாஸினி ஜிஷ்ணுநுதே
+பகவதி ஹே சிதிகண்ட குடும்பினி
+பூரிகுடும்பினி பூரிக்ருதே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Verse 2]
+ஸுரவர வர்ஷிணி துர்தர தர்ஷிணி
+துர்முக மர்ஷிணி ஹர்ஷரதே
+த்ரிபுவன போஷிணி சங்கர தோஷிணி
+கில்பிஷ மோஷிணி கோஷரதே
+தனுஜ நிரோஷிணி திதிஸுத ரோஷிணி
+துர்மத சோஷிணி ஸிந்துஸுதே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Verse 3]
+அயி ஜகதம்ப மதம்ப
+கதம்பவன ப்ரிய வாஸினி ஹாஸரதே
+சிகரி சிரோமணி துங்க ஹிமாலய
+ச்ருங்க நிஜாலய மத்யகதே
+மதுமதுரே மதுகைடப கஞ்ஜினி
+கைடப பஞ்ஜினி ராஸரதே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Verse 4]
+அயி சதகண்ட விகண்டித ருண்ட
+விதுண்டித சுண்ட கஜாதிபதே
+ரிபுகஜ கண்ட விதாரண சண்ட
+பராக்ரம சுண்ட ம்ருகாதிபதே
+நிஜபுஜ தண்ட நிபாதித கண்ட
+விபாதித முண்ட பதாதிபதே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Verse 5]
+அயிரண துர்மத சத்ரு வதோதித
+துர்தர நிர்ஜர சக்தி ப்ருதே
+சதுர விசார துரீண மஹாசிவ
+தூதக்ருத ப்ரமதாதிபதே
+துரித துரீஹ துராசய துர்மதி
+தானவ தூத க்ருதாந்தமதே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Verse 6]
+அயி சரணாகத வைரிவ தூவர
+வீர வராபய தாயகரே
+த்ரிபுவன மஸ்தக சூலவிரோதி
+சிரோதி க்ருதாமல சூலகரே
+துமிதுமி தாமர துந்துபி நாத
+மஹோ முகரீக்ருத திங்மகரே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Verse 7]
+அயி நிஜஹுங்க்ருதி மாத்ர நிராக்ருத
+தூம்ர விலோசன தூம்ரசதே
+ஸமரவிசோஷித சோணிதபீஜ
+ஸமுத்பவ சோணித பீஜலதே
+சிவசிவ சும்ப நிசும்ப மஹாஹவ
+தர்ப்பித பூத பிசாசரதே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Verse 8]
+தனுரனு ஸங்க ரணக்ஷண ஸங்க
+பரிஸ்ஃபுர தங்க நடத்கடகே
+கனக பிசங்க ப்ரிஷத்க நிஷங்க
+ரஸத்பட ச்ருங்க ஹதாபடுகே
+க்ருத சதுரங்க பலக்ஷிதிரங்க
+கடத்பஹுரங்க ரடத்படுகே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Verse 9]
+ஸுரலலனா தததேயி ததேயி க்ருதாபினயோதர ந்ருத்யரதே
+க்ருத குகுத꞉ குகுதோ கடதாதி கதால குதூஹல கானரதே
+துதுகுட துக்குட திந்திமித த்வனி தீர ம்ருதங்க நினாதரதே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Verse 10]
+ஜய ஜய ஜப்ய ஜயே ஜய சப்த
+பரஸ்துதி தத்பர விச்வ நுதே
+ஜணஜண ஜிஞ்ஜிமி ஜிங்க்ருத நூபுர
+ஸிஞ்ஜித மோஹித பூதபதே
+நடித நடார்த்த நடீ நட நாயக
+நாடித நாட்ய ஸுகான ரதே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Verse 11]
+அயி ஸுமன: ஸுமன: ஸுமன:
+ஸுமன: ஸுமனோஹர காந்தியுதே
+ச்ரித ரஜனீ ரஜனீ ரஜனீ
+ரஜனீ ரஜனீகர வக்த்ர வ்ருதே
+ஸுநயன விப்ரமர ப்ரமர ப்ரமர
+ப்ரமர ப்ரமரா திபதே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Verse 12]
+ஸஹித மஹாஹவ மல்ல மதல்லிக
+மல்லி தரல்லக மல்லரதே
+விரசித வல்லிக பல்லி கமல்லிக
+ஜில்லிக பில்லிக வர்கவ்ருதே
+சிதக்ருத ஃபுல்லஸ முல்லஸி தாருண
+தல்லஜ பல்லவ ஸல்லலிதே
+[Chorus]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே
+[Outro]
+ஜய ஜய ஹே மஹிஷாஸுர மர்தினி
+ரம்ய கபர்தினி சைலஸுதே… (repeat & fade)
+###
+
+Style:
+kuldeep pai gang 
+
+Sweet devotional Carnatic bhajan by harmonious choir of young girls, Navadurgas style, pure dulcet youthful female voices in perfect unison, crystal clear Sanskrit pronunciation, soulful and uplifting delivery with light gamakas, Kuldeep M Pai Vande Guru Paramparaam production style, rich traditional South Indian arrangement with mridangam violin flute veena temple bells, gentle building percussion, divine victorious spiritual atmosphere, heart-touching and empowering
+
 ---
 
 ## 🎵 4.3 SUNO AI STYLE TAGS
@@ -136,8 +264,16 @@ passive devotional tone, slow Carnatic classical, male lead vocal dominant,
 ambient electronic, jazz, modern remix, soft acoustic, bass synthesizer
 ```
 
----
+Style with some recent match: with alapana 
+Powerful devotional fusion, bold and commanding female Indian classical vocals which is very strong and more energetic,no instrumental intro, immediate vocal entry from the very first line "Ayi giri nandini...", crystal clear Sanskrit pronunciation with expressive gamakas and intense emotional delivery, powerful soulful voice leading the entire track, 116 BPM, C minor, modern cinematic devotional arrangement by Sanjay Chandrasekhar style but with strong voice-forward mix, female vocals very prominent and dominant throughout, minimal background music so the voice shines clearly, subtle supporting veena and flute as main accompaniment only, light violin strings, gentle tabla and mridangam rhythm, very subtle temple bells, reduced ethereal pads and light orchestral swells, meditative verses building to powerful soaring emotional choruses, high spiritual Navratri energy, highly emotional and empowering yet
 
+without alapana >1000 chars 
+
+Powerful devotional fusion, bold and commanding female Indian classical vocals, crystal clear Sanskrit pronunciation with expressive gamakas and intense emotional delivery, powerful soulful voice leading the entire track, starts immediately and directly into the song with no alapana, no slow introduction, no improvisational opening, no instrumental intro, immediate vocal entry from the very first line "Ayi giri nandini...", 116 BPM, C minor, modern cinematic devotional arrangement with strong voice-forward mix, female vocals very prominent and dominant throughout, minimal background music so the voice shines clearly, subtle supporting veena and flute as main accompaniment only, light violin strings, gentle tabla and mridangam rhythm, very subtle temple bells, reduced ethereal pads and light orchestral swells, meditative verses building to powerful soaring emotional choruses, high spiritual Navratri energy, highly emotional and empowering yet peaceful, studio polished sound with beautiful reverb on leading vocals for temple atmosphere, high energy devotional stotram
+
+---
+##Final Style 
+Explosive fiery intense Carnatic battle hymn, powerful commanding female Carnatic vocalist  at her fiercest, thunderous high-energy delivery with explosive gamakas, rapid brighas and roaring battle-cry vocals, Mayamalavagowla raga style, ultra-fast drut laya tempo, thunderous war-drum percussion (heavy mridangam + thavil + ghatam), powerful nadaswaram blasts, dramatic violin and veena, massive victorious warrior-goddess energy, building from intense verses to earth-shaking chorus, pure spiritual war anthem atmosphere, high adrenaline victorious power
 ## 🎭 CHARACTERS & IMAGE PROMPTS
 
 ---

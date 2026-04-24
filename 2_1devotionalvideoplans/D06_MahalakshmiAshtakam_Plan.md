@@ -859,9 +859,7 @@ full arc of a Tamil woman’s Friday
 Lakshmi devotion from pre-dawn
 to morning, first: the kolam
 being drawn in darkness before
-the home (echoing Scene 11 but
-from a different angle, showing
-the full scope), second: the
+the home , second: the
 bath and wearing of the sacred
 red saree — red being Lakshmi’s
 special Friday color, third:
@@ -873,9 +871,7 @@ a mirror shine, fourth: the
 Lakshmi Ashtakam recitation
 beginning as the lamp is lit
 in the still early morning,
-the words of the Ashtakam shown
-as golden floating text around
-the prayer space, fifth: the
+ fifth: the
 prasadam (sacred food) being
 prepared — sweet pongal, plantain,
 honey — to be offered before
@@ -1143,7 +1139,7 @@ a mother who sees her child,
 the most personal and intimate
 expression of the cosmic goddess,
 then — her divine name
-“மஹாலக்ஷ்மி” appearing in
+“MAHALAKSHMI” appearing in
 magnificent rose-gold fire-script
 before her divine form, each
 letter glowing with her own

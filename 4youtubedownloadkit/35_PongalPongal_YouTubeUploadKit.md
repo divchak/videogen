@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Overflow Action + Cultural Identity + Annual Evergreen)
 ```
-பொங்கல் பொங்கல் 🌾🍯 | PONGI VARUM! | Tamil Harvest Festival Song for Kids | Pongal Day!
+Pongal Festival Song for Kids 🌾🍯|பொங்கல் பொங்கல் 🌾🍯 | PONGI VARUM! |  Pongal Day!
 ```
 
 ### 🥈 Option 2 — Gratitude + Cultural Education Angle
@@ -134,11 +134,11 @@ This Pongal is a thank-you letter to the universe." 🌾💛
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE KALAI VIRUNDHU FOOD SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🍳 இட்லி இட்லி தோசை தோசை (Idli Dosai — Tamil Breakfast Song!) → [LINK]
-▶️ 🛁 குளி குளி (Kuli Kuli — Ponni's Bath Song!) → [LINK]
-▶️ 👴 தாத்தா தாத்தா (Thaatha Thaatha — Grandfather's song!) → [LINK]
-▶️ All Tamil Festival Songs → [LINK]
-▶️ Subscribe → [LINK]
+▶️ 🍳 இட்லி இட்லி தோசை தோசை (Idli Dosai — Tamil Breakfast Song!) → https://youtu.be/7i7qnOcNyIk
+▶️ 🛁 குளி குளி (Kuli Kuli — Ponni's Bath Song!) → https://youtu.be/03dJ-uIamLo
+▶️ 👴 தாத்தா தாத்தா (Thaatha Thaatha — Grandfather's song!) → https://youtu.be/I2S-HJ1XxKE
+▶️ All Tamil Festival Songs → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new Tamil kids song every week!
@@ -189,6 +189,8 @@ harvest song kids tamil,
 pongal banana leaf kids,
 tamil new year food song
 ```
+
+pongal pongal, பொங்கல் பொங்கல், pongi varum, pongal song kids, pongal festival animation, thai pongal song, tamil harvest festival, pongal ritual explanation, kolam song, sugarcane pongal, farmer gratitude kids, pongal tamil animated, ponni song series, thaatha pongal, kalai virundhu, idli dosai sequel, tamil food song, pongal 2026, tamil festival song, pongal school song, tamilnadu festival, தமிழ் குழந்தை பாடல், pongal paadal, harvest song tamil
 
 ### 📊 Tags Strategy Breakdown
 

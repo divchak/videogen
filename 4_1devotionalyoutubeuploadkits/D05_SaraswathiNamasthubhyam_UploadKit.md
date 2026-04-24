@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Knowledge + Students + Avvaiyar)
 ```
-சரஸ்வதி நமஸ்துப்யம் 🦢📚 | Saraswathi Namasthubhyam | 3D Animation | Tamil Students Prayer
+Saraswathi Namasthubhyam🦢📚 | 3D Animation |சரஸ்வதி நமஸ்துப்யம்  |  Tamil Students Prayer
 ```
 
 ### 🥈 Option 2 — Navarathri + Exam Season
@@ -78,20 +78,6 @@ but music, art, dance, poetry, science, and wisdom of every kind.
 📜 Vidhyarambham — first Tamil letter ceremony
 🎓 Students and artists both blessed equally
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⏱️ TIMESTAMPS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-00:00 — Saraswati Pooja Morning at School 📚
-00:10 — Saraswati Manifests on the Sacred River 🌊
-00:20 — Saraswati Plays the Veena 🎵
-00:30 — Books Come Alive 📖
-00:40 — Student Receives Divine Clarity ✨
-00:50 — The Peacock and the Swan 🦢
-01:00 — Vidhyarambham — First Writing ✏️
-01:10 — Divine Music Teaching 🎵
-01:20 — Navarathri — Books Placed for Blessing 📚
-01:30 — Arts AND Sciences Both Blessed 🎓
-02:10 — The 247 Tamil Letters Glow ✨
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎵 CHANT ALONG
