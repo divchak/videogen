@@ -1069,7 +1069,7 @@ procession palette, 8K
 ### Scene 19: DURGA BLESSES A WOMAN IN DIFFICULTY — DIVINE FEMININE PROTECTION (3:00–3:10)
 ```
 3D Pixar sacred animation intimate
-protection scene, a Tamil woman
+protection scene, a Tamil woman in bright complexion 
 in a genuine moment of life
 difficulty — perhaps facing
 a difficult decision, recovering
@@ -1311,7 +1311,7 @@ eyes looking directly at the
 viewer with the specific
 assurance: I am watching over
 you, then her name in battle-gold
-fire-script “துர்கா” appearing
+fire-script “DURGA DEVI” appearing
 charged with divine power,
 ultra magnificent closing
 sacred Pixar quality, Durga

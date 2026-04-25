@@ -1880,8 +1880,8 @@ Shiva’s right, the entire
 divine family radiating the
 warmth of cosmic completion,
 then the most sacred closing
-element — the Tamil sacred
-text Om Namah Shivaya appearing
+element — the  english
+text "Om Namah Shivaya" appearing
 letter by letter in sacred
 golden fire-script at the
 center of the frame before

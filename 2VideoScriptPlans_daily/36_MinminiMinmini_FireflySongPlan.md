@@ -143,7 +143,7 @@
 
 **🖼️ Character Image Prompt:**
 ```
-A warm 3D Pixar-style Tamil girl character aged 5, warm brown skin,
+A warm 3D Pixar-style Tamil girl character aged 5,bright in complexion,
 dark hair in a thick braid, wearing a simple white cotton nightgown
 for bedtime, standing at a window sill with both arms on the ledge
 looking down into a darkening garden, her expression showing the
@@ -184,6 +184,20 @@ expression of open welcome, the garden dark behind her except for
 the glow she is creating herself, same EXACT design as Song 29 —
 this is the same character returning home to her own song, ultra
 Pixar precise cross-series continuity, 8K
+
+A tiny enchanting 3D Pixar-style firefly character, a small round
+golden insect body about the size of a marble, delicate translucent
+wings that shimmer between green and gold as they beat rapidly,
+an expressive cartoon face with enormous proportionally large eyes
+full of adventure and warmth, a glowing amber light emanating from
+the lower abdomen that pulses with warmth, hovering at eye level
+beside the boy character with her wings creating a soft hum, her
+expression showing pure enthusiasm for showing the night world, the
+glow from her abdomen casting a warm circle of amber light on nearby
+surfaces, surrounded by dozens of other smaller fireflies in the
+background creating a constellation of warm amber points of light
+in the garden darkness, ultra tiny but ultra expressive Pixar
+character, 8K
 ```
 
 ---
@@ -574,8 +588,8 @@ both connected upward and downward through the same warm amber light,
 the grandmother visible at the garden door glowing warm in the lamplight,
 the stars above and the fireflies below forming one continuous warm
 light field that surrounds both the grandmother and the girl in the
-most beautiful darkness that has ever been made beautiful, the Tamil
-title text appearing in warm amber-gold above, ultra Pixar finale
+most beautiful darkness that has ever been made beautiful, the 
+title text "Minimini Poochi - The Firefly"appearing in warm amber-gold above, ultra Pixar finale
 masterpiece, 8K
 ```
 

@@ -143,7 +143,7 @@
 
 **🖼️ Character Image Prompt:**
 ```
-A cute 3D Pixar-style Tamil girl character aged 6, warm brown skin,
+A cute 3D Pixar-style Tamil girl character aged 6, bright complexion skin,
 neat dark hair in two pigtails tied with bright colored ribbons, large
 curious city-sharp eyes that take in everything quickly, wearing a
 bright yellow frock with flower print and white sneakers that are
@@ -171,7 +171,7 @@ character with visible intelligence in the eyes, 8K, character sheet
 ```
 A wonderfully expressive 3D Pixar-style Tamil grandfather character
 aged 72, the most magnificent gleaming bald head imaginable — perfectly
-smooth, warm brown, catching morning light like a polished stone,
+smooth, bright complexion brown, catching morning light like a polished stone,
 lean and wiry with the muscle-tone of a man who has done agricultural
 work his whole life and still does, deep warm dark eyes with decades
 of laugh lines radiating outward from their corners, a neat white
@@ -494,7 +494,7 @@ world, ultra Pixar tender wisdom moment, 8K
 **🎬 Scene Prompt:**
 ```
 3D Pixar animation magical proverb visualization, as the grandfather
-speaks his proverb about small drops becoming a mighty flood, the
+speaks his proverb about "Little drops of water make a mighty ocean", the
 air between them fills with the visual metaphor — tiny individual
 water drops appearing one by one, each one small and insignificant,
 then more drops, then dozens, then hundreds, until the accumulated
@@ -505,7 +505,7 @@ small hands with new eyes as if seeing them as drops capable of
 becoming a flood of their own, the grandfather watching her
 understanding arrive with the expression of a teacher who has
 given a gift, the oil lamp on the ledge burning steadily beside them,
-the proverb itself visible briefly as gentle golden Tamil text in
+the proverb itself visible briefly as gentle golden English text -Little drops of water make a mighty ocean in
 the air before dissolving into the river of light, ultra Pixar
 wisdom-made-visible quality, 8K
 ```
@@ -575,7 +575,7 @@ sunset light one more time in a warm final gleam, the mango tree
 visible at the corner with one last ripe mango dropping gently to
 the earth, the village around them lit in the warm amber of the
 last light, golden wisdom-seed particles drifting upward around both
-of them like fireflies, the Tamil title text appearing in warm gold
+of them like fireflies, the  title text "Siru Thuli Peru Vellam" appearing in warm gold
 letters above, ultra warm Pixar finale grandeur, 8K
 ```
 

@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Adult Nostalgia + Child Wonder + Night Garden Magic)
 ```
-மின்மினி மின்மினி ✨🌙 | Minmini Minmini | The Firefly Song | Tamil Night Garden Kids Song!
+The KidsFirefly Song✨🌙 |மின்மினி மின்மினி | Minmini Minmini |  Tamil Night Garden Kids Song!
 ```
 
 ### 🥈 Option 2 — Fear Resolution + Bedtime Function
@@ -136,12 +136,11 @@ Some lights, she says, do not go out. Even after forty years. 💛
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE SIRIYA ULAYAAL INSECT SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🐜 எறும்பு எறும்பு (Erumbu — Ant Song! Day insect!) → [LINK]
-▶️ 🐝 வண்டுகுலம் (Vandukulam — Bee Song! Garden insect!) → [LINK]
-▶️ 🌙 நிலா நிலா ஓடி வா (Minmini's first appearance — Moon Song!) → [LINK]
-▶️ 😴 தூங்கு தூங்கு (Thoongu Thoongu — Minmini appears in the Sleep Song too!) → [LINK]
-▶️ All Tamil Kids Insect Songs Playlist → [LINK]
-▶️ Subscribe → [LINK]
+▶️ 🐜 எறும்பு எறும்பு (Erumbu — Ant Song! Day insect!) → https://youtu.be/ivYJh-pr2-U
+▶️ 🐝 வண்டுகுலம் (Vandukulam — Bee Song! Garden insect!) → https://youtu.be/Rkb4avXqAPg
+▶️ 🌙 நிலா நிலா ஓடி வா (Minmini's first appearance — Moon Song!) → https://youtu.be/CtxrCG_hyPc
+▶️ All Tamil Kids Insect Songs Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new Tamil kids song every week!

@@ -142,8 +142,20 @@
 
 **🖼️ Character Image Prompt:**
 ```
-The same 3D Pixar Tamil boy character from Song 18 now in school
-uniform — warm brown skin, wild black bedhead hair that his mother
+A cute 3D Pixar-style animated Tamil boy character aged 4, chubby bright complexion
+cheeks, enormous expressive dark eyes with long lashes, wild dishevelled black
+bedhead hair sticking up in six directions, wearing soft blue star-print pyjamas
+slightly too big for him with one foot showing, holding a tiny red toothbrush
+with reluctant expression — bottom lip out in a classic sulk, one eye squinting
+in morning tiredness, adorably messy comic sleep marks on one cheek from the
+pillow, standing in a bright warm Tamil home bathroom with yellow walls and a
+small mirror at child height, warm soft morning light streaming through a small
+window with jasmine plant on the sill, ultra cute Pixar expressiveness,
+character sheet showing both SULKY expression and PROUD SPARKLE SMILE expression,
+warm terracotta and gold home color palette, 8K resolution 
+
+The same 3D Pixar Tamil boy character is now in school
+uniform — Bright complexion skin, wild black bedhead hair that his mother
 clearly tried to comb but failed, large expressive dark eyes now
 showing pure morning panic at being late, wearing a white school
 shirt with a small Tamil Nadu emblem patch, navy blue shorts, white
@@ -168,7 +180,7 @@ consistency as established in Song 18, ultra Pixar kinetic energy, 8K
 **🖼️ Character Image Prompt:**
 ```
 A wonderfully expressive 3D Pixar-style middle-aged South Indian auto
-driver character aged 45, warm sun-weathered brown skin deeply familiar
+driver character aged 45, warm bright complexion skin deeply familiar
 with years of city driving, broad warm smile showing genuine easy
 contentment, short neat salt-and-pepper hair, a small neat mustache
 tilted in a permanent slight smile, wearing a white cotton half-sleeve
@@ -218,7 +230,7 @@ inside, ultra Pixar vehicle character expressiveness, 8K
 
 **🖼️ Character Image Prompt:**
 ```
-A series of 3D Pixar-style living South Indian city landmark characters
+A series of 3D Pixar-style living South Indian city - Chennai landmark characters
 seen briefly as an auto-rickshaw passes at speed — a tall colorful
 temple gopuram with dozens of carved deity figures that wave cheerfully
 as the auto passes, the carved figures having tiny cartoon eyes that
@@ -241,8 +253,8 @@ ultra vibrant Pixar city-life visual, 8K
 
 **🖼️ Character Image Prompt:**
 ```
-The same warm 3D Pixar Tamil mother character from Song 18 now
-wearing a simpler cotton saree for morning routine, standing at
+The same warm 3D Pixar Tamil mother character in bright complexion now
+wearing a pink pattu  saree for morning routine, standing at
 the open gate of a Tamil row-house with one hand on the gate post
 and the other raised in a combination wave-and-stop gesture toward
 the running boy who is already halfway down the street, her expression
@@ -599,31 +611,31 @@ energy, 8K
 ஆட்டோ ஆட்டோ வாரும்
 பள்ளி நேரம் ஆச்சுது
 வேகமாக போகணும்
-ரஜன் அண்ணா காத்திருக்கார்
+ராஜன் அண்ணா காத்திருக்கார்
 ஆட்டோவிலே ஏறலாம்!
 
 [Chorus]
 ஆட்டோ ஆட்டோ!
 புட் புட் புட்!
-வழி தெரியும் ரஜனுக்கு!
+வழி தெரியும் ராஜனுக்கு!
 ஆட்டோ ஆட்டோ!
 (PUTT-PUTT-PUTT!)
 
 [Verse 2]
 மரீனா கடற்கரை
 கோபுரம் தெரிகிறது
-பூ சந்தை கடந்தோம்
+பூ Market கடந்தோம்
 நல்ல மணம் வருது
 நகரம் நம்முடையது!
 
 [Chorus]
 ஆட்டோ ஆட்டோ!
 புட் புட் புட்!
-வழி தெரியும் ரஜனுக்கு!
+வழி தெரியும் ராஜனுக்கு!
 ஆட்டோ ஆட்டோ!
 
 [Bridge - Rajan's Wisdom]
-ரஜன் அண்ணா சொல்கிறார்
+ராஜன் அண்ணா சொல்கிறார்
 ஒவ்வொரு தெருவும்
 கதை சொல்கிறது
 கண் திறந்து பார்!

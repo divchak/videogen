@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Most Searched Tamil Devotional Phrase Ever)
 ```
-கந்த சஷ்டி கவசம் 🦚⚡ | Kanda Sashti Kavasam | 3D Animation | Tamil Devotional | முருகன் அருள்
+Soora Samharam focused SKanda Sashti Kavasam | 3D Animation | கந்த சஷ்டி கவசம் 🦚⚡ |Tamil Devotional | முருகன் அருள்
 ```
 
 ### 🥈 Option 2 — Festival Peak Title (Skanda Sashti Season)

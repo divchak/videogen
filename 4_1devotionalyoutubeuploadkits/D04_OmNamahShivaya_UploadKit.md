@@ -8,12 +8,12 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Mantra + Nataraja + Universal)
 ```
-ஓம் நமச்சிவாய 🔱✨ | Om Namah Shivaya | Nataraja Cosmic Dance 3D Animation | Tamil Devotional
+Lord Shiva 3D Animation🔱✨ |Om Namah Shivaya | Nataraja Cosmic Dance 3D Animation |ஓம் நமச்சிவாய 🔱✨ 
 ```
 
 ### 🥈 Option 2 — Shivaratri Festival Peak
 ```
-ஓம் நமச்சிவாய 🔱 | Mahashivaratri Special 2026 | Lord Shiva 3D Animation | Panchakshara Mantra
+ஓம் நமச்சிவாய 🔱 | Mahashivaratri Special 2026 |  Panchakshara Mantra
 ```
 
 ### 🥉 Option 3 — Monday Worship Angle
@@ -82,24 +82,6 @@ The entire cosmos — in one divine pose.
 🕯️ Shivaratri — the night of Shiva worship
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⏱️ TIMESTAMPS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-00:00 — Kailash at Cosmic Dawn 🏔️
-00:10 — The OM Manifests 🕉️
-00:20 — Shiva in Meditation 🧘
-00:30 — The Five Syllables — Five Elements ✨
-00:40 — Varanasi at Dawn 🌅
-00:50 — The Third Eye Opens 👁️
-01:00 — Nataraja Awakens! 💃
-01:10 — THE COSMIC DANCE — PEAK SCENE! 🔥
-01:20 — Monday Shiva Temple Worship 🙏
-01:30 — The Bilva Leaf 🌿
-01:40 — Ganga Descends into Shiva's Hair 🌊
-01:50 — Shivaratri — The Great Night 🌙
-02:00 — Shiva as Dakshinamurthy — Divine Teacher 📖
-03:30 — Devotee Applies Sacred Ash 🙏
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎵 CHANT ALONG
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ஓம் நமச்சிவாய!
@@ -119,10 +101,8 @@ The entire cosmos — in one divine pose.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE TAMIL DEVOTIONAL SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🔥 அண்ணாமலை அண்ணாமலை (Arunachala Shiva) → [LINK]
-▶️ 🦚 கந்த சஷ்டி கவசம் (Murugan) → [LINK]
-▶️ 🐘 விநாயகர் அகவல் (Ganesha — Shiva's son) → [LINK]
-▶️ All Tamil Devotional Playlist → [LINK]
+▶️ 🐘 விநாயகர் அகவல் (Ganesha — Shiva's son) → https://youtu.be/xoHMDFav9-g
+▶️ All Tamil Devotional Playlist → https://www.youtube.com/playlist?list=PL1oEoDz0Tf8Xk9Hhdpg2g8sWv2uXT7Q85
 
 🔔 Subscribe! 👍 LIKE if you watched on a Monday! 🔱
 💬 COMMENT: "ஓம் நமச்சிவாய!" — let the mantra fill this comment section!

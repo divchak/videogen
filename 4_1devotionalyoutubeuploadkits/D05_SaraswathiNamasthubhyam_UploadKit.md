@@ -99,10 +99,8 @@ but music, art, dance, poetry, science, and wisdom of every kind.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE TAMIL DEVOTIONAL SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🐘 விநாயகர் அகவல் (Ganesha — Begin here first!) → [LINK]
-▶️ 🌺 மஹாலக்ஷ்மி அஷ்டகம் (Lakshmi — for abundance) → [LINK]
-▶️ 🦁 மஹிஷாசுர மர்தினி (Durga — Navarathri!) → [LINK]
-▶️ All Tamil Devotional Playlist → [LINK]
+▶️ 🐘 விநாயகர் அகவல் (Ganesha — Begin here first!) → https://youtu.be/xoHMDFav9-g
+▶️ All Tamil Devotional Playlist → https://www.youtube.com/playlist?list=PL1oEoDz0Tf8Xk9Hhdpg2g8sWv2uXT7Q85
 
 🔔 Subscribe! 👍 LIKE if you watched before an exam! 📚
 💬 COMMENT: "🦢" if Saraswati guided your learning today!

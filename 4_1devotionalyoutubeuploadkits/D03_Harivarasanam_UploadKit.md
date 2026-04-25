@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Sacred Night + Pilgrimage + KJ Yesudas Legacy)
 ```
-ஹரிவராசனம் 🌟🙏 | Harivarasanam | Sabarimalai 3D Animation | Ayyappa Saranam | Tamil Devotional
+ Harivarasanam 🌟🙏 | Sabarimalai 3D Animation |ஹரிவராசனம்  | Ayyappa Saranam | Tamil Devotional
 ```
 
 ### 🥈 Option 2 — Mandala Deeksha Season Peak
@@ -75,26 +75,9 @@ Since the 10th century. Naturally. Without politics. Just faith. 🙏
 🪜 The 18 golden steps (Pathinettam Padi) glowing in lamp light
 🏔️ Lord Ayyappa in deep meditation on the mountain summit — stars above
 ⭐ The Makaravilakku sacred star appearing in the sky
-🕌 Vavar's shrine — the most powerful symbol of Hindu-Muslim friendship
 🌙 The Harivarasanam being sung — golden doors closing
 🐅 Ayyappa riding his divine tiger to the king's court
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⏱️ TIMESTAMPS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-00:00 — Sabarimalai Mountain at Dusk 🌅
-00:10 — Pilgrims at Pamba River 🌊
-00:20 — The 18 Sacred Steps 🪜
-00:30 — Ayyappa in Meditation ✨
-00:40 — The Makaravilakku Star ⭐
-00:50 — Vavar's Shrine — Unity 🕌
-01:00 — The Sacred Forest Path 🌙
-01:10 — Divine Birth of Ayyappa 🌟
-01:30 — Mahishi Liberated ✨
-02:00 — Harivarasanam at Temple Closure 🌙
-02:10 — The Divine Lullaby — Ayyappa Rests 😴
-03:30 — Ayyappa Hears Every Prayer 🙏
-04:40 — The 41-Day Deeksha Journey 📿
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎵 SING ALONG
@@ -115,10 +98,9 @@ Since the 10th century. Naturally. Without politics. Just faith. 🙏
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE TAMIL DEVOTIONAL SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🦚 கந்த சஷ்டி கவசம் → [LINK]
-▶️ 🐘 விநாயகர் அகவல் → [LINK]
-▶️ 🔱 ஓம் நமச்சிவாய → [LINK]
-▶️ All Tamil Devotional Playlist → [LINK]
+▶️ 🦚 கந்த சஷ்டி கவசம் - Soorasamharam → https://youtu.be/iSjy6GglOO8
+▶️ 🐘 விநாயகர் அகவல் → https://youtu.be/xoHMDFav9-g
+▶️ All Tamil Devotional Playlist → https://www.youtube.com/playlist?list=PL1oEoDz0Tf8Xk9Hhdpg2g8sWv2uXT7Q85
 
 🔔 Subscribe! 👍 LIKE if you felt the peace of the sacred mountain! 🏔️
 💬 COMMENT: "சரணம்" if you are an Ayyappa devotee! 🌟

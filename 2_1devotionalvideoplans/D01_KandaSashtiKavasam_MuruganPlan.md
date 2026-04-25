@@ -101,7 +101,7 @@
 [Verse 3 — Complete Armour]
 அருபடை வீடு ஆறும்
 ஆறுமுகன் அருள்
-கவடி எடுப்போர்க்கு
+காவடி எடுப்போர்க்கு
 வேல் அருள் பொழியும்!
 காக்க காக்க!
 
@@ -333,8 +333,7 @@ the 3D Pixar deity version — mounted on Paravani the celestial
 peacock whose feathers fill the entire sanctum with colour, 
 Murugan holding the Vel aloft with one hand while the other 
 offers divine blessing toward the viewer, his face radiating 
-infinite compassion and serene power, sacred Sanskrit syllables 
-and Tamil letters visible in the light particles surrounding him, 
+infinite compassion and serene power, 
 devotees in the corridor instinctively prostrating in divine awe, 
 flowers raining from above in slow motion — jasmine, lotus, 
 marigold, celestial gold petals, ultra divine cinematic Pixar 
@@ -482,8 +481,7 @@ traditional dhoti and sacred ash) standing in prayer posture,
 Lord Murugan's Vel and divine light descending from above and 
 touching the devotee's head, a helmet-like cage of golden 
 protective divine light forming around and above the head 
-like a crown of light, the Tamil text of the protective verse 
-appearing and circling the light cage in glowing golden 
+like a crown of light and circling the light cage in glowing golden 
 script, tiny golden Vel symbols embedded in the protective 
 light layer, the devotee's expression shifting from concern 
 to absolute serenity as the divine protection settles, 
@@ -510,8 +508,7 @@ eyes shown — everything beautiful, every object radiating
 its inner divine essence, a flower appears more vivid, 
 a leaf more translucent with life, another person reveals 
 their inner divine spark — the world transformed by 
-Murugan's protection of sight, the Tamil verse text flowing 
-in a golden arc above the eyes, tiny lotus flowers 
+Murugan's protection of sight, tiny lotus flowers 
 materialising in the golden light around the eyes, 
 ultra detailed intimate Pixar sacred quality, golden-lotus 
 palette, 8K
@@ -781,14 +778,9 @@ amber home prayer palette, 8K
 ```
 3D Pixar sacred animation divine armour formation scene, 
 a devotee standing in prayer posture shown in transparent 
-form revealing the interior of the body, the words of 
-the Kanda Sashti Kavasam appearing as glowing Tamil 
-text that orbits the body in a spiral from feet upward, 
-as each verse passes its section of the body it crystallises 
-into a section of golden divine armour — feet armoured 
+form revealing the interior of the body, feet armoured 
 first, then legs, torso, chest, arms, neck, face, head — 
-building a complete full-body suit of glowing sacred 
-armour entirely formed from Tamil text and golden light, 
+ and golden light, with title text "Kandha Sashti Kavasam" and 
 the completed armour radiating health, peace, protection 
 and divine power from every surface, Murugan's tiny 
 divine form visible reflected in the breastplate of 
@@ -809,7 +801,7 @@ temple setting — the sacred place where the eternal paradox
 occurred — the child Murugan teaching his own father Lord 
 Shiva the meaning of the Pranava mantra OM, young Murugan 
 seated elevated above Lord Shiva in the formal Guru-
-disciple position, Shiva seated below as the eager student 
+disciple position, Shiva seated  as the eager student 
 in a reversal of cosmic roles, Murugan whispering the 
 secret of OM into Shiva's ear shown as a stream of golden 
 light traveling between them, Shiva's expression of genuine 
@@ -927,7 +919,7 @@ covered by an enormous golden dome of divine protection
 radiating from the Tiruchendur temple at its center, 
 the dome of Murugan's Kavasam protection visible as 
 a beautiful golden network of interlocking Vel symbols 
-and Tamil text forming a sacred geometric shield over 
+and text "Kandha Sashti Kavasam" forming a sacred geometric shield over 
 the entire land, within the protection every scene of 
 Tamil life is touched — children playing, farmers in 
 fields, fishermen at sea, families in homes, students 
@@ -960,7 +952,7 @@ blessing) directly toward the viewer, golden light
 flowing from his hand toward the camera — toward YOU — 
 the feeling that the viewer themselves has just been 
 personally blessed, the music resolving to a deep 
-resonant OM as the title card "கந்த சஷ்டி கவசம்" 
+resonant OM as the title card "KANDHA SHASHTI KAVASAM" 
 appears in sacred golden peacock-feather letters, 
 ultra transcendent closing Pixar quality, sunset-
 gold-crimson sacred closing palette, 8K

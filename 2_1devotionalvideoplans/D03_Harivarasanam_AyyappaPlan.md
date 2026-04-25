@@ -145,7 +145,7 @@ electric instruments, bright major key, morning worship energy
 **🖼️ Character Image Prompt:**
 ```
 A magnificent serene 3D Pixar-style sacred animated deity, 
-Lord Ayyappa (Dharma Sastha) — the son of Shiva and Vishnu 
+Lord Ayyappa (Dharma Sastha) in bright complexion  — the son of Shiva and Vishnu 
 (Mohini) — eternal youthful divine warrior-sage, deep 
 forest-brown golden complexion radiating inner divine 
 light like starlight from beneath the skin, a perfectly 
@@ -623,7 +623,29 @@ sacred thing they have ever witnessed,
 ultra tender sacred Pixar quality, 
 dimming-gold-tender-night palette, 8K
 ```
-
+3D Pixar sacred animation tender divine 
+rest scene,  god receiving a lullaby — Ayyappa's 
+divine form settling into a resting posture 
+as the Harivarasanam is sung, the most 
+powerful depiction of divine approachability: 
+the supreme God allowing himself to be 
+sung to sleep like a beloved child, his 
+eyes closing slowly as the sacred song 
+continues, the divine light around him 
+softening from brilliant gold to a gentle 
+warm amber as if dimming with sleep, the 
+forest around Sabarimalai also settling 
+into nighttime stillness in response, 
+animals lying down, trees becoming 
+still, the river flowing more quietly, 
+all of nature participating in giving 
+the divine rest, the pilgrims watching 
+this divine sleeping with tears of tender 
+love — the God they walked 40 miles to 
+see is going to sleep and it is the most 
+sacred thing they have ever witnessed, 
+ultra tender sacred Pixar quality, 
+dimming-gold-tender-night palette, 8K
 ---
 
 ### Scene 15: THE WESTERN GHATS — SACRED FOREST (2:20–2:30)
@@ -669,10 +691,10 @@ inner peace that transcends the physical
 difficulty, behind and ahead on the same 
 path many other black-clad pilgrims, the 
 shared experience of the pilgrimage creating 
-a community of temporary monks all focused 
-on the same sacred goal, an elderly pilgrim 
+a community of temporary monks with irumudi all focused 
+on the same sacred goal, an elderly pilgrim with irumudi
 visible ahead moving slowly but steadily, 
-a young man slowing his own pace to walk 
+a young man with irumudi slowing his own pace to walk 
 beside and support the elderly pilgrim 
 without being asked, the practical compassion 
 of pilgrimage in action, ultra authentic 
@@ -801,7 +823,7 @@ quality, prayer-thread-gold palette, 8K
 ```
 3D Pixar sacred animation sacred oil 
 offering scene, the sacred moment of 
-Neiyabhishekam — the devotee breaking 
+Neiyabhishekam — the devotee with black dress and irumudi breaking 
 the sacred coconut oil coconut from the 
 Irumudi before the Ayyappa shrine, the 
 coconut breaking cleanly and the divine 
@@ -1083,7 +1105,7 @@ to face the viewer directly, an
 expression of eternal welcoming 
 patience — "I am always here. 
 Come when you are ready." — then 
-the title "ஹரிவராசனம்" appearing 
+the title "HARIVARASANAM" appearing 
 in deep golden letters as the morning 
 bells begin their day, ultra transcendent 
 eternal Pixar quality, dawn-eternal-

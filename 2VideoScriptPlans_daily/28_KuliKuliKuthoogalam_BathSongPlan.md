@@ -615,12 +615,12 @@ bright warm Pixar educational clarity, 8K
 **🎬 Scene Prompt:**
 ```
 3D Pixar animation educational counting and direction completion scene,
-continuation of bright counting sequence, bold Tamil numeral 'நான்கு' (4)
-bouncing in vivid electric purple, 'ஐந்து' (5) in bright sky-blue, 'ஆறு' (6)
+continuation of bright counting sequence, bold English numeral 'Four' (4)
+bouncing in vivid electric purple, 'Five' (5) in bright sky-blue, 'Six' (6)
 in bubblegum pink completing the full count of six scrubs, the scene then
 transitioning to a friendly full cartoon body diagram with four bright coloured
-directional arrows appearing one by one — yellow up 'மேலும்', green down
-'கீழும்', blue right 'வலது', red left 'இடது', an animated soap bar character
+directional arrows appearing one by one — yellow up 'UP', green down
+'Down', blue right 'Right', red left 'Left', an animated soap bar character
 tracing each direction creating glowing clean colour trails across the cartoon
 body surface, when all four directions completed the four trails connect to
 form a fully glowing clean body silhouette radiating soft pearl light, then the
@@ -747,8 +747,8 @@ his victory pose, all characters radiating their own version of post-bath
 glow — clean healthy warm golden light emanating from all five simultaneously
 and combining in the bathroom air into a warm communal glow that fills the
 entire space, Ponni stepping forward toward the camera pointing her small
-clean finger directly at the viewer with absolute conviction, Tamil text
-'நீயும் குளி!' materializing in bright golden letters around her pointing
+clean finger directly at the viewer with absolute conviction, English text
+'You Bath Too!' materializing in bright golden letters around her pointing
 finger, Paatti's coconut oil bottle in the background somehow tipping itself
 in one final tiny wave goodbye, Pixar most warm family quality, 8K
 ```
@@ -772,7 +772,7 @@ the scene catching every colour of the bathroom light and fragmenting into
 a thousand tiny rainbow points, the wall behind them showing the combined
 reflection of all their glowing clean forms doubled in the bathroom mirror,
 Ponni and Manjal Vaathu front and centre holding hands and bowing to camera,
-bold Tamil title 'குளி குளி குதூகலம்!' blazing in warm golden letters across
+bold English title 'Bath time, happy time!' blazing in warm golden letters across
 the top of the frame with sparkle underlines, the coconut oil bottle making
 one final dignified bow at the edge of frame, ultra warm joyful Pixar finale
 quality, 8K

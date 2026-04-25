@@ -145,7 +145,7 @@
 **🖼️ Character Image Prompt:**
 ```
 A 3D Pixar-style Tamil boy character aged 7, slightly leaner and more
-athletic than the younger song characters, warm brown skin, short neat
+athletic than the younger song characters, bright complexion skin, short neat
 black hair, large dark eyes showing alert intelligence and the specific
 focused attention of a natural athlete observing something worth
 learning, wearing simple dark blue cotton shorts and a plain white
@@ -172,7 +172,7 @@ and FIRST-STAFF-HOLD expression
 ```
 A magnificently dignified 3D Pixar-style Silambam master character
 aged 52, lean and precise with the specific physique of someone who
-has moved with absolute intention for forty years, warm dark brown
+has moved with absolute intention for forty years,bright complexion 
 skin, close-cropped greying hair, a face of profound calm — not stern
 but completely settled, wearing a simple dark cotton sleeveless shirt
 and white cotton veshti, bare feet on packed earth of the training
@@ -224,7 +224,7 @@ motion-art visual, 8K
 
 **🖼️ Character Image Prompt:**
 ```
-A translucent 3D Pixar-style ancient Tamil warrior spirit character —
+A translucent 3D Pixar-style ancient Tamil warrior spirit character with bright complexion —
 a tall broad-shouldered warrior figure from the Sangam era visible
 as a semi-transparent golden-blue overlay on the training ground scene,
 wearing the warrior attire of ancient Tamil heritage — a simple dhoti,

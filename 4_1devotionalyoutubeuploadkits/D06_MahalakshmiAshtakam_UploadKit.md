@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Friday Ritual + Abundance + Diwali)
 ```
-மஹாலக்ஷ்மி அஷ்டகம் 🌺💛 | Mahalakshmi Ashtakam | 3D Animation | Friday Prayer | Tamil Devotional
+Mahalakshmi Ashtakam 3D Animation🌺💛| மஹாலக்ஷ்மி அஷ்டகம் | Friday Prayer | Tamil Devotional | Diwali Special 
 ```
 
 ### 🥈 Option 2 — Diwali Season Peak
@@ -82,19 +82,6 @@ Sing this Ashtakam and invite ALL eight forms into your life! 🌺
 🌺 A Tamil woman's Friday prayer — most relatable scene
 💛 Coins raining from divine hands to devotees
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⏱️ TIMESTAMPS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-00:00 — Friday Morning Lakshmi Altar 🌅
-00:10 — Lakshmi Emerges from the Cosmic Ocean 🌊
-00:20 — The Divine Elephants — Gajalakshmi 🐘
-00:30 — The Eight Forms — Ashtalakshmi ✨
-00:40 — The Sacred Lotus 🌺
-00:50 — Diwali Night Celebration 🪔
-01:10 — Tirupati — Lakshmi at Venkateswara's Side 🏛️
-01:20 — The Owl — Lakshmi's Night Vision 🦉
-02:00 — Vijaya Lakshmi — Student Receives Results! 🏆
-02:40 — Tamil Woman's Friday Prayer 🌺
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎵 CHANT ALONG
@@ -116,10 +103,9 @@ Sing this Ashtakam and invite ALL eight forms into your life! 🌺
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE TAMIL DEVOTIONAL SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🦢 சரஸ்வதி நமஸ்துப்யம் (Knowledge brings prosperity) → [LINK]
-▶️ 🦁 மஹிஷாசுர மர்தினி (Durga — fierce divine feminine) → [LINK]
-▶️ 🐘 விநாயகர் அகவல் (Ganesha — begin with him first) → [LINK]
-▶️ All Tamil Devotional Playlist → [LINK]
+▶️ 🦢 சரஸ்வதி நமஸ்துப்யம் (Knowledge brings prosperity) → https://youtu.be/ZdFm3jv7404
+▶️ 🐘 விநாயகர் அகவல் (Ganesha — begin with him first) → https://youtu.be/xoHMDFav9-g
+▶️ All Tamil Devotional Playlist → https://www.youtube.com/playlist?list=PL1oEoDz0Tf8Xk9Hhdpg2g8sWv2uXT7Q85
 
 🔔 Subscribe! 👍 LIKE every Friday you play this! 🌺
 💬 COMMENT: "🌺" every Friday when you light the lamp!

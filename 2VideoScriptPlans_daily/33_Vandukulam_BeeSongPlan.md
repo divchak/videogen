@@ -575,7 +575,7 @@ going about his own work and pausing to look up briefly at the bee
 overhead — a friendly acknowledgement between two small workers who
 understand each other, the whole garden in the golden late afternoon
 light looking like the most beautiful and thriving ecosystem possible,
-the Tamil title text appearing in warm honey-gold letters, ultra warm
+the English title text - "Honey Comb - Queen Honey" appearing in warm honey-gold letters, ultra warm
 Pixar ecological celebration finale, 8K
 ```
 

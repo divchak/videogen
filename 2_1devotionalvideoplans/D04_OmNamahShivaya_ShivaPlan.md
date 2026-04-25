@@ -209,7 +209,7 @@ Pixar quality, Chidambaram gold-fire-cosmic palette, 8K
 A radiantly beautiful 3D Pixar-style sacred animated 
 goddess, Parvati — the divine consort of Shiva and 
 the embodiment of Shakti (divine feminine power) — 
-golden complexion that radiates warmth and energy, 
+golden bright complexion that radiates warmth and energy, 
 large compassionate dark eyes that see all suffering 
 and contain the power to end it, hair adorned with 
 jasmine and forest flowers, wearing a magnificent 
@@ -301,7 +301,7 @@ and from the center of the void a single
 vibration beginning, the cosmic OM, 
 shown as an expanding golden sphere 
 of sacred sound energy, the Om symbol 
-(ஓம்) appearing within the sphere in 
+(Om) appearing within the sphere in 
 golden fire, as the Om expands outward 
 from the center galaxies and stars 
 beginning to form in its wake — creation 
@@ -353,8 +353,8 @@ white-blue-gold Kailash palette, 8K
 geometry scene, the five sacred 
 syllables of the Panchakshara mantra 
 visualised as five golden glowing 
-Tamil letters — ந (Na) MA (Ma) சி (Si) 
-வா (Va) ய (Ya) — each appearing one 
+English letters — "Na" , "Ma"  "Si" 
+"Va" "Ya" — each appearing one 
 by one in golden fire, each syllable 
 connected to one of the five elements 
 of creation shown in sequence: Na = 

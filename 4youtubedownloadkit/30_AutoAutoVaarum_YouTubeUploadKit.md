@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (PUTT-PUTT Hook + City Identity + Geography)
 ```
-ஆட்டோ ஆட்டோ வாரும் 🛺 | Auto Auto Varum | PUTT-PUTT Tamil Kids Song | Know Your City!
+ Auto Auto Varum🛺 |ஆட்டோ ஆட்டோ வாரும் 🛺 | PUTT-PUTT Tamil Kids Song | Know Your City!
 ```
 
 ### 🥈 Option 2 — Cultural Icon + City Philosopher Angle
@@ -129,11 +129,11 @@ This song celebrates Tamil Nadu's cities and the auto driver who knows them best
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH MORE — THE CHUKKU MOOKKU TRANSPORT SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🚂 ஓடி வா ரெயில் (Odi Vaa Rail — Train!) → [LINK]
-▶️ 🛁 பல் தேய் தேய் (Pal Thei Thei — Muthu's Brush Song!) → [LINK]
-▶️ 😊 சந்தோஷம் (Santosham — Emotions Song!) → [LINK]
-▶️ All Tamil Kids Songs Playlist → [LINK]
-▶️ Subscribe → [LINK]
+▶️ 🚂 ஓடி வா ரெயில் (Odi Vaa Rail — Train!) → https://youtu.be/JO8mK4vEIMA
+▶️ 🛁 பல் தேய் தேய் (Pal Thei Thei — Muthu's Brush Song!) → https://youtu.be/XQvz68g-PyM
+▶️ 😊 சந்தோஷம் (Santosham — Emotions Song!) → https://youtu.be/dk-QCmbn5n8
+▶️ All Tamil Kids Songs Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new Tamil kids song every week!
@@ -142,7 +142,13 @@ This song celebrates Tamil Nadu's cities and the auto driver who knows them best
 📤 SHARE with every Tamil Nadu city family — this is YOUR vehicle! 🛺
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-#AutoAutoVarum #ஆட்டோ #TamilTransportSong #TamilKidsSong #PuttPutt
+#AutoAutoVarum #ஆட்டோ #TamilTransportSong #TamilKidsSong #PuttPutt#AutoAutoVaarum #ஆட்டோஆட்டோவாரும் #TamilTransportSong #TamilKidsSong #PuttPutt
+#AutoRickshaw #TamilNaduCity #ChennaiKids #MarinaBreach #TempleKids
+#TamilKids #TamilNurseryRhymes #VehicleSong #TamilAnimation
+#CityExplorer #TamilCulture #AutoUncle #RajanAnna
+#ChukuMookku #OdiVaaRail #TransportSeries #KidsLearning
+#TamilToddler #TamilBabySong #தமிழ்குழந்தைபாடல்
+#MuthuReturns #KuttiMuthu #TamilCityLife
 ```
 
 ---
@@ -185,7 +191,7 @@ yellow auto kids song,
 city tour kids tamil,
 tamil culture vehicle song
 ```
-
+auto auto varum,ஆட்டோ ஆட்டோ வாரும்,auto rickshaw song kids,putt putt kids song,tamil transport song,auto song tamil kids,rickshaw song tamil,tamil city kids song,marina beach kids song,tamil landmark song kids,chennai kids song,tamilnadu city kids song,muthu song series,kutti muthu songs,tamil vehicle song kids,chukku mookku transport,train song sequel tamil,auto uncle song,temple tower kids song,tamil kids animated song,tamil kids song 2026,தமிழ் குழந்தை பாடல்,auto paadal,city tour kids
 ### 📊 Tags Strategy Breakdown
 
 | Tag Group | Tags | Why |

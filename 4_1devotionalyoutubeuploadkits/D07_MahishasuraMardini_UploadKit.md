@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Battle Energy + Aigiri Nandini)
 ```
-மஹிஷாசுர மர்தினி 🦁⚡ | Aigiri Nandini Tamil | Durga 3D Battle Animation | Navarathri Special
+Aigiri Nandini 🦁⚡ |மஹிஷாசுர மர்தினி | Durga 3D Battle Animation | Navarathri Special
 ```
 
 ### 🥈 Option 2 — Navarathri Festival Peak
@@ -82,21 +82,6 @@ Even the demon received grace. That is the goddess's nature. 🌟
 🌺 Nine nights of Navarathri celebration
 🏆 Vijayadasami — the day of triumph
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⏱️ TIMESTAMPS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-00:00 — Himalayas — Durga is Created! 🏔️
-00:10 — The Gods Arm Durga ⚔️
-00:20 — The Divine Lion Arrives 🦁
-00:30 — Navarathri Golu Display 🎊
-00:40 — The Battle Begins! ⚔️
-00:50 — 10 Weapons in Action! 🔥
-01:00 — Mahishasura's Arrogance 🐃
-01:10 — THE VICTORY MOMENT! 🌟
-01:20 — Mahishasura's Liberation ✨
-01:30 — Flowers Rain from Heaven 🌸
-01:40 — Nine Nights of Navarathri 🌺
-02:40 — Vijayadasami — Victory Day! 🏆
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎵 CHANT ALONG
@@ -118,10 +103,10 @@ Even the demon received grace. That is the goddess's nature. 🌟
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE TAMIL DEVOTIONAL SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🌺 மஹாலக்ஷ்மி அஷ்டகம் (Lakshmi — Navarathri Days 4–6) → [LINK]
-▶️ 🦢 சரஸ்வதி நமஸ்துப்யம் (Saraswati — Navarathri Day 9) → [LINK]
-▶️ 🦚 கந்த சஷ்டி கவசம் (Murugan — after Navarathri) → [LINK]
-▶️ All Tamil Devotional Playlist → [LINK]
+▶️ 🌺 மஹாலக்ஷ்மி அஷ்டகம் (Lakshmi — Navarathri Days 4–6) → https://youtu.be/M8LQS2dNwXk
+▶️ 🦢 சரஸ்வதி நமஸ்துப்யம் (Saraswati — Navarathri Day 9) → https://youtu.be/ZdFm3jv7404
+▶️ 🦚 கந்த சஷ்டி கவசம் (Murugan — after Navarathri) → https://youtu.be/iSjy6GglOO8
+▶️ All Tamil Devotional Playlist → https://www.youtube.com/playlist?list=PL1oEoDz0Tf8Xk9Hhdpg2g8sWv2uXT7Q85
 
 🔔 Subscribe! 👍 LIKE if Durga gave you courage today! 🦁
 💬 COMMENT: "ஜய துர்கா!" if you are watching during Navarathri!

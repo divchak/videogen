@@ -224,9 +224,8 @@ ultra Pixar festival grandfather warmth, 8K
 
 **🖼️ Character Image Prompt:**
 ```
-A deeply dignified 3D Pixar-style Tamil farmer character, weather-
-tanned dark brown skin with the specific texture of someone who works
-outdoors in all seasons, lean and strong with field-worker's build,
+A deeply dignified 3D Pixar-style Tamil farmer character, bright complexion
+ skin , lean and strong with field-worker's build,
 wearing a simple dhoti and cotton shirt, a white cotton towel on his
 shoulder serving as both practical work tool and traditional accessory,
 simple rubber sandals, standing in a green paddy field with the rice
@@ -581,8 +580,8 @@ Pongal pot character with its expression of absolute festival
 satisfaction, the Sun above watching over all of them, the girl
 turning toward camera and throwing both hands upward in the
 PONGI VARUM gesture with a face of complete joy, the overflow
-from the pot still visible as golden warmth on the ground, Tamil
-title text appearing in deep warm gold, a final cascade of golden
+from the pot still visible as golden warmth on the ground, English
+title text "Pongalo Pongal" appearing in deep warm gold, a final cascade of golden
 rice grain particles falling upward from the pot toward the sun
 as the ultimate gratitude offering, ultra warm Pixar festival
 finale masterpiece, 8K

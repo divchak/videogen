@@ -109,6 +109,57 @@
 
 ---
 
+Lyrics tamil
+
+[Intro]
+(இசைக்கருவிகள்: புல்லாங்குழல் மற்றும் வீணை)
+
+[Verse 1]
+சீதக் களபச் செந்தாமரைப்பூம்
+பாதச் சிலம்பு பலவிசை பாடப்
+பொன்னரை ஞாணும் பூந்துகில் ஆடையும்
+வன்னமருங்கில் வளர்ந்தழகெறிப்பப்
+பேழை வயிறும் பெரும்பாரக் கோடும்
+வேழ முகமும் விளங்குசிந்தூரமும்
+
+[Chorus]
+அஞ்சு கரமும் அங்குச பாசமும்
+நெஞ்சிற் குடிகொண்ட நீலமேனியும்
+நான்ற வாயும் நாலிரு புயமும்
+மூன்று கண்ணும் மும்மதச் சுவடும்
+விநாயகனே வினை தீர்ப்பவனே
+அற்புதம் நின்ற கற்பகக் களிறே!
+
+[Verse 2]
+முப்பழ நுகரும் மூஷிக வாகன!
+இப்பொழு தென்னை ஆட்கொள்ள வேண்டித்
+தாயாய் எனக்குத் தான் எழுந்தருளி
+மாயப் பிறவி மயக்கம் அறுத்துத்
+திருந்திய முதற்கண் திருவடி வைத்துப்
+பருந்தவப் பாலிற் பதித்துநெய் ஊட்டி
+
+[Bridge]
+ஆறாதாரம் அனைத்தும் காட்டி
+தேறாதாரம் திகழ்ந்தொளி மார்பும்
+வாக்கும் மனமும் இல்லா மனோலயம்
+தேக்கியே எந்தன் சிந்தை தெளிவித்து!
+
+[Chorus]
+அஞ்சு கரமும் அங்குச பாசமும்
+நெஞ்சிற் குடிகொண்ட நீலமேனியும்
+நான்ற வாயும் நாலிரு புயமும்
+மூன்று கண்ணும் மும்மதச் சுவடும்
+விநாயகனே வினை தீர்ப்பவனே
+அற்புதம் நின்ற கற்பகக் களிறே!
+
+[Outro]
+எல்லையிலாத ஆனந்தம் அளித்து
+அல்லல் களைந்தே அருள்வழி காட்டிச்
+சத்தத்தின் உள்ளே சதாசிவம் காட்டிச்
+சித்தத்தின் உள்ளே சிவலிங்கம் காட்டி.
+
+[End]
+
 ## 🎵 4.3 SUNO AI STYLE TAGS
 
 ### ✅ STYLES TO INCLUDE:
@@ -528,7 +579,24 @@ all that unexplored wisdom, nodding gently in
 approval, ultra profound storytelling Pixar quality, 
 wise warm palette, 8K
 ```
-
+```
+3D Pixar animation wise story scene, the famous moment 
+where Avvaiyar (in legend) used a mustard seed to 
+illustrate that what she had learned was just a tiny 
+fraction of what existed to be learned — Avvaiyar 
+holding up a single mustard seed before her students, 
+the students leaning forward wondering what she will 
+say, then showing the seed: "What I have learned in 
+my whole life is this seed. What remains to be 
+learned is the whole universe." — shown as the tiny 
+seed in her palm expanding in a cosmic zoom-out to 
+reveal the entire universe behind it, the students' 
+faces going from confident to humbled to inspired, 
+Vinayagar visible above the scene as the source of 
+all that unexplored wisdom, nodding gently in 
+approval, ultra profound storytelling Pixar quality, 
+wise warm palette, 8K
+```
 ---
 
 ### Scene 14: DIVINE LOTUS THRONE SCENE (2:10–2:20)
@@ -567,7 +635,7 @@ as a brief illumination of the brain region in gold,
 the student sitting back up with visibly calmer and 
 more focused expression, opening the books again 
 to find the previously difficult material somehow 
-clearer — the words more understandable, the 
+clearer — the subject becomes more understandable, the 
 connections more obvious — Vinayagar watching with 
 quiet satisfaction, the lamp burning a little 
 brighter as a divine sign, ultra relatable 
@@ -603,12 +671,12 @@ turmeric sacred palette, 8K
 ```
 3D Pixar sacred animation sacred first letter scene, 
 Lord Vinayagar using his broken tusk as a pen to 
-write the sacred symbol OM (ஓம்) — the first and 
+write the sacred Text "OM" — the first and 
 most fundamental sound of creation — in golden 
 divine light on the fabric of the cosmos itself, 
-the OM symbol growing as he writes it, expanding 
+the OM Text growing as he writes it, expanding 
 outward until it fills the entire visible universe, 
-within the OM symbol all of creation is visible — 
+within the OM Text all of creation is visible — 
 galaxies, planets, mountains, rivers, oceans, 
 creatures, humans — all contained within this 
 single sacred sound and symbol, Vinayagar stepping 
@@ -651,16 +719,16 @@ sunset-gold palette, 8K
 ```
 3D Pixar sacred animation divine scribe scene, 
 Lord Vinayagar in his divine role as the cosmic 
-scribe and preserver of Tamil sacred literature — 
-seated with multiple scrolls of Tamil devotional 
+scribe and preserver of  sacred literature — 
+seated with multiple scrolls of  devotional 
 texts being preserved in his celestial library, 
 the Thevaram, Thiruvasagam, and Thiruppugazh 
-scrolls visible in golden text floating around 
+scrolls visible in golden text like "THEVARAM", "THIRUVASAGAM", "THIRUPPUGAZH" floating around 
 him, his broken tusk moving writing to document 
 each sacred verse as if ensuring they are never 
 lost, a vast celestial library stretching beyond 
 sight behind him filled with golden scrolls — 
-the complete repository of all sacred Tamil 
+the complete repository of all sacred  
 literature under his protection, the role of 
 wisdom not just as consumer but as preserver 
 and transmitter of all sacred knowledge through 
@@ -793,8 +861,7 @@ right hand rising in the abhaya mudra —
 "Fear Not, Begin, I Am With You" — 
 then the full saffron-gold form slowly 
 fading into a warm golden glow as the 
-final bell rings, the title "விநாயகர் 
-அகவல்" appearing in saffron-gold 
+final bell rings, the title "Vinayagar Agaval" appearing in saffron-gold 
 sacred letters with Mooshika running 
 across the bottom of the frame carrying 
 one last modakam as the final frame, 

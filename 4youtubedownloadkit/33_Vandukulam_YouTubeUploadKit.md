@@ -13,7 +13,7 @@
 
 ### 🥈 Option 2 — Conservation + Educational Angle
 ```
-வண்டுக்கூட்டம் வண்டுக்கூட்டம் 🐝 | Why Bees Are Magic! | Tamil Kids Science Song | Save the Bees!
+Why Honey Bees Are Magic! | தேனீக்கூட்டம் ராணித் தேனீ🐝 | Tamil Kids Science Song | Save the Bees!
 ```
 
 ### 🥉 Option 3 — Insect Series Sequel + Erumbu Cameo Hook
@@ -37,7 +37,7 @@
 > ✅ **Copy-paste ready. Replace `[LINK]` with actual URLs before uploading.**
 
 ```
-🐝 வண்டுக்கூட்டம் வண்டுக்கூட்டம் — BZZZ-BZZZ-BZZZ! 🍯
+🐝 தேனீக்கூட்டம் ராணித் தேனீ🐝 — BZZZ-BZZZ-BZZZ! 🍯
 Spread your arms like wings → spin and BZZZ → you are a bee now! 🐝
 How much honey can YOU collect today?
 
@@ -133,11 +133,10 @@ The bee is a Tamil cultural symbol AND one of the most important creatures on Ea
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE SIRIYA ULAYAAL INSECT SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🐜 எறும்பு எறும்பு (Erumbu Erumbu — Ant Song! The Bee rescues HIM too!) → [LINK]
-▶️ ✨ மின்மினி மின்மினி (Minmini Minmini — Firefly Song! Night insect!) → [LINK]
-▶️ 🌙 நிலா நிலா ஓடி வா (Night sky after garden insect songs!) → [LINK]
-▶️ All Tamil Kids Insect Songs Playlist → [LINK]
-▶️ Subscribe → [LINK]
+▶️ 🐜 எறும்பு எறும்பு (Erumbu Erumbu — Ant Song! The Bee rescues HIM too!) → https://youtu.be/ivYJh-pr2-U
+▶️ 🌙 நிலா நிலா ஓடி வா (Night sky after garden insect songs!) → https://youtu.be/CtxrCG_hyPc
+▶️ All Tamil Kids Insect Songs Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new Tamil kids song every week!

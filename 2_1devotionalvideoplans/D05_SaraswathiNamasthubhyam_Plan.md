@@ -193,7 +193,7 @@ Pixar quality, pure white-silver-gold swan palette, 8K
 **🖼️ Character Image Prompt:**
 ```
 A sincere and bright 3D Pixar-style animated Tamil student 
-character, a girl of approximately 12 years, wearing a 
+character with bright complexion, a girl of approximately 12 years, wearing a 
 neat school uniform — white shirt, blue skirt, dark blue 
 ribbon in neatly plaited hair with one jasmine flower 
 tucked beside it for Saraswati Pooja, carrying a stack 
@@ -320,7 +320,7 @@ sound-wave palette, 8K
 3D Pixar sacred animation knowledge 
 awakening scene, Saraswati opening 
 her sacred Vedic book and from its 
-pages golden Sanskrit and Tamil 
+pages golden english
 letters rising and dancing outward 
 into the surrounding space — 
 knowledge becoming alive and three-
@@ -412,7 +412,7 @@ learning ceremony scene, the
 sacred Vidhyarambham ceremony — 
 an elderly grandparent guiding 
 a small child of 3 years in 
-drawing their first Tamil letter 
+drawing their first English letter "A"
 in rice grains spread on a brass 
 plate, the moment of the first 
 letter appearing in the rice, 
@@ -650,7 +650,7 @@ assembly hall of the Second Sangam
 at Kapadapuram (before it was lost
 to the sea) filled with the greatest
 Tamil poets of ancient history,
-Akalanuru poets, Purananuru heroes,
+Aganaanuru poets, Purananuru heroes,
 Kurunthokai love poets — all visible
 in creative fervor, Saraswati’s
 divine presence felt as a warm
@@ -721,24 +721,21 @@ palette, 8K
 
 ### Scene 16: THE TAMIL ALPHABET — 247 SACRED LETTERS GLOW IN SEQUENCE (2:30–2:40)
 ```
-3D Pixar sacred animation sacred
-Tamil alphabet learning scene, a
+3D Pixar sacred animation 
+English alphabet learning scene, a
 young child of about five years
 seated at a low desk before a
 large sacred blackboard in a
 traditional Tamil school, beginning
-to learn the Tamil alphabet — the
-247 glorious letters of the Tamil
-script (18 consonants, 12 vowels,
-216 compound characters plus the
-neutral ‘uyirmei’ forms) shown as
+to learn the English alphabet — the
+26 glorious letters shown as
 each letter glows golden when the
 teacher points to it and the child
 tries to trace it in the air with
 a small finger, Saraswati visible
 behind the teacher guiding the
 lesson from the divine level, each
-Tamil letter as it is introduced
+ letter as it is introduced
 briefly showing its ancient heritage
 — letters that have carried Tamil
 civilization for over 2000 years
@@ -750,12 +747,12 @@ to the pure delight of recognition
 as the first letters start to make
 sense and become readable, the
 moment the child reads their first
-Tamil word — “AMMA” (mother) —
+ word — “AMMA” (mother) —
 shown as the most sacred reading
 moment, Saraswati clasping her
 hands in divine joy, ultra tender
 learning sacred Pixar quality,
-Tamil alphabet gold-childhood-
+english  alphabet gold-childhood-
 learning palette, 8K
 ```
 
@@ -818,7 +815,7 @@ gently from above as if the entire
 sky is made of lotus flowers,
 each petal as it falls transforming
 into a glowing golden letter —
-some Tamil, some Sanskrit, some
+some English, some
 mathematical, some musical notation —
 all forms of knowledge raining down
 as blessings on every viewer,
@@ -833,7 +830,7 @@ them there, the divine peacock
 behind her spreading its luminous
 feathers creating a natural divine
 halo, then her sacred name
-“சரச்வதி” in sacred white-gold
+“Saraswathi” in sacred white-gold
 fire-script appearing letter by
 letter before her divine form,
 each letter vibrating with the

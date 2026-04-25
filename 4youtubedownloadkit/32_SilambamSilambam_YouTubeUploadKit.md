@@ -133,11 +133,8 @@ Your child's Tamil warrior heritage is alive and global! ⚔️
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH MORE — TAMIL MARABHUM HERITAGE SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🔴 கோலம் குட்டி (Kolam Kutty — Tamil Art Song!) → [LINK]
-▶️ 📜 திருவள்ளுவர் தாத்தா (Thiruvalluvar Thatha — Tamil Wisdom!) → [LINK]
-▶️ 💛 அன்பு அன்பு (Anbu Anbu — Kindness and Strength!) → [LINK]
-▶️ All Tamil Kids Heritage Songs → [LINK]
-▶️ Subscribe → [LINK]
+▶️ All Tamil Kids Heritage Songs → https://www.youtube.com/playlist?list=PLZyriYGm-jBdagxq59AyXLP2ZUIdtZTvY
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔔 Subscribe — new Tamil kids song every week!
