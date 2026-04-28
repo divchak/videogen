@@ -420,9 +420,9 @@ reverent semicircle, Yudhishthira
 kneeling closest with folded 
 hands, Bhishma's lips moving 
 as he begins the sacred recitation 
-of the 1000 names of Vishnu, 
+of the  name of Vishnu, 
 each name appearing as golden 
-Tamil text floating upward as 
+Tamil text  as "OM VISHNUVAE NAMAHA" "PADMNABAYA NAMAHA" "JANARDHANAYA NAMAHA" floating upward as 
 it is spoken, Lord Krishna 
 standing at the back of the 
 circle, his blue form luminous 
@@ -581,8 +581,8 @@ in the gentle version — not
 the awe-inspiring cosmic form
 but the deeply comforting cosmic
 shelter form, the name Narayana
-shown as golden Tamil/Sanskrit
-text floating in the divine
+shown as golden english text "NARAYANA"
+ floating in the divine
 blue sky, each syllable resonating
 with its specific meaning and
 its specific comfort, the most
@@ -1091,7 +1091,7 @@ gold-eternal palette, 8K
 name visualization scene, the
 most magnificent visualization
 of the Vishnu Sahasranamam itself
-— all one thousand sacred names
+— all one thousand sacred names(just fast that the words are not clear)
 of Vishnu appearing simultaneously
 in a magnificent golden spiral
 that expands from the divine
