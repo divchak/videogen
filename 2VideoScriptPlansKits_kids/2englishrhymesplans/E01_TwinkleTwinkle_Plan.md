@@ -184,15 +184,15 @@ through-window AND waving-goodbye expressions
 - She is the universal child — any child watching sees themselves in her
 
 **Personality:** Full of wonder • Sleepy but fighting it • Curious beyond reason • Brave • Gentle
-**Colors:** Pale blue pajamas with white cloud prints, warm brown skin, dark curly hair, bear is honey-brown
+**Colors:** Pale blue pajamas with white cloud prints, rosy fair skin, soft light brown curly hair, bear is honey-brown
 
 **🖼️ Lily Character Image Prompt:**
 ```
 An irresistibly adorable 3D Pixar-style animated child character, 
-a small girl approximately 4 years old with warm brown skin and 
-dark soft curly hair in two small puffs, wearing the most 
+a small girl approximately 4 years old with rosy fair skin and 
+soft light brown curly hair in two small puffs, wearing the most 
 comfortable-looking pale blue cloud-print pajamas, enormous 
-dark brown eyes that reflect starlight as tiny gold points — 
+bright blue-grey eyes that reflect starlight as tiny gold points — 
 eyes built for wonder and completely incapable of staying closed 
 when there are stars to watch, holding a small honey-brown 
 stuffed bear under one arm, seated at a large bedroom window 
@@ -201,7 +201,7 @@ the night sky outside the window filling the background with
 deep blue and star-light, her expression: pure wonder, mouth 
 slightly open, all sleepiness forgotten in the face of the night 
 sky, a warm bedside lamp casting soft amber light behind her, 
-the most universally relatable child character in animation, 
+the most universally relatable British child character in animation, 
 Pixar emotional-depth quality, warm amber-blue night palette, 
 8K resolution, full character design showing window-gazing AND 
 flying-through-sky AND sleepy-wave-goodbye expressions
@@ -294,6 +294,89 @@ warm amber-and-midnight-blue colour palette, 8K
 
 ---
 
+## Scene 2: LILY AT THE WINDOW (0:08–0:15)
+**Title:** "A Girl and the Night Sky Meet for the First Time"
+
+**Action:** Lily is kneeling on the window seat, forehead pressed against the cold glass → her stuffed bear propped beside her → she breathes on the glass and a little circle of condensation forms → she draws a star in it with her finger → the real star outside mirrors her drawing → she gasps
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation intimate close-up of Lily at the bedroom window,
+kneeling on the window seat with her small nose and forehead pressed
+against the cold glass leaving a perfect circle of condensation,
+her honey-brown stuffed bear propped against the window frame
+beside her as her faithful companion, the warm amber light of
+the bedroom behind casting her in silhouette against the deep
+blue night outside, she breathes on the glass and with one
+tiny finger draws a wobbly five-pointed star in the fog patch —
+completely unselfconscious and absorbed — and in the deep blue
+sky outside at the exact same position, Twinkle pulses brighter
+as if responding, Lily's enormous blue-grey eyes go wide as
+saucers at this coincidence, her mouth forms a perfect O of
+wonder, the star-drawing on the glass and the real star outside
+perfectly aligned, the most tender and magical moment of
+recognition between child and universe, Pixar wonder quality,
+warm amber and deep midnight-blue palette, 8K
+```
+
+---
+
+## Scene 3: TWINKLE WINKS! (0:15–0:22)
+**Title:** "She WINKED at Me!"
+
+**Action:** Twinkle floats in the night sky, notices Lily staring → their eyes meet across space → Twinkle gives a slow, deliberate, enormous wink → one eye closes with a soft golden flash → Lily rockets backward off the window seat in shock → immediately scrambles back → Twinkle is doing an innocent "what?" expression
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation the most charming comedic moment in the opening
+sequence, a split composition showing Twinkle the golden star
+floating in the deep blue night sky on the right, and Lily's
+face in close-up pressed to the window glass on the left,
+the moment of eye contact across the cosmos — both frozen,
+both staring, the specific silence of two beings who have
+just discovered each other, then Twinkle performs the most
+deliberate, exaggerated, slow-motion wink in animation history:
+one enormous golden eye closing with a warm pulse of amber light,
+a tiny shower of gold sparkles falling from the closed lid,
+her other eye still wide and warm and mischievous,
+Lily's reaction: an explosive backward topple off the window seat
+seen from outside the glass — just her feet disappearing upward
+in total shock — then two tiny hands grabbing the windowsill
+as she hauls herself back up to check,
+Twinkle performing an expression of supreme innocence: "Who, me?",
+maximum Pixar comedic timing and warmth, gold-and-midnight palette, 8K
+```
+
+---
+
+## Scene 4: EARTH FROM SPACE — TINY! (0:22–0:30)
+**Title:** "The Whole World Is Below Us!"
+
+**Action:** Camera pulls back through the window → keeps going → through the clouds → into orbit → Earth appears below — small, blue, heartbreakingly beautiful → Twinkle hovers beside it and gestures at it like a tour guide → she holds up her points in comparison: she is almost as big as the planet in this magical perspective → then she points down: "That's where YOU live!"
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation breathtaking perspective shift, the camera
+pulling back from Lily's bedroom window in a smooth continuous
+shot: bedroom → street → rooftops → cloud layer → stratosphere →
+and finally the full Earth visible below in deep space,
+a perfect Pixar rendering of our planet — vivid blue oceans,
+white cloud swirls, green and brown continents — impossibly
+beautiful and small in the vast dark, Twinkle hovering beside
+the Earth as a charming cosmic tour guide, her five-pointed
+form roughly comparable in size to a small continent at this
+magical scale, she places one point-arm around the planet
+affectionately as if introducing a favourite friend,
+then turns to camera and points downward toward the blue
+dot with an expression that says "Your house is right there —
+can you see it?", the Milky Way galaxy visible as a soft
+glowing band stretching behind them both,
+the most awe-inspiring frame of scale in nursery rhyme animation,
+Pixar space-wonder quality, blue-white-gold-black palette, 8K
+```
+
+---
+
 ## Scene 5: THE DIAMOND SPARKLE (0:30–0:37)
 **Title:** "Like a Diamond in the Sky!"
 
@@ -323,6 +406,118 @@ colour palette, 8K
 
 ---
 
+## Scene 6: SUNSET TIME-LAPSE (0:37–0:44)
+**Title:** "The Sun Says Goodnight"
+
+**Action:** The blazing sun descends in a glorious accelerated time-lapse → orange bleeds to crimson to purple to deepest violet → the horizon holds its last golden glow → then darkness takes over gently, peacefully → the first stars emerge one by one → a great exhale from the world as night begins
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation most spectacular sunset time-lapse sequence,
+the sky as the full canvas — horizon to zenith — as the sun
+descends in smooth Pixar beauty: blazing white-gold at the
+solar disc, surrounding it with bands of pure amber then
+cadmium orange then deep crimson then the most exquisite
+magenta-purple, the silhouette of rooftops and a single
+tree on the horizon making the composition perfect,
+the colours shifting in accelerated but graceful motion —
+the whole visible spectrum of a perfect sunset compressed
+into a painterly sequence, then the deep violet of
+astronomical twilight taking over from the top of the frame
+downward like a velvet curtain being drawn, the first
+three stars appearing as tiny gold points in the darkening
+sky — each one with a soft pulse of light as it makes
+its appearance, the world below settling into peaceable
+shadow, maximum Pixar sky-beauty quality,
+cadmium orange through crimson through midnight-blue palette, 8K
+```
+
+---
+
+## Scene 7: TWINKLE APPEARS! (0:44–0:50)
+**Title:** "Here I Am!"
+
+**Action:** The night sky is fully dark — then from a single point of light, Twinkle ERUPTS into the frame → trailing gold sparkles → she cartwheels across the sky → stops in front of the camera and strikes a triumphant pose → stardust settling around her → she is HERE, she is PRESENT, the night belongs to her
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation triumphant entrance shot, the deep blue-black
+night sky perfectly still for one beat — then a single point
+of warm gold light appears at the centre of the frame and
+EXPANDS outward as Twinkle bursts into full glory, her five
+rounded points flung wide in a star-jump pose, a trailing
+arc of gold-white sparkles marking the path of her entrance
+like a comet tail, she cartwheels once — twice — the sparkle
+trail forming a spiral — then comes to a dead stop in front
+of the camera at perfect eye level, striking the most
+magnificent "ta-da!" pose: one point-arm out, one down,
+both lower points planted, her enormous eyes wide with the
+pure pleasure of her own entrance, tiny gold sparkles
+still cascading down around her like a glitter shower,
+her expression saying "Did you miss me? I missed you!",
+the surrounding stars brightening in response to her arrival,
+maximum Pixar character-entrance energy and warmth, 8K
+```
+
+---
+
+## Scene 8: STAR FIELD EXPLOSION (0:50–0:57)
+**Title:** "Hundreds of Stars — All at Once!"
+
+**Action:** Twinkle raises both point-arms → signals to the sky → and hundreds of stars APPEAR simultaneously in a cascading chain reaction across the entire sky → each one popping into existence with a tiny spark → the empty dark filling with light → a whole galaxy of friends answering her call
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation most visually dazzling sequence of the video,
+Twinkle hovering at the centre of the frame with both point-arms
+raised as if conducting an orchestra, and in response to her
+signal the dark sky behind her explodes into stars — but not
+all at once, rather in a cascading sequence that sweeps from
+left to right across the entire sky like dominoes of light
+falling in sequence, each star appearing with its own tiny
+"pop" of gold sparkle, different sizes and brightnesses —
+some tiny pin-pricks, some larger pulsing spheres — the sky
+transforming from near-black to a crowded glorious star field
+in the space of three seconds, Twinkle's expression: the
+satisfied conductor hearing her orchestra play perfectly,
+the completed star field behind her forming the Milky Way
+band in Pixar-gorgeous rendering — a sweep of pearl-white
+light across the deep blue, Lily's window visible in the
+lower corner of the frame with Lily's silhouette pressed
+to the glass watching open-mouthed,
+maximum Pixar star-field revelation quality, 8K
+```
+
+---
+
+## Scene 9: FLYING THROUGH THE SKY (0:57–1:04)
+**Title:** "Come On — Let's FLY!"
+
+**Action:** Twinkle reaches a point-arm through Lily's window → Lily takes it without hesitation → and they are FLYING → side by side through the star field → Lily's cloud pajamas and bear both streaming in the star-wind → they zoom through a star cloud together → Lily's face: pure disbelief becoming pure joy
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation pure joy flying sequence, Lily and Twinkle
+side by side in full flight through the deep blue night sky
+star field, Lily in her pale blue cloud-print pajamas with
+her honey-brown stuffed bear held in both arms — the bear's
+small ears streaming back in the rush of flight — her soft
+brown curls blown back from her face, her expression cycling
+from wide-eyed disbelief ("this is actually happening")
+to unstoppable pure joy with her mouth open in a delighted
+scream of happiness, Twinkle flying alongside her at
+exactly the same height with an expression of maximum
+satisfaction at having made this happen, they are banking
+gently through a cloud of gold star-dust that swirls
+around them both as they pass through it, leaving trails
+of sparkles behind them against the deep blue-black,
+the stars rushing past like lights on a motorway,
+the whole frame filled with movement and speed and magic,
+maximum Pixar flight-joy quality, warm gold on deep blue palette, 8K
+```
+
+---
+
 ## Scene 10: TWINKLE PEEKS THROUGH WINDOW (1:04–1:10)
 **Title:** "Peekaboo!"
 
@@ -346,6 +541,248 @@ where her face was, the contrast of the warm amber bedroom
 inside and the cold deep blue starfield outside making the 
 glass a perfect magical boundary between two worlds, 
 maximum Pixar comic-tender quality, 8K
+```
+
+---
+
+## Scene 11: TWINKLE CANNOT WINK! (1:10–1:17)
+**Title:** "The Star Who Cannot Wink"
+
+**Action:** The lyric "For you never shut your eye" → Twinkle attempts to wink at Lily → she closes one eye → but the moment she does, it pops straight back open → she tries again → POP → she holds it shut with both tiny point-hands → it POPS OPEN EVEN HARDER → she throws her hands up in defeat → children: delighted laughter
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation perfectly timed physical comedy sequence,
+Twinkle the golden star attempting to perform a wink with
+escalating desperation — close-up on her enormous round
+twinkling eyes, she scrunches one eye shut with maximum
+effort, it immediately springs back open as if spring-loaded,
+she tries again with even more concentration — tongue-tip
+visible at the corner of her tiny mouth, brow furrowed,
+it pops open faster this time, she grabs the offending
+eyelid with both tiny point-hands and physically holds it
+closed — it BURSTS open in a shower of gold sparkles
+sending her hands flying, she stares at the rebellious eye
+with an expression of utter betrayal, throws both point-arms
+wide in theatrical defeat and shrugs at Lily who is
+watching through the window in absolute giggling delight —
+her reflection visible as a warm glow through the glass,
+the comedy of a star who literally cannot turn off her light,
+maximum Pixar eye-comedy quality, warm gold on midnight-blue, 8K
+```
+
+---
+
+## Scene 12: MILKY WAY ADVENTURE (1:17–1:25)
+**Title:** "Through the Heart of the Galaxy"
+
+**Action:** Instrumental interlude → Twinkle and Lily fly into the Milky Way → the galaxy stretches ahead like a road of stars → they are inside it now → stars of every colour surrounding them → nebulae in pink and purple and green → they are the size of dust motes in the vastness of it → and it is the most beautiful thing either has ever seen
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation breathtaking Milky Way flight sequence,
+Twinkle and Lily flying side-by-side into and through the
+dense heart of the galaxy, the frame filling with the most
+spectacular Pixar space environment: the Milky Way rendered
+as a luminous river of countless individual stars ranging
+from tiny silver points to larger golden spheres,
+surrounding nebulae in deep rose-pink, soft lavender,
+warm teal and gold — vast clouds of coloured cosmic gas
+lit from within, Lily and Twinkle tiny against this
+infinite grandeur, flying through star-streams that part
+around them like snow in a blizzard, the scale making
+them look like fireflies navigating a cathedral,
+Lily's face in profile: the expression of a child seeing
+something so beautiful it makes them completely silent —
+the open-mouthed silence of overwhelming wonder,
+Twinkle glancing at Lily's face with profound satisfaction
+at having brought her here, both trailing sparkles
+that disappear into the immensity around them,
+maximum Pixar cosmic-wonder quality, rose-gold-midnight palette, 8K
+```
+
+---
+
+## Scene 13: SATURN'S RINGS! (1:25–1:30)
+**Title:** "The Most Magnificent Planet"
+
+**Action:** Saturn appears ahead — enormous, regal, magnificent → its rings catch the starlight in gold and purple → Saturn the character spots them flying past → adjusts his monocle with great dignity → gives a single, deeply formal nod of acknowledgment → and then secretly grins when they've passed because he is absolutely delighted to have visitors
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation magnificent Saturn encounter, the great
+ringed planet filling the right half of the frame in
+spectacular Pixar space rendering — Saturn's surface a
+rich butterscotch and cream with storm-swirl details,
+the rings rendered as a luminous golden-and-purple halo
+tilted at the most photogenic angle, each ring band
+distinct and translucent, catching starlight beautifully,
+Saturn the character — a large dignified face visible
+in his cloud surface — wearing a monocle on his outermost
+ring, noticing Twinkle and Lily flying past at ring-level,
+he draws himself up to maximum dignity and gives them one
+single formal nod of acknowledgment as they zoom past —
+the nod of an aristocrat who will never admit to being
+excited but very much is, Twinkle giving him a cheerful
+wave, Lily waving both arms enthusiastically,
+then the camera sweeps around to catch Saturn's face
+once they've passed: a massive involuntary grin of pure
+delight breaking through all the dignity at once,
+maximum Pixar space-character comedy quality, 8K
+```
+
+---
+
+## Scene 14: METEOR SHOWER! (1:30–1:37)
+**Title:** "It's Raining Stars!"
+
+**Action:** A meteor shower begins → streaks of white fire crossing the sky → Twinkle and Lily flying through it → Lily reaches out to touch a passing meteor and it turns into a spiral of gold sparkles in her hand → then more → she is catching shooting stars → children watching: arms out catching their own invisible stars
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation spectacular meteor shower sequence,
+Twinkle and Lily flying through a field of meteors —
+bright white-gold streaks crossing the frame in every
+direction against the deep blue-black, the meteors leaving
+luminous trails that slowly fade like sparkler marks,
+Lily with one arm outstretched catches a passing meteor —
+it doesn't burn, it transforms on contact into a spiral
+of warm gold sparkles that curl around her fingers and
+float away, her expression: the specific wonder of
+discovering that the dangerous thing is actually magical,
+she begins reaching for more — catching one in each hand —
+the sparkles collecting in her palms and then drifting
+upward like dandelion seeds, Twinkle flying alongside
+with her arms also out, the two of them together in a
+field of celestial fireworks that seem to respond to
+their presence and become gentler and more beautiful
+the closer they get, children watching encouraged to
+hold out their own arms and catch their own star-sparks,
+maximum Pixar meteor-magic quality, white-gold on midnight palette, 8K
+```
+
+---
+
+## Scene 15: BACK AT THE WINDOW (1:37–1:44)
+**Title:** "Home — But the Sky Is Different Now"
+
+**Action:** They return to Lily's bedroom window → Twinkle deposits Lily gently back onto the window seat → Lily is still dazed with wonder → she looks at her hands where the star-sparks were → she looks at Twinkle → Twinkle is hovering at the window → they look at each other knowing what comes next
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation tender return sequence, the warm amber
+bedroom visible through the large window, Lily being set
+gently back onto the window seat by Twinkle — the star
+lowering her with soft point-arms as carefully as setting
+down the most precious thing in the universe, Lily landing
+soft-footed on the window cushion and looking at her open
+palms where the meteor-sparkles were, she can almost still
+see them — a faint warm gold glow in her hands that is
+fading, she looks from her hands to Twinkle with an
+expression that holds an entire journey — wonder, joy,
+the beginning of missing-it-already — Twinkle hovering
+at the window glass, her golden light casting warm patterns
+on the cool glass, her expression carrying the warmth of
+an adventure completed and a friendship formed, the honey-
+brown stuffed bear propped exactly where Lily left him on
+the window seat as if he kept watch the whole time,
+the deep blue sky behind Twinkle full of stars that seem
+closer than they did before,
+maximum Pixar tender-farewell-beginning quality, amber-gold-blue palette, 8K
+```
+
+---
+
+## Scene 16: THE BIG DIAMOND FAREWELL (1:44–1:50)
+**Title:** "One Last Diamond — The Biggest of All"
+
+**Action:** The lyric "Like a diamond in the sky" → Twinkle takes a deep breath → looks at Lily → looks at the camera → and performs her greatest diamond sparkle yet → it is ENORMOUS → it fills the whole screen → the entire sky becomes a single diamond of light → and in its centre: Twinkle, smiling
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation the farewell diamond explosion — the
+largest and most magnificent sparkle in the entire video,
+Twinkle hovering at the window with Lily watching from
+inside, taking one deep breath of maximum effort, her
+eyes squeezed shut, then throwing every one of her five
+rounded points as wide as they will go simultaneously
+and releasing a diamond burst of light so large it fills
+the entire sky behind her: a brilliant white-gold radial
+explosion that expands in a perfect diamond shape outward
+to the very edges of frame, the light so intense it
+turns the night sky briefly to pure brilliant white
+before resolving into a shower of thousands of individual
+gold-and-silver sparkles drifting slowly downward,
+Lily inside pressing her face to the glass with both
+palms flat against it, her enormous eyes reflecting
+the full diamond explosion like two small mirrors each
+containing their own private universe of gold,
+the diamond sparkle gradually fading to reveal Twinkle
+at its centre, glowing warm and steady,
+maximum Pixar farewell-sparkle magnificence, diamond-white-gold-midnight, 8K
+```
+
+---
+
+## Scene 17: TWINKLE WAVES GOODBYE (1:50–1:57)
+**Title:** "Goodbye — For Now"
+
+**Action:** Twinkle slowly begins to rise back up into the sky → she keeps her gaze on Lily → she raises one small rounded point-hand and waves → slowly, warmly → Lily inside raises her hand and waves back through the glass → a perfect goodbye between two friends who will see each other every night from now on
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation the most emotionally resonant goodbye in
+nursery rhyme animation, viewed from inside the warm amber
+bedroom through the window glass, Twinkle rising slowly
+upward against the deep blue star-filled sky, maintaining
+full eye contact with Lily as she ascends, one small
+rounded point raised in the gentlest wave — not a big
+energetic farewell but a slow, warm, see-you-tomorrow wave
+that says "this is not the end of anything", the gold
+sparkle trail she leaves drifting downward against the
+dark sky like falling blossom, Lily on the inside of
+the glass with one small hand raised flat against the
+cold pane in a mirror-wave, her honey-brown bear tucked
+under her other arm, her enormous eyes — which have seen
+the whole universe tonight — now full of the particular
+sweet sadness of beautiful things ending, the warmth of
+the amber room behind her making her glow like a little
+lighthouse, Twinkle growing smaller as she rises but
+never taking her eyes from Lily's, growing warmer gold
+as she rejoins her sky family,
+maximum Pixar friendship-farewell emotional quality, amber-and-midnight, 8K
+```
+
+---
+
+## Scene 18: LILY FALLS ASLEEP — TWINKLE WATCHES (1:57–2:00)
+**Title:** "Goodnight, Little Star-Watcher"
+
+**Action:** Lily curls up on the window seat, still in her cloud pajamas, bear tucked under her chin → she is asleep within moments → outside, Twinkle positions herself directly in Lily's window view → she dims to the softest warmest glow → a nightlight made of star → watching over her as the world dreams
+
+**🎬 Scene Prompt:**
+```
+3D Pixar animation the most peaceful final frame in children's
+animation, Lily asleep on the window seat in her pale blue
+cloud pajamas, her soft brown curls spread on the cushion,
+her honey-brown stuffed bear tucked under her chin with
+both her small arms around him, her expression in sleep:
+the pure uncomplicated peace of a child who has seen the
+universe and found it warm and safe, outside the window
+Twinkle has positioned herself directly in the centre of
+the glass — the exact position where Lily will see her
+the moment she wakes — and is glowing at the softest
+most steady version of her light, no sparkles, no tricks,
+just warm amber-gold constant presence like the world's
+most magical nightlight, she faces the camera directly
+and gives one last gentle slow wink to the watching
+children at home, then settles into her watching position,
+the window glass showing Twinkle's reflection overlaid
+on sleeping Lily's face — star and child sharing the same
+frame — the condensation star Lily drew at the beginning
+still faintly visible in the corner of the glass,
+maximum Pixar goodnight-magic emotional quality,
+warmest amber and softest midnight-blue, 8K resolution, pure peace
 ```
 
 ---

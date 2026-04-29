@@ -1,6 +1,6 @@
-# 🙏 MASTER INDEX — Tamil Devotional YouTube Channel
-## Top 10 Devotional Songs | Pixar 3D Animation | Suno AI Audio
-### Complete Production Roadmap | Created: April 19, 2026
+# 🙏 MASTER INDEX — Hindu Devotional YouTube Channel
+## 20 Devotional Songs | Pixar 3D Animation | Suno AI Audio
+### Complete Production Roadmap | Created: April 19, 2026 | Updated: April 29, 2026
 
 ---
 
@@ -29,15 +29,66 @@
 | 9 | **திருப்புகழ்** | Lord Murugan | 4 min | 24 | 120M+ | Jan/Feb (Thai Poosam) | D09 |
 | 10 | **அண்ணாமலை அண்ணாமலை** | Lord Shiva (Arunachala) | 3 min | 18 | 100M+ | Nov/Dec (Karthigai Deepam) | D10 |
 
-**Total Content:** 41 minutes | 246 scenes | Potential combined views: 1.56 Billion+
+**Total Content (D01–D10):** 41 minutes | 246 scenes | Potential combined views: 1.56 Billion+
 
 ---
 
-## 📅 RECOMMENDED UPLOAD SCHEDULE (Year 1)
+## 📋 THE NEXT 10 SONGS (D11–D20) — PAN-INDIA HINDU DEVOTIONAL
+
+| # | Song | Deity | Language | Duration | Scenes | Target Views | Peak Upload Time | File |
+|---|---|---|---|---|---|---|---|---|
+| 11 | **हनुमान चालीसा** | Lord Hanuman | Hindi | 7 min | 42 | 500M+ | Hanuman Jayanti / Every Tuesday | D11 |
+| 12 | **गायत्री मंत्र** | Goddess Gayatri / Surya | Sanskrit | 5 min | 30 | 400M+ | Any sunrise / Navratri | D12 |
+| 13 | **వేంకటేశ సుప్రభాతం** | Lord Venkateswara | Sanskrit/Telugu | 6 min | 36 | 350M+ | Daily 3:30 AM / Vaikunta Ekadasi | D13 |
+| 14 | **शिव तांडव स्तोत्रम्** | Lord Shiva (Nataraja) | Sanskrit | 6 min | 36 | 300M+ | Maha Shivaratri / Every Monday | D14 |
+| 15 | **ॐ जय जगदीश हरे** | Lord Vishnu | Hindi | 5 min | 30 | 300M+ | Diwali / Every evening aarti | D15 |
+| 16 | **லலிதா சஹஸ்ரநாமம்** | Goddess Lalitha | Sanskrit | 8 min | 40 | 250M+ | Every Friday / Navratri | D16 |
+| 17 | **बजरंग बाण** | Lord Hanuman | Hindi | 5 min | 30 | 250M+ | Every Tuesday / Saturday | D17 |
+| 18 | **आदित्य हृदयम्** | Lord Surya | Sanskrit | 6 min | 36 | 200M+ | Rama Navami / Every Sunday | D18 |
+| 19 | **గోవింద గోవింద** | Lord Krishna / Venkateswara | Telugu | 5 min | 30 | 250M+ | Janmashtami / Every Ekadasi | D19 |
+| 20 | **राम रक्षा स्तोत्रम्** | Lord Ram | Sanskrit | 6 min | 36 | 200M+ | Rama Navami / Ayodhya events | D20 |
+
+**Total Content (D11–D20):** 59 minutes | 346 scenes | Potential combined views: 3.0 Billion+
+
+### 📊 Language Coverage — D11–D20:
+| Language | Songs |
+|---|---|
+| Hindi | D11 (Hanuman Chalisa), D15 (Om Jai Jagdish), D17 (Bajrang Baan) |
+| Sanskrit | D12 (Gayatri), D14 (Shiv Tandav), D16 (Lalitha), D18 (Aditya Hridayam), D20 (Ram Raksha) |
+| Sanskrit/Telugu | D13 (Suprabhatam) |
+| Telugu | D19 (Govinda) |
+
+### 🗺️ Deity Coverage — D11–D20:
+| Deity | Songs |
+|---|---|
+| Lord Hanuman | D11, D17 |
+| Lord Shiva | D14 |
+| Lord Vishnu / Venkateswara | D13, D15, D19 |
+| Lord Krishna | D19 |
+| Lord Ram | D18, D20 |
+| Lord Surya | D12, D18 |
+| Goddess Gayatri/Devi | D12, D16 |
+
+---
+
+## 📅 RECOMMENDED UPLOAD SCHEDULE (D11–D20)
 
 | Month | Song | Reason |
 |---|---|---|
-| **August** | D02 — Vinayagar Agaval | Vinayaka Chaturthi in Aug/Sep — upload 3 weeks before |
+| **Any Tuesday** | D11 — Hanuman Chalisa | Hanuman's day — instant traction |
+| **Any sunrise day** | D12 — Gayatri Mantra | Morning ritual — evergreen content |
+| **Before Janmashtami** | D19 — Govinda Govinda | 3 weeks before Krishna Janmashtami |
+| **Before Maha Shivaratri** | D14 — Shiv Tandav | 3 weeks before Shivaratri |
+| **Before Navratri** | D16 — Lalitha Sahasranamam | Friday before Navratri begins |
+| **Before Diwali** | D15 — Om Jai Jagdish Hare | 2 weeks before Diwali |
+| **Before Rama Navami** | D18 — Aditya Hridayam | 3 weeks before Rama Navami |
+| **Before Rama Navami** | D20 — Ram Raksha Stotram | Pair with D18 for double traffic |
+| **Before Vaikunta Ekadasi** | D13 — Venkatesh Suprabhatam | Dec/Jan Ekadasi peak |
+| **Any Tuesday** | D17 — Bajrang Baan | Pairs with D11 Hanuman Chalisa |
+
+---
+
+## 📅 RECOMMENDED UPLOAD SCHEDULE (D01–D10 — Year 1)
 | **September** | D05 — Saraswathi Namasthubhyam | Navarathri begins Sep/Oct |
 | **September** | D07 — Mahishasura Mardini | Navarathri peak |
 | **October** | D06 — Mahalakshmi Ashtakam | Diwali in Oct/Nov |
