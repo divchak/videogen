@@ -8,7 +8,7 @@
 
 ### 🥇 Option 1 — RECOMMENDED (Transformation Story + Classical Authority)
 ```
-திருப்புகழ் 🌹⚡ | Thirupugazh | Arunagirinathar's Sacred Hymn | Murugan Animation | Tamil Classical
+Thirupugazh - Arunagirinathar's Sacred Hymn🌹⚡ | Exuberant Music | திருப்புகழ் 🌹⚡ |Murugan Animation | Tamil Classical
 ```
 
 ### 🥈 Option 2 — Thai Poosam Festival Peak
@@ -87,22 +87,6 @@ Grace does not create — it reveals. 🌹
 🎓 Tamil students today learning Thirupugazh — passing the flame forward
 🌍 Thirupugazh sabhas worldwide — the living tradition
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⏱️ TIMESTAMPS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-00:00 — Tiruvannamalai Sacred Mountain 🏔️
-00:10 — Arunagirinathar Before Transformation 😔
-00:20 — Murugan Appears ✨
-00:30 — The Divine Touch — Grace Given 🌟
-00:40 — The First Thirupugazh Pours Forth 🌹
-00:50 — The Sacred Rhythm Visualised 🎵
-01:00 — Palani — Composing at the Sacred Hill 🏛️
-01:20 — Murugan Grants the Gift of Flight 🦚
-01:40 — The Six Sacred Abodes ✨
-02:00 — Thirupugazh Sabha Today 🎓
-02:40 — Tamil Students Learning 📚
-03:00 — The Living Tradition Worldwide 🌍
-03:40 — Arunagirinathar's Final Composition 🌹
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎵 THE THIRUPUGAZH BEAT — CLAP ALONG!
