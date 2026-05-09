@@ -370,7 +370,7 @@ entrance with palm leaf and stylus,
 writing at extraordinary speed as 
 if the words are arriving faster 
 than he can write, the golden 
-letters of Thirupugazh appearing 
+letters of english text "Thirupugazh" appearing 
 above him in divine floating text 
 as they are written below on the 
 palm leaf, Murugan's divine form 
@@ -558,7 +558,7 @@ of art-gold palette, 8K
 
 ---
 
-### Scene 10: TIRUVANNAMALAI — MURUGAN APPROVES THE DIVINE SONG (1:30–1:40)
+### Scene 10:   (1:30–1:40)
 ```
 3D Pixar sacred animation divine
 approval scene, Arunagirinathar
@@ -737,11 +737,7 @@ the Tamil language — Murugan
 being called Thamizh Kadavul
 (the Tamil God) in the tradition
 because Tamil is his specific
-sacred language, the visualization
-showing the Tamil language itself
-as a living golden river flowing
-directly from Murugan’s divine
-presence, the Agastya sage
+sacred language, the Agastya sage
 visible receiving Tamil grammar
 from Murugan directly as the
 first transmission of Tamil
@@ -996,7 +992,7 @@ Murugan-devotee gold palette, 8K
 philosophy visualization scene,
 the most profound teaching of
 Thirupugazh: that the sacred
-verse itself IS the Vel — that
+verse itself IS the english text "Vel" — that
 when Thirupugazh is sung with
 true devotion it functions as
 Murugan’s divine spear cutting
@@ -1005,23 +1001,7 @@ in the singer’s own mind,
 shown as a split visualization:
 on one side the physical Vel
 of divine gold piercing through
-dark illusion, on the other
-the Thirupugazh verse in golden
-Tamil script performing the
-exact same function as it
-enters through the ear and
-passes through the consciousness
-of the singer, the verse’s
-complex rhythm itself acting
-as a vehicle of divine
-consciousness that bypasses
-the analytical mind and reaches
-the heart directly — the
-reason the rhythm is so complex
-is precisely so that the
-analytical mind cannot follow
-it and must surrender to
-the divine flow, Murugan’s
+dark illusion, , Murugan’s
 smile of approval at the
 perfect description showing
 that Arunagirinathar truly
@@ -1054,11 +1034,7 @@ shaping the final complex
 Thirupugazh verse with the
 same precision and love as
 his first composition decades
-before, the verse being
-shown as golden text emerging
-from his lips and ascending
-directly to Murugan’s divine
-presence above, Murugan
+before, the text "Last verse of Thirupugazh", Murugan
 receiving this last Thirupugazh
 with an expression of the
 profound love that a deity
@@ -1180,8 +1156,7 @@ his divine peacock beside
 him with its magnificent tail
 spread in full display of
 blue-green-gold sacred beauty,
-Arunagirinathar’s golden
-Thirupugazh text floating
+english text "THIRUPUGAZH"  floating
 around Murugan in a halo
 of sacred Tamil poetry —
 the words of the devotee
@@ -1201,7 +1176,7 @@ devotional song will cut
 through your darkness
 and lead you to me,
 then the sacred name
-“திருப்புகழ்” appearing in
+"THIRUPUGAZH" appearing in
 classical gold fire-script
 before his divine form,
 ultra majestic closing

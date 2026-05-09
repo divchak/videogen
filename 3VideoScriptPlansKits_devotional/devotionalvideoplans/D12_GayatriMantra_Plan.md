@@ -592,11 +592,7 @@ intelligence is arriving and illuminating — not
 like a lamp illuminating a room from outside but
 like sunlight passing through the entire substance
 of the meditating being and making every part of
-it transparent and luminous, the Gayatri mantra's
-syllables visible as golden letters moving through
-the consciousness like sacred fish moving through
-clear water, each syllable reaching a particular
-region of the inner landscape and lighting it up —
+it transparent and luminous, lighting it up —
 the darkness of ignorance (avidya) not fighting
 the light but simply dissolving before it in the
 natural way that darkness always has, ultra beautiful

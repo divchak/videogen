@@ -108,10 +108,10 @@ Grace does not create — it reveals. 🌹
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE TAMIL DEVOTIONAL SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🦚 கந்த சஷ்டி கவசம் (Murugan's armour prayer) → [LINK]
-▶️ 🔥 அண்ணாமலை (Tiruvannamalai — where Thirupugazh began) → [LINK]
-▶️ 🔱 ஓம் நமச்சிவாய (Shiva — Arunagirinathar's other deity) → [LINK]
-▶️ All Tamil Devotional Playlist → [LINK]
+▶️ 🦚 கந்த சஷ்டி கவசம் (Murugan's armour prayer) → https://youtu.be/iSjy6GglOO8
+▶️ 🔥 அண்ணாமலை (Tiruvannamalai — where Thirupugazh began) → https://youtu.be/RHM1TDf4v7w
+▶️ 🔱 ஓம் நமச்சிவாய (Shiva — Arunagirinathar's other deity) → https://youtu.be/u9kAzU7LmBU
+▶️ All Tamil Devotional Playlist → https://www.youtube.com/playlist?list=PL1oEoDz0Tf8Xk9Hhdpg2g8sWv2uXT7Q85
 
 🔔 Subscribe! 👍 LIKE if Thirupugazh moved you! 🌹
 💬 COMMENT: "வேல்!" — the traditional Thirupugazh response!
