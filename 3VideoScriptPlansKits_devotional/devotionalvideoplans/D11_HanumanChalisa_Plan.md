@@ -25,7 +25,7 @@
 | Metric | Value |
 |---|---|
 | Total Duration | 7 minutes (420 seconds) |
-| Scenes | 42 scenes × 10 seconds each |
+| Scenes | 42 scenes — 10 seconds each |
 | Song Language | Hindi / Sanskrit (Awadhi) |
 | Animation Style | Pixar 3D — Saffron & Gold Sacred Palette |
 | Primary Settings | Ayodhya, Lanka, Himalayas, Celestial Hanuman Mandir |
@@ -40,7 +40,7 @@
 ## 🎸 ALTERNATE SUNO AI STYLES — CONTRASTING VERSIONS (Same Lyrics)
 > Same lyrics, 6 completely different musical styles to experiment with in Suno AI.
 ---
-### 🔥 STYLE A — EPIC CINEMATIC ORCHESTRAL (Hans Zimmer meets Hanuman)
+### 🎬 STYLE A — EPIC CINEMATIC ORCHESTRAL (Hans Zimmer meets Hanuman)
 **Concept:** Hanuman's story IS an epic hero journey. Massive strings, war choir, cinematic scale.
 `
 Epic cinematic devotional, Hans Zimmer inspired Hanuman score, 80-piece strings
@@ -51,7 +51,7 @@ final chorus, brass war horns on Sundarkand verses, thunder SFX on Lanka battle
 scenes, Shankh blowing on opening, ends with strings fading to single harmonium
 note — Hanuman at Ram's feet
 `
-### 🥁 STYLE B — BHAKTI RAP / HIP-HOP DEVOTIONAL (For Young India)
+### 🎤 STYLE B — BHAKTI RAP / HIP-HOP DEVOTIONAL (For Young India)
 **Concept:** The Chalisa's 40 verses as rapid-fire devotional rap. Young India audience.
 `
 Hindi devotional hip-hop fusion, Hanuman Chalisa as rhythmic rap-bhajan, tight
@@ -62,7 +62,7 @@ under the rap verses, dholak on chorus, group choir on final aarti section,
 no disrespect — pure devotional energy in modern delivery, ends with full
 traditional bhajan reprise on last verse
 `
-### 🌀 STYLE C — SUFI QAWWALI BHAJAN CROSSOVER
+### 🌙 STYLE C — SUFI QAWWALI BHAJAN CROSSOVER
 **Concept:** The ecstatic devotion of Qawwali applied to Hanuman. Pakistan Coke Studio energy.
 `
 Sufi qawwali bhajan crossover, clapping percussion pattern (qawwali taali) as
@@ -73,7 +73,7 @@ of "Hanuman" building devotional intensity like a qawwali climax, bansuri flute
 for Hindu sacred atmosphere within the Sufi structure, ends in full devotional
 ecstatic climax — Bhakti and Tasawwuf meeting at Hanuman's feet
 `
-### 🌙 STYLE D — MIDNIGHT MEDITATION (Solo Voice + Tamboura)
+### 🕯— STYLE D — MIDNIGHT MEDITATION (Solo Voice + Tamboura)
 **Concept:** The Chalisa as a personal 3AM prayer. Maximum intimacy and depth.
 `
 Deep midnight meditation bhajan, 54 BPM slow sacred pace, solo male voice
@@ -96,7 +96,7 @@ organ pads beneath the folk-rock texture for sacred atmosphere, bridge going
 acoustic-only (all electric dropping) for "Sankat Kate Mite Sab Peera" verse,
 full band crash back for triumphant finale
 `
-### 🎺 STYLE F — CARNATIC SOUTH INDIAN DEVOTIONAL (Hanuman sung as Tamil/Kannada style)
+### 🎵 STYLE F — CARNATIC SOUTH INDIAN DEVOTIONAL (Hanuman sung as Tamil/Kannada style)
 **Concept:** Hanuman Chalisa reimagined in South Indian Carnatic classical style.
 `
 Carnatic devotional Hindi crossover, veena as primary instrument carrying
@@ -111,12 +111,12 @@ freedom, ends with nadaswaram + veena in unison on final verse
 ### 📊 STYLE COMPARISON
 | Style | BPM | Energy | Best For |
 |---|---|---|---|
-| **Original** | 76 | 🙏 Majestic Bhajan | Traditional Hindi devotees |
-| **A — Epic Orchestral** | 80 | ⚔️ Cosmic Hero | Global + diaspora |
-| **B — Bhakti Rap** | 95 | 🎤 Modern Fire | Youth + social media |
-| **C — Sufi Qawwali** | 72→116 | 🌀 Ecstatic | Crossover mainstream |
-| **D — Midnight Meditation** | 54 | 🌙 Intimate | Meditators, 2AM seekers |
-| **E — Folk Rock** | 90 | 🎸 Raw Authentic | Young India crossover |
+| **Original** | 76 | 🎺 Majestic Bhajan | Traditional Hindi devotees |
+| **A — Epic Orchestral** | 80 | 🌌 Cosmic Hero | Global + diaspora |
+| **B — Bhakti Rap** | 95 | 🌟 Modern Fire | Youth + social media |
+| **C — Sufi Qawwali** | 72?116 | 🎊 Ecstatic | Crossover mainstream |
+| **D — Midnight Meditation** | 54 | 🕯️ Intimate | Meditators, 2AM seekers |
+| **E — Folk Rock** | 90 | 🎵 Raw Authentic | Young India crossover |
 | **F — Carnatic Classical** | 70 | 🎵 Sacred South | Pan-India classical fans |
 ---[Genre]: Hindi Devotional Bhajan, Hanuman Chalisa classical style
 [Mood]: Devotional, Powerful, Triumphant, Sacred, Emotionally stirring
@@ -127,15 +127,15 @@ freedom, ends with nadaswaram + veena in unison on final verse
 [Vocals]: Deep, trained male devotional singer in Tulsidas bhajan style,
           full-throated, emotional, with natural vibrato and devotional feeling,
           male chorus on every doha refrain
-[Structure]: Doha opening (slow, majestic) → 40 Chaupais (building energy) →
-             Final Doha (full choir explosion) → Jai Hanuman refrain (triumphant)
+[Structure]: Doha opening (slow, majestic) ? 40 Chaupais (building energy) ?
+             Final Doha (full choir explosion) ? Jai Hanuman refrain (triumphant)
 [Key]: G major (warm, powerful, devotional)
 [Special Effects]: Mountain echo on "Jai Hanuman" lines, roar of ocean when Hanuman leaps,
                    fire crackle when Lanka burns, divine bell on "Ram Ram" mentions
 [Duration]: 7 minutes
-[Opening Line]: "श्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि"
-[Energy Arc]: Begins humbly devotional → builds verse by verse → 
-              erupts triumphant at Lanka burning → soars at finale
+[Opening Line]: "हनुमान चालीसा ... हनुमान चालीसा ?? ... ... हनुमान चालीसा हनुमान चालीसा"
+[Energy Arc]: Begins humbly devotional ? builds verse by verse ? 
+              erupts triumphant at Lanka burning ? soars at finale
 ```
 
 ---
@@ -143,86 +143,86 @@ freedom, ends with nadaswaram + veena in unison on final verse
 ## 🎵 SUNO AI LYRICS (Formatted for Input)
 
 ```
-[Intro — Doha]
+[Intro  — Doha]
 (harmonium + tabla opening — sacred and majestic)
-(shankh conch blast — attention of the universe)
-श्रीगुरु चरन सरोज रज, निज मनु मुकुरु सुधारि
-बरनउँ रघुबर बिमल जसु, जो दायकु फल चारि
+(shankh conch blast  — attention of the universe)
+हनुमान चालीसा ... हनुमान चालीसा ??, ... ... हनुमान चालीसा हनुमान चालीसा
+हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा ..., ?? हनुमान चालीसा ?? हनुमान चालीसा
 
 [Verse 1 — Chaupai 1-2]
-जय हनुमान ज्ञान गुण सागर!
-जय कपीस तिहुँ लोक उजागर!
-राम दूत अतुलित बल धामा
-अंजनि पुत्र पवनसुत नामा
+?? हनुमान चालीसा हनुमान चालीसा ... हनुमान चालीसा!
+?? हनुमान चालीसा हनुमान चालीसा ... हनुमान चालीसा!
+... ... हनुमान चालीसा ?? हनुमान चालीसा
+हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा
 
-[Chorus — Jai Hanuman]
-जय हनुमान! जय हनुमान!
-बजरंग बली — राम के दास!
-जय हनुमान! जय हनुमान!
+[Chorus  — Jai Hanuman]
+?? हनुमान चालीसा! ?? हनुमान चालीसा!
+हनुमान चालीसा ... — ... ?? ...!
+?? हनुमान चालीसा! ?? हनुमान चालीसा!
 (FULL CHOIR + DHOL PEAK!)
 
 [Verse 2 — Chaupai 3-5]
-महाबीर बिक्रम बजरंगी!
-कुमति निवार सुमति के संगी!
-कंचन बरन बिराज सुबेसा
-कानन कुण्डल कुञ्चित केसा
+हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा!
+हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा ?? हनुमान चालीसा!
+हनुमान चालीसा ... हनुमान चालीसा हनुमान चालीसा
+हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा
 
 [Verse 3 — Chaupai 6-8]
-हाथ बज्र औ ध्वजा बिराजै
-काँधे मूँज जनेऊ साजै
-शंकर सुवन केसरी नंदन
-तेज प्रताप महा जग वंदन
+... हनुमान चालीसा ? हनुमान चालीसा हनुमान चालीसा
+हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा
+हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा
+... हनुमान चालीसा ... ?? हनुमान चालीसा
 
-[Bridge — Anjana Verse]
+[Bridge  — Anjana Verse]
 (shehnai solo — Anjana's love)
-अंजनिपुत्र... पवनपुत्र...
-माँ का लाल... राम का दास...
+हनुमान चालीसा... हनुमान चालीसा...
+... ?? ...... ... ?? ......
 (mridangam building)
 
 [Verse 4 — Sundarkand]
-विद्यावान गुणी अति चातुर
-राम काज करिबे को आतुर
-प्रभु चरित्र सुनिबे को रसिया
-राम लखन सीता मन बसिया
+हनुमान चालीसा हनुमान चालीसा ... हनुमान चालीसा
+... ... हनुमान चालीसा ?? हनुमान चालीसा
+हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा ?? हनुमान चालीसा
+... ... हनुमान चालीसा ?? हनुमान चालीसा
 
 [Chorus x2 — Epic]
-जय हनुमान! जय हनुमान!
-बजरंग बली — राम के दास!
+?? हनुमान चालीसा! ?? हनुमान चालीसा!
+हनुमान चालीसा ... — ... ?? ...!
 (FULL ORCHESTRA + WAR CHOIR!)
 
 [Verse 5 — Lanka]
-सूक्ष्म रूप धरि सियहिं दिखावा
-बिकट रूप धरि लंक जरावा!
-भीम रूप धरि असुर सँहारे
-रामचंद्र के काज सँवारे
+हनुमान चालीसा ... ... हनुमान चालीसा हनुमान चालीसा
+हनुमान चालीसा ... ... ... हनुमान चालीसा!
+... ... ... हनुमान चालीसा हनुमान चालीसा
+हनुमान चालीसा ?? ... हनुमान चालीसा
 
 [Verse 6 — Dronagiri]
-लाय सजीवन लखन जियाये
-श्रीरघुबीर हरषि उर लाये
-रघुपति कीन्ही बहुत बड़ाई —
-"तुम मम प्रिय भरतहि सम भाई!"
+... हनुमान चालीसा ... हनुमान चालीसा
+हनुमान चालीसा हनुमान चालीसा ?? हनुमान चालीसा
+हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा —
+"... ?? हनुमान चालीसा हनुमान चालीसा ?? ...!"
 
 [Verse 7 — Cosmic]
-सहस बदन तुम्हरो जस गावैं
-अस कहि श्रीपति कंठ लगावे
-सनकादिक ब्रह्मादि मुनीसा
-नारद सारद सहित अहीसा
+... ... हनुमान चालीसा ?? हनुमान चालीसा
+?? ... हनुमान चालीसा ... हनुमान चालीसा
+हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा
+हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा
 
 [Final Chorus x3 — Triumphant]
-जय हनुमान! जय हनुमान!
-जय जय जय हनुमान!
-बजरंग बली की जय!
-जय श्रीराम! जय हनुमान!
+?? हनुमान चालीसा! ?? हनुमान चालीसा!
+?? ?? ?? हनुमान चालीसा!
+हनुमान चालीसा ... ?? ??!
+?? हनुमान चालीसा! ?? हनुमान चालीसा!
 (FULL ORCHESTRA FINALE!)
 
 [Closing Doha]
-पवनतनय संकट हरण
-मंगल मूरति रूप
-राम लखन सीता सहित
-हृदय बसहु सुर भूप
+हनुमान चालीसा हनुमान चालीसा ...
+हनुमान चालीसा हनुमान चालीसा ...
+... ... हनुमान चालीसा हनुमान चालीसा
+हनुमान चालीसा हनुमान चालीसा ... ...
 
 [Outro]
-जय हनुमान... जय हनुमान...
+?? हनुमान चालीसा... ?? हनुमान चालीसा...
 (harmonium fading)
 (single temple bell)
 (silence)
@@ -261,46 +261,46 @@ Awadhi poetic beauty, bass-heavy club music, ambient without rhythm
 | Scene | Chaupai / Doha | Visual Description | Camera |
 |---|---|---|---|
 | 1 | Opening Doha | Tulsidas writing by oil lamp in Ayodhya — golden dawn breaking | Slow push-in |
-| 2 | श्रीगुरु चरन… | Lotus feet of Ram glowing with divine light, devotee bowing | Low angle up |
-| 3 | जय हनुमान ज्ञान गुण सागर | Hanuman emerges from clouds over Himalayan peak, saffron glow | Epic wide shot |
-| 4 | जय कपीस तिहुँ लोक उजागर | Three worlds — earth, heaven, netherworld — all lit by Hanuman's glow | Triple split reveal |
-| 5 | राम दूत अतुलित बल धामा | Hanuman bows before Ram in Ayodhya court, gold light streams | Reverent wide |
-| 6 | अंजनि पुत्र पवनसुत नामा | Young Anjana holding baby Hanuman to the sky, wind swirling | Emotional close-up |
-| 7 | महाबीर बिक्रम बजरंगी | Hanuman crushing a demon with one fist — power explosion | Dynamic action |
-| 8 | कुमति निवार सुमति के संगी | Dark thoughts fleeing as Hanuman's divine light fills a devotee's mind | Symbolic beauty shot |
-| 9 | कंचन बरन बिराज सुबेसा | Hanuman in golden form, magnificent muscles, saffron dhoti, jewels | Hero reveal shot |
-| 10 | कानन कुण्डल कुञ्चित केसा | Close-up: Hanuman's face — curled hair, golden earrings, gentle eyes | Intimate close-up |
-| 11 | हाथ बज्र औ ध्वजा बिराजै | Hanuman raising his vajra and flag over a mountain summit | Power wide shot |
-| 12 | काँधे मूँज जनेऊ साजै | Hanuman's sacred thread glowing, Ram's name written across it | Mystical close |
-| 13 | शंकर सुवन केसरी नंदन | Hanuman and Shiva together — Shiva nods with pride at his son | Divine meeting |
-| 14 | तेज प्रताप महा जग वंदन | All of creation bowing — sages, gods, demons all paying respect | Grand panorama |
-| 15 | विद्यावान गुणी अति चातुर | Hanuman composing Sanskrit poetry — pure scholar and warrior both | Study-in-contrast |
-| 16 | राम काज करिबे को आतुर | Hanuman leaping from cliff — eyes fixed on distant Lanka | Heroic launch shot |
-| 17 | प्रभु चरित्र सुनिबे को रसिया | Hanuman sitting at Ram's feet, listening with tears of joy | Tender emotion shot |
-| 18 | राम लखन सीता मन बसिया | Inside Hanuman's chest opening — Ram, Laxman, Sita glowing inside his heart | Iconic heart reveal |
-| 19 | सूक्ष्म रूप धरि सियहिं दिखावा | Tiny Hanuman landing on Ashoka tree branch near weeping Sita | Delicate close-up |
-| 20 | बिकट रूप धरि लंक जरावा | Giant Hanuman towering over Lanka — tail on fire, eyes blazing | Most epic shot |
-| 21 | भीम रूप धरि असुर सँहारे | Hanuman in massive form smashing Ravana's demon army | Battle panorama |
-| 22 | रामचंद्र के काज सँवारे | Hanuman placing Ram's ring at Sita's feet in the grove | Emotional climax |
-| 23 | लाय सजीवन लखन जियाये | Hanuman flying with the entire Dronagiri mountain | Majestic flight shot |
-| 24 | श्रीरघुबीर हरषि उर लाये | Ram embracing Hanuman — tears of joy — divine love | Most emotional shot |
-| 25 | रघुपति कीन्ही बहुत बड़ाई | Ram raising Hanuman's hand before the entire army | Triumphant wide |
-| 26 | तुम मम प्रिय भरतहि सम भाई | Ram declaring Hanuman as dear as brother Bharat — celestial glow | Sacred declaration |
-| 27 | सहस बदन तुम्हरो जस गावैं | Thousand-headed Shesha Naga singing Hanuman's glory | Cosmic spectacle |
-| 28 | अस कहि श्रीपति कंठ लगावे | Ram pulling Hanuman to his chest — eternal embrace | Close emotional |
-| 29 | सनकादिक ब्रह्मादि मुनीसा | Brahma, Vishnu, Shiva, all sages in a circle praising Hanuman | Divine assembly |
-| 30 | नारद सारद सहित अहीसा | Narada playing veena, Saraswati with book, serpent king Vasuki bowing | Celestial gathering |
-| 31 | जम कुबेर दिगपाल जहाँ ते | All directional guardians of the universe paying homage | Grand cosmic wide |
-| 32 | कबि कोबिद कहि सके कहाँ ते | Tulsidas writing — the pen cannot capture Hanuman's glory | Humble poet shot |
-| 33 | तुम उपकार सुग्रीवहिं कीन्हा | Hanuman presenting Sugriv to Ram — alliance forged | Historical scene |
-| 34 | राम मिलाय राजपद दीन्हा | Sugriv crowned — Hanuman stands behind with proud smile | Coronation |
-| 35 | तुम्हरो मंत्र बिभीषण माना | Hanuman whispering divine strategy to Vibhishan | Strategy scene |
-| 36 | लंकेश्वर भए सब जग जाना | Vibhishan crowned King of Lanka — Hanuman nods | Victory scene |
-| 37 | जुग सहस्र जोजन पर भानू | Young Hanuman leaping to eat the sun — the sun flees in comic surprise | Epic/comedy contrast |
-| 38 | लील्यो ताहि मधुर फल जानू | Hanuman gently catching the sun like a fruit — celestial wonder | Magical wide |
-| 39 | प्रभु मुद्रिका मेलि मुख माहीं | Hanuman holding Ram's ring delicately in his mouth over the ocean | Tender focus |
-| 40 | जलधि लाँघि गये अचरज नाहीं | Hanuman leaping across the ocean — 100 leagues in one bound | Most cinematic shot |
-| 41 | दुर्गम काज जगत के जेते | Hanuman standing at the center — all impossible tasks made easy | Power portrait |
+| 2 | 🎵 ???… | Lotus feet of Ram glowing with divine light, devotee bowing | Low angle up |
+| 3 | 🎵 ?????? ????? ??? ⭐⭐⭐⭐ | Hanuman emerges from clouds over Himalayan peak, saffron glow | Epic wide shot |
+| 4 | 🎵 ???? ????? ??? ⭐⭐⭐⭐⭐ | Three worlds — earth, heaven, netherworld — all lit by Hanuman's glow | Triple split reveal |
+| 5 | 🎵 ??? ?????? ?? ⭐⭐⭐⭐ | Hanuman bows before Ram in Ayodhya court, gold light streams | Reverent wide |
+| 6 | 🎵 ????? ?????? ⭐⭐⭐⭐ | Young Anjana holding baby Hanuman to the sky, wind swirling | Emotional close-up |
+| 7 | 🎵 ?????? ?⭐⭐⭐⭐⭐ | Hanuman crushing a demon with one fist — power explosion | Dynamic action |
+| 8 | 🎵 ????? ????? ?? ⭐⭐⭐⭐ | Dark thoughts fleeing as Hanuman's divine light fills a devotee's mind | Symbolic beauty shot |
+| 9 | 🎵 ??? ????? ?⭐⭐⭐⭐⭐ | Hanuman in golden form, magnificent muscles, saffron dhoti, jewels | Hero reveal shot |
+| 10 | 🎵 ?????? ??????? ⭐⭐⭐⭐ | Close-up: Hanuman's face — curled hair, golden earrings, gentle eyes | Intimate close-up |
+| 11 | 🎵 ???? ? ????? ?⭐⭐⭐⭐⭐ | Hanuman raising his vajra and flag over a mountain summit | Power wide shot |
+| 12 | 🎵 ???? ???? ⭐⭐⭐⭐ | Hanuman's sacred thread glowing, Ram's name written across it | Mystical close |
+| 13 | 🎵 ???? ????? ⭐⭐⭐⭐ | Hanuman and Shiva together — Shiva nods with pride at his son | Divine meeting |
+| 14 | 🎵 ?????? ??? ?? ⭐⭐⭐⭐ | All of creation bowing — sages, gods, demons all paying respect | Grand panorama |
+| 15 | 🎵 ???? ??? ⭐⭐⭐⭐⭐ | Hanuman composing Sanskrit poetry — pure scholar and warrior both | Study-in-contrast |
+| 16 | 🎵 ??? ????? ?? ⭐⭐⭐⭐ | Hanuman leaping from cliff — eyes fixed on distant Lanka | Heroic launch shot |
+| 17 | 🎵 ?????? ?????? ?? ⭐⭐⭐⭐⭐ | Hanuman sitting at Ram's feet, listening with tears of joy | Tender emotion shot |
+| 18 | 🎵 ??? ???? ?? ⭐⭐⭐⭐⭐ | Inside Hanuman's chest opening — Ram, Laxman, Sita glowing inside his heart | Iconic heart reveal |
+| 19 | 🎵 ??? ??? ?????? ?⭐⭐⭐⭐⭐ | Tiny Hanuman landing on Ashoka tree branch near weeping Sita | Delicate close-up |
+| 20 | 🎵 ??? ??? ??? ⭐⭐⭐⭐⭐ | Giant Hanuman towering over Lanka — tail on fire, eyes blazing | Most epic shot |
+| 21 | 🎵 ??? ??? ???? ?⭐⭐⭐⭐⭐ | Hanuman in massive form smashing Ravana's demon army | Battle panorama |
+| 22 | 🎵 ?? ??? ?⭐⭐⭐⭐⭐ | Hanuman placing Ram's ring at Sita's feet in the grove | Emotional climax |
+| 23 | 🎵 ????? ??? ?⭐⭐⭐⭐⭐ | Hanuman flying with the entire Dronagiri mountain | Majestic flight shot |
+| 24 | 🎵 ???? ?? ⭐⭐⭐⭐ | Ram embracing Hanuman — tears of joy — divine love | Most emotional shot |
+| 25 | 🎵 ?????? ???? ⭐⭐⭐⭐⭐ | Ram raising Hanuman's hand before the entire army | Triumphant wide |
+| 26 | 🎵 ?? ????? ????? ?? ⭐⭐⭐ | Ram declaring Hanuman as dear as brother Bharat — celestial glow | Sacred declaration |
+| 27 | 🎵 ??? ??????? ?? ⭐⭐⭐⭐⭐ | Thousand-headed Shesha Naga singing Hanuman's glory | Cosmic spectacle |
+| 28 | 🎵 ??? ??????? ??? ⭐⭐⭐⭐⭐ | Ram pulling Hanuman to his chest — eternal embrace | Close emotional |
+| 29 | 🎵 ????????? ?⭐⭐⭐⭐⭐ | Brahma, Vishnu, Shiva, all sages in a circle praising Hanuman | Divine assembly |
+| 30 | 🎵 ???? ???? ⭐⭐⭐⭐⭐ | Narada playing veena, Saraswati with book, serpent king Vasuki bowing | Celestial gathering |
+| 31 | 🎵 ????? ?????? ???? ⭐⭐ | All directional guardians of the universe paying homage | Grand cosmic wide |
+| 32 | 🎵 ????? ??? ??? ???? ⭐⭐ | Tulsidas writing — the pen cannot capture Hanuman's glory | Humble poet shot |
+| 33 | 🎵 ????? ?????????? ?⭐⭐⭐⭐⭐ | Hanuman presenting Sugriv to Ram — alliance forged | Historical scene |
+| 34 | 🎵 ????? ????? ?⭐⭐⭐⭐⭐ | Sugriv crowned — Hanuman stands behind with proud smile | Coronation |
+| 35 | 🎵 ????? ?????? ⭐⭐⭐⭐ | Hanuman whispering divine strategy to Vibhishan | Strategy scene |
+| 36 | 🎵 ?? ?? ?? ⭐⭐⭐⭐ | Vibhishan crowned King of Lanka — Hanuman nods | Victory scene |
+| 37 | 🎵 ????? ???? ?? ⭐⭐⭐⭐ | Young Hanuman leaping to eat the sun — the sun flees in comic surprise | Epic/comedy contrast |
+| 38 | 🎵 ???? ???? ?? ⭐⭐⭐⭐ | Hanuman gently catching the sun like a fruit — celestial wonder | Magical wide |
+| 39 | 🎵 ???????? ???? ??? ⭐⭐⭐⭐⭐ | Hanuman holding Ram's ring delicately in his mouth over the ocean | Tender focus |
+| 40 | 🎵 ????? ??? ???? ⭐⭐⭐⭐⭐ | Hanuman leaping across the ocean — 100 leagues in one bound | Most cinematic shot |
+| 41 | 🎵 ??? ??? ?? ⭐⭐⭐⭐ | Hanuman standing at the center — all impossible tasks made easy | Power portrait |
 | 42 | Final Doha — Jai Jai Jai | Ram, Sita, Laxman, Hanuman in golden glow — eternal blessing | Sacred finale wide |
 
 ---
@@ -311,11 +311,11 @@ Awadhi poetic beauty, bass-heavy club music, ambient without rhythm
 
 ---
 
-### Character 1: Lord Hanuman — हनुमान 🦁 (The Divine Servant-Hero)
+### Character 1: Lord Hanuman — हन—मान जी —(The Divine Servant-Hero)
 
 **Description:** Tulsidas's Hanuman — the greatest devotee, the mightiest warrior, the most learned scholar, and the most selfless servant ever conceived in devotional literature. Power and gentleness in perfect sacred balance.
 
-**🖼️ Character Image Prompt:**
+**🖼— Character Image Prompt:**
 ```
 A magnificent and emotionally complex 3D Pixar-style animated divine
 character, Lord Hanuman — the monkey-god devotee of Ram depicted in
@@ -341,11 +341,11 @@ divine palette, 8K resolution
 
 ---
 
-### Character 2: Lord Ram — श्रीराम 🌊 (The Divine King)
+### Character 2: Lord Ram — श—री राम —(The Divine King)
 
 **Description:** As depicted in Hanuman Chalisa — the divine king of Ayodhya, the ideal human, who is simultaneously Ram the man and Vishnu the God, whose name is protection itself.
 
-**🖼️ Character Image Prompt:**
+**🖼— Character Image Prompt:**
 ```
 A radiant and noble 3D Pixar-style animated divine king character,
 Lord Ram as described in the Hanuman Chalisa — the ideal of divine
@@ -369,11 +369,11 @@ ultra regal yet warm sacred Pixar quality, Ayodhya blue-gold palette, 8K
 
 ---
 
-### Character 3: Goswami Tulsidas — तुलसीदास ✍️ (The Poet-Saint)
+### Character 3: Goswami Tulsidas — त—लसीदास ——(The Poet-Saint)
 
 **Description:** The 16th-century devotional poet who composed the Hanuman Chalisa and the Ramcharitmanas — the man whose personal devotion to Ram transformed into 500 years of collective worship for 500 million people.
 
-**🖼️ Character Image Prompt:**
+**🖼— Character Image Prompt:**
 ```
 A deeply devoted and humanly beautiful 3D Pixar-style animated saint
 character, Goswami Tulsidas — the 16th century Vaishnava poet-saint
@@ -398,7 +398,7 @@ devotional sacred Pixar quality, Varanasi lamp-lit night palette, 8K
 
 ---
 
-## 🎬 SCENE PROMPTS — 42 SCENES × 10 SECONDS
+## 🎬 SCENE PROMPTS — 42 SCENES — 10 SECONDS
 
 ---
 
@@ -411,7 +411,7 @@ a narrow window with the Ganges shimmering in moonlight
 below, Tulsidas seated with palm leaf and stylus writing
 with extraordinary concentration — each Chaupai arriving
 to him complete as if being dictated from above, the
-words "जय हनुमान ज्ञान गुण सागर" appearing in glowing
+words "?? हनुमान चालीसा हनुमान चालीसा ... हनुमान चालीसा" appearing in glowing
 golden Sanskrit above his writing hand as he sets them
 down, his face showing both the scholar's precision and
 the devotee's joy, the oil lamp flickering gently as
@@ -1121,7 +1121,7 @@ all eras, and his eternal divine status — building to the triumphant finale of
 
 ---
 
-## 🎯 THUMBNAIL CONCEPT
+## 🖼— THUMBNAIL CONCEPT
 
 ```
 3D Pixar-style YouTube thumbnail for "Hanuman Chalisa" devotional video.
@@ -1130,7 +1130,7 @@ one hand raised in blessing (abhaya mudra), other hand holding his mace (gada),
 divine golden glow emanating from his entire form, tear of devotion on his cheek.
 Background: Burning Lanka on the left, Ayodhya's golden spires on the right,
 deep blue sky with Ram's name written in golden Sanskrit across the top.
-Bottom: "हनुमान चालीसा" in bold saffron-gold letters.
+Bottom: "हनुमान चालीसा हनुमान चालीसा" in bold saffron-gold letters.
 Badge text: "COMPLETE 7 MINUTES" in white on saffron. 
 Colour palette: saffron, gold, deep blue, sacred white. 4K, 16:9. Maximum divine beauty.
 ```
@@ -1163,7 +1163,188 @@ hanuman chalisa 2026, jay shree ram, jai bajrangbali
 
 ---
 
-## 📌 HASHTAGS
+---
+## 🔥 NEW STYLES — G THROUGH N (Trend-Informed, Viral-Ready)
+> Based on analysis of actual viral versions: Gulshan Kumar's devotional recordings, Shankar Mahadevan's power vocal renditions, Jubin Nautiyal's modern devotional pop, 2020–2024 YouTube trap remixes, lo-fi bhajan streams, and mass Bollywood Hanuman anthems.
+---
+### — STYLE G — GULSHAN KUMAR CLASSIC DEVOTIONAL (The Definitive Home Version)
+**Concept:** Gulshan Kumar's T-Series recordings defined how 500 million North Indians hear the Hanuman Chalisa at home. The harmonium-driven, emotionally warm, devotionally pure version that every Hindu household plays. The benchmark recording style.
+`
+Gulshan Kumar T-Series classic devotional Hanuman Chalisa, the iconic harmonium-led
+devotional style that defined a generation of home bhajan listening, male vocalist
+with warm sincere Hindi devotional quality — not classically trained but perfectly
+suited for emotional mass devotion, harmonium as the melodic soul of the track,
+tabla at 84 BPM in steady devotional groove, dholak joining on chorus verses,
+manjira (hand cymbals) keeping the sacred heartbeat throughout, 20-voice mixed
+choir on "Jai Hanuman Gyan Gun Sagar" — the moment every listener joins,
+each chaupai verse building in devotional warmth not performance power, the
+harmonium melody of Hanuman Chalisa preserved exactly as Tulsidas intended —
+intimate and pure, ends with full choir and harmonium sustaining as the aarti
+bells ring — the T-Series devotional finale every devotee recognizes
+`
+### 📺 STYLE H — BAJRANG BALI SERIAL CINEMATIC (Doordarshan / Star Plus Mass Devotion)
+**Concept:** The Ramanand Sagar Ramayan (1987) and later devotional serials defined how 400 million television viewers visualize Hanuman's story. The orchestral warmth + Indian classical blend that makes devotees weep on sight. The most emotionally devastating version for the TV generation.
+`
+Indian TV serial cinematic devotional Hanuman Chalisa, the Ramanand Sagar Ramayan
+sonic signature — lush Bollywood orchestral strings with Indian classical emotional
+depth, shehnai carrying the iconic Chalisa melody with devotional longing, dhol
+and tabla locked at 88 BPM in the classic devotional serial rhythm, male vocalist
+with Bollywood-devotional baritone quality — emotional and accessible, the chorus
+exploding with 60-piece orchestral swell and 50-voice mixed choir — the Doordarshan
+goosebump moment, dramatic pause before "JAYA HANUMAN" where all instruments
+drop to single harmonium, the aarti bell woven rhythmically through the orchestral
+texture, cinematic swell building through the 40 chaupais toward an emotionally
+overwhelming finale where strings and choir reach maximum combined power, the
+sound of Sunday morning Doordarshan devotional programming for 400 million viewers
+`
+### 🌟 STYLE I — JUBIN NAUTIYAL MODERN DEVOTIONAL (Young India Pop Bhajan)
+**Concept:** Jubin Nautiyal's devotional pop style — the version that Gen-Z and millennials share. Clean production, emotional vocal performance, modern production values underneath traditional devotion. The version that non-devotees discover first on Instagram reels.
+`
+Modern devotional pop Hanuman Chalisa Jubin Nautiyal style, clean contemporary
+production with devotional heart, male vocalist with the specific quality of modern
+Hindi film singers applied to bhajan — emotional falsetto rises on key chaupais,
+the Chalisa melody presented with modern vocal production including subtle pitch
+correction and warm reverb, acoustic guitar weaving through the harmonium as
+a modern production touch, tabla at 82 BPM with modern recording quality,
+bass guitar adding subtle warmth beneath traditional instruments, 30-voice
+choir on the chorus with modern harmony stacking, flute between verses with
+cinematic reverb, the "Jai Hanuman" hook engineered as a modern pop chorus
+moment — the version young Indians send to their parents, ends with acoustic
+guitar alone carrying the Chalisa melody in a contemplative outro
+`
+### ☕ STYLE J — TRAP DEVOTIONAL (YouTube Gen-Z Viral Formula)
+**Concept:** The Hanuman Chalisa trap remixes hitting 30-50M views on YouTube. 808 bass + damaru sample + trap hi-hats + Sanskrit chanting = the formula that brought Hanuman to global streaming playlists. The gym workout version of the Chalisa.
+`
+Devotional trap Hanuman Chalisa, trap production with sacred Hindi core, 808
+sub-bass dropping on every "HANUMAN" like thunder, trap hi-hat patterns at 130
+BPM with triplet rolls before each section drop, damaru sample chopped and looped
+as the primary rhythmic hook — three beats of divine percussion repeated
+hypnotically over the trap beat, male vocalist alternating between precise
+Chalisa recitation and modern melodic hooks on the chorus, harmonium melody
+sampled and pitched over the trap instrumental, "JAI BAJRANG BALI" engineered
+as the maximum-impact drop with 808 bass + damaru + choir hitting simultaneously,
+Sanskrit-Hindi lyrics in transliteration overlay — the version young diaspora
+Indians share in gym WhatsApp groups, bass engineered for maximum headphone
+sub-frequency impact, ends with trap beat dissolving into single harmonium note
+`
+### 🎼 STYLE K — LO-FI HANUMAN MEDITATION (Bedroom Devotion / Study Stream)
+**Concept:** Fastest-growing devotional subgenre. Lo-fi hip-hop beats + Hanuman Chalisa chanting + rain sounds = 10-hour YouTube streams. The stressed 22-year-old's Hanuman. The version playing on laptop screens during CA exam preparation on a Tuesday.
+`
+Lo-fi hip-hop Hanuman Chalisa meditation, warm vinyl-crackle lo-fi production
+with pure devotional heart, dusty boom-bap drum pattern at 72 BPM with the
+head-nodding lo-fi swing, Hindi Chalisa verses softly hummed by a male voice
+with tape saturation and warm reverb — intimate as if recited in a small temple
+at 4am, rain on temple zinc roof as continuous ambient texture, distant temple
+bell on the downbeat every 4 bars, lo-fi piano carrying the harmonium melody
+slowly over the hip-hop groove, harmonium chord sustaining between verse lines,
+no dramatic choir eruptions — constant meditative warmth, subtle sub-bass
+warmth never breaking the sacred calm, the "Jai Hanuman" refrain whispered
+not shouted — the Tuesday night private devotion, designed to play for 3 hours
+without exhausting the listener, ends with rain and single temple bell
+`
+### — STYLE L — SUFI QAWWALI HANUMAN (Crossover Devotional Ecstasy)
+**Concept:** Hanuman's unconditional love for Ram IS the Sufi concept of divine love (Ishq). Qawwali's ecstatic structure maps perfectly onto the Chalisa's 40-verse devotional build. The version where Sufi and Shaivite traditions meet in tears.
+`
+Sufi qawwali style Hanuman Chalisa, the Nusrat Fateh Ali Khan qawwali sonic
+tradition applied to Hindi-Sanskrit devotion, lead male vocalist starting
+controlled and building through the performance to genuine vocal ecstasy —
+the music singing through the singer, harmonium in the warm slightly-detuned
+qawwali manner playing the Chalisa melody, tabla and dholak in qawwali 8-beat
+cycle at 96 BPM with gradual tempo acceleration, 6-voice male chorus answering
+the lead in call-and-response — "JAYA HANUMAN JAYA HANUMAN" building each time,
+taali handclap pattern joining at 2-minute mark and never stopping, the
+ecstatic repetition of "RAM RAM RAM HANUMAN" accelerating to a continuous
+divine sound, the performance ending with vocalist falling silent mid-phrase —
+the Sufi hal devotional state arrived, pure bhakti and tasawwuf unified at
+Hanuman's feet — the devotion of a servant for his Lord
+`
+### 🎊 STYLE M — MASS BOLLYWOOD HANUMAN ANTHEM (Stadium Devotional Energy)
+**Concept:** The Hanuman Chalisa as a mass Bollywood anthem — the Deva Shree Ganesha formula (Agneepath). Maximum dhol-tasha percussion power, crowd participation melody, orchestral Bollywood punch. The version playing at a 100,000-person Hanuman Jayanti procession in Mumbai.
+`
+Mass Bollywood devotional anthem Hanuman Chalisa, the Ajay-Atul Agneepath
+dhol-tasha formula applied to the Chalisa, percussion army of dhol-tasha at
+116 BPM creating a wall of rhythm felt in the chest, lezim Maharashtrian
+metallic shimmer on the offbeats, powerful male vocalist with maximum Bollywood
+mass-emotional delivery, verse melody built with folk scales before transitioning
+to full orchestral Bollywood chorus, "JAI HANUMAN GYAN GUN SAGAR" chorus
+engineered for crowd participation — melody simple enough for 100,000 people
+to join on first hearing, brass punching on 2 and 4, tight background choir
+harmonies under the lead, nadaswaram on the procession melody breaks, the
+drop arriving with full dhol-tasha corps at maximum volume — the sound of
+Hanuman Jayanti across the streets of North India, ends with mass crowd
+chant of "JAI BAJRANG BALI" at full stadium volume — victory confirmed
+`
+### 🌿 STYLE N — AMBIENT BREATHWORK HANUMAN (Wellness / Yoga Festival)
+**Concept:** The Hanuman Chalisa for the global breathwork and yoga audience. Sanskrit chanting + ambient drone + breathing rhythm = the wellness festival entry point into Hanuman's devotion. The version playing at a Bali retreat center sunrise session.
+`
+Ambient breathwork Hanuman Chalisa, sacred Hindi verses chanted over continuous
+Himalayan singing bowl drones sustained at 174 Hz and 396 Hz — the frequencies
+of grounding and liberation, each Chalisa chaupai elongated into a breathing
+mantra — 4 counts inhale, 7 hold, 8 exhale — creating involuntary breath-music
+synchronization, shruti box and tamboura providing warm overtone harmony above
+the bowl drones, male voice with extended chanting technique — each syllable
+a complete meditation, rain and distant temple bells as ambient texture,
+"HANUMAN" syllable treated with overtone reverb until it becomes a singing
+bowl frequency itself, no percussion — only breath, drone, voice, and sacred
+silence between chaupais, designed for 20-minute pranayama sessions, the
+wellness festival's entry into Hanuman devotion — the version a yoga teacher
+uses to close a breathwork ceremony at sunrise in Rishikesh
+`
+### ⚡ STYLE O — IRON DEVOTION (Heavy Metal — Ambient Drone Fusion)
+**Concept:** Hanuman's physical strength and spiritual stillness — both extremes simultaneously. Metal's aggressive attack for Hanuman the warrior, ambient drone for Hanuman the devotee sitting in Ram's presence. The sonic paradox of the strongest and most surrendered being in all of creation.
+`
+iron devotion Hanuman Chalisa, heavy metal fused with deep ambient drone, Himalayan
+singing bowl drone at 174 Hz running beneath everything as unchanging devotional
+ground, distorted guitars and double bass kicks at 132 BPM erupting from the
+drone silence like Hanuman leaping to Lanka from the drone of the sea, split vocal:
+intimate drone-whisper on devotional chaupais, full metal choir roar on "JAYA
+BAJRANG BALI", damaru sampled as both raw percussion and pitch-shifted sub-bass
+drone, guitar riffs built from singing bowl overtone intervals — the warrior and
+the devotee are the same frequency in different states, midpoint: all metal
+cuts leaving only drone and whispered "RAM RAM RAM", returns heavier than
+before, finale: metal and drone at maximum volume together — Hanuman carrying
+the mountain, then metal fades one instrument at a time, drone ascends, silence
+is the final note — Hanuman in Ram's presence, still and complete
+`
+### 🌌 STYLE P — COSMIC HANUMAN (Heavy Metal — Epic Cinematic — Psytrance)
+**Concept:** The three most powerful styles collapsed into one. Metal's sacred battle energy + Cinematic's 150-voice choir scale + Psytrance's relentless pulse = Hanuman as he truly is: infinite strength, infinite devotion, cosmic power servant of Ram.
+`
+cosmic Hanuman Chalisa triple fusion, driving psytrance synthesizer at 130 BPM
+as the electronic spine of the universe, distorted metal guitars carrying the
+Chalisa rhythm above the trance pulse — both locked and united, 150-voice male
+choir delivering the 40 chaupais as a cosmic battle chant over the metal-trance
+foundation, taiko war drums + dhol fused with double bass kick, damaru sample
+looped as the primary melodic hook weaving through the trance electronics,
+shehnai cutting through the orchestra like Hanuman tearing through Lanka,
+Hans Zimmer-scale brass drones building between chaupai groups, "JAYA HANUMAN
+GYAN GUN SAGAR" chorus: choir at full cinematic power + metal roar + trance
+drop all hitting simultaneously — the triple cosmic impact, key of D minor
+building to F minor finale, fire and wind woven into the percussion, ends
+with trance fade dissolving into a single harmonium chord sustaining into silence —
+Ram's faithful servant: eternal, invincible, humble
+`
+---
+### 📊 STYLE COMPARISON — ALL 16 VERSIONS
+| Style | BPM | Energy | Best For | Viral Potential |
+|---|---|---|---|---|
+| **A — Epic Cinematic** | 80 | 🚌 Hero Journey | Global cinematic fans | ⭐⭐⭐⭐ |
+| **B — Bhakti Rap** | 95 | 🙏 Youth Devotion | Young India + diaspora | ⭐⭐⭐⭐ |
+| **C — Sufi Qawwali** | 72?116 | 🌊 Ecstatic Crossover | Interfaith, crossover | ⭐⭐⭐⭐ |
+| **D — Midnight Meditation** | 54 | 🕯️ Private Prayer | Deep meditators | ⭐⭐⭐ |
+| **E — Folk Rock Kailash** | 110 | 🌾 Raw Folk | Non-devotees, crossover | ⭐⭐⭐⭐ |
+| **F — Carnatic Classical** | 92 | 🎵 South Indian Devotion | Carnatic lovers | ⭐⭐⭐ |
+| **G — Gulshan Kumar Classic** | 84 | 🙏 Home Devotion | All Hindu families | ⭐⭐⭐⭐⭐ |
+| **H — TV Serial Cinematic** | 88 | 🎵 Mass Drama | 400M TV devotees | ⭐⭐⭐⭐⭐ |
+| **I — Jubin Modern Pop** | 82 | 🎵 Young India Pop | Gen-Z + millennials | ⭐⭐⭐⭐⭐ |
+| **J — Trap Devotional** | 130 | 🎵 808 Drop | Gen-Z global, gym crowd | ⭐⭐⭐⭐⭐ |
+| **K — Lo-Fi Hanuman** | 72 | 🕯️ Sacred Calm | Stressed millennials, study | ⭐⭐⭐⭐ |
+| **L — Sufi Qawwali Ecstasy** | 96?120 | 🙏 Devotional Peak | Crossover, interfaith | ⭐⭐⭐⭐ |
+| **M — Mass Bollywood Anthem** | 116 | ⚡ Stadium Power | Hanuman Jayanti crowds | ⭐⭐⭐⭐⭐ |
+| **N — Ambient Breathwork** | ⭐ | 🕯️ Sacred Calm | Yoga, wellness, retreats | ⭐⭐⭐⭐ |
+| **O — Iron Devotion** | 132/8 | 🎵 Warrior+Devotee | Metal fans + meditators | ⭐⭐⭐⭐⭐ |
+| **P — Cosmic Hanuman** | 130–132 | 🌌 Triple Power | Metal + cinematic + trance | ⭐⭐⭐⭐⭐ |
+
+## #️⃣ HASHTAGS
 
 ```
 #HanumanChalisa #JaiHanuman #HanumanBhajan #RamBhakti
@@ -1174,26 +1355,26 @@ hanuman chalisa 2026, jay shree ram, jai bajrangbali
 
 ---
 
-## 📋 PINNED COMMENT TEMPLATE
+## ?? PINNED COMMENT TEMPLATE
 
 ```
-🙏 जय हनुमान! 
+?? ?? हनुमान चालीसा! 
 
-📿 This Hanuman Chalisa was composed by Goswami Tulsidas in the 16th century
+?? This Hanuman Chalisa was composed by Goswami Tulsidas in the 16th century
 and has been recited by hundreds of millions of devotees for 500 years.
 
-💪 THE POWER OF HANUMAN CHALISA:
+?? THE POWER OF HANUMAN CHALISA:
 Recite every Tuesday and Saturday for strength, protection, and peace of mind.
-"संकट कटे मिटे सब पीरा, जो सुमिरे हनुमत बलबीरा"
+"हनुमान चालीसा ... हनुमान चालीसा ?? हनुमान चालीसा, ?? हनुमान चालीसा हनुमान चालीसा हनुमान चालीसा"
 All troubles end, all pain removed — when you remember mighty Hanuman!
 
-💬 Comment below:
-"🙏" = Jai Hanuman — I recite this daily!
-"💪" = Hanuman gives me strength!
-"🔥" = The Lanka scene made my heart race!
-"❤️" = The moment Ram embraced Hanuman made me emotional
+?? Comment below:
+"??" = Jai Hanuman — I recite this daily!
+"??" = Hanuman gives me strength!
+"??" = The Lanka scene made my heart race!
+"??" = The moment Ram embraced Hanuman made me emotional
 
-🔔 Subscribe for more 3D animated Hindu devotional songs!
+?? Subscribe for more 3D animated Hindu devotional songs!
 ```
 
 ---
