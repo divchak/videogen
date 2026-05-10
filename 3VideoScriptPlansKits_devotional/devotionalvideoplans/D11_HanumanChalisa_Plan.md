@@ -228,7 +228,509 @@ freedom, ends with nadaswaram + veena in unison on final verse
 (silence)
 ```
 
----
+
+complete unaltered lyrics:
+[Intro — Doha]
+श्री गुरु चरण सरोज रज निज मन मुकुर सुधारि ।
+बरनउँ रघुबर बिमल जसु जो दायकु फल चारि ॥
+
+बुद्धिहीन तनु जानिके सुमिरौं पवन कुमार ।
+बल बुद्धि विद्या देहु मोहि हरहु कलेश विकार ॥
+
+[Verse 1 — Chaupai 1-4]
+जय हनुमान ज्ञान गुण सागर ।
+जय कपीस तिहुँ लोक उजागर ॥
+राम दूत अतुलित बल धामा ।
+अंजनि पुत्र पवनसुत नामा ॥
+महावीर विक्रम बजरंगी ।
+कुमति निवार सुमति के संगी ॥
+कंचन बरन बिराज सुवेसा ।
+कानन कुंडल कुंचित केसा ॥
+
+[Chorus — Jai Hanuman]
+जय हनुमान ! जय हनुमान !
+जय हनुमान ज्ञान गुण सागर !
+
+[Verse 2 — Chaupai 5-8]
+हाथ वज्र औ ध्वजा बिराजै ।
+काँधे मूँज जनेऊ साजै ॥
+शंकर सुवन केसरी नन्दन ।
+तेज प्रताप महा जग वन्दन ॥
+विद्यावान गुणी अति चातुर ।
+राम काज करिबे को आतुर ॥
+प्रभु चरित्र सुनिबे को रसिया ।
+राम लखन सीता मन बसिया ॥
+
+[Verse 3 — Chaupai 9-12]
+सूक्ष्म रूप धरि सियहिं दिखावा ।
+विकट रूप धरि लंक जरावा ॥
+भीम रूप धरि असुर संहारे ।
+रामचन्द्र के काज संवारे ॥
+लाय सजीवन लखन जियाये ।
+श्री रघुवीर हरषि उर लाये ॥
+रघुपति कीन्ही बहुत बड़ाई ।
+तुम मम प्रिय भरतहि सम भाई ॥
+
+[Bridge — Anjana's Blessing]
+(soft shehnai + gentle tabla)
+
+[Verse 4 — Chaupai 13-16]
+सहस बदन तुम्हरो यश गावैं ।
+अस कहि श्रीपति कंठ लगावैं ॥
+सनकादिक ब्रह्मादि मुनीसा ।
+नारद सारद सहित अहीसा ॥
+जम कुबेर दिगपाल जहां ते ।
+कवि कोविद कहि सके कहां ते ॥
+तुम उपकार सुग्रीवहि कीन्हा ।
+राम मिलाय राजपद दीन्हा ॥
+
+[Chorus — Jai Hanuman (Epic)]
+जय हनुमान ! जय हनुमान !
+जय हनुमान ज्ञान गुण सागर !
+
+[Verse 5 — Chaupai 17-20]
+तुम्हरो मन्त्र विभीषण माना ।
+लंकेश्वर भये सब जग जाना ॥
+जुग सहस्र योजन पर भानू ।
+लील्यो ताहि मधुर फल जानू ॥
+प्रभु मुद्रिका मेलि मुख माही ।
+जलधि लांघि गये अचरज नाही ॥
+दुर्गम काज जगत के जेते ।
+सुगम अनुग्रह तुम्हरे तेते ॥
+
+[Verse 6 — Chaupai 21-24]
+राम दुआरे तुम रखवारे ।
+होत न आज्ञा बिनु पैसारे ॥
+सब सुख लहै तुम्हारी सरना ।
+तुम रक्षक काहू को डर ना ॥
+आपन तेज तुम्हारो आपै ।
+तीनों लोक हांक तें कांपै ॥
+भूत पिशाच निकट नहि आवै ।
+महावीर जब नाम सुनावै ॥
+
+[Verse 7 — Chaupai 25-28]
+नासै रोग हरै सब पीरा ।
+जपत निरंतर हनुमत वीरा ॥
+संकट ते हनुमान छुडावै ।
+मन क्रम वचन ध्यान जो लावै ॥
+सब पर राम तपस्वी राजा ।
+तिन के काज सकल तुम साजा ॥
+और मनोरथ जो कोई लावै ।
+सोई अमित जीवन फल पावै ॥
+
+[Verse 8 — Chaupai 29-32]
+चारों जुग परताप तुम्हारा ।
+है परसिद्ध जगत उजियारा ॥
+साधु संत के तुम रखवारे ।
+असुर निकंदन राम दुलारे ॥
+अष्ट सिद्धि नव निधि के दाता ।
+अस बर दीन जानकी माता ॥
+राम रसायन तुम्हरे पासा ।
+सदा रहो रघुपति के दासा ॥
+
+[Verse 9 — Chaupai 33-36]
+तुम्हरे भजन राम को पावै ।
+जनम जनम के दुख बिसरावै ॥
+अंत काल रघुबर पुर जाई ।
+जहाँ जन्म हरिभक्त कहाई ॥
+और देवता चित्त न धरई ।
+हनुमत सेई सर्व सुख करई ॥
+संकट कटै मिटै सब पीरा ।
+जो सुमिरै हनुमत बलबीरा ॥
+
+[Verse 10 — Chaupai 37-40]
+जय जय जय हनुमान गोसाई ।
+कृपा करहु गुरुदेव की नाई ॥
+जो शत बार पाठ कर कोई ।
+छूटहि बंदि महा सुख होई ॥
+जो यह पढ़ै हनुमान चालीसा ।
+होय सिद्धि साखी गौरीसा ॥
+तुलसीदास सदा हरि चेरा ।
+कीजै नाथ हृदय महँ डेरा ॥
+
+[Final Chorus x3 — Triumphant]
+जय हनुमान ! जय हनुमान !
+जय हनुमान ज्ञान गुण सागर !
+
+[Closing Doha]
+पवन तनय संकट हरन मंगल मूरति रूप ।
+राम लखन सीता सहित हृदय बसहु सुर भूप ॥
+
+[Outro]
+(soft harmonium + single temple bell fade)
+
+
+Complete transliterated lyrics 
+
+[Intro — Doha]
+Shri Guru Charan Saroj Raj, Nij Manu Mukuru Sudhari.
+Barnau Raghuvar Bimal Jasu, Jo Dayaku Phal Chari.
+
+Buddhiheen Tanu Jaanike, Sumirau Pavan Kumar.
+Bal Buddhi Vidya Dehu Mohi, Harahu Kalesh Vikar.
+
+[Verse 1 — Chaupai 1-4]
+Jai Hanuman Gyan Gun Sagar.
+Jai Kapees Tihun Lok Ujagar.
+Ram Doot Atulit Bal Dhama.
+Anjani Putra Pavan Sut Nama.
+Mahavir Vikram Bajrangi.
+Kumati Nivar Sumati Ke Sangi.
+Kanchan Baran Biraj Subesa.
+Kaanan Kundal Kunchit Kesa.
+
+[Chorus — Jai Hanuman]
+Jai Hanuman! Jai Hanuman!
+Jai Hanuman Gyan Gun Sagar!
+
+[Verse 2 — Chaupai 5-8]
+Hath Vajra Au Dhvaja Birajai.
+Kandhe Munj Janeu Sajai.
+Shankar Suvan Kesari Nandan.
+Tej Pratap Maha Jag Vandan.
+Vidyavan Guni Ati Chatur.
+Ram Kaj Karibe Ko Atur.
+Prabhu Charitra Sunibe Ko Rasiya.
+Ram Lakhan Sita Man Basiya.
+
+[Verse 3 — Chaupai 9-12]
+Sukshma Roop Dhari Siyahi Dikhava.
+Vikat Roop Dhari Lank Jarava.
+Bhim Roop Dhari Asur Sanhare.
+Ramchandra Ke Kaj Sanvare.
+Lay Sanjivan Lakhan Jiyaye.
+Shri Raghuvir Harshi Ur Laye.
+Raghupati Kinhin Bahut Badaai.
+Tum Mam Priya Bharat Hi Sam Bhai.
+
+[Bridge — Anjana's Blessing]
+(soft shehnai + gentle tabla)
+
+[Verse 4 — Chaupai 13-16]
+Sahas Badan Tumharo Yash Gavai.
+As Kahi Shripati Kanth Lagavai.
+Sanakadik Brahmadi Munisa.
+Narad Sharad Sahit Ahisa.
+Yam Kuber Digpal Jahan Te.
+Kavi Kobid Kahi Sake Kahan Te.
+Tum Upkar Sugreevahin Kinha.
+Ram Milaye Rajpad Dinha.
+
+[Chorus — Jai Hanuman (Epic)]
+Jai Hanuman! Jai Hanuman!
+Jai Hanuman Gyan Gun Sagar!
+
+[Verse 5 — Chaupai 17-20]
+Tumharo Mantra Vibhishan Mana.
+Lankeshwar Bhaye Sab Jag Jana.
+Jug Sahasra Yojan Par Bhanu.
+Lilyo Tahi Madhur Phal Janu.
+Prabhu Mudrika Meli Mukh Mahi.
+Jaladhi Langhi Gaye Acharaj Nahi.
+Durgam Kaj Jagat Ke Jete.
+Sugam Anugrah Tumhare Tete.
+
+[Verse 6 — Chaupai 21-24]
+Ram Duaare Tum Rakhvare.
+Hot Na Aagya Binu Paisare.
+Sab Sukh Lahai Tumhari Sarna.
+Tum Rakshak Kahu Ko Dar Na.
+Apan Tej Tumharo Aapai.
+Tino Lok Hank Ten Kampai.
+Bhoot Pishach Nikat Nahi Aavai.
+Mahavir Jab Naam Sunavai.
+
+[Verse 7 — Chaupai 25-28]
+Nasai Rog Harai Sab Pira.
+Japat Nirantar Hanumat Bira.
+Sankat Te Hanuman Chhudavai.
+Man Kram Vachan Dhyan Jo Lavai.
+Sab Par Ram Tapasvi Raja.
+Tin Ke Kaj Sakal Tum Saja.
+Aur Manorath Jo Koi Lavai.
+Soi Amit Jeevan Phal Pavai.
+
+[Verse 8 — Chaupai 29-32]
+Charo Jug Paratap Tumhara.
+Hai Parasiddh Jagat Ujiyara.
+Sadhu Sant Ke Tum Rakhvare.
+Asur Nikandan Ram Dulare.
+Asht Siddhi Nav Nidhi Ke Data.
+As Bar Deen Janaki Mata.
+Ram Rasayan Tumhare Pasa.
+Sada Raho Raghupati Ke Dasa.
+
+[Verse 9 — Chaupai 33-36]
+Tumhare Bhajan Ram Ko Pavai.
+Janam Janam Ke Dukh Bisravai.
+Ant Kal Raghuvar Pur Jayi.
+Jahan Janm Haribhakt Kahai.
+Aur Devta Chitt Na Dharai.
+Hanumat Sei Sarva Sukh Karai.
+Sankat Kate Mitai Sab Pira.
+Jo Sumirai Hanumat Balbira.
+
+[Verse 10 — Chaupai 37-40]
+Jai Jai Jai Hanuman Gosai.
+Kripa Karahu Gurudev Ki Nai.
+Jo Sat Bar Path Kar Koi.
+Chhutahi Bandi Maha Sukh Hoi.
+Jo Yah Padhe Hanuman Chalisa.
+Hoy Siddhi Sakhi Gaurisa.
+Tulsidas Sada Hari Chera.
+Kijai Nath Hriday Mah Dera.
+
+[Final Chorus x3 — Triumphant]
+Jai Hanuman! Jai Hanuman!
+Jai Hanuman Gyan Gun Sagar!
+
+[Closing Doha]
+Pavan Tanay Sankat Haran, Mangal Murti Roop.
+Ram Lakhan Sita Sahit, Hriday Basahu Sur Bhup.
+
+[Outro]
+(soft harmonium + single temple bell fade)
+
+---80/20
+
+Part 1:
+Shri Guru Charan Saroj Raj Nij Manu Mukuru Sudhari
+Barnau Raghuvar Bimal Jasu Jo Dayaku Phal Chari
+
+Buddhiheen Tanu Jaanike Sumirau Pavan Kumar
+Bal Buddhi Vidya Dehu Mohi Harahu Kalesh Vikar
+
+Jai Hanuman Gyan Gun Sagar
+Jai Kapees Tihun Lok Ujagar
+Ram Doot Atulit Bal Dhama
+Anjani Putra Pavan Sut Nama
+Mahavir Vikram Bajrangi
+Kumati Nivar Sumati Ke Sangi
+Kanchan Baran Biraj Subesa
+Kaanan Kundal Kunchit Kesa
+
+Hath Vajra Au Dhvaja Birajai
+Kandhe Munj Janeu Sajai
+Shankar Suvan Kesari Nandan
+Tej Pratap Maha Jag Vandan
+Vidyavan Guni Ati Chatur
+Ram Kaj Karibe Ko Atur
+Prabhu Charitra Sunibe Ko Rasiya
+Ram Lakhan Sita Man Basiya
+
+Sukshma Roop Dhari Siyahi Dikhava
+Vikat Roop Dhari Lank Jarava
+Bhim Roop Dhari Asur Sanhare
+Ramchandra Ke Kaj Sanvare
+Lay Sanjivan Lakhan Jiyaye
+Shri Raghuvir Harshi Ur Laye
+Raghupati Kinhin Bahut Badaai
+Tum Mam Priya Bharat Hi Sam Bhai
+
+Sahas Badan Tumharo Yash Gavai
+As Kahi Shripati Kanth Lagavai
+Sanakadik Brahmadi Munisa
+Narad Sharad Sahit Ahisa
+Yam Kuber Digpal Jahan Te
+Kavi Kobid Kahi Sake Kahan Te
+Tum Upkar Sugreevahin Kinha
+Ram Milaye Rajpad Dinha
+
+Tumharo Mantra Vibhishan Mana
+Lankeshwar Bhaye Sab Jag Jana
+Jug Sahasra Yojan Par Bhanu
+Lilyo Tahi Madhur Phal Janu
+Prabhu Mudrika Meli Mukh Mahi
+Jaladhi Langhi Gaye Acharaj Nahi
+Durgam Kaj Jagat Ke Jete
+Sugam Anugrah Tumhare Tete
+
+Ram Duaare Tum Rakhvare
+Hot Na Aagya Binu Paisare
+Sab Sukh Lahai Tumhari Sarna
+Tum Rakshak Kahu Ko Dar Na
+Apan Tej Tumharo Aapai
+Tino Lok Hank Ten Kampai
+Bhoot Pishach Nikat Nahi Aavai
+Mahavir Jab Naam Sunavai
+
+Nasai Rog Harai Sab Pira
+Japat Nirantar Hanumat Bira
+Sankat Te Hanuman Chhudavai
+Man Kram Vachan Dhyan Jo Lavai
+Sab Par Ram Tapasvi Raja
+Tin Ke Kaj Sakal Tum Saja
+Aur Manorath Jo Koi Lavai
+Soi Amit Jeevan Phal Pavai
+
+Charo Jug Paratap Tumhara
+Hai Parasiddh Jagat Ujiyara
+Sadhu Sant Ke Tum Rakhvare
+Asur Nikandan Ram Dulare
+Asht Siddhi Nav Nidhi Ke Data
+As Bar Deen Janaki Mata
+Ram Rasayan Tumhare Pasa
+Sada Raho Raghupati Ke Dasa
+
+
+Part 2:
+Tumhare Bhajan Ram Ko Pavai
+Janam Janam Ke Dukh Bisravai
+Ant Kal Raghuvar Pur Jayi
+Jahan Janm Haribhakt Kahai
+Aur Devta Chitt Na Dharai
+Hanumat Sei Sarva Sukh Karai
+Sankat Kate Mitai Sab Pira
+Jo Sumirai Hanumat Balbira
+
+Jai Jai Jai Hanuman Gosai
+Kripa Karahu Gurudev Ki Nai
+Jo Sat Bar Path Kar Koi
+Chhutahi Bandi Maha Sukh Hoi
+Jo Yah Padhe Hanuman Chalisa
+Hoy Siddhi Sakhi Gaurisa
+Tulsidas Sada Hari Chera
+Kijai Nath Hriday Mah Dera
+
+Pavan Tanay Sankat Haran Mangal Murti Roop
+Ram Lakhan Sita Sahit Hriday Basahu Sur Bhup
+
+--------------------
+80/20 with appropriate tags :
+
+80%
+[Intro — Doha]
+Shri Guru Charan Saroj Raj, Nij Manu Mukuru Sudhari.
+Barnau Raghuvar Bimal Jasu, Jo Dayaku Phal Chari.
+
+Buddhiheen Tanu Jaanike, Sumirau Pavan Kumar.
+Bal Buddhi Vidya Dehu Mohi, Harahu Kalesh Vikar.
+
+[Verse 1 — Chaupai 1-4]
+Jai Hanuman Gyan Gun Sagar.
+Jai Kapees Tihun Lok Ujagar.
+Ram Doot Atulit Bal Dhama.
+Anjani Putra Pavan Sut Nama.
+Mahavir Vikram Bajrangi.
+Kumati Nivar Sumati Ke Sangi.
+Kanchan Baran Biraj Subesa.
+Kaanan Kundal Kunchit Kesa.
+
+[Chorus — Jai Hanuman]
+Jai Hanuman! Jai Hanuman!
+Jai Hanuman Gyan Gun Sagar!
+
+[Verse 2 — Chaupai 5-8]
+Hath Vajra Au Dhvaja Birajai.
+Kandhe Munj Janeu Sajai.
+Shankar Suvan Kesari Nandan.
+Tej Pratap Maha Jag Vandan.
+Vidyavan Guni Ati Chatur.
+Ram Kaj Karibe Ko Atur.
+Prabhu Charitra Sunibe Ko Rasiya.
+Ram Lakhan Sita Man Basiya.
+
+[Verse 3 — Chaupai 9-12]
+Sukshma Roop Dhari Siyahi Dikhava.
+Vikat Roop Dhari Lank Jarava.
+Bhim Roop Dhari Asur Sanhare.
+Ramchandra Ke Kaj Sanvare.
+Lay Sanjivan Lakhan Jiyaye.
+Shri Raghuvir Harshi Ur Laye.
+Raghupati Kinhin Bahut Badaai.
+Tum Mam Priya Bharat Hi Sam Bhai.
+
+[Bridge — Anjana's Blessing]
+(soft shehnai + gentle tabla)
+
+[Verse 4 — Chaupai 13-16]
+Sahas Badan Tumharo Yash Gavai.
+As Kahi Shripati Kanth Lagavai.
+Sanakadik Brahmadi Munisa.
+Narad Sharad Sahit Ahisa.
+Yam Kuber Digpal Jahan Te.
+Kavi Kobid Kahi Sake Kahan Te.
+Tum Upkar Sugreevahin Kinha.
+Ram Milaye Rajpad Dinha.
+
+[Chorus — Jai Hanuman (Epic)]
+Jai Hanuman! Jai Hanuman!
+Jai Hanuman Gyan Gun Sagar!
+
+[Verse 5 — Chaupai 17-20]
+Tumharo Mantra Vibhishan Mana.
+Lankeshwar Bhaye Sab Jag Jana.
+Jug Sahasra Yojan Par Bhanu.
+Lilyo Tahi Madhur Phal Janu.
+Prabhu Mudrika Meli Mukh Mahi.
+Jaladhi Langhi Gaye Acharaj Nahi.
+Durgam Kaj Jagat Ke Jete.
+Sugam Anugrah Tumhare Tete.
+
+[Verse 6 — Chaupai 21-24]
+Ram Duaare Tum Rakhvare.
+Hot Na Aagya Binu Paisare.
+Sab Sukh Lahai Tumhari Sarna.
+Tum Rakshak Kahu Ko Dar Na.
+Apan Tej Tumharo Aapai.
+Tino Lok Hank Ten Kampai.
+Bhoot Pishach Nikat Nahi Aavai.
+Mahavir Jab Naam Sunavai.
+
+[Verse 7 — Chaupai 25-28]
+Nasai Rog Harai Sab Pira.
+Japat Nirantar Hanumat Bira.
+Sankat Te Hanuman Chhudavai.
+Man Kram Vachan Dhyan Jo Lavai.
+Sab Par Ram Tapasvi Raja.
+Tin Ke Kaj Sakal Tum Saja.
+Aur Manorath Jo Koi Lavai.
+Soi Amit Jeevan Phal Pavai.
+
+[Verse 8 — Chaupai 29-32]
+Charo Jug Paratap Tumhara.
+Hai Parasiddh Jagat Ujiyara.
+Sadhu Sant Ke Tum Rakhvare.
+Asur Nikandan Ram Dulare.
+Asht Siddhi Nav Nidhi Ke Data.
+As Bar Deen Janaki Mata.
+Ram Rasayan Tumhare Pasa.
+Sada Raho Raghupati Ke Dasa.
+
+[Verse 9 — Chaupai 33-36]
+Tumhare Bhajan Ram Ko Pavai.
+Janam Janam Ke Dukh Bisravai.
+Ant Kal Raghuvar Pur Jayi.
+Jahan Janm Haribhakt Kahai.
+Aur Devta Chitt Na Dharai.
+Hanumat Sei Sarva Sukh Karai.
+Sankat Kate Mitai Sab Pira.
+Jo Sumirai Hanumat Balbira.
+
+----------------
+20%
+[Verse 10 — Chaupai 37-40]
+Jai Jai Jai Hanuman Gosai.
+Kripa Karahu Gurudev Ki Nai.
+Jo Sat Bar Path Kar Koi.
+Chhutahi Bandi Maha Sukh Hoi.
+Jo Yah Padhe Hanuman Chalisa.
+Hoy Siddhi Sakhi Gaurisa.
+Tulsidas Sada Hari Chera.
+Kijai Nath Hriday Mah Dera.
+
+[Final Chorus x3 — Triumphant]
+Jai Hanuman! Jai Hanuman!
+Jai Hanuman Gyan Gun Sagar!
+
+[Closing Doha]
+Pavan Tanay Sankat Haran, Mangal Murti Roop.
+Ram Lakhan Sita Sahit, Hriday Basahu Sur Bhup.
+
+[Outro]
+(soft harmonium + single temple bell fade)
+
+----
 
 ## 🎵 SUNO AI STYLE TAGS
 
