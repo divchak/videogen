@@ -19,7 +19,7 @@ Jack and Jill 🪣 | The Best Friends Who Never Give Up! | English Nursery Rhyme
 
 ### 🥉 Option 3 — Comedy Angle
 ```
-Jack and Jill Went Up the Hill 🪣😂 | Britain's Funniest Nursery Rhyme | 3D Kids Animation
+Jack and Jill Went Up the Hill 🪣😂 | Never Give Up! | English Nursery Rhymes |3D Kids Animation
 ```
 
 ---
@@ -57,20 +57,6 @@ Tumble → SIT → UP! Can you do it three times? 😄
 🌅 Sunset over the English village — the best view in all of England!
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⏱️ TIMESTAMPS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-00:00 — The English Village — Morning on Windy Hill 🏡
-00:08 — Jack and Jill Set Off! 🪣
-00:15 — The First Tumble! 😱
-00:22 — Vinegar and Brown Paper (The British Home Remedy!) 🏥
-00:30 — Attempt Two — Even More Determined! 💪
-00:40 — The Second Tumble (Bigger! Funnier!) 😂
-00:50 — The Whole Village Watches! 👀
-01:00 — THE THIRD AND FINAL CLIMB 🏔️
-01:15 — THEY REACH THE TOP! 🎉
-01:20 — The Best View in England — Jack and Jill + Water = VICTORY! 🌅
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎵 SING ALONG!
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Jack and Jill went up the hill
@@ -91,11 +77,10 @@ And Jill came tumbling after!
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE FULL BRITISH NURSERY RHYMES SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ ⭐ Twinkle Twinkle Little Star → [LINK]
-▶️ 🥚 Humpty Dumpty → [LINK]
-▶️ 🕷️ Itsy Bitsy Spider (also tries THREE times!) → [LINK]
-▶️ All British Nursery Rhymes Playlist → [LINK]
-▶️ Subscribe → [LINK]
+▶️ ⭐ Twinkle Twinkle Little Star → https://youtu.be/em7ZlL9V-8M
+▶️ 🥚 Humpty Dumpty → https://youtu.be/ZM8niWcXebM
+▶️ English Nursery Rhymes Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBe_jItt0j9CHKs6EmJPSULn
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 🔔 Subscribe for new British nursery rhymes every month!
 👍 LIKE if you cheered when they reached the top! 🎉
@@ -136,7 +121,7 @@ windy hill rhyme,
 jack and jill full song,
 nursery rhymes for toddlers
 ```
-
+Jack and Jill, Nursery Rhymes for Kids, 3D Animation, English Nursery Rhymes, English Kids Songs 2026, Jack and Jill Went Up the Hill, Classic Nursery Rhymes, Kids Songs England, Preschool Songs, Toddler Music, Animated Nursery Rhymes, Friendship Song, Courage for Kids, Try Again Song, Kids Animation, Windy Hill Rhyme, Jack and Jill Full Song, Pixar Style Animation, UK Education, Children's Songs, Jack Fell Down, Nursery Rhymes English.
 ---
 
 ## 📌 PART 4 — HASHTAGS
@@ -241,10 +226,11 @@ Some historians believe "the hill" refers to real places in England —
 including a hill in Southam, Warwickshire!
 And "Jack fell down and broke his crown" — "crown" means the top of his head! 🎩
 
-🔔 Subscribe for more British nursery rhymes!
-▶️ Watch Itsy Bitsy Spider (she also tries again — THREE times!): [LINK]
-▶️ Watch Humpty Dumpty (he bounces! He FLIES!): [LINK]
-▶️ All British Nursery Rhymes Playlist: [LINK]
+🔔 Subscribe for more English nursery rhymes!
+▶️ ⭐ Twinkle Twinkle Little Star → https://youtu.be/em7ZlL9V-8M
+▶️ 🥚 Humpty Dumpty → https://youtu.be/ZM8niWcXebM
+▶️ English Nursery Rhymes Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBe_jItt0j9CHKs6EmJPSULn
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 ```
 
 ---

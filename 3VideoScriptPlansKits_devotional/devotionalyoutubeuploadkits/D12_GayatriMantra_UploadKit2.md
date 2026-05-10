@@ -13,7 +13,7 @@
 
 ### 🥈 Option 2 — Meditation/Yoga audience
 ```
-Gayatri Mantra गायत्री मंत्र Version 1🌅 | 108 Times Meditation | Sunrise 3D Animation | om bhur bhuva svaha
+Gayatri Mantra गायत्री मंत्र Version 2🌅 | 108 Times Meditation | Sunrise 3D Animation | om bhur bhuva svaha
 ```
 
 ### 🥉 Option 3 — Festival/Navratri peak

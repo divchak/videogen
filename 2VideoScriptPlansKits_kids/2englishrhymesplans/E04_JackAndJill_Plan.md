@@ -708,7 +708,7 @@ impossibly steep, Jack giving the hill a small respectful
 nod (it was a worthy opponent), Jill adding a small wave,
 then they turn and walk toward the village in the golden
 evening light, the pail of water between them, hand in hand,
-the title appearing warmly: "JACK AND JILL",
+the title text appearing in gold appearing warmly: "JACK AND JILL",
 maximum Pixar warm-resolution outro quality, golden evening palette, 8K
 ```
 

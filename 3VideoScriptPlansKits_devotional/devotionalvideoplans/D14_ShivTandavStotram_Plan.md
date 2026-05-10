@@ -1179,9 +1179,7 @@ one register of the Sanskrit hymn, the combined ten-voice single-minded
 Ravana creating the most powerful sacred vocal sound a human form has
 ever produced, the rock itself vibrating and cracking slightly at the
 resonance of ten perfectly disciplined devotional voices singing the
-same Sanskrit in perfect harmony, the Stotram text appearing above
-him in golden Sanskrit as he sings — each verse appearing as it is
-composed and sung simultaneously, flowers materialising from the
+same Sanskrit in perfect harmony, , flowers materialising from the
 sacred stone around him in response to the divine beauty of the hymn,
 Shiva above him listening with an expression that is moving toward the
 divine smile that precedes granting a boon, ultra magnificent ten-voiced

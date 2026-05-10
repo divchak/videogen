@@ -19,7 +19,7 @@ Wheels on the Bus 🚌✨ | The Magic Red Bus That Goes EVERYWHERE! | English Nu
 
 ### 🥉 Option 3 — Action Song Angle
 ```
-Wheels on the Bus 🚌 | Move Along! | Classic British Action Song | 3D Kids Animation
+Wheels on the Bus 🚌 | English Nursery Rhyme | Move Along!  | 3D Kids Animation
 ```
 
 ---
@@ -64,21 +64,6 @@ and — on the final verse — it drives STRAIGHT INTO THE SKY! 🚌🌈⭐
 ⭐ THE FINAL VERSE — the bus drives into the night sky!
 🌙 "All through the town" — all through the UNIVERSE!
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⏱️ TIMESTAMPS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-00:00 — The Magic Red Bus in a British Market Town 🏙️
-00:10 — WHEELS — Round and Round! 🎡
-00:25 — WIPERS — In a British Drizzle! 🪟
-00:40 — DOORS — Open to the English Countryside! 🚪🌿
-00:55 — HORN — Through a Flock of Sheep! 📯🐑
-01:10 — PEOPLE — Mr Perkins, Fiona, Gran & Ben Shuffle Along! (Very British!) 🧑
-01:25 — BABY ROSIE — WAH WAH WAH! (Then — silence!) 👶
-01:40 — GERALD the Driver — "Move along there, please!" (Most British Line Ever!) 🚌
-01:55 — Into the Scottish Highlands! 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-02:10 — Over the White Cliffs of Dover! 🌊
-02:25 — INTO THE SKY! 🌈⭐
-02:40 — All Through the Universe — E-I-E-I-O! (Wrong song!) 🌌
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎵 SING ALONG!
@@ -100,11 +85,10 @@ All through the town! 🚌
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE FULL BRITISH NURSERY RHYMES SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ ⭐ Twinkle Twinkle Little Star → [LINK]
-▶️ 🐄 Old MacDonald Had a Farm → [LINK]
-▶️ 🚣 Row Row Row Your Boat → [LINK]
-▶️ All British Nursery Rhymes Playlist → [LINK]
-▶️ Subscribe → [LINK]
+▶️ ⭐ Twinkle Twinkle Little Star → https://youtu.be/em7ZlL9V-8M
+▶️ 🐄 Old MacDonald Had a Farm → https://youtu.be/WZcKCFkpjUw
+▶️ English Nursery Rhymes Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBe_jItt0j9CHKs6EmJPSULn
+▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
 
 🔔 Subscribe for new British nursery rhymes every month!
 👍 LIKE if you did ALL 7 bus actions! 🚌

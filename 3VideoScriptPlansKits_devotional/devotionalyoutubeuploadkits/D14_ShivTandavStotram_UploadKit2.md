@@ -18,7 +18,7 @@
 
 ### 🥉 Option 3 — Power/Energy angle
 ```
-शिव तांडव स्तोत्रम् 🔱🔥 | Most Powerful Shiva Stotram | Nataraja 3D Animation | Full Sanskrit
+शिव तांडव स्तोत्रम् 🔱🔥 V2 Meditation Music |Powerful Shiva Stotram | 3D Animation | Full Sanskrit
 ```
 
 ### 📊 Title Strategy
