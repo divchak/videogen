@@ -13,7 +13,7 @@
 
 ### 🥈 Option 2 — Hanuman Jayanti Festival Peak
 ```
-हनुमान चालीसा Hanuman Chalisa🙏 | Hanuman Jayanti | 3D Animation | Jai Bajrang Bali
+हनुमान चालीसा Hanuman Chalisa🙏 V2 Grand Orchestra | Hanuman Jayanti | Jai Bajrang Bali
 ```
 
 ### 🥉 Option 3 — Tuesday/Saturday Weekly Traffic
@@ -35,6 +35,7 @@
 ## 📝 PART 2 — YOUTUBE DESCRIPTION
 
 ```
+हनुमान चालीसा Hanuman Chalisa🙏 V2 Grand Orchestra
 🙏 हनुमान चालीसा — जय बजरंगबली! 💪✨
 There is a reason 500 million Hindus recite this prayer every Tuesday and Saturday.
 
@@ -102,6 +103,7 @@ Conclude with "Jai Jai Jai Hanuman Gosai" three times 💪
 
 ```
 hanuman chalisa,
+हनुमान चालीसा Hanuman Chalisa🙏 V2 Grand Orchestra
 हनुमान चालीसा,
 hanuman chalisa 3d animation,
 hanuman chalisa animated,

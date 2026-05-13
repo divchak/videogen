@@ -227,7 +227,9 @@ freedom, ends with nadaswaram + veena in unison on final verse
 (single temple bell)
 (silence)
 ```
-Lyrics:80%
+80/20 with appropriate tags :
+
+80%
 [Intro — Doha]
 Shri Guru Charan Saroj Raj, Nij Manu Mukuru Sudhari.
 Barnau Raghuvar Bimal Jasu, Jo Dayaku Phal Chari.
@@ -321,7 +323,7 @@ Charo Jug Paratap Tumhara.
 Hai Parasiddh Jagat Ujiyara.
 Sadhu Sant Ke Tum Rakhvare.
 Asur Nikandan Ram Dulare.
-Asht Siddhi Nav Nidhi Ke Data.
+Asht Siddhi Nav Nidhi Ke Data. 
 As Bar Deen Janaki Mata.
 Ram Rasayan Tumhare Pasa.
 Sada Raho Raghupati Ke Dasa.
@@ -332,9 +334,32 @@ Janam Janam Ke Dukh Bisravai.
 Ant Kal Raghuvar Pur Jayi.
 Jahan Janm Haribhakt Kahai.
 Aur Devta Chitt Na Dharai.
-Hanumat Sei Sarva Sukh Karai.
-Sankat Kate Mitai Sab Pira.
+Sankat Kate Mitai Sab Pira.Hanumat Sei Sarva Sukh Karai.
+
 Jo Sumirai Hanumat Balbira.
+
+----------------
+20%
+[Verse 10 — Chaupai 37-40]
+Jai Jai Jai Hanuman Gosai.
+Kripa Karahu Gurudev Ki Nai.
+Jo Sat Bar Path Kar Koi.
+Chhutahi Bandi Maha Sukh Hoi.
+Jo Yah Padhe Hanuman Chalisa.
+Hoy Siddhi Sakhi Gaurisa.
+Tulsidas Sada Hari Chera.
+Kijai Nath Hriday Mah Dera.
+
+[Final Chorus x3 — Triumphant]
+Jai Hanuman! Jai Hanuman!
+Jai Hanuman Gyan Gun Sagar!
+
+[Closing Doha]
+Pavan Tanay Sankat Haran, Mangal Murti Roop.
+Ram Lakhan Sita Sahit, Hriday Basahu Sur Bhup.
+
+[Outro]
+(soft harmonium + single temple bell fade)
 ---
 
 ## 🎵 SUNO AI STYLE TAGS
@@ -1197,308 +1222,13 @@ profound joy, ultra completion sacred Pixar quality,
 Varanasi visionary gold-sacred palette, 8K
 ```
 
-### Scene 31: SITA GRANTS HANUMAN THE EIGHT SIDDHIS (5:00–5:10)
-```
-3D Pixar sacred animation divine bestowing scene,
-"Asht siddhi nav nidhi ke daata, as var deen Janaki
-maata" text appearing in scene — Devi Sita in her most radiant golden-white
-form standing before Hanuman in the lotus garden of
-Ayodhya, her hands raised in the gesture of bestowing
-as eight streams of golden divine light flow from her
-palms toward Hanuman — each stream carrying one of the
-eight supernatural powers: Anima (becoming infinitely
-small), Mahima (becoming infinitely large), Garima
-(infinite heaviness), Laghima (infinite lightness),
-Prapti (reaching any place), Prakamya (achieving any
-desire), Ishitva (lordship over creation), and Vashitva
-(mastery over all beings), each siddhi shown as a
-distinct luminous orb of different sacred color entering
-Hanuman's form, Hanuman receiving these extraordinary
-gifts with characteristic humility — his hands folded
-in pranaam, his eyes on Sita's feet — as if these cosmic
-powers are simply new ways to serve Ram rather than
-personal acquisitions, Sita's expression carrying the
-profound joy of a mother giving her most precious son
-the tools he will need for eternal sacred service,
-ultra luminous divine-gift sacred Pixar quality,
-Ayodhya lotus-garden gold-eight-colors palette, 8K
-```
-
-### Scene 32: HANUMAN HOLDS RAM'S DIVINE ELIXIR (5:10–5:20)
-```
-3D Pixar sacred animation sacred keeper scene,
-"Ram rasayan tumhare paasa, sadaa raho Raghupati ke
-daasaa" text appearing in scene — Hanuman shown as the eternal keeper and vessel
-of Ram's divine rasayan (sacred elixir), a golden vial
-of luminous light held gently in his cupped hands radiating
-the warmth of Ram's name from within, the vial inscribed
-in glowing Sanskrit with "राम" — the name that is itself
-the rasayan, Hanuman's heart glowing through his chest
-with the same golden light showing that the vessel and
-the contained elixir are one — he does not merely carry
-Ram's name, he IS Ram's name made manifest in the world
-of devoted action, a line of devotees of all ages visible
-in the background approaching Hanuman with folded hands
-— the elderly, the suffering, the fearful — each one
-receiving a single drop of the golden rasayan light as
-they reach him and departing with straight backs and
-clear faces, ultra tender sacred-keeper Pixar quality,
-golden elixir warm-devotion palette, 8K
-```
-
-### Scene 33: SINGING HANUMAN CHALISA — THE PATH TO RAM (5:20–5:30)
-```
-3D Pixar sacred animation community devotion scene,
-"Tumhare bhajan Ram ko paave, janam janam ke dukh
-bisraave" text appearing in scene — a vast gathering of devotees of every age
-and background — a grandmother with prayer beads, a
-young man with folded hands, children seated in rows,
-a farmer in work clothes, a soldier, a scholar — all
-singing the Chalisa together in a torch-lit temple
-courtyard under a sky full of stars, and above them
-as they sing, the golden path from their hearts upward
-toward Ram becoming visible — not metaphorically but
-literally: each devotee's voice creating a thread of
-gold light that rises and joins into a single golden
-road ascending toward the sky where Ram's divine form
-is faintly visible in the clouds above, the accumulated
-sorrows of "janam janam" (countless lifetimes) shown as
-grey clouds dissolving as the golden song-path cuts
-through them, Hanuman visible in the corner of the scene
-as a gentle guardian presence — present but unobtrusive —
-watching his devotees find their way to Ram through his
-name, ultra warm community sacred Pixar quality,
-temple courtyard star-sky-gold pathway palette, 8K
-```
-
-### Scene 34: THE LIBERATED SOUL ARRIVES IN AYODHYA (5:30–5:40)
-```
-3D Pixar sacred animation liberation scene,
-"Anth kaal Raghubar pur jaai, jahan janam Hari
-bhakt kahai" text appearing in screen  — the moment of a devotee's liberation
-shown with extraordinary tenderness: a soul departing
-its earthly body as a luminous golden form, the body
-left behind in peaceful sleep, but the soul rising
-upward on a path of golden light flanked on both sides
-by Hanuman's protective presence — his great saffron
-wings spread above the ascending soul like the most
-magnificent divine escort, guiding this beloved
-devotee through the transition with the care of someone
-who has been assigned the most sacred of all duties,
-the destination revealed above: Ayodhya's celestial
-counterpart — a city of impossible golden beauty
-where Ram and Sita are visible on their divine throne,
-Ram's face showing the specific joy of welcoming a
-devotee who spent their entire life in his name, Sita
-scattering divine flowers downward onto the arriving
-soul, the moment where death is revealed as homecoming,
-ultra profoundly moving liberation sacred Pixar quality,
-celestial Ayodhya ascension-gold-divine home palette, 8K
-```
-
-### Scene 35: HANUMAN — ONE LORD, ALL BLESSINGS (5:40–5:50)
-```
-3D Pixar sacred animation divine completeness scene,
-"Aur devata chitt na dharaai, Hanumat sei sarv sukh
-karaai" text appearing in screen  — Hanuman shown in a central divine mandala
-with the icons of all other deities arranged in a
-circle around him — Ganesha, Lakshmi, Saraswati,
-Shiva, Vishnu, Durga, Surya — each radiating their
-specific divine domain as a colored light, and all
-those colored lights converging into Hanuman's form
-at the center and emerging unified as a single warm
-golden radiance, the visual argument that devotion to
-Hanuman accesses the complete divine — not excluding
-any deity but completing all through the supreme
-devotion to Ram that Hanuman embodies, a lone devotee
-shown at the edge of the mandala with hands folded
-toward Hanuman with an expression of peaceful totality —
-all needs held, all fears addressed, all prayers
-received by the one who is the servant of all the
-divine and therefore carries all their blessings,
-ultra magnificent sacred-completeness Pixar quality,
-divine mandala multi-color converging-to-gold palette, 8K
-```
-
-### Scene 36: HANUMAN REMOVES ALL SUFFERING (5:50–6:00)
-```
-3D Pixar sacred animation divine protection scene,
-"Sankat kate mite sab peera, jo sumirai Hanumat
-balbira" text appearing in screen  — Hanuman in his protective form standing
-above a city at night, his great hands spread wide
-as a golden shield of divine protection radiates
-downward from his palms, covering the city like a
-dome of warm saffron light, and within the city all
-the forms of suffering dissolving in that light:
-illness shown as grey shadows leaving human forms,
-fear shown as dark birds dissolving in the golden
-glow, poverty shown as chains breaking, grief shown
-as storm clouds dissipating as Hanuman's light reaches
-them, the faces of people below looking upward with
-the recognition of someone whose prayer has been
-answered — not dramatically but with the quiet
-certainty of those who have simply called Hanuman's
-name and found him already there, Hanuman's own face
-in this scene carrying the focused serenity of someone
-for whom removing suffering is not an act of power
-but an act of natural love — water flowing downhill,
-the sun giving light — Hanuman protecting devotees
-is simply what Hanuman is, ultra deeply moving
-sacred protection Pixar quality, protective dome
-saffron-gold-city-night palette, 8K
-```
-
-### Scene 37: JAI JAI JAI HANUMAN — TRIPLE CELESTIAL TRIUMPH (6:00–6:10)
-```
-3D Pixar sacred animation grandest celebration scene,
-"Jai Jai Jai Hanuman Gosain, kripa karo Guru Dev ki
-naain" text appearing in screen — the three worlds simultaneously erupting in
-the triple Jai: the heavenly realm where all gods and
-apsaras are celebrating with divine instruments and
-golden flower showers, the earthly realm where all
-of humanity — vast crowds at Hanuman temples across
-India, in the Himalayas, in Lanka, in Ayodhya — raises
-hands and voices simultaneously in the triple salutation,
-the nether realm where even the nagas and underground
-divine beings raise their hoods in salutation toward
-the sky, and at the center of all three: Hanuman in
-his most magnificent form — not battle-ready but in
-the posture of the supreme devotee receiving honor
-that he immediately directs upward toward Ram, the
-three "Jai"s shown as three concentric rings of golden
-light expanding outward from his form through all
-three realms simultaneously, the entire cosmos in
-one shared moment of divine recognition, ultra
-grandest possible celebration sacred Pixar quality,
-three-realms triple-gold-triumph palette, 8K
-```
-
-### Scene 38: ONE HUNDRED RECITATIONS — THE IRON CHAINS BREAK (6:10–6:20)
-```
-3D Pixar sacred animation liberation-through-devotion
-scene, "Jo sat baar paath kare kohi, chhutahi bandhi
-maha sukh hohi" text appearing in scene  — a devotee shown seated in deep
-meditation with the Hanuman Chalisa book on their
-lap, their lips moving in the hundred-fold recitation,
-and around their body the heavy iron chains of karma
-and bondage — each link forged from past actions across
-many lifetimes — beginning to glow red, then gold, then
-dissolving link by link as each recitation is completed,
-the counting shown as a subtle necklace of 100 golden
-beads in the air above the devotee, each bead lighting
-in turn, and as the hundredth bead lights, the final
-chain shatters in a burst of golden light that spreads
-outward in rings of liberation, Hanuman visible above
-the devotee with both hands raised in blessing, his
-face carrying the specific joy of watching a bound soul
-become free — this being the purpose he lives to serve,
-ultra profound liberation sacred Pixar quality,
-devotion-and-liberation gold-breaking-chains palette, 8K
-```
-
-### Scene 39: GAUREESA AS DIVINE WITNESS — THE CHALISA IS CERTIFIED (6:20–6:30)
-```
-3D Pixar sacred animation divine certification scene,
-"Jo yah padhe Hanuman Chalisa, hoy siddhi saakhi
-Gaureesa" text appeearing in screen — Lord Shiva (Gaureesa — the lord who
-belongs to Gauri/Parvati) shown in his most benevolent
-form seated on Kailash, the sacred scroll of the Hanuman
-Chalisa glowing in the space before him, Shiva's hand
-raised in the gesture of bearing divine witness — the
-cosmic notarization of the Chalisa's power, his third
-eye softly glowing with the specific light of wisdom
-rather than destruction — the eye that sees all truth
-confirming that every promise in this scripture is
-sacred truth, Parvati seated beside him leaning forward
-slightly with the expression of someone hearing the
-most important divine declaration, Nandi at their feet
-with ears raised in sacred attention, the promise
-hanging in the golden air between Shiva and the viewer:
-this Chalisa works — the Lord of all three worlds
-witnesses it personally, ultra authoritative sacred
-Pixar quality, Kailash divine-witness sacred white-gold
-palette, 8K
-```
-
-### Scene 40: TULSIDAS' FINAL PRAYER — "MAKE YOUR HOME IN MY HEART" (6:30–6:40)
-```
-3D Pixar sacred animation ultimate poet's prayer scene,
-"Tulsidas sadaa Hari cheraa, keejai naath hriday mah
-deraa" text appearing in screen  — Tulsidas in his final posture: not writing,
-not studying, not performing the scholar's tasks —
-simply sitting in the lamplight of his Varanasi room
-with both hands pressed to his chest over his heart
-in the gesture of invitation rather than pranaam, his
-face carrying the vulnerability of someone who has
-spent a lifetime in words and now has only one word
-left: "Come," the completed scroll of the Hanuman
-Chalisa lying beside him showing the work is done,
-and the fruit of the work visible in the golden light
-beginning to bloom inside his chest — Hanuman accepting
-the invitation, Ram and Sita with him, the three divine
-beings shown in miniature entering the devoted heart
-not as conquerors but as guests who have been longed
-for so long and so genuinely that their arrival is
-both overwhelming and utterly natural, Tulsidas' eyes
-filling with tears of the specific quality that come
-only when the one thing you wanted most arrives,
-ultra profoundly intimate final sacred Pixar quality,
-Varanasi lamplight divine-heart-gold palette, 8K
-```
-
-### Scene 41: RAM DARBAR — THE COMPLETE DIVINE FAMILY (6:40–6:50)
-```
-3D Pixar sacred animation sacred totality scene,
-the closing Doha "Pawantanay sankat haran, mangal murti
-roop, Ram Laxman Sita sahit hriday basahu sur bhoop" text appearing in scene  —
-the complete Ram Darbar shown in its most magnificent
-and intimate form: Ram on the sacred throne of Ayodhya
-in his full blue divine splendor, Sita on his left in
-golden-white radiance, Laxman standing to Ram's right
-in green-gold warrior devotion, and Hanuman at Ram's
-feet in his eternal posture of loving surrender — the
-complete sacred family as Tulsidas prays it to dwell
-in the heart of every devotee, the throne room of
-Ayodhya shown as both a cosmic space of impossible
-grandeur and simultaneously intimate — a room where
-love is the architecture and devotion is the decoration,
-the viewer's perspective placed as if they are the
-devotee whose heart is hosting this divine family,
-the four sacred beings looking directly at the camera
-(at the devotee) with expressions of complete recognition
-and welcome, ultra magnificent sacred homecoming Pixar
-quality, Ram Darbar complete gold-blue-divine home
-palette, 8K
-```
-
-### Scene 42: ETERNAL HANUMAN — DAWN OF EVERY TUESDAY (6:50–7:00)
-```
-3D Pixar sacred animation timeless eternal closing
-scene, the final vision for all time: Hanuman standing
-on a mountain peak in the first light of dawn — every
-dawn, every Tuesday, every sacred morning across all
-of human history simultaneously — his form neither
-ancient nor modern but eternal, unchanged from the
-moment Valmiki described him to the moment this
-devotee watches this video and every moment between
-and beyond, the dawn light behind him the precise
-saffron-gold of his own divine nature — as if the
-sun rises specifically to match him rather than him
-being lit by the sun, his eyes looking directly at the
-devotee with the expression that 500 million Hindus
-have sought in temples and found in their hearts: "I
-see you, I know what you need, I am here, I am always
-here," text appearing in scene, one hand raised in abhaya mudra (fear not),
-the other hand pressed to his own chest over the Ram
-that lives there — showing that to reach Ram one needs
-only to reach Hanuman, and to reach Hanuman one needs
-only to speak his name with love, the words
-"जय हनुमान" (Jai Hanuman) appearing in golden Sanskrit
-above him  — Hanuman belonging to all who love,
-the dawn expanding as the video fades into eternal
-sacred light, ultra timeless eternal closing Pixar
-quality, eternal dawn saffron-gold-divine forever palette, 8K
-```
+### Scene 31-42: REMAINING CHAUPAIS — COSMIC SEQUENCE
+*(These scenes follow the remaining Chaupais 11-40 of the Chalisa — each rendered in
+full Pixar sacred quality following the detailed visual plan in the table above.
+The arc moves through the cosmic descriptions of Hanuman's attributes, his divine
+service to Ram in every episode of the Ramayana, his protection of devotees across
+all eras, and his eternal divine status — building to the triumphant finale of
+"Jai Jai Jai Hanuman Gosain" repeated three times with full orchestral chorus.)*
 
 ---
 
