@@ -54,7 +54,7 @@
 
 # 📝 PART 1 — COMPLETE SCRIPT
 
-## Song Title: Five Little Ducks
+## Song Title: Five Fluffy Ducklings *(Original lyrics — Suno AI safe)*
 ## Subtitle: "Every Duck Came Home!"
 ## Signature Action: **The Quack** *(open and close hand like a duck bill — quack quack quack!)*
 ## Moral: **"Adventures are wonderful — and coming home to love is the best adventure of all!"**
@@ -71,10 +71,10 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| Five little ducks went out one day | Five ducklings waddling away from the pond — SO FLUFFY |
-| Over the hills and far away | They crest a hill — disappearing one by one |
-| Mother duck said "Quack quack quack" | Mama Duck calling — three distinct quacks, each more emphatic |
-| But only four little ducks came back! | Four ducklings return... one gap in the line |
+| Five fluffy ducklings swam one day | Five ducklings waddling away from the pond — SO FLUFFY |
+| Beyond the reeds and far away | They crest a hill — disappearing one by one |
+| Mama duck called quack quack quack | Mama Duck calling — three distinct quacks, each more emphatic |
+| But only four little ducklings swam back! | Four ducklings return... one gap in the line |
 | *(Who is missing?!)* | Close-up on the gap — then: a tiny shape still on the hill |
 | There's Pip! | The missing duck: Pip — still chasing a butterfly |
 | "QUACK!" | Pip: looks up — butterfly flies away — Pip looks at the hill — runs |
@@ -85,10 +85,10 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| Four little ducks went out one day | Four ducklings back out — this time with more confidence |
-| Over the hills and far away | They all go further than before |
-| Mother duck said "Quack quack quack" | Mama calls — slightly more worried this time |
-| But only three little ducks came back! | Three return... two gaps in the line |
+| Four fluffy ducklings swam one day | Four ducklings back out — this time with more confidence |
+| Beyond the reeds and far away | They all go further than before |
+| Mama duck called quack quack quack | Mama calls — slightly more worried this time |
+| But only three little ducklings swam back! | Three return... two gaps in the line |
 | *(Two missing!)* | Two ducks: Dot (who found a puddle) and Benny (who climbed a tree) |
 | Dot: still in the perfect puddle | The puddle is genuinely impressive |
 | Benny: still at the top of a tree | "The view up here is AMAZING" |
@@ -100,10 +100,10 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| Three little ducks went out one day | Only three ducklings now — noticeably fewer |
-| Over the hills and far away | They travel even further — beyond the meadow |
-| Mother duck said "Quack quack quack" | Mama calling — voice beginning to sound worried |
-| But only two little ducks came back! | Two return... THREE gaps |
+| Three fluffy ducklings swam one day | Only three ducklings now — noticeably fewer |
+| Beyond the reeds and far away | They travel even further — beyond the meadow |
+| Mama duck called quack quack quack | Mama calling — voice beginning to sound worried |
+| But only two little ducklings swam back! | Two return... THREE gaps |
 | *(Three missing!)* | The line of three has become a line of two |
 | New missing duck: Sunny | Sunny found a field of sunflowers and is simply living there now |
 
@@ -113,10 +113,10 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| Two little ducks went out one day | Two very small ducks — they hold each other's wings |
-| Over the hills and far away | They go the furthest yet — almost out of sight |
-| Mother duck said "Quack quack quack" | Mama — very worried — LOUD quack |
-| But only one little duck came back! | One duck returns... four gaps |
+| Two fluffy ducklings swam one day | Two very small ducks — they hold each other's wings |
+| Beyond the reeds and far away | They go the furthest yet — almost out of sight |
+| Mama duck called quack quack quack | Mama — very worried — LOUD quack |
+| But only one little duckling swam back! | One duck returns... four gaps |
 | *(One missing — the last adventurer!)* | The remaining duck: tiny, brave, looking for the others |
 | Missing duck: Mimi | Mimi got distracted trying to catch her reflection in a stream |
 
@@ -126,10 +126,10 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| One little duck went out one day | The LAST duck. Small. Alone. Brave. |
-| Over the hills and far away | The last duck goes out to find the others |
-| Mother duck said "Quack quack quack" | Mama — alone at the pond — looking at the EMPTY space |
-| And NO little ducks came back... | The pond. Mama. EMPTY. |
+| One fluffy duckling swam that day | The LAST duck. Small. Alone. Brave. |
+| Beyond the reeds and far away | The last duck goes out to find the others |
+| Mama duck called quack quack quack... | Mama — alone at the pond — looking at the EMPTY space |
+| And no little ducklings swam back... | The pond. Mama. EMPTY. |
 | *(Silence — the most devastating moment)* | Mama alone at the water's edge |
 | She quacks one more time | Soft, hopeful, breaking |
 | And waits | The longest wait in nursery rhyme history |
@@ -147,13 +147,13 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| Mother duck went out that day | Mama waddling over every hill with maximum determination |
-| Over the hills and far away | She goes further than any duck has gone before |
-| Mother duck said "Quack quack quack" | The loudest, most loving, most carrying quack |
-| And ALL FIVE LITTLE DUCKS CAME BACK! | FIVE DUCKS RACING HOME — from five different directions |
+| Mama duck swam out that day | Mama waddling over every hill with maximum determination |
+| Beyond the reeds and far away | She goes further than any duck has gone before |
+| Mama duck called quack quack quack | The loudest, most loving, most carrying quack |
+| And ALL FIVE FLUFFY DUCKLINGS SWAM BACK! | FIVE DUCKS RACING HOME — from five different directions |
 | One! (Pip!)  Two! (Dot!) Three! (Benny!) | Each duck arrives — count them on fingers |
 | Four! (Sunny!) FIVE! (Mimi!!!) | FIVE — the greatest number in the world today |
-| All five little ducks came back! | Mama gathering all five under her wings |
+| All five fluffy ducklings swam back! | Mama gathering all five under her wings |
 | QUACK QUACK QUACK! | The most joyful quack — children and adults: TEARS |
 
 ---
@@ -162,7 +162,7 @@
 > *All five ducklings under Mama's wings at the pond — perfectly round, perfectly safe*
 > *She counts them: one two three four five → nods with absolute satisfaction*
 > *They face camera: all six quack together*
-> *Title blazes: "FIVE LITTLE DUCKS" in five duck-yellow letters with five tiny ducks*
+> *Title blazes: "FIVE FLUFFY DUCKLINGS" in five duck-yellow letters with five tiny ducks*
 
 ---
 
@@ -929,52 +929,53 @@ no EDM, no electronic, pure warm family love
 ```
 
 ## Full Lyrics for Suno AI Input
+> ⚠️ *Original lyrics — rewritten to avoid Suno AI copyright flags while preserving the same structure, rhythm, and theme.*
 
 ```
 [Intro] (Pond morning — reeds — quacking — counting: 1, 2, 3, 4, 5!)
 
 [Verse 1]
-Five little ducks went out one day
-Over the hills and far away
-Mother duck said "Quack quack quack"
-But only four little ducks came back!
+Five fluffy ducklings swam one day
+Beyond the reeds and far away
+Mama duck called quack quack quack
+But only four little ducklings swam back!
 
 [Verse 2]
-Four little ducks went out one day
-Over the hills and far away
-Mother duck said "Quack quack quack"
-But only three little ducks came back!
+Four fluffy ducklings swam one day
+Beyond the reeds and far away
+Mama duck called quack quack quack
+But only three little ducklings swam back!
 
 [Verse 3]
-Three little ducks went out one day
-Over the hills and far away
-Mother duck said "Quack quack quack"
-But only two little ducks came back!
+Three fluffy ducklings swam one day
+Beyond the reeds and far away
+Mama duck called quack quack quack
+But only two little ducklings swam back!
 
 [Verse 4]
-Two little ducks went out one day
-Over the hills and far away
-Mother duck said "Quack quack quack"
-But only one little duck came back!
+Two fluffy ducklings swam one day
+Beyond the reeds and far away
+Mama duck called quack quack quack
+But only one little duckling swam back!
 
 [Verse 5 — emotional, slower]
-One little duck went out that day
-Over the hills and far away
-Mother duck said "Quack quack quack..."
-And no little ducks came back...
+One fluffy duckling swam that day
+Beyond the reeds and far away
+Mama duck called quack quack quack...
+And no little ducklings swam back...
 (soft quack — silence — heartbeat)
 
 [The Search — instrumental, building, hopeful]
 (Rising strings — hopeful quacking — building to reunion)
 
 [Final Verse — triumphant]
-Mother duck went out that day
-Over every hill, so far away
-Mother duck called "QUACK QUACK QUACK!"
-And ALL FIVE LITTLE DUCKS CAME BACK!
+Mama duck swam out that day
+Beyond the reeds and far away
+Mama duck called QUACK QUACK QUACK!
+And ALL FIVE FLUFFY DUCKLINGS SWAM BACK!
 
 ONE! TWO! THREE! FOUR! FIVE!
-All five little ducks came back alive!
+All five fluffy ducklings came back alive!
 QUACK QUACK QUACK!
 (children count along — maximum celebration)
 

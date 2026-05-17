@@ -54,7 +54,7 @@
 
 # 📝 PART 1 — COMPLETE SCRIPT
 
-## Song Title: The Itsy Bitsy Spider
+## Song Title: The Tiny Little Spider *(Original lyrics — Suno AI safe)*
 ## Subtitle: "The Spider Who Never, Ever Gave Up!"
 ## Signature Action: **The Spider Climb** *(fingers "walk" up each other's arm — the classic spider motion)*
 ## Moral: **"Every fall is just a practice run for the climb that finally works!"**
@@ -71,14 +71,14 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| The itsy bitsy spider | Pip starting to climb — tiny legs moving in perfect order |
-| Climbed up the water spout | Higher and higher — the waterspout is VERY tall |
-| Down came the rain | Dark cloud appears — INSTANTLY — rain pours down |
-| And washed the spider out | Pip is swept down in a cascade of water — she tumbles |
-| Out came the sun | Sun pushes through the cloud — "I'm here!" |
-| And dried up all the rain | Everything drying — glistening — fresh |
-| And the itsy bitsy spider | Pip at the bottom → she shakes off water drops |
-| Climbed up the spout again! | She looks at the spout. She looks at camera. She begins again. |
+| The tiny little spider | Pip starting to climb — tiny legs moving in perfect order |
+| Climbed up the garden wall | Higher and higher — the waterspout is VERY tall |
+| Down poured the rain | Dark cloud appears — INSTANTLY — rain pours down |
+| And swept poor spider off | Pip is swept down in a cascade of water — she tumbles |
+| Then came the sunshine | Sun pushes through the cloud — "I'm here!" |
+| And dried away the rain | Everything drying — glistening — fresh |
+| The tiny little spider | Pip at the bottom → she shakes off water drops |
+| Climbed right back up again! | She looks at the wall. She looks at camera. She begins again. |
 
 ---
 
@@ -86,14 +86,14 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| The itsy bitsy spider | Pip climbing FASTER this time — she has technique now |
-| Climbed even higher up! | She is TWO THIRDS up — higher than before |
-| Down came the rain | An even BIGGER storm cloud — the rain comes in sideways |
-| And washed the spider out | An enormous cascade — Pip tumbles much further this time |
+| The tiny little spider | Pip climbing FASTER this time — she has technique now |
+| Climbed even higher still! | She is TWO THIRDS up — higher than before |
+| Down poured the rain again | An even BIGGER storm cloud — the rain comes in sideways |
+| And knocked poor spider off | An enormous cascade — Pip tumbles much further this time |
 | Down and down she tumbled | Slow-motion fall — her eyes never losing their focus |
 | But... out came the sun | Sun returns — a little sheepishly |
 | And dried the rain away | Pip at the bottom. She has water in her eyes. She blinks. |
-| The spider stood straight up again | She looks up. Way up. She nods once. |
+| The spider rose up straight again! | She looks up. Way up. She nods once. |
 
 ---
 
@@ -124,18 +124,18 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| The itsy bitsy spider | Pip on her third attempt — her most careful climb |
+| The tiny little spider | Pip on her third attempt — her most careful climb |
 | Climbed higher than before | She is at THREE QUARTERS — FOUR FIFTHS — NEARLY THERE |
-| Down came the rain | The cloud opens — rain begins — everyone gasps |
-| But she held on even more | Pip grips with ALL EIGHT LEGS — she does NOT fall |
+| Down poured the rain again | The cloud opens — rain begins — everyone gasps |
+| But she held on even more! | Pip grips with ALL EIGHT LEGS — she does NOT fall |
 | She held on through the rain | The rain tries — the rain fails — Pip is immovable |
 | She held on through the storm | Lightning! Wind! Pip: "NOT TODAY." |
-| And when the sun came out | Sun — the most glorious sun of the entire video |
-| She'd climbed right to the top! | PIP IS AT THE TOP — SHE MADE IT |
-| The itsy bitsy spider | She turns to face the view — the most beautiful garden in the world |
-| Reached the very top! | RAINBOW appears — the garden ERUPTS in cheers |
+| And when the sun shone bright | Sun — the most glorious sun of the entire video |
+| She'd reached the very top! | PIP IS AT THE TOP — SHE MADE IT |
+| The tiny little spider | She turns to face the view — the most beautiful garden in the world |
+| Reached the highest spot! | RAINBOW appears — the garden ERUPTS in cheers |
 | She spread her tiny arms wide | Pip facing camera with eight arms wide: "I DID IT!" |
-| And said: "I'll never stop!" | Children: BIGGEST CHEER |
+| And cried: "I'll never stop!" | Children: BIGGEST CHEER |
 
 ---
 
@@ -741,57 +741,58 @@ no EDM, no electronic, pure warm orchestral journey
 ```
 
 ## Full Lyrics for Suno AI Input
+> ⚠️ *Original lyrics — rewritten to avoid Suno AI copyright flags while preserving the same structure, rhythm, and theme.*
 
 ```
 [Intro] (Garden morning — tiny footsteps — "Here I go!")
 
 [Verse 1]
-The itsy bitsy spider
-Climbed up the water spout
-Down came the rain
-And washed the spider out
-Out came the sun
-And dried up all the rain
-And the itsy bitsy spider
-Climbed up the spout again!
+The tiny little spider
+Climbed up the garden wall
+Down poured the rain
+And swept poor spider off
+Then came the sunshine
+And dried away the rain
+The tiny little spider
+Climbed right back up again!
 
 [Verse 2 — Bigger]
-The itsy bitsy spider
-Climbed even higher up!
-Down came the rain (bigger rain!)
-And washed the spider out
+The tiny little spider
+Climbed even higher still!
+Down poured the rain (bigger rain!)
+And knocked poor spider off
 Down and down she tumbled
 But... out came the sun
 And dried the rain away
-The spider stood straight up again!
+The spider rose up straight again!
 
 [Chorus — cheering]
 Try again, little spider!
 Don't you give up now!
-Up up up you go!
+Up up up you climb!
 Show us how!
-The rain may come again
+The rain may pour again
 But you'll be even stronger!
-Itsy bitsy spider!
+Tiny little spider!
 Climb a little longer!
 
 [Tension Build — quiet, suspenseful]
 (Soft pizzicato — climbing footsteps — distant thunder)
 
 [Final Verse — Triumphant]
-The itsy bitsy spider
+The tiny little spider
 Climbed higher than before
-Down came the rain (AGAIN!)
+Down poured the rain (AGAIN!)
 But she held on even more!
 She held on through the rain
 She held on through the storm
-And when the sun came out
-She'd climbed right to the top!
+And when the sun shone bright
+She'd reached the very top!
 (TRIUMPHANT BRASS!)
-The itsy bitsy spider
-Reached the very top!
+The tiny little spider
+Reached the highest spot!
 She spread her tiny arms wide
-And said: "I'll NEVER stop!"
+And cried: "I'll NEVER stop!"
 
 [Outro]
 (Warm gentle fade — birdsong — rainbow shimmer)

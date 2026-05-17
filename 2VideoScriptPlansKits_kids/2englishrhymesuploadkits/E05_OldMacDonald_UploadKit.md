@@ -19,7 +19,7 @@ Old MacDonald Had a Farm 🐄😂 | The Opera Cow! Ballet Pig! | English Nursery
 
 ### 🥉 Option 3 — Educational Angle
 ```
-Old MacDonald Had a Farm 🐄🐑🐔 | Animal Sounds! | English Nursery Rhyme | 3D Kids Song
+Old MacDonald Had a Farm 🐄🐑🐔 | Animal Sounds! | Classic British Nursery Rhyme | 3D Kids Song
 ```
 
 ---
@@ -29,7 +29,7 @@ Old MacDonald Had a Farm 🐄🐑🐔 | Animal Sounds! | English Nursery Rhyme |
 ```
 🐄 Old MacDonald had a farm — E-I-E-I-O!
 And on that farm he had a COW — who thinks she's an opera singer! 🎭
-Most beloved farm song — now in spectacular 3D animation!
+Britain's most beloved farm song — now in spectacular 3D animation!
 
 Meet Old MacDonald — the warmest, most loveable farmer grandfather
 in all of England! His farm sits in the most beautiful valley
@@ -60,6 +60,17 @@ Whoever makes all 5 sounds gets a golden E-I-E-I-O medal! 🏅
 👴 Old MacDonald himself — proudest farmer in all of England!
 🎉 E-I-E-I-O! — the grand finale with all animals performing!
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⏱️ TIMESTAMPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+00:00 — Old MacDonald's Yorkshire Farm at Sunrise 🌅
+00:10 — The Cow — MOO! (Opera Edition!) 🐄🎭
+00:35 — The Pig — OINK! (Ballet Edition!) 🐷💃
+01:00 — The Chicken — CLUCK! (Novelist Edition!) 🐔📖
+01:25 — The Horse — NEIGH! (Impressionist Edition!) 🐴
+01:50 — The Sheep — BAA! (Long-Suffering Edition!) 🐑
+02:15 — E-I-E-I-O! The Grand Finale! 🎉
+03:00 — Old MacDonald's Curtain Call — the proudest farmer in England! 👴
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎵 SING ALONG!
@@ -74,7 +85,7 @@ Old MacDonald had a farm — E-I-E-I-O! 🐄
 👨‍👩‍👧 PERFECT FOR
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✅ Animal sound learning — ages 1–4 (the best age for MOOS and OINKS!)
-✅ Farm heritage — authentic  countryside setting
+✅ British farm heritage — authentic Yorkshire countryside setting
 ✅ Maximum participation — 5 animal sounds = 5 rounds of join-in fun!
 ✅ Grandparent co-viewing — Old MacDonald is everyone's favourite grandfather
 ✅ Nursery and Reception teachers — ideal for circle time animal lessons
@@ -82,11 +93,13 @@ Old MacDonald had a farm — E-I-E-I-O! 🐄
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE FULL BRITISH NURSERY RHYMES SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🐑 Baa Baa Black Sheep → https://youtu.be/xI9NEHA0vw4
-▶️ All English Nursery Rhymes Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBe_jItt0j9CHKs6EmJPSULn
-▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
+▶️ 🐑 Baa Baa Black Sheep → [LINK]
+▶️ 🚌 Wheels on the Bus → [LINK]
+▶️ 🦆 Five Little Ducks → [LINK]
+▶️ All British Nursery Rhymes Playlist → [LINK]
+▶️ Subscribe → [LINK]
 
-🔔 Subscribe for new English nursery rhymes every month!
+🔔 Subscribe for new British nursery rhymes every month!
 👍 LIKE if the opera cow made you LAUGH OUT LOUD! 🐄🎭
 💬 COMMENT your favourite animal! 🐄🐷🐔🐴🐑
 📤 SHARE with a little one who loves farm animals!
@@ -103,14 +116,14 @@ old macdonald had a farm,
 old macdonald nursery rhyme,
 old macdonald 3d animation,
 eieio song,
-nursery rhymes,
+british nursery rhymes,
 english nursery rhymes,
 farm animal sounds for kids,
 animal sounds nursery rhyme,
 kids songs farm,
 old macdonald animated,
 nursery rhymes for kids,
-kids songs,
+kids songs uk,
 animal songs children,
 farm nursery rhyme british,
 old macdonald song,
@@ -121,11 +134,11 @@ old macdonald full song,
 preschool animal songs,
 toddler farm songs,
 english farm song kids,
-Farm nursery rhyme,
+yorkshire farm nursery rhyme,
 animal sounds learning,
-classic nursery rhymes
+classic nursery rhymes uk
 ```
-Old MacDonald Had a Farm, Old MacDonald nursery rhyme, Old MacDonald 3d animation, eieio song, nursery rhymes, english nursery rhymes, farm animal sounds for kids, animal sounds nursery rhyme, kids songs farm, Old MacDonald animated, nursery rhymes for kids, kids songs, animal songs children, farm nursery rhyme , Old MacDonald song, moo oink cluck kids, nursery rhymes 2026, pixar farm animation, Old MacDonald full song, preschool animal songs, toddler farm songs, english farm song kids, animal sounds learning, classic nursery rhymes
+
 ---
 
 ## 📌 PART 4 — HASHTAGS

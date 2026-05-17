@@ -40,7 +40,7 @@
 
 # 📝 PART 1 — COMPLETE SCRIPT
 
-## Song Title: Row Row Row Your Boat
+## Song Title: Float Float Float Your Boat *(Original lyrics — Suno AI safe)*
 ## Subtitle: "The Boat That Sailed to the Stars!"
 ## Signature Action: **The Row** *(arms pull back in rowing motion — forward lean — pull — lean — pull)*
 ## Moral: **"Enjoy every moment of the journey — life is more wonderful than you know!"**
@@ -57,10 +57,10 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| Row, row, row your boat | Children rowing — establishing the rhythm |
-| Gently down the stream | Camera pulls back — a beautiful English countryside river |
-| Merrily, merrily, merrily, merrily | Ducks joining the boat, fish jumping alongside |
-| Life is but a dream! | The world is impossibly beautiful — children pause to look |
+| Float, float, float your boat | Children rowing — establishing the rhythm |
+| Gently with the flow | Camera pulls back — a beautiful English countryside river |
+| Happily, happily, happily, happily | Ducks joining the boat, fish jumping alongside |
+| Watch the bright world glow! | The world is impossibly beautiful — children pause to look |
 
 ---
 
@@ -68,13 +68,13 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| Row, row, row your boat | The river widens — the trees get BIGGER |
-| Gently down the stream | Jungle vines hanging over the water |
-| Merrily, merrily, merrily, merrily | Exotic birds! Monkeys watching from branches! |
-| Life is but a dream! | A toucan lands on the front of the boat — VERY CLOSE |
+| Float, float, float your boat | The river widens — the trees get BIGGER |
+| Through the jungle green | Jungle vines hanging over the water |
+| Happily, happily, happily, happily | Exotic birds! Monkeys watching from branches! |
+| The wildest place we've seen! | A toucan lands on the front of the boat — VERY CLOSE |
 | *(bonus verse)* | |
-| If you see a crocodile | A long green snout surfaces — VERY CLOSE |
-| Don't forget to scream! | SCREAM — the boat SPEEDS UP — children laughing in terror/delight |
+| Should you spot a crocodile | A long green snout surfaces — VERY CLOSE |
+| Better shout and scream! | SCREAM — the boat SPEEDS UP — children laughing in terror/delight |
 
 ---
 
@@ -82,13 +82,13 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| Row, row, row your boat | The river has changed — ice floes visible |
-| Gently down the stream | Snow falling gently — the most beautiful silence |
-| Merrily, merrily, merrily, merrily | Penguins watching from ice floes — the most formal audience |
-| Life is but a dream! | A polar bear waves from shore — children wave back |
+| Float, float, float your boat | The river has changed — ice floes visible |
+| Through the icy glow | Snow falling gently — the most beautiful silence |
+| Happily, happily, happily, happily | Penguins watching from ice floes — the most formal audience |
+| Dancing in the snow! | A polar bear waves from shore — children wave back |
 | *(bonus)* | |
-| If you see a polar bear | Polar bear approaching the boat with extreme curiosity |
-| Don't forget to scream! | SCREAM — penguins: deeply unimpressed |
+| Wave hello to the polar bear | Polar bear approaching the boat with extreme curiosity |
+| Give a friendly cheer! | Children wave back — penguins: deeply unimpressed |
 
 ---
 
@@ -96,7 +96,7 @@
 > *The round version: children hear their own voices echo back*
 > *The two children in the boat sing together — their voices overlapping in the classic round*
 > *The river animals join in: ducks, monkeys, penguins, a very musical crocodile (from a safe distance)*
-> *The whole river sings: "Row row row your boat, gently down the stream..."*
+> *The whole river sings: "Float float float your boat, gently with the flow..."*
 
 ---
 
@@ -112,14 +112,14 @@
 
 | Lyrics | Action on Screen |
 |---|---|
-| Row, row, row your boat | The boat is now on a river of STARS |
+| Float, float, float your boat | The boat is now on a river of STARS |
 | Gently through the stars | The Milky Way is the river — the boat rows through star clouds |
-| Merrily, merrily, merrily, merrily | Constellations lighting up as they pass — fish made of light |
-| Life is but a dream! | The children look at each other — they understand |
-| Row, row, row your boat | Gently through the cosmic river |
+| Happily, happily, happily, happily | Constellations lighting up as they pass — fish made of light |
+| Under shining bars! | The children look at each other — they understand |
+| Float your boat, float your boat | Gently through the cosmic river |
 | All the way to dreams | The most beautiful final frame: the boat sailing to the horizon of space |
-| Merrily, merrily, merrily, merrily | Stars falling like petals |
-| Life... is but a dream ✨ | Whispered — the most peaceful ending |
+| Happily, happily, happily, happily | Stars falling like petals |
+| Life... glows bright and gleams ✨ | Whispered — the most peaceful ending |
 
 ---
 
@@ -713,51 +713,52 @@ no EDM, no electronic, pure gentle natural warmth
 ```
 
 ## Full Lyrics for Suno AI Input
+> ⚠️ *Original lyrics — rewritten to avoid Suno AI copyright flags while preserving the same structure, rhythm, and theme.*
 
 ```
 [Intro] (Water ripples — birdsong — oars in water)
 
 [Verse 1]
-Row, row, row your boat
-Gently down the stream
-Merrily, merrily, merrily, merrily
-Life is but a dream!
+Float, float, float your boat
+Gently with the flow
+Happily, happily, happily, happily
+Watch the bright world glow!
 
 [Verse 2 — Jungle]
-Row, row, row your boat
-Gently down the stream
-Merrily, merrily, merrily, merrily
-Life is but a dream!
-If you see a crocodile
-Don't forget to SCREAM! (AHHH!)
+Float, float, float your boat
+Through the jungle green
+Happily, happily, happily, happily
+The wildest place we've seen!
+Should you spot a crocodile
+Better shout and scream! (AHHH!)
 
 [Verse 3 — Arctic]
-Row, row, row your boat
-Gently through the snow
-Merrily, merrily, merrily, merrily
-Gently, gently go!
-If you see a polar bear
-Wave and say "Hello!"
+Float, float, float your boat
+Through the icy glow
+Happily, happily, happily, happily
+Dancing in the snow!
+Wave hello to the polar bear
+Give a friendly cheer!
 
 [Round Chorus — overlapping voices]
-Row, row, row your boat
-Gently down the stream
-Merrily, merrily, merrily, merrily
-(echo:) Merrily, merrily...
-Life is but a dream!
-(echo:) Life is but a dream...
+Float, float, float your boat
+Gently with the flow
+Happily, happily, happily, happily
+(echo:) Happily, happily...
+Watch the bright world glow!
+(echo:) Watch the bright world glow...
 
 [Final Verse — Stars]
-Row, row, row your boat
+Float, float, float your boat
 Gently through the stars
-Merrily, merrily, merrily, merrily
+Happily, happily, happily, happily
 Past the moon and Mars
-Row your boat, row your boat
+Float your boat, float your boat
 All the way to dreams...
-Merrily, merrily, merrily, merrily
-Life... is more than it seems ✨
+Happily, happily, happily, happily
+Life... glows bright and gleams ✨
 
-[Outro] (Soft water sounds — final whispered) "Life is but a dream..."
+[Outro] (Soft water sounds — final whispered) "Watch the bright world glow..."
 ```
 
 ---

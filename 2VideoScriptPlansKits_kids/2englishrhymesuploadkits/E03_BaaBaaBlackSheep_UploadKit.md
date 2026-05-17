@@ -9,12 +9,12 @@
 
 ### 🥇 Option 1 — RECOMMENDED
 ```
-Baa Baa Black Sheep 🐑 | 3D Animation | English Nursery Rhymes | Yes Sir! Three Bags Full!
+Baa Baa Black Sheep 🐑 | 3D Animation | British Nursery Rhymes | Yes Sir! Three Bags Full!
 ```
 
 ### 🥈 Option 2 — Character Identity Angle
 ```
-Baa Baa Black Sheep 🐑 | The Sheep Who Gives the Most! | English Nursery Rhymes | Pixar 3D
+Baa Baa Black Sheep 🐑 | The Sheep Who Gives the Most! | English Nursery Rhyme | Pixar 3D
 ```
 
 ### 🥉 Option 3 — Counting/Educational Angle
@@ -59,6 +59,19 @@ YES SIR! (nod nod) YES SIR! (nod nod) THREE BAGS FULL! 🎉
 ⭐ "Your difference is your gift" — the message every child needs
 🌸 The whole English village celebrating Bella's generosity
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⏱️ TIMESTAMPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+00:00 — Bella's English Meadow — Morning in the Countryside 🌿
+00:08 — "Have You Any Wool?" 🐑
+00:15 — YES SIR! THREE BAGS FULL! 🎉
+00:22 — The Great Wool Shearing Scene ✂️
+00:30 — One Bag for the Master 👨‍🌾
+00:40 — One Bag for the Dame 👒
+00:50 — Who Lives Down the Lane? Meet Little Archie! 🏡
+01:00 — THE HEARTWARMING REVEAL — Bella's Bag for Archie 💛
+01:10 — Bella's Smile — "Your difference is your gift" ⭐
+01:20 — The Whole Village Celebrates! 🎉
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎵 SING ALONG!
@@ -80,10 +93,11 @@ And one for the little child who lives down the lane! 🏡
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE FULL BRITISH NURSERY RHYMES SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ ⭐ Twinkle Twinkle Little Star → https://youtu.be/em7ZlL9V-8M
-▶️ 🥚 Humpty Dumpty → https://youtu.be/ZM8niWcXebM
-▶️ All English Nursery Rhymes Playlist → https://www.youtube.com/playlist?list=PLZyriYGm-jBe_jItt0j9CHKs6EmJPSULn
-▶️ Subscribe → https://www.youtube.com/channel/UCzyTJfE7t7hfJwl6dtMZLOg
+▶️ ⭐ Twinkle Twinkle Little Star → [LINK]
+▶️ 🥚 Humpty Dumpty → [LINK]
+▶️ 🐑 Mary Had a Little Lamb → [LINK]
+▶️ All British Nursery Rhymes Playlist → [LINK]
+▶️ Subscribe → [LINK]
 
 🔔 Subscribe for new British nursery rhymes every month!
 👍 LIKE if Bella made your heart full! 🐑
@@ -124,7 +138,7 @@ black sheep song,
 baa baa animated,
 children songs england
 ```
-Baa Baa Black Sheep, Nursery Rhymes for Kids, 3D Animation, English Nursery Rhymes, English Kids Songs 2026, Yes Sir Three Bags Full, Classic Nursery Rhymes, Kids Songs, Farm Animals Song, Preschool Songs, Toddler Music, Animated Nursery Rhymes, Sharing Song, English Countryside, Generosity Song, Children’s Songs, Black Sheep Song, Baa Baa Animated, Nursery Rhymes with Lyrics, 3D Kids Video, Pixar Style Animation,  Education.
+
 ---
 
 ## 📌 PART 4 — HASHTAGS

@@ -50,6 +50,30 @@
 
 **Total Content (D11–D20):** 59 minutes | 346 scenes | Potential combined views: 3.0 Billion+
 
+---
+
+## 📋 SPECIAL ADDITIONS — D21 ONWARDS
+
+| # | Song | Deity | Language | Duration | Scenes | Target Views | Peak Upload Time | File |
+|---|---|---|---|---|---|---|---|---|
+| 21 | **தோடுடைய செவியன்** | Lord Shiva | Tamil | 5 min | 30 | 150M+ | Every Monday / Shivaratri | D21 |
+| 22 | **வாராஹி அம்மன் போற்றி** | Goddess Vaaraahi Amman | Tamil + Sanskrit | 5 min | 30 | 250M+ | Every Panchami / Every Friday | D22 |
+| 23 | **பஞ்சமி நாளில் வாராஹி** | Goddess Vaaraahi Amman | Tamil | 5 min | 30 | 300M+ | Night before every Panchami / 9 PM | D23 |
+
+### D22 vs D23 — Two Vaaraahi Videos, Completely Different Concepts:
+| Dimension | D22 — வாராஹி அம்மன் போற்றி | D23 — பஞ்சமி நாளில் வாராஹி |
+|---|---|---|
+| **Concept** | Grand theological praise — the fierce cosmic Commander | Intimate Panchami vrata ritual journey — the loving protecting Mother |
+| **Perspective** | Third-person hymn praising the goddess | First-person devotee narrative — "I woke up, I bathed, I came to you, Ammaa" |
+| **Setting** | Temple + cosmic battlefield + Sri Chakra | Tamil home before dawn + village temple + sacred dream |
+| **Tone** | Fierce, powerful, awe-inspiring | Tender, intimate, personal, like a daughter to her mother |
+| **Primary character** | The goddess herself | Meenakshi — a real Tamil woman devotee across 3 generations |
+| **Unique content** | Theological depth + iconography + cosmic battle | 21-step Panchami ritual guide + lemon symbolism + kolam + midnight puja |
+| **View driver** | Panchami + enemy/protection searches | "How to do Panchami puja" evergreen + ritual companion content |
+| **Watch time** | 60-70% (music engagement) | 85-95% (played DURING actual puja — must watch full) |
+| **Target Year 1** | 250M | 300M+ |
+| **Target Year 3** | 400M | 600M+ (evergreen how-to compounds annually) |
+
 ### 📊 Language Coverage — D11–D20:
 | Language | Songs |
 |---|---|

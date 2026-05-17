@@ -1,6 +1,6 @@
-# 🇬🇧 British Nursery Rhymes — YouTube Upload Kits Master Index
-### Complete Upload-Ready Kits for E01–E10 | April 2026
-### Series Theme: Authentic British Settings • English Characters • Pixar 3D Animation
+# 🇬🇧 English Nursery Rhymes — YouTube Upload Kits Master Index
+### Complete Upload-Ready Kits for E01–E20 | Updated May 2026
+### Series Theme: Classic Rhymes Reimagined • Global English Characters • Pixar 3D Animation
 
 ---
 
@@ -8,32 +8,78 @@
 
 | Element | Specification |
 |---|---|
-| **Brand Name** | British Nursery Rhymes 🇬🇧 |
+| **Brand Name** | English Nursery Rhymes 🎶 |
 | **Animation Style** | Pixar 3D — premium quality |
-| **Character Origin** | British — English, rosy-cheeked, authentic heritage looks |
-| **Settings** | Authentic British locations — Cotswolds, Yorkshire, Lake District, Norfolk Broads |
-| **Music** | Suno AI + live instruments — warm orchestral, classic British feel |
-| **Target Audience** | Ages 0–6 globally, with strong British identity for UK diaspora worldwide |
-| **Channel USP** | The ONLY nursery rhyme channel with authentic British Pixar-quality 3D animation |
+| **Character Origin** | Globally diverse — warm, expressive, universally relatable |
+| **Settings** | E01-E10: Authentic British locations | E11-E20: Bright adventure worlds |
+| **Music** | Suno AI + live instruments — warm orchestral, folk-pop, children's choir |
+| **Target Audience** | Ages 0–6 globally |
+| **Channel USP** | Pixar-quality 3D nursery rhymes with deep educational and emotional design |
 
 ---
 
-## 📋 UPLOAD KITS — COMPLETE LIST
+## 📋 UPLOAD KITS — E01 to E10 (Original Series)
 
-| # | Song | File | British Setting | Target Views | Peak Season |
+| # | Song | File | Setting | Target Views | Peak Season |
 |---|---|---|---|---|---|
 | E01 | ⭐ Twinkle Twinkle Little Star | `E01_TwinkleTwinkle_UploadKit.md` | Cotswolds Cottage | 80M+ | Year-round / Christmas |
-| E02 | 🥚 Humpty Dumpty | `E02_HumptyDumpty_UploadKit.md` | English Countryside Stone Wall | 55M+ | Year-round |
-| E03 | 🐑 Baa Baa Black Sheep | `E03_BaaBaaBlackSheep_UploadKit.md` | English Meadow Farm | 45M+ | Year-round / Autumn |
-| E04 | 🪣 Jack and Jill | `E04_JackAndJill_UploadKit.md` | English Village & Windy Hill | 50M+ | Year-round |
-| E05 | 🐄 Old MacDonald Had a Farm | `E05_OldMacDonald_UploadKit.md` | Yorkshire Countryside Farm | 90M+ | Year-round / Summer |
-| E06 | 🚌 Wheels on the Bus | `E06_WheelsOnTheBus_UploadKit.md` | British Market Town → Scotland → Sky | 100M+ | Year-round / School run |
-| E07 | 🐑 Mary Had a Little Lamb | `E07_MaryHadALittleLamb_UploadKit.md` | Cotswolds Village School | 60M+ | September (Back to School) |
-| E08 | 🚣 Row Row Row Your Boat | `E08_RowRowRowYourBoat_UploadKit.md` | Lake District River → Stars | 55M+ | Summer / Holidays |
-| E09 | 🕷️ Itsy Bitsy Spider | `E09_ItsyBitsySpider_UploadKit.md` | Cotswolds Cottage Garden | 65M+ | September / Year-round |
-| E10 | 🦆 Five Little Ducks | `E10_FiveLittleDucks_UploadKit.md` | Norfolk Broads Village Pond | 75M+ | Easter / Spring |
+| E02 | 🥚 Humpty Dumpty | `E02_HumptyDumpty_UploadKit.md` | English Countryside Wall | 55M+ | Year-round |
+| E03 | 🐑 Baa Baa Black Sheep | `E03_BaaBaaBlackSheep_UploadKit.md` | English Meadow Farm | 45M+ | Year-round |
+| E04 | 🪣 Jack and Jill | `E04_JackAndJill_UploadKit.md` | English Village | 50M+ | Year-round |
+| E05 | 🐄 Old MacDonald | `E05_OldMacDonald_UploadKit.md` | Yorkshire Farm | 90M+ | Summer |
+| E06 | 🚌 Wheels on the Bus | `E06_WheelsOnTheBus_UploadKit.md` | British Market Town | 100M+ | Year-round |
+| E07 | 🐑 Mary Had a Little Lamb | `E07_MaryHadALittleLamb_UploadKit.md` | Cotswolds Village School | 60M+ | September |
+| E08 | 🚣 Row Row Row Your Boat | `E08_RowRowRowYourBoat_UploadKit.md` | Lake District → Stars | 55M+ | Summer |
+| E09 | 🕷️ Itsy Bitsy Spider | `E09_ItsyBitsySpider_UploadKit.md` | Cotswolds Garden | 65M+ | Year-round |
+| E10 | 🦆 Five Little Ducks | `E10_FiveLittleDucks_UploadKit.md` | Norfolk Broads Pond | 75M+ | Easter |
 
-**Total Series Target: 675M+ views**
+**E01–E10 Total Series Target: 675M+ views**
+
+---
+
+## 📋 UPLOAD KITS — E11 to E20 (Expansion Series — May 2026)
+
+| # | Song | File | Key Hook | Target Views | Peak Season |
+|---|---|---|---|---|---|
+| E11 | 🙆 Head Shoulders Knees & Toes | `E11_HeadShouldersKneesToes_UploadKit.md` | 4 speed rounds — characters make mistakes | 80M+ | Year-round / Classroom |
+| E12 | 😊 If You're Happy and You Know It | `E12_IfYoureHappyAndYouKnowIt_UploadKit.md` | 6 emotions + bow-tie spider + loved verse | 85M+ | Year-round |
+| E13 | 🕰️ Hickory Dickory Dock | `E13_HickoryDickoryDock_UploadKit.md` | 5 hours, 5 adventures, cuckoo surprise | 55M+ | Year-round |
+| E14 | 🌉 London Bridge | `E14_LondonBridge_UploadKit.md` | Wood/Iron/Silver/Gold — each fails differently | 60M+ | STEM week |
+| E15 | 🐑 Little Bo Peep | `E15_LittleBoPeep_UploadKit.md` | 5 named sheep + patience lesson + Bumble's sprint | 65M+ | Spring / Easter |
+| E16 | 👟 One Two Buckle My Shoe | `E16_OneTwoBuckleMyShoe_UploadKit.md` | 5 magic rooms + BIG FAT HEN in attic | 70M+ | Year-round |
+| E17 | 🌧️ Rain Rain Go Away | `E17_RainRainGoAway_UploadKit.md` | Cloud's happy tears make the rainbow | 60M+ | Autumn / Winter |
+| E18 | 🎂 Pat-a-Cake | `E18_PatACake_UploadKit.md` | YOUR letter in the cake — video pauses to ask | 65M+ | Birthdays / Holidays |
+| E19 | 🐟 Once I Caught a Fish Alive | `E19_OneTwoThreeFourFive_UploadKit.md` | Fish returns next day as a friend | 70M+ | Summer |
+| E20 | 🔤 The ABC Song | `E20_ABCSong_UploadKit.md` | 26 letters = 26 worlds + LMNOP challenge | 120M+ | Year-round / School |
+
+**E11–E20 Total Series Target: 730M+ views**
+
+---
+
+## 📅 RECOMMENDED UPLOAD CALENDAR — FULL 20-SONG SERIES
+
+| Month | Upload | Why |
+|---|---|---|
+| **January** | E08 Row Row Row Your Boat | New Year adventure |
+| **February** | E12 If You're Happy | Valentine's — emotions content |
+| **March** | E09 Itsy Bitsy Spider | Spring garden — resilience |
+| **April (Easter)** | E10 Five Fluffy Ducklings | Easter duck season |
+| **May** | E15 Little Bo Peep | Spring sheep + patience |
+| **June** | E05 Old MacDonald | Summer farm |
+| **July** | E19 Fish Alive | Summer ocean / fishing |
+| **August** | E17 Rain Rain Go Away | Unpredictable summer weather |
+| **September** | E20 ABC Song | Back to school — highest ABC search |
+| **September** | E07 Mary Had a Little Lamb | Back to school — second upload |
+| **October** | E13 Hickory Dickory Dock | Time learning — new term |
+| **October** | E16 One Two Buckle My Shoe | Counting — new term |
+| **November** | E14 London Bridge | STEM / engineering month |
+| **November** | E18 Pat-a-Cake | Pre-Christmas baking season |
+| **December** | E01 Twinkle Twinkle | Christmas tradition |
+| **December** | E11 Head Shoulders | Holiday activity / party games |
+| **Year-round** | E12 If You're Happy | Emotional literacy — always relevant |
+| **Rainy days** | E17 Rain Rain Go Away | Search peaks every time it rains |
+| **Any Monday** | E20 ABC Song | Most searched children's term — every day |
+| **Weekend** | E18 Pat-a-Cake | Weekend baking activity |
 
 ---
 
