@@ -42,7 +42,7 @@ Thodudaya Seviyan 🔱🙏 | Lord Shiva Thevaram | Sambandar | Tamil Shaiva Devo
 ## 📝 PART 2 — YOUTUBE DESCRIPTION
 
 ```
-தோடுடைய செவியன் V4 Rocking Musict🔱 | Lord Shiva Thevaram | Nattai Raga Thevaram | Thiruvarur Temple Pixar 3D
+தோடுடைய செவியன் V4 Rocking Music🔱 | Lord Shiva Thevaram | Nattai Raga Thevaram | Thiruvarur Temple Pixar 3D
 🔱 தோடுடைய செவியன் — Thodudaya Seviyan | திருஞானசம்பந்தர் தேவாரம் ✨🙏
 Composed 1,300 years ago by the divine child-saint Thirugnana Sambandar —
 one of the greatest Tamil Shaiva poets of all time — this sacred Thevaram

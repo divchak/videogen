@@ -778,8 +778,8 @@ A Tamil woman in her 40s — representing the millions of Tamil mothers who keep
 
 **🖼️ Character Image Prompt:**
 ```
-A deeply devoted and warmly luminous 3D Pixar-style animated Tamil woman
-character, a mother of about 40 in traditional white cotton sari with a 
+A deeply devoted and warmly luminous 3D Pixar-style animated Tamil woman in fair complexion
+character, a mother of about 40 in pink silk sari with a 
 simple gold border — the Panchami vrata colour — her dark hair with a few
 silver strands adorned with a single white jasmine flower, wearing the
 simple sacred marks of someone who has been fasting since dawn: a fresh
@@ -880,11 +880,11 @@ gold-darkness palette, 8K
 ```
 3D Pixar sacred Tamil animation full goddess manifestation scene, Goddess
 Vaaraahi in complete divine form revealed for the first time in full sacred
-fire light: her deep blue-black form of absolute cosmic depth and power
+fire light: her form of absolute cosmic depth and power
 adorned with blazing golden ornaments and weapons that catch the sacred
 fire's light, her six arms extended holding each divine weapon with the
 specific authority of one who has wielded them for all eternity and will
-wield them for all eternity to come, the sacred boar face in full profile
+wield them for all eternity to come, the sacred boar face in faire complexion in full profile
 at magnificent three-quarter view showing simultaneously the fierce
 upward-curving tusks and the three blazing eyes and the divine crown of
 peacock feathers and gold above, the Sri Chakra geometric mandala behind
@@ -902,7 +902,7 @@ quality, deep blue-gold-sacred fire divine palette, 8K
 
 ### Scene 4: THE SACRED BOAR FACE — UP CLOSE (0:30–0:40)
 ```
-3D Pixar sacred Tamil animation close-up of the divine boar face, an
+3D Pixar sacred Tamil animation close-up of the divine boar face in fair complexion, an
 intimate portrait of Vaaraahi's most distinctive and most sacred feature —
 her Varaha Mukha (boar face) — in full divine close-up that reveals its
 specific sacred beauty: the powerful broad boar snout with its extraordinary
@@ -914,11 +914,8 @@ inner light, the three eyes in this face reading as simultaneously fierce
 and compassionate — the paradox of the divine mother who loves completely
 and destroys completely, each whisker standing at perfect attention in
 the force field of divine awareness, the crown above showing peacock
-feathers and gold in the lamp light, the skin deep blue-black showing
-the specific depth of the colour that in Sanskrit is called "Shyama" —
-the deepest blue — the colour of infinitely deep water and infinitely
-deep sky and the infinite depth of divine consciousness itself,
-ultra sacred close-up sacred boar face divine Pixar quality, 8K
+feathers and gold in the lamp light,  infinite depth of divine consciousness itself,
+ultra sacred close-up sacred boar face in fair complexion in divine Pixar quality, 8K
 ```
 
 ---
@@ -1107,8 +1104,8 @@ Vidya cosmic Tamil Pixar quality, sacred geometry gold-sacred palette, 8K
 ### Scene 13: THE BIJA MANTRAS IN FIRE — AIM HRIM KLIM (2:00–2:10)
 ```
 3D Pixar sacred Tamil animation sacred mantra fire scene, the three primary
-bija (seed) mantras of Vaaraahi worship — AIM (ஐம்), HRIM (ஹ்ரீம்), KLIM (க்லீம்) —
-appearing in Sanskrit and Tamil script simultaneously, written in letters
+bija (seed) mantras of Vaaraahi worship — AIM  HRIM , KLIM  —
+appearing in english , written in letters
 of sacred fire: not ordinary fire but the specific golden-white fire of
 the sacred yagna, each mantra syllable large, blazing, three-dimensional,
 rotating slowly in the sacred space of the fire altar, the syllables shown
@@ -1120,8 +1117,7 @@ syllable reaching outward and touching the foreheads of devotees gathered
 around the fire, their third eyes briefly illuminated by each spark, the
 fire altar itself in a sacred grove — ancient trees around it, the specific
 quality of Tantric outdoor worship where the entire natural world witnesses
-and participates in the sacred fire, ultra specific sacred mantra fire
-Tamil Tantric Pixar quality, fire-gold-mantra palette, 8K
+and participates in the sacred fire,  fire-gold-mantra palette, 8K
 ```
 
 ---
@@ -1212,8 +1208,7 @@ when the golden sound wave touches them — the way a candle flame goes out
 when caught in a sudden wind — the specific quality of a more powerful
 sound destroying a less powerful sound, the devotee in the protected center
 of the golden sound wave, aware only of a sudden inexplicable peaceful
-silence where the harmful words used to be, ultra specific Tamil sacred
-Vak Shakti protection Pixar quality, sound-wave gold-dissolution palette, 8K
+silence where the harmful words used to be,  sound-wave gold-dissolution palette, 8K
 ```
 
 ---
@@ -1498,20 +1493,19 @@ protection Pixar quality, heart-gold-protected-lotus palette, 8K
 3D Pixar sacred Tamil animation closing title scene, the final frame
 of the video — a title card of extraordinary sacred beauty: against a
 background of deep cosmic blue-black (the colour of Vaaraahi herself, the
-colour of the night sky that contains all stars) the Tamil script for
-"வாராஹி அம்மன்" appearing in pure golden light — first the letters
+colour of the night sky that contains all stars) the english text for
+"VAARAAHI AMMAN" appearing in pure golden light — first the letters
 individually, each one arriving like a sacred star taking its position,
 then the complete name blazing in the full warmth of devotional gold, below
-it in slightly smaller but equally sacred gold the Sanskrit "वाराही अम्मा",
-and below that the bija mantras "ஐம் ஹ்ரீம் க்லீம்" — the seed sounds
+it in slightly smaller but equally sacred gold english text 
+with the bija mantras "AIM  HRIM  KLIM" — the seed sounds
 of her power, a single oil lamp flame burning in the lower corner of
 the frame — impossibly steady in the cosmic space, casting its warm light
 on the sacred text and representing the continuous burning devotion of
 every Panchami vrata practitioner across all of Tamil Nadu, the specific
 quality of this final frame: it is not an ending but a beginning — this
 is the frame that a devotee looks at when the video ends and feels the
-specific feeling of having just attended a sacred puja, ultra most sacred
-Tamil closing title divine Pixar quality, cosmic blue-gold sacred title
+specific feeling of having just attended a sacred puja, cosmic blue-gold sacred title
 palette, 8K
 ```
 

@@ -1,0 +1,16 @@
+i want to create a  tamil song for a youtube channel which is based on Animal theme. The animal shall be Lion. It should be a massive hit.
+ The Lion story should have elements of fun, adventure, Comedy and a moral lesson about courage and friendship. The song should be catchy and easy to sing along for kids, with vibrant 3D animation in Pixar style. 
+Use the attached document as reference for document template 
+  Can you consider all the elements which could make this song success and give me a thorough plan :
+ 
+      
+    1) Script
+    2) Explanation of characters and character image prompts
+    3) Scene prompts
+    Musical prompts It should capture kids attention and should be colourful 3D animation pixar style video Let the output be captured in a document
+    4) Lyrics or video content should not contain tamil letter ழ "zha"
+    (Avoid using the tamil word contain letter "ழ்" in lyrics it is not recognized by suno ai properly. change plan accordingly)
+    5) No moderated content in prompt
+    6) The song should be catchy and easy to sing along for kids
+    7) I am planning to create music/song using suno ai. so can you categorize further details on this song: a) Lyrics b) Styles to be included and styles to be excluded c) Instruments to be used d) Vocal - Type of vocal, male or female or both. If both who needs to sing what part Update all these in this document
+    8) Each scene should be of 10 seconds. Hence plan the number of scenes with each 10 seconds

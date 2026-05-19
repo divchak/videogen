@@ -1,0 +1,8 @@
+1) 
+
+for kids, i am done with English Rhymes(C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\englishrhymesplans) and kids songs(C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\plans) 
+
+-> Can you create 10 plans for Tamil Moral stories in folder tamilmoralstories with detailed Character plans/Scene plans for each story , There shall be story narration for the scenes and no dialogues. Give the Narration script also as part of each plan . Each story should not exceed 5 minutes and it should be kid friendly, interesting and should have comedy element. The story scenes/characters shall be British. Give me narration script for multiple languages viz: English/Tamil/Telugu/Hindi
+
+
+2) Now for each of the plans in C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\moralstories, create a) Character image prompts b) Detailed scene prompts c) Mapping of Narration script  for each scene d) Ensure Scenes match dialog for each of the languages 

@@ -1,0 +1,97 @@
+1)
+i want to create a similar tamil song which should be a massive hit. Can you consider all the elements which made this song success and give me a thorough plan :
+
+1) Script
+2) Explanation of characters and character image prompts
+3) Scene prompts
+Musical prompts It should capture kids attention and should be colourful 3D animation pixar style video Let the output be captured in a document
+4) Lyrics or video content should not contain tamil letter ழ "zha"
+(Avoid using the tamil word contain letter "ழ்" or "ழ" in lyrics it is not recognized by suno ai properly. change plan accordingly)
+5) No moderated content in prompt
+6) The song should be catchy and easy to sing along for kids
+7) I am planning to create music/song using suno ai. so can you categorize further details on this song: a) Lyrics b) Styles to be included and styles to be excluded c) Instruments to be used d) Vocal - Type of vocal, male or female or both. If both who needs to sing what part Update all these in this document
+8) Each scene should be of 10 seconds. Hence plan the number of scenes with each 10 seconds
+
+
+2)
+
+i want to create a kids tamil song which should be a massive hit. Can you consider all the elements which could make this song success and give me a thorough plan :
+Use the document : 5KuttiSingam_TamilKidsSongPlan.md for template.
+But it should not have the same story line of Kutti Singam
+
+Please take of the following part A and Part B while preparing the plan for song
+Part A
+1) Script
+2) Explanation of characters and character image prompts
+3) Scene prompts
+Musical prompts It should capture kids attention and should be colourful 3D animation pixar style video Let the output be captured in a document
+4) Lyrics or video content should not contain tamil letter ழ "zha"
+(Avoid using the tamil word contain letter "ழ்" or "ழ" in lyrics it is not recognized by suno ai properly. change plan accordingly)
+5) No moderated content in prompt
+6) The song should be catchy and easy to sing along for kids. It should
+have elements of emotion, comedy, educational content.
+7) I am planning to create music/song using suno ai. so can you categorize further details on this song: a) Lyrics b) Styles to be included and styles to be excluded c) Instruments to be used d) Vocal - Type of vocal, male or female or both. If both who needs to sing what part Update all these in this document
+8) Each scene should be of 10 seconds. Hence plan the number of scenes with each 10 seconds
+9) At the end create Youtube upload kit for this song similar to: C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\youtubeuploadkits\5KuttiSingam_YouTubeUploadKit.md
+
+
+Part B:
+4. KUTTI KORANGU (குட்டி கொரங்கு) — Baby Monkey
+**Recommended Rank: #4 — Comedy Mega-Hit + Kutti Singam Spin-off**
+
+| Factor | Details |
+|---|---|
+| **Signature Sound** | 🐒 **OOOH-AAAH!** + CRASH sound — Monkey chatter + falling from tree (pure comedy gold) |
+| **Tamil Cultural Connection** | Hanuman, Ramayana — deeply embedded in Tamil culture. "Korangu" is already the FUNNIEST character in Kutti Singam — built-in fanbase! |
+| **Story Angle** | Kurangan (from Kutti Singam!) gets his OWN song — he keeps stealing everyone's food but learns that sharing brings more happiness than taking |
+| **Visual Wow Factor** | Monkey swinging through jungle, coconuts flying everywhere, chaotic comedy scenes = maximum funny moments = most shared on WhatsApp |
+| **Why It's #4** | DIRECT SPIN-OFF from Kutti Singam — viewers who loved Kurangan will feel REWARDED. "Kurangan has his own song!" = huge emotional payoff. GUARANTEED viral |
+| **Suno AI Signature Sound** | Rapid tabla + ghatam + comedy trombone womp = monkey chaos signature |
+| **Target Views** | 70M+ (Spin-off loyalty + comedy shareability = guaranteed numbers) |
+| **Moral** | "Sharing makes everything taste sweeter — even stolen mangoes!" |
+| **Characters** | Kurangan (from Kutti Singam), Kutti Singam cameo, a wise old tortoise |
+| **Avoid** | Making the monkey too naughty without redemption — ensure clear moral arc |
+
+---
+
+
+3)
+
+i want to create a kids tamil song which should be a massive hit. Can you consider all the elements which could make this song success and give me a thorough plan :
+Use the document : 5KuttiSingam_TamilKidsSongPlan.md for template.
+But it should not have the same story line of Kutti Singam oR Any of my previous songs
+
+Please take of the following part A and Part B while preparing the plan for song
+Part A
+1) Script
+2) Explanation of characters and character image prompts
+3) Scene prompts
+Musical prompts It should capture kids attention and should be colourful 3D animation pixar style video Let the output be captured in a document
+4) Lyrics or video content should not contain tamil letter ழ "zha"
+(Avoid using the tamil word contain letter "ழ்" or "ழ" in lyrics it is not recognized by suno ai properly. change plan accordingly)
+5) No moderated content in prompt
+6) The song should be catchy and easy to sing along for kids. It should
+have elements of emotion, comedy, educational content.
+7) I am planning to create music/song using suno ai. so can you categorize further details on this song: a) Lyrics b) Styles to be included and styles to be excluded c) Instruments to be used d) Vocal - Type of vocal, male or female or both. If both who needs to sing what part Update all these in this document
+8) Each scene should be of 10 seconds. Hence plan the number of scenes with each 10 seconds
+9) At the end create Youtube upload kit for this song similar to: C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\youtubeuploadkits\5KuttiSingam_YouTubeUploadKit.md
+
+
+Part B:
+### 🐠 10. VANNA MEEN (வண்ண மீன்) — Colorful Fish
+**Recommended Rank: #10 — Ocean Adventure & Colour Learning Theme**
+
+| Factor | Details |
+|---|---|
+| **Signature Sound** | 🐠 **BLOOP-BLOOP-BLOOP!** — Underwater bubble sound (kids puff cheeks and make bubble sounds = most adorable participation in the series!) |
+| **Tamil Cultural Connection** | Fish = ancient Tamil Sangam symbol (Pandya kingdom's fish flag), Kanyakumari, Bay of Bengal, fishing communities — deep Tamil coastal identity |
+| **Story Angle** | A little fish afraid of the deep blue ocean — but when she swims deep, she finds a magical glowing world — Moral: Curiosity and courage reveal life's greatest wonders |
+| **Visual Wow Factor** | Underwater 3D with glowing coral, bioluminescent fish, rainbow bubbles = most OTHER-WORLDLY visual in the entire animal series |
+| **Why It's #10** | Ocean setting = COMPLETELY different from all previous jungle/land settings = fresh visual category. Also opens international audience (ocean is universal). Colors + counting layer = highly educational |
+| **Suno AI Signature Sound** | Waterphone + glockenspiel underwater echo + soft tabla bubbles = magical ocean |
+| **Target Views** | 60M+ (Visual uniqueness + ocean setting = YouTube thumbnail click-magnet) |
+| **Moral** | "The deeper you dare to go, the more beautiful the world becomes!" |
+| **Characters** | Vanna Meen (colorful fish), Nandu (crab friend), Aairam Kaal (octopus who seems scary but is helpful) |
+| **Avoid** | Avoid dark/scary deep ocean vibes — keep water bright, lit and colorful |
+
+---

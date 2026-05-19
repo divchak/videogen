@@ -128,6 +128,7 @@ Lord Shiva himself: fierce, majestic, and capable of conveying both the
 terrifying power of Shiva the destroyer and the infinite grace of Shiva
 the protector — the perfect sonic match for this sacred paradoxical hymn.
 
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🙏 HOW TO USE THIS VIDEO
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -141,12 +142,10 @@ the protector — the perfect sonic match for this sacred paradoxical hymn.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 WATCH THE COMPLETE TAMIL DEVOTIONAL SERIES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-▶️ 🦚 கந்த சஷ்டி கவசம் (Kanda Sashti Kavasam — Lord Murugan) → [LINK]
-▶️ 🕉️ ஓம் நமச்சிவாய (Om Namah Shivaya — Lord Shiva) → [LINK]
-▶️ 🌺 மஹாலக்ஷ்மி அஷ்டகம் (Mahalakshmi Ashtakam) → [LINK]
-▶️ 🌸 விநாயகர் அகவல் (Vinayagar Agaval — Lord Ganesha) → [LINK]
-▶️ All Tamil Shaiva Devotional Playlist → [LINK]
-▶️ All Thevaram Songs Playlist → [LINK]
+▶️ 🦚 கந்த சஷ்டி கவசம் (Kanda Sashti Kavasam — Lord Murugan) → https://youtu.be/iSjy6GglOO8
+▶️ 🕉️ ஓம் நமச்சிவாய (Om Namah Shivaya — Lord Shiva) → https://youtu.be/u9kAzU7LmBU
+▶️ 🌺 மஹாலக்ஷ்மி அஷ்டகம் (Mahalakshmi Ashtakam) → https://youtu.be/M8LQS2dNwXk
+▶️ 🌸 விநாயகர் அகவல் (Vinayagar Agaval — Lord Ganesha) → https://youtu.be/xoHMDFav9-g
 
 🔔 Subscribe for more 3D animated Tamil devotional songs!
 👍 LIKE if this sacred Thevaram moves your heart!
