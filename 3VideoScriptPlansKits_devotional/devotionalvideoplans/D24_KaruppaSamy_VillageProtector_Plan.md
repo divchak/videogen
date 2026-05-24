@@ -1039,7 +1039,7 @@ iconic divine arrival Pixar quality, white-gold-mist-morning guardian palette, 8
 ```
 3D Pixar sacred animation powerful guardian stance scene, a wide dramatic shot
 establishing Karuppu Samy's supreme identity as the guardian of village boundaries —
-he stands at the ancient village boundary stone (எல்லை கல்) — a large rounded
+he stands at the ancient village boundary stone — a large rounded
 granite stone with sacred red and white markings that has marked this village's
 edge for centuries, his white horse standing calmly and powerfully at his side,
 his sword raised in the guardian's salute — not attacking but declaring:
@@ -1082,7 +1082,7 @@ Pixar quality, golden-paddy-green-morning Tamil farmland palette, 8K
 ### Scene 10: THE EVIL EYE THWARTED (1:30–1:40)
 ```
 3D Pixar sacred animation symbolic divine protection scene, a visually
-striking metaphor for Karuppu Samy's protection against the evil eye (திருஷ்டி)
+striking metaphor for Karuppu Samy's protection against the evil eye 
 and negative forces — a shadowy figure at the edge of the village attempting
 to cast harmful intent toward a farmer's prosperous household, the dark energy
 shown as a visible gray-black coil moving toward its target, in the instant
@@ -1140,7 +1140,7 @@ belief — the liar will face consequences in their life, their business, their
 family, the inevitable grinding justice of a god who never forgets and never
 accepts bribes, nearby farmers who witnessed the original dispute watching
 with the quiet solemn certainty of people who have seen this pattern many
-times before — "கருப்பசாமி சுடும்" — Karuppu Samy will burn the liar —
+times before  Karuppu Samy will burn the liar —
 not hatred but the natural operation of divine justice, ultra precisely moral
 Pixar quality, divine justice awareness palette, 8K
 ```
@@ -1544,7 +1544,7 @@ gold Tamil soil connection palette, 8K
 3D Pixar sacred animation transcendent closing scene, the final image of
 Karuppu Samy that will remain in the viewer's heart: a magnificent wide shot
 of Karuppu Samy on his white horse at the village boundary in the last light
-of a spectacular Tamil sunset — the eternal guardian at his eternal post,
+of a spectacular  sunset — the eternal guardian at his eternal post,
 the village fully visible and peacefully alive behind him — smoke from evening
 cooking fires, children coming home, the temple lamp being lit for the evening
 puja, all the life of a Tamil village continuing in safety under his protection,
@@ -1553,11 +1553,11 @@ permanent presence — the guardian who was here before any living person in
 this village was born and will be here after the last one is gone, his sword
 resting across his saddle bow rather than raised — not battle mode but watch
 mode — the eternal vigilance that never ends, the sunset sky behind him a
-masterwork of Tamil evening color — deep gold, orange, crimson, the first
-purple of approaching night (his time), the Tamil title "கருப்பசாமி வாழ்க"
+masterwork of  evening color — deep gold, orange, crimson, the first
+purple of approaching night (his time), the  title "KARUPPASAMY VAAZHGA"
 appearing in saffron-gold sacred letters against the sunset sky — not ending
 but continuing, ultra transcendent closing eternal Pixar quality, sunset-
-gold-eternal guardian Tamil palette, final frame 8K
+gold-eternal   palette, final frame 8K
 ```
 
 ---
