@@ -13,7 +13,7 @@
 
 ### 🥈 Option 2 — Rain Day Emotional Hook
 ```
-நாய் குட்டி 🐶🌧️ | Naai Kutty(Puppy) Rain Day Song | Best Friend in the Monsoon! | Tamil Kids Hit
+நாய் குட்டி 🐶🌧️ | Naai Kutty(Puppy) Rain Day Song | Best Friend in the Monsoon! | BHOU BHOU!
 ```
 
 ### 🥉 Option 3 — Animal Series Continuation

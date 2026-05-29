@@ -199,8 +199,8 @@ open in BHOU BHOU! — absolutely undimmed enthusiasm)
 **🖼️ Sinna Thozan Character Image Prompt:**
 ```
 An adorable warm 3D Pixar-style animated Tamil boy character, 
-approximately 6 years old, with deep warm brown skin and short 
-black hair that is always slightly messed at the front from 
+approximately 6 years old, with deep warm bright complexion skin and long 
+black hair who is stylish that is always slightly messed at the front from 
 an active day, the most open and joyful cartoon face with large 
 warm brown eyes, wearing a simple blue-and-white checked school 
 shirt with the collar slightly askew, blue cotton shorts, small 
@@ -236,7 +236,7 @@ no regrets)
 **🖼️ Amma Character Image Prompt:**
 ```
 A beautifully warm 3D Pixar-style animated young Tamil mother 
-character, warm medium-brown skin with expressive warm eyes 
+character, bright complexion skin with expressive warm eyes 
 that miss nothing, black hair in a neat practical bun with 
 one strand escaping across her forehead, wearing a bright 
 emerald green cotton saree with a simple gold border, standing 
@@ -275,7 +275,7 @@ AND her caught-laughing-and-not-sorry expression
 **🖼️ Street Friends Ensemble Image Prompt:**
 ```
 A group of three adorable 3D Pixar-style animated Tamil 
-neighbourhood children in casual afternoon play clothes, 
+neighbourhood children with bright complexion in casual afternoon play clothes, 
 all three with immediately distinct personalities: 1) A 
 small energetic girl with two oiled black plaits tied with 
 bright yellow ribbons matching her cheerful yellow cotton 
@@ -349,7 +349,7 @@ that gap two enormous warm honey-brown cartoon eyes blinking
 into focus, a round white fuzzy nose sniffing with full 
 commitment at the morning air through the gap, then the gate 
 rattling slightly as the unseen puppy begins his morning 
-BHOU BHOU! at the world, the Tamil title text 'நாய் குட்டி' 
+BHOU BHOU! at the world, the  title text 'Naai Kutty(Puppy)' 
 blazing into frame in bright warm orange-and-gold with small 
 paw-print particles and tail-wag shimmer effects, English 
 'Naai Kutty' below in cream letters, warm dawn gold-orange 
