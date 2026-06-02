@@ -53,33 +53,42 @@
 
 ## 📽️ DETAILED SCENE-BY-SCENE VIDEO PROMPTS (12 × 10 sec)
 
-**Scene 1 (0:00-0:10) — Intro**  
-Conch blast + crowd roar. முதல்வர் விஜய் walking out of CM office into bright sunlight.  
-Prompt: "Pixar 3D cinematic, முதல்வர் விஜய் in white veshti emerging from grand Tamil Nadu CM office, confident stride, sunrise lighting, massive Tamil crowd cheering in background, conch shell visual effect exploding into golden particles, epic camera pull back, ultra detailed"
-
-**Scene 2-3 (0:10-0:30) — Verse 1**  
-Media storm attacking, old parties with microphones as weapons.  
-Prompt: "Pixar 3D, dark stormy media rain of sharp word-spears flying at முதல்வர் விஜய், DMK and ADMK logos on broken microphones, he stands calm and unshaken, light breaking through clouds as he raises hand, dramatic slow motion"
-
-**Scene 4-5 (0:30-0:50) — First Chorus**  
-Massive crowd explosion + action results appearing.  
-Prompt: "Pixar 3D festival energy, thousands of Tamil people dancing in streets of progress, new hospitals, schools and roads glowing behind முதல்வர் விஜய், saffron-green flags waving, powerful male vocalist visible on giant LED stage, fireworks"
-
-**Scene 6-7 (0:50-1:10) — Verse 2 (Historical Tribute)**  
-World leaders appear as glowing ghosts of inspiration.  
-Prompt: "Pixar 3D cinematic tribute, முதல்வர் விஜய் standing tall while golden translucent figures of Lee Kuan Yew, Shastri, Attlee and de Gaulle rise behind him one by one, Singapore skyline, Indian villages, Britain and France flashing, respectful and powerful atmosphere"
-
-**Scene 8-9 (1:10-1:30) — Second Chorus (Even Bigger)**  
-Full choir + crowd chant.  
-Prompt: "Pixar 3D massive energy drop, entire Trichy victory ground filled with youth jumping, முதல்வர் விஜய் on central stage raising both hands, giant glowing Tamil text 'சொற்கள் குறைவு! செயல்கள் பெருகு!', nadaswaram visual sound waves in air"
-
-**Scene 10 (1:30-1:40) — Bridge**  
-Old parties’ media games shattering.  
-Prompt: "Pixar 3D, shadowy old media microphones and cameras cracking and falling apart like glass as bright light from முதல்வர் விஜய்’s action glows, crowd cheering louder, empowering transition"
-
-**Scene 11-12 (1:40-2:00) — Grand Finale + Outro**  
-Ultimate victory peak with fireworks and crowd chant.  
-Prompt: "Pixar 3D grand finale, முதல்வர் விஜய் standing triumphantly on stage with Tamil Nadu map glowing behind, massive fireworks, damaru and thavil visuals pulsing with bass, entire crowd chanting 'வெற்றி! வெற்றி! TVK வெற்றி!', camera spins upward into golden sky with 'TVK! வெற்றி தமிழகம்!' text"
+Scene 1 (0:00-0:10) — Intro
+Conch blast + crowd roar. CM Vijay walking out of CM office into bright sunlight.
+Prompt: "Pixar 3D cinematic, CM Vijay in crisp white veshti and rolled-up sleeves emerging confidently from grand Tamil Nadu CM office, sunrise golden light, massive Tamil crowd cheering in background, giant conch shell visual exploding into sparkling golden particles, epic camera pull back, ultra detailed, vibrant saffron-green-white palette, heroic atmosphere"
+Scene 2 (0:10-0:20) — Verse 1 Part 1
+Media storm begins — sharp word-spears flying from dark clouds.
+Prompt: "Pixar 3D cinematic, dark stormy sky raining sharp glowing word-spears and newspaper headlines attacking towards CM Vijay, DMK and ADMK logos visible on broken microphones, dramatic tension, he walks forward unfazed, cinematic slow motion, moody blue-grey tones turning to light"
+Scene 3 (0:20-0:30) — Verse 1 Part 2
+Old parties’ media attack fails; CM stands calm and raises hand.
+Prompt: "Pixar 3D cinematic, CM Vijay standing strong and unshaken amid the media storm, light dramatically breaking through dark clouds, he calmly raises one hand, word-spears dissolving into dust, empowering heroic pose, bright golden light rays, ultra detailed, emotional intensity"
+Scene 4 (0:30-0:40) — First Chorus Part 1
+Massive crowd explosion — people dancing in streets of progress.
+Prompt: "Pixar 3D festival energy, thousands of happy Tamil people dancing joyfully in modern Tamil Nadu streets, new hospitals, schools and glowing roads appearing in background, saffron-green TVK flags waving wildly, bright daylight, dynamic camera movement, high energy"
+Scene 5 (0:40-0:50) — First Chorus Part 2
+Results visible + male vocalist on giant LED stage with fireworks.
+Prompt: "Pixar 3D cinematic, powerful male vocalist visible on massive glowing LED stage, fireworks bursting in sky, new infrastructure shining behind CM Vijay, crowd cheering and dancing, saffron-green-white color explosion, energetic victory atmosphere, ultra detailed"
+Scene 6 (0:50-1:00) — Verse 2 Part 1 (Historical Tribute)
+CM Vijay standing tall as first world leader appears.
+Prompt: "Pixar 3D cinematic tribute, CM Vijay standing tall and respectful in the centre, golden translucent figure of Lee Kuan Yew rising behind him with glowing Singapore skyline softly appearing, warm inspirational lighting, highly detailed, reverent mood"
+Scene 7 (1:00-1:10) — Verse 2 Part 2 (Historical Tribute)
+Remaining leaders appear with flashing global locations.
+Prompt: "Pixar 3D cinematic tribute, golden translucent figures of Lal Bahadur Shastri, Clement Attlee and Charles de Gaulle rising one by one behind CM Vijay, quick respectful flashes of Indian villages, Britain and France, soft dramatic lighting, powerful and inspiring atmosphere"
+Scene 8 (1:10-1:20) — Second Chorus Part 1
+Full choir + youth jumping in Trichy victory ground.
+Prompt: "Pixar 3D massive energy drop, entire Trichy victory ground packed with energetic Tamil youth jumping and cheering, CM Vijay on central stage raising both hands, giant glowing Tamil text 'சொற்கள் குறைவு! செயல்கள் பெருகு!' in golden letters, high energy"
+Scene 9 (1:20-1:30) — Second Chorus Part 2
+Nadaswaram sound waves + even bigger crowd chant.
+Prompt: "Pixar 3D cinematic, CM Vijay commanding the stage, visible nadaswaram sound waves rippling through the air, thousands of people chanting together, massive saffron-green flags waving, fireworks and bright stage lights, goosebump victory energy"
+Scene 10 (1:30-1:40) — Bridge
+Old parties’ media games shattering.
+Prompt: "Pixar 3D empowering transition, shadowy old media microphones and TV cameras with DMK-ADMK symbols cracking and shattering like glass, bright heroic light from CM Vijay’s action glowing stronger, crowd cheering louder, dramatic empowering moment"
+Scene 11 (1:40-1:50) — Grand Finale Part 1
+CM Vijay triumphant on stage with Tamil Nadu map.
+Prompt: "Pixar 3D grand finale, CM Vijay standing triumphantly centre stage raising hand, glowing Tamil Nadu map shining brightly behind him, massive fireworks exploding in background, entire crowd chanting, ultra cinematic and emotional"
+Scene 12 (1:50-2:00) — Grand Finale + Outro
+Ultimate peak with damaru/thavil visuals and victory chant.
+Prompt: "Pixar 3D ultimate victory peak, CM Vijay on stage with entire crowd chanting 'வெற்றி! வெற்றி! TVK வெற்றி!', giant damaru and thavil visuals pulsing with bass energy, massive fireworks, camera spins upward into golden sky with glowing text 'TVK! வெற்றி தமிழகம்!', epic final shot"
 
 ---
 ---
