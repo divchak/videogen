@@ -57,7 +57,7 @@ text---
 ## 🎨 **THUMBNAIL DESCRIPTION** (For Midjourney / Flux / Leonardo / Runway)
 
 **Primary Thumbnail Prompt:**
-Epic cinematic Pixar 3D YouTube thumbnail 16:9 for Vetri Pulse channel, CM Vijay in white shirt with glowing TVK saffron-green stole raising one hand powerfully in victory, massive cheering Tamil crowd (diverse ages) with flags and tears of joy behind him, giant golden Tamil text "TVK வெற்றி பாடல்" at top, fiery "2026 பணம் இல்லா புரட்சி" at bottom, bright Vetri Pulse logo in corner, sunrise over Tamil Nadu map with lotus blooming from EVM button, emotional golden light rays, red "4K" + "Vetri Pulse" badge, high contrast massive clickbait energy, 8K ultra detailed
+Epic cinematic Pixar 3D YouTube thumbnail 9:16 for Vetri Pulse channel, CM Vijay in white shirt with glowing TVK saffron-green stole raising one hand powerfully in victory, massive cheering Tamil crowd (diverse ages) with flags and tears of joy behind him, giant golden Tamil text "TVK வெற்றி பாடல்" at top, fiery "ஓட்டுக்கு பணம் இல்லா புரட்சி" at bottom, bright Vetri Pulse logo in corner, sunrise over Tamil Nadu map with lotus blooming from EVM button, emotional golden light rays, red "4K" + "Vetri Pulse" badge, high contrast massive clickbait energy, 8K ultra detailed
 text**Text on Thumbnail:**
 - Top: **TVK வெற்றி பாடல் 🔥 Vetri Pulse**
 - Centre: **CM விஜய்**
@@ -134,11 +134,6 @@ Just copy → paste → upload → watch it explode!
 CM விஜய் தலைமையில் 2026-ல் தமிழகம் எழுதிய புதிய அத்தியாயம் — இது உங்கள் வெற்றி! இது நம் அனைவரின் பெருமை! 🔥
 Pixar 3D அனிமேஷன் | உணர்ச்சி பாடல் | Full Victory Anthem by Vetri Pulse
 ❤️ Like + Share + Comment-ல் "TVK வெற்றி" என்று டைப் செய்யுங்கள்!
-🔔 Subscribe to Vetri Pulse for more Tamil Pride, Victory Anthems & Motivational Hits!
-📌 Vetri Pulse Playlists:
-→ TVK Anthems 2026 → [Link]
-→ CM Vijay Motivational Songs → [Link]
-→ Tamil Pride Hits 2026 Series → [Link]
 தமிழக மக்களுக்கு மட்டுமல்ல... உலகம் முழுக்க உள்ள தமிழர்களுக்கும் இந்த பாடல்!
 Vetri Pulse — Where Victory Beats! ❤️
 © 2026 Vetri Pulse • All rights reserved • Positive Vibes & Tamil Pride Only ✨

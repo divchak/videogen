@@ -4,7 +4,10 @@ This step alters the actual pitch of your vocal cords without slowing down your 
 2.	Go to the top menu and select Effect > Pitch and Tempo > Change Pitch...
 3.	Locate the Percent Change slider near the bottom.
 4.	Drag it slightly to the left into the negative numbers. Aim for a value between -5.000 and -10.000.
+
 5.	Click Preview to listen. Avoid lowering it past -12%, or your voice will start to sound robotic and unnatural. Click Apply.
+
+
 Step 2: Use Equalization (Adding Chest Resonance)
 Equalization (EQ) allows you to boost the heavy "bass" frequencies of your voice where masculine chest resonance lives, while cleaning up nasal tones.
 1.	Keep your track highlighted and go to Effect > EQ and Filters > Filter Curve EQ.
@@ -12,6 +15,8 @@ Equalization (EQ) allows you to boost the heavy "bass" frequencies of your voice
 3.	Choose Factory Presets > Bass Boost. This instantly lifts the deep 100Hz rumble of your voice.
 4.	Optional Pro Move: Click on the green line around 3,000 Hz to 5,000 Hz (3kHz to 5kHz) and drag it up by +2 dB or +3 dB. This adds "presence" and crispness, ensuring your deeper voice remains clear and commanding rather than muffled.
 5.	Click Apply.
+
+
 Step 3: Apply the Compressor (The "Movie Trailer" Effect)
 A compressor shrinks the gap between your quietest and loudest syllables. It flattens out variations, making your voice sound thick, punchy, and consistently dense—just like a radio host or movie trailer narrator.
 1.	Go to Effect > Volume and Compression > Compressor...

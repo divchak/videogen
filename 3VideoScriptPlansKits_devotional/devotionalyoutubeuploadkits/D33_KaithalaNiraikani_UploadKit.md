@@ -19,7 +19,7 @@
 ### Alternative Titles (Test & Choose)
 1. `கைத்தல நிறைகனி | Hands Full of Sweet Offerings | Lord Vinayagar Thiruppugazh | Arunagirinathar | 3D Tamil Devotional`
 2. `விநாயகர் அருள் பெற | Kaithala Nirai Kani Full | Vinayaka Chaturthi Special | Pixar 3D | Ganesha Song Tamil`
-3. `கைத்தல நிறைகனி | மோதகம், அப்பம், கொழுக்கட்டை | விநாயகர் பாடல் | Arunagirinathar Thiruppugazh | 3D Animation`
+3. `விநாயகர் கைத்தல நிறைகனி | மோதகம், அப்பம், கொழுக்கட்டை | விநாயகர் பாடல் | Arunagirinathar Thiruppugazh | 3D Animation`
 4. `Lord Ganesha's Favorite Offering Song | Kaithala Nirai Kani | Vinayagar Thiruppugazh | Pixar Tamil`
 5. `அருணகிரிநாதர் பாடிய விநாயகர் திருப்புகழ் | கைத்தல நிறைகனி | Full 3D Animation | Vinayaka Chaturthi 2026`
 6. `Pillaiyar Songs Tamil | Kaithala Nirai Kani | Ganesha's Delight | Thiruppugazh | Beautiful 3D Animation`
@@ -50,8 +50,6 @@ Perfect for Vinayaka Chaturthi celebrations, daily worship, or whenever you need
 Song: கைத்தல நிறைகனி (Kaithala Nirai Kani)
 Composer: Arunagirinathar (அருணகிரிநாதர்)
 From: Thiruppugazh (திருப்புகழ்) — Fully Public Domain
-Music: Traditional Carnatic Thiruppugazh style with nadaswaram, mridangam & temple bells (Suno AI)
-Visuals: Pixar 3D Sacred Animation (Grok Imagine)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -79,21 +77,6 @@ Visuals: Pixar 3D Sacred Animation (Grok Imagine)
 கைத்தல நிறைகனி கொண்டதி பரப்படும்
 கருணையால் அளிப்பாய் விரைவே
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-⏱️ TIMESTAMPS / CHAPTERS
-
-0:00  Intro — Sacred Chaturthi Dawn & Temple Bells
-0:10  Verse 1 — கைத்தல நிறைகனி (Hands Full of Fruit & Sweets)
-0:50  Chorus — விநாயகா! போற்றி விநாயகா!
-1:10  Verse 2 — நெய்த்தர மோதகம் (The Sacred Modaka & Devotion)
-1:50  Bridge — Nadaswaram & Festival Energy Rising
-2:10  Verse 3 — மத்தகர் சதகரி (The Great Elephant Head & Cosmic Power)
-2:50  Verse 4 — கொத்தமர் பொதும்பினிற் (Honey Grove & Divine Family)
-3:30  Final Prayer — கருணையால் அளிப்பாய் விரைவே
-4:00  Divine Grace Shower & Obstacle Removal
-4:30  Arunagirinathar's Vision & Thiruvannamalai
-4:50  Grand Finale — Eternal Chaturthi & Title Reveal
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

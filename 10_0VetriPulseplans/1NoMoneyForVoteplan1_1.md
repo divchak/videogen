@@ -46,40 +46,36 @@
 [Opening Line]: "பணம் இல்லா வாக்கு... TVK வெற்றி!"
 [Energy Arc]: Polling booth silence → first pure vote spark → massive wave → CM Vijay victory stage peak → eternal Tamil pride close
 text---
+### style 
+Epic Hans Zimmer scale cinematic Tamil victory anthem for TVK 2026, short powerful 2-minute radio edit, concise cinematic trailer version, tight structure, 150-piece orchestra with full Tamil heart — soaring strings and brass carrying the heroic melody while nadaswaram blasts above them, 200-voice choir delivering the chorus with massive goosebump power, thavil + taiko fusion percussion at 118 BPM, emotional solo cello on "ஒரு பையன் கூட" line, huge brass swells on "பணம் இல்லா புரட்சி", sub-bass cinematic rumble, designed as the main theme song for a 300-crore political epic film about clean democracy, ends with full orchestra + nadaswaram peak + choir + temple bells + fireworks into triumphant silence
+
 
 ## 🎵 SUNO AI LYRICS (Formatted for Input — Suno Accepted)
-[Intro — Conch + crowd roar]
- வெற்றி! வெற்றி! TVK வெற்றி!
+[Intro — Conch + crowd roar, 8 bars]
+வெற்றி! வெற்றி! TVK வெற்றி!
+
 [Verse 1]
 பணம் கொடுக்காத வாக்கு... இது தமிழக மக்கள் வாக்கு!
-கையில் பணம் இல்லை... ஆனால் இதயத்தில் நம்பிக்கை முழுக்க!
+கையில் பணம் இல்லை... இதயத்தில் நம்பிக்கை முழுக்க!
 TVK கொடியை ஏந்தி... இளைஞர்கள் அணிவகுத்து
-2026 தேர்தல்... வரலாறு படைத்து!
+இரண்டாயிரத்தி இருபத்தி ஆறு தேர்தல்... வரலாறு படைத்து!
+
 [Chorus — Full choir explosion]
-TVK வெற்றி! விஜய் CM!
+TVK வெற்றி! CM விஜய்!
 பணம் இல்லா புரட்சி! தமிழ் மண்ணின் பெருமை!
 மக்கள் மனசு தான்... உண்மையான அதிகாரம்!
-வெற்றி TVK! வெற்றி விஜய்! வெற்றி தமிழகம்!
-[Verse 2]
-சம்பளம் வாங்கி விற்ற முன்னாள்... இனி ஒருபோதும் இல்லை
-மக்கள் தங்கள் குரலை... தூய்மையாக உயர்த்தினாரே!
-கிராமம் நகரம் எல்லாம்... ஒரே முழக்கம் ஒன்றே
-"விஜய் தலைவா... நீதான் எங்கள் நம்பிக்கை!"
-[Chorus — Even bigger]
-TVK வெற்றி! விஜய் CM!
-பணம் இல்லா புரட்சி! தமிழ் மண்ணின் பெருமை!
-மக்கள் மனசு தான்... உண்மையான அதிகாரம்!
-வெற்றி TVK! வெற்றி விஜய்! வெற்றி தமிழகம்! (x2)
-[Bridge — Emotional solo]
-ஒரு பையன் கூட பணம் வாங்கவில்லை...
+வெற்றி TVK! வெற்றி CM விஜய்! வெற்றி தமிழகம்!
+
+[Bridge — Emotional solo cello]
+ஒரு ஆண் கூட பணம் வாங்கவில்லை...
 ஒரு அம்மா கூட பயந்து வாக்களிக்கவில்லை...
-இது மக்கள் வெற்றி... இது தமிழ் பெருமை...
-இது வரலாறு... இது TVK கனவு நனவானது!
-[Outro — Grand finale + crowd chant]
+இது மக்கள் வெற்றி... இது TVK கனவு நனவானது!
+
+[Outro — Grand finale + nadaswaram peak]
 தமிழகம் வென்றது! TVK வென்றது!
 CM விஜய்... வாழ்க! வாழ்க! வாழ்க!
-(Full choir + nadaswaram peak + fireworks + "Vetri! Vetri! Vetri!")
-[End]
+(Full choir + temple bells + fireworks → triumphant silence)
+
 text**Suno Accepted Optimized Version** (copy-paste ready):
 [Intro]
 Conch blast + "வெற்றி! வெற்றி!"
@@ -98,12 +94,20 @@ text---
 ### Character 1: CM Vijay — தலைவர் விஜய் 👑 (People's Leader)
 
 **🖼️ Character Image Prompt:**
-Epic Pixar 3D cinematic style, charismatic Tamil leader CM Vijay, mid-50s but eternally youthful and energetic, warm glowing skin with determined jawline, kind yet powerful eyes radiating honesty and vision, wearing crisp white shirt with TVK saffron-green-white stole elegantly draped, simple vibhuti-kumkum mark of respect on forehead, standing tall on victory stage with one hand raised in blessing to people and other hand on heart, gentle confident smile that says "we did this together", background golden sunrise over Tamil Nadu map, ultra inspiring heroic Pixar quality, saffron-white-gold heroic palette, 8K cinematic lighting
+Epic Pixar 3D cinematic style, charismatic Tamil leader CM Vijay, mid-50s but eternally youthful and energetic with grey beard, warm glowing skin with determined jawline, kind yet powerful eyes radiating honesty and vision, wearing crisp white shirt with TVK saffron-green-white stole elegantly draped, simple vibhuti-kumkum mark of respect on forehead, standing tall on victory stage with one hand raised in blessing to people and other hand on heart, gentle confident smile that says "we did this together", background golden sunrise over Tamil Nadu map, ultra inspiring heroic Pixar quality, saffron-white-gold heroic palette, 8K cinematic lighting
+
+
+Epic Pixar 3D cinematic style, charismatic Tamil leader CM Vijay, mid-50s but eternally youthful and energetic with grey beard, warm glowing skin with determined jawline, kind yet powerful eyes radiating honesty and vision, wearing crisp white shirt with TVK red-yellow-stole stole elegantly draped, standing tall on victory stage with one hand raised in blessing to people and other hand on heart, gentle confident smile that says "we did this together", background golden sunrise over Tamil Nadu map, ultra inspiring heroic Pixar quality,  8K cinematic lighting
+
+
 text### Character 2: Tamil People (Diverse Voters) — மக்கள் 🌟
 
+
+
 **🖼️ Character Image Prompt:**
-Warm Pixar 3D animation, diverse joyful Tamil Nadu voters — young college girl with TVK flag painted on cheek, elderly farmer grandpa with tears of pride, mother holding baby and voting slip, auto driver youth cheering, all different ages and backgrounds united in pure happiness, wearing simple clothes with TVK badges, faces glowing with dignity and victory joy, golden light of hope surrounding them, ultra emotional realistic Pixar quality, vibrant Tamil life color palette, 8K
-text### Character 3: TVK Victory Symbol — கொடி & Lotus of Hope
+Warm Pixar 3D animation, diverse joyful Tamil Nadu voters. they should like tamil people  — young college girl with TVK flag painted on cheek, elderly farmer grandpa with tears of pride, mother holding baby and voting slip, auto driver youth cheering, all different ages and backgrounds united in pure happiness, wearing simple clothes with TVK badges, faces glowing with dignity and victory joy, golden light of hope surrounding them, ultra emotional realistic Pixar quality, vibrant Tamil life color palette, 8K
+
+### Character 3: TVK Victory Symbol — கொடி & Lotus of Hope
 
 **🖼️ Character Image Prompt:**
 Majestic Pixar 3D, giant waving Tamilaga Vettri Kazhagam flag glowing in sunlight, central rising sun with Tamil map inside, surrounded by green fields and white doves, golden lotus flower blooming from the flag symbolizing pure democracy, sparkling particles of hope and integrity floating around, ultra symbolic powerful Pixar quality, saffron-green-white-gold sacred patriotic palette, 8K
@@ -112,40 +116,40 @@ text---
 ## 🎬 SCENE PROMPTS — 12 SCENES × 10 SECONDS
 
 ### Scene 1: Dawn of Election Day (0:00–0:10)
-Polling booth at sunrise, empty but hopeful, first voter (young girl) walking confidently with voter ID, golden light breaking, conch sound.
+Polling booth at sunrise in Tamilnadu(India), empty but hopeful, first voter (young girl) walking confidently with voter ID, golden light breaking, conch sound.
 
 ### Scene 2: Pure Vote Moment (0:10–0:20)
-Close-up of hands pressing button on EVM with "NO CASH" thought bubble, heart glowing, text "பணம் இல்லா வாக்கு" appears in gold.
+Close-up of hands pressing button on EVM with "NO CASH" thought bubble, heart glowing, text "Vote without taking money" appears in gold.
 
 ### Scene 3: Wave Across Tamil Nadu (0:20–0:30)
-Montage of villages & cities — people queuing proudly, no agents, smiling faces, TVK flags everywhere.
+Montage of villages & cities — tamil people queuing proudly, no agents, smiling faces, TVK flags everywhere.
 
 ### Scene 4: CM Vijay Campaigns Cleanly (0:30–0:40)
-Vijay addressing massive crowd with folded hands, "நான் உங்களுக்கு மட்டும்" text, crowd roaring in trust.
+Vijay addressing massive crowd with folded hands, "Makkalae, Naan Ungalukkaaga" text, crowd roaring in trust.
 
 ### Scene 5: Results Announcement (0:40–0:50)
 TV screen showing "TVK SWEEPS", people jumping in streets, fireworks, tears of joy.
 
 ### Scene 6: Cash-for-Vote Era Ends (0:50–1:00)
-Dark shadowy money bags burning away, transforming into bright lotus flowers and happy faces.
+Dark shadowy money bags burning away, transforming into bright "TVK Badge Symbol"  and happy faces.
 
 ### Scene 7: Victory Procession (1:00–1:10)
-Huge crowd carrying CM Vijay on shoulders, streets filled with saffron-green flags, dancing with dappankuthu energy.
+People with TVK flags eruping in joy saying "CASH FOR VOTE ENDS", dancing with dappankuthu energy.
 
 ### Scene 8: Emotional Family Moment (1:10–1:20)
-Grandma hugging grandson voter, both crying happy tears, "நாம் வென்றோம்" text.
+tamil Grandma hugging TAMIL grandson 18 years voter, both crying happy tears, "WE WON - REAL DEMOCRACY WON" text.
 
 ### Scene 9: Assembly Swearing-In (1:20–1:30)
 CM Vijay taking oath on stage, massive crowd cheering, Tamil Nadu map glowing behind.
 
 ### Scene 10: Youth Power Montage (1:30–1:40)
-Youngsters painting walls with "Clean Politics", girls leading slogans, future Tamil Nadu shining.
+tamil Youngsters painting walls with "Clean Politics", girls leading slogans, future Tamil Nadu shining.
 
 ### Scene 11: Grand Chorus Peak (1:40–1:50)
-CM Vijay on stage with people, all hands raised together, golden light beams, massive "TVK வெற்றி!" text explosion.
+CM Vijay on stage with people, all hands raised together, golden light beams, massive "TVK VETRI!" text explosion.
 
 ### Scene 12: Eternal Pride Close (1:50–2:00)
-Camera pulls back showing entire Tamil Nadu glowing with pride, TVK flag waving over rising sun, final text "மக்கள் வெற்றி நிரந்தரம் • 2026" with lotus blooming, fade to peaceful golden Tamil map.
+Camera pulls back showing entire Tamil Nadu glowing with pride, TVK flag waving over rising sun, final text "NO CASH FOR VOTE REVOLUTION WON", fade to peaceful golden Tamil map.
 
 ---
 
@@ -159,6 +163,7 @@ Markdown# 🎵 **ALTERNATE SUNO AI STYLES** — 15 CONTRASTING VERSIONS for **TV
 ### 🎵 STYLE A — PURE FOLK DAPPANKUTHU VILLAGE (Traditional Temple Victory Procession)
 **Concept:** The raw, foot-stomping dappankuthu sound heard in every Tamil Nadu village and temple during victory celebrations — exactly how people would sing and dance on the streets the day TVK swept the 2026 election.  
 **Audience Reach:** Rural Tamil Nadu, auto drivers, college youth, political rally crowds, WhatsApp status sharers, temple festival goers
+
 Pure authentic Tamil village dappankuthu victory celebration of TVK 2026, high-octane folk energy with thavil, parai, nadaswaram and udukkai at explosive 128 BPM, powerful raw male folk vocalist with full Tamil soil passion roaring every line, huge group chorus of men and women in traditional call-and-response "TVK வெற்றி! விஜய் CM!" style exactly like victory processions, heavy dappankuthu beats that make everyone dance, firecracker SFX and live crowd cheers perfectly synced, only traditional instruments, no electronic, pure makkal celebration sound that would be blasted from every loudspeaker in Tamil Nadu villages the night of victory, ends with thunderous "வாழ்க வாழ்க விஜய்! மக்கள் வெற்றி!" group roar into silence
 text**Optimized:** Pure village dappankuthu TVK victory song — thavil + parai heavy, raw folk male vocal + massive chorus, 128 BPM, firecrackers, crowd roar, pure Tamil soil celebration.
 

@@ -54,7 +54,7 @@ text---
 பணம் கொடுக்காத வாக்கு... இது தமிழக மக்கள் வாக்கு!
 கையில் பணம் இல்லை... ஆனால் இதயத்தில் நம்பிக்கை முழுக்க!
 TVK கொடியை ஏந்தி... இளைஞர்கள் அணிவகுத்து
-2026 தேர்தல்... வரலாறு படைத்து!
+இரண்டாயிரத்தி இருபத்தி ஆறு தேர்தல்... வரலாறு படைத்து!
 [Chorus — Full choir explosion]
 TVK வெற்றி! விஜய் CM!
 பணம் இல்லா புரட்சி! தமிழ் மண்ணின் பெருமை!
@@ -80,6 +80,8 @@ TVK வெற்றி! விஜய் CM!
 CM விஜய்... வாழ்க! வாழ்க! வாழ்க!
 (Full choir + nadaswaram peak + fireworks + "Vetri! Vetri! Vetri!")
 [End]
+
+
 text**Suno Accepted Optimized Version** (copy-paste ready):
 [Intro]
 Conch blast + "வெற்றி! வெற்றி!"
@@ -159,6 +161,7 @@ Markdown# 🎵 **ALTERNATE SUNO AI STYLES** — 15 CONTRASTING VERSIONS for **TV
 ### 🎵 STYLE A — PURE FOLK DAPPANKUTHU VILLAGE (Traditional Temple Victory Procession)
 **Concept:** The raw, foot-stomping dappankuthu sound heard in every Tamil Nadu village and temple during victory celebrations — exactly how people would sing and dance on the streets the day TVK swept the 2026 election.  
 **Audience Reach:** Rural Tamil Nadu, auto drivers, college youth, political rally crowds, WhatsApp status sharers, temple festival goers
+
 Pure authentic Tamil village dappankuthu victory celebration of TVK 2026, high-octane folk energy with thavil, parai, nadaswaram and udukkai at explosive 128 BPM, powerful raw male folk vocalist with full Tamil soil passion roaring every line, huge group chorus of men and women in traditional call-and-response "TVK வெற்றி! விஜய் CM!" style exactly like victory processions, heavy dappankuthu beats that make everyone dance, firecracker SFX and live crowd cheers perfectly synced, only traditional instruments, no electronic, pure makkal celebration sound that would be blasted from every loudspeaker in Tamil Nadu villages the night of victory, ends with thunderous "வாழ்க வாழ்க விஜய்! மக்கள் வெற்றி!" group roar into silence
 text**Optimized:** Pure village dappankuthu TVK victory song — thavil + parai heavy, raw folk male vocal + massive chorus, 128 BPM, firecrackers, crowd roar, pure Tamil soil celebration.
 

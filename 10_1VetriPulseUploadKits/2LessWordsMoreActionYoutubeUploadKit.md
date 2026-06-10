@@ -4,7 +4,7 @@ Song Duration: 2:00 | Style: Epic Pixar 3D Cinematic Tamil Victory Anthem (Suno 
 Created: May 31, 2026 | Target: 10M+ views in first month | Series: Tamil Political Pride Channel — Song 23 | TVK Action Leadership Anthems
 
 🔥 PRIMARY YOUTUBE TITLE (Best Performing)
-சொற்கள் குறைவு • செயல்கள் பெருகு 🔥 | TVK Action Defense Anthem | முதல்வர் விஜய் 2026 | Press First Be Unbiased | Vetri Pulse
+Less Words • More Action 🔥 |  முதல்வர் விஜய் 2026 | Press - First Be Unbiased | Vetri Pulse
 Alternate High-Click Titles (Use in rotation):
 
 முதல்வர் விஜய் Less Words More Action | TVK Media Defense Song | CM Vijay vs Biased Press | Vetri Pulse
@@ -15,34 +15,21 @@ TVK Action Leadership Anthem | முதல்வர் விஜய் Like Sha
 
 📝 FULL OPTIMIZED DESCRIPTION (Copy-Paste Ready)
 🎉 Vetri Pulse presents — சொற்கள் குறைவு • செயல்கள் பெருகு!
-முதலமைச்சர் விஜய்யின் அமைதியான, தீர்மானமான “Less Words, More Action” தலைமையை பாதுகாக்கும் வலிமையான TVK Action Defense Anthem!
+முதலமைச்சர் விஜய்யின் அமைதியான, தீர்மானமான “Less Words, More Action” 
 பழைய DMK & ADMK-வின் biased media & critics தாக்குதல்களுக்கு எதிரான powerful rebuttal — “Press First Be Unbiased” என்ற உண்மையான பதிலடியுடன், உலகத் தலைவர்களான Lee Kuan Yew, Lal Bahadur Shastri, Clement Attlee & Charles de Gaulle உடன் historical parallels.
-Pixar 3D Cinematic Animation | Suno AI Epic Tamil Victory Anthem | Exactly 2 Minutes | Full 12-Scene Visual Masterpiece by Vetri Pulse
+
 இது வார்த்தைகளுக்கு அப்பாற்பட்ட செயல்களின் வெற்றி! மக்கள் மனசு தான் உண்மையான அதிகாரம்!
+
 ❤️ Like + Share + Comment-ல் “செயல்கள் பெருகு!” என்று டைப் செய்யுங்கள்!
-🔔 Subscribe to Vetri Pulse for more TVK Anthems, CM Vijay Leadership Songs & Tamil Pride Defense Hits!
-📌 Vetri Pulse Playlists:
-→ TVK Action Anthems 2026 → [Link]
-→ முதல்வர் விஜய் Motivational & Defense Songs → [Link]
-→ Tamil Political Pride Hits 2026 Series → [Link]
-#TVKAction #SolKuravuSeyalPerugu #MuthalvarVijay #PressFirstBeUnbiased #OldMediaTacticsFail #TVKVetri #LessWordsMoreAction #TamilPride2026 #MakkalVetri #VetriPulse
+🔔 Subscribe to Vetri Pulse for more TVK Songs, CM Vijay Leadership Songs!
+#TVKAction #SolKuraivuSeyalAthigam #MuthalvarVijay #PressFirstBeUnbiased #OldPartyTacticsFail #TVKVetri #LessWordsMoreAction #TamilPride2026 #MakkalVetri #VetriPulse
 Vetri Pulse — Where Victory Beats! ❤️
 © 2026 Vetri Pulse • All rights reserved • Positive Tamil Pride & Action Leadership Only ✨
 
-📍 CHAPTERS / TIMESTAMPS (Add in Description + YouTube Chapters)
-
-00:00 — Intro: Conch Blast + Crowd Roar + CM Vijay Emerges from Office
-00:10 — Verse 1: பத்திரிகைப் புயலில்... Media Storm Attack
-00:30 — First Chorus Explosion: சொற்கள் குறைவு! செயல்கள் பெருகு!
-00:50 — Verse 2: Historical Tribute — Lee Kuan Yew, Shastri, Attlee, de Gaulle
-01:10 — Second Chorus + Trichy Victory Ground Energy
-01:30 — Bridge: Old Parties’ Media Games Shatter
-01:40 — Grand Finale: Tamil Nadu Map + Fireworks + “வெற்றி! வெற்றி! TVK வெற்றி!”
-01:55 — Outro + Vetri Pulse End Screen
 
 
 🏷️ TAGS (Copy all — 70+ Optimized)
-vetri pulse, tvk action song, சொற்கள் குறைவு செயல்கள் பெருகு, sol kuravu seyal perugu, muthalvar vijay, less words more action, press first be unbiased, tvk defense anthem, cm vijay 2026, dmk admk media bias, tvk vetri paadal, vijay like lee kuan yew, tamil pride anthem, clean governance tamil, tvk action defense, old media tactics fail, tamilaga vettri kazhagam, makkal vetri, tamil political song 2026, press be unbiased, action leadership tamil, tvk anthem, muthalvar vijay action, tvk victory song, tamil victory anthem, vetri pulse tvk, tamil pride 2026, thalapathy action, tvk revolution, actions speak louder tamil, tvk media defense song
+vetri pulse, tvk action song, சொற்கள் குறைவு செயல்கள் பெருகு, sol kuravu seyal perugu, muthalvar vijay, less words more action, press first be unbiased, cm vijay 2026, dmk admk media bias, tvk vetri paadal, vijay like lee kuan yew, tamil pride anthem, clean governance tamil, tvk action defense, old media tactics fail, tamilaga vettri kazhagam, makkal vetri, tamil political song 2026, press be unbiased, action leadership tamil, tvk anthem, muthalvar vijay action, tvk victory song, tamil victory anthem, vetri pulse tvk, tamil pride 2026, thalapathy action, tvk revolution, actions speak louder tamil, tvk media defense song
 
 🎨 THUMBNAIL DESCRIPTION (For Midjourney / Flux / Kling / Runway)
 Primary Thumbnail Prompt:
