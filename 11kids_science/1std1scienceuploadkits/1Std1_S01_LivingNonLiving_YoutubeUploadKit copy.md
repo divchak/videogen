@@ -27,15 +27,7 @@ Perfect for Tamil Nadu Samacheer Kalvi / CBSE Class 1 Science. Your child will s
 • 4 characteristics of living things (with examples)
 • Plants, Animals, Humans, Stone, Chair, Book + YOU are living!
 
-📌 Timestamps:
-0:00 - Garden Hook + Intro
-0:20 - Verse 1: Insect 🦋 Tree 🌳 Stone 🪨
-1:00 - Science Tests (BREATHE GROW EAT MOVE)
-1:10 - Chorus Celebration
-1:20 - Classroom: Students + Plant + Chair
-2:10 - Interactive Quiz: Dog ✓ Book ✗ Flower ✓
-2:40 - Nature Walk: Bird Goat Cloud Stone YOU!
-3:10 - Final Chorus + You are a SCIENTIST! 🏆
+
 
 🎤 Lyrics + Music by Kutty Scientist Team | Animation style: Pixar 3D | Suno AI + Kling/Runway visuals
 
@@ -51,7 +43,7 @@ Add below description (after upload):
 Full song lyrics (paste the SUNO CLEAN LYRICS section) + channel links + playlist link.
 
 3. 🏷️ Tags (Copy all 35+ — use all)
-textliving things and non living things, உயிருள்ளவை உயிரற்றவை, standard 1 science song tamil, class 1 science tamil, living non living things for kids, kutty scientist, std 1 science tamil, samacheer kalvi class 1, tamil kids science song, breathe grow eat move, living things song, non living things song, science song for kids tamil, meenu kutty scientist, teacher kavitha miss, plants and animals for kids, evs class 1 tamil, science for toddlers tamil, 3d kids animation tamil, pixar style kids song, co comelon style tamil, standard 1 evs, class 1 evs living things, tamil nadu board science
+living things and non living things, உயிருள்ளவை உயிரற்றவை, standard 1 science song tamil, class 1 science tamil, living non living things for kids, kutty scientist, std 1 science tamil, samacheer kalvi class 1, tamil kids science song, breathe grow eat move, living things song, non living things song, science song for kids tamil, meenu kutty scientist, teacher kavitha miss, plants and animals for kids, science for toddlers tamil, 3d kids animation tamil, pixar style kids song, co comelon style tamil, standard 1 evs, class 1 evs living things, tamil nadu board science
 
 4. 🖼️ Thumbnail Prompt (Generate in Grok Imagine / Midjourney / Kling — 16:9)
 textVibrant 16:9 YouTube thumbnail, 3D Pixar style, cute 6-year-old Tamil girl Meenu (bright complexion, pigtails with green ribbons, tiny white lab coat over yellow frock, "SCIENTIST" patch) holding green magnifying glass to one eye, standing between a bright green happy plant (with ✓ LIVING!) and a grey stone (with ✗ NOT LIVING!), big bold white text with green outline at top "LIVING or NOT LIVING? 🌱🪨", bottom yellow text "Std 1 Science Song Tamil | Kutty Scientist", excited big smile + sparkling effects, bright green-yellow background, classroom + garden split, ultra colourful, high contrast, professional kids edutainment thumbnail, 8K, text clearly readable
