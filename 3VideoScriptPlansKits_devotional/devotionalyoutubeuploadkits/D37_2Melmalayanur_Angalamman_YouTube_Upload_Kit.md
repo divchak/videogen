@@ -15,7 +15,7 @@
 
 ### ✅ PRIMARY TITLE (Highest SEO + Click Potential + Amavasai Timing)
 ```
-மேல்மலையனூர் அங்காளம்மன் 🔥 அங்காளம்மா... அங்காளம்மா... | அமாவாசை சிறப்பு | குல தெய்வம் | 3D Pixar Animation | Tamil Amman Song
+மேல்மலையனூர் அங்காளம்மன் 🔥 அங்காளம்மா... அங்காளம்மா... | அமாவாசை சிறப்பு | குல தெய்வம் | Tamil Amman Song
 ```
 
 ### 🥈 ALTERNATE TITLES (Test & Choose)
@@ -81,15 +81,6 @@ Melmalayanur Angalamman is not just another Amman — she is considered one of t
 
 She is the Kula Deivam (family deity) for thousands of families across castes and regions. The emotional core of this video is the profound mother-child bond: the goddess who destroys evil in one fierce movement yet becomes the ultimate compassionate mother for her crying children. Every "அங்காளம்மா..." in the catchy chorus is an invitation to place your burdens at her feet and receive her North-facing blessing.
 
-━━━━━━━━━━━━━━━━━━━━━━
-🎵 MUSIC & VISUAL CREDITS
-━━━━━━━━━━━━━━━━━━━━━━
-• Original emotionally powerful Tamil devotional lyrics created specifically for this video (Pallavi, two Charanams, Emotional Bridge, Grand Finale)
-• Style: Powerful Emotional Tamil Amman Bhajan — Carnatic gamaka + folk rhythmic energy (thavil/urumi)
-• Vocals: Powerful emotional female Carnatic-trained lead with devotional tremolo on "அம்மா" + male chorus creating temple assembly energy
-• Instruments: Thavil, Urumi, Nadaswaram (soaring peaks), Mridangam, Veena, Temple bells, Conch (Shankha), sacred ash wind & fire SFX
-• Animation: 21 scenes × 10 seconds each — full Pixar 3D sacred animation with crimson-gold-black-silver palette, ultra-detailed temple architecture, divine light, emotional devotee close-ups, cosmic scale, and peaceful vibhuti resolution
-• Temple reverb and sacred ambience captured to feel like you are inside Melmalayanur sanctum
 
 ━━━━━━━━━━━━━━━━━━━━━━
 📿 HOW TO USE THIS SONG

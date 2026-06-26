@@ -271,7 +271,7 @@ crimson-gold-indigo sacred temple palette, 8K
 3D Pixar animation emotional hook scene, close-up of the main deity Angalamman
 in the sanctum as the catchy chorus begins. Her powerful dark form with gold
 ornaments and Trishul glowing under the sacred lamps. The camera slowly pushes
-in as the first "அங்காளம்மா... அங்காளம்மா..." hits with emotional power.
+in as the first "Angalamma... Angalamma..." hits with emotional power.
 Her eyes seem to look directly at the viewer with fierce compassion. Tiny
 particles of sacred vibhuti-like light float in the air. The North-facing
 posture is clearly visible. Ultra powerful sacred close-up Pixar quality,
@@ -296,7 +296,7 @@ Ultra sacred mythological Pixar quality, earth-gold-divine light palette, 8K
 3D Pixar animation mythological narrative scene, Lord Shiva (Thandeswarar form)
 arriving at the sacred ground of Melmalayanur, ash-smeared, with the Kapala
 (severed head) stuck to his hand, suffering from the Brahmahathi dosham.
-His face shows the pain of the curse but also the deep trust that his consort
+Kapala's face shows the pain of the curse but also the deep trust that his consort
 will help. The sacred putru glows brighter as he approaches. The atmosphere
 is heavy with divine anticipation. Ultra sacred mythological Pixar quality,
 silver-blue-ash sacred suffering-to-grace palette, 8K
@@ -397,8 +397,8 @@ offering palette, 8K
 3D Pixar animation profoundly moving human scene, multiple close-ups of
 devotees at the temple experiencing divine grace: an elderly woman with tears
 flowing silently down her face in complete peace, a young mother holding her
-child and whispering "அம்மா...", a man who has carried heavy burdens now
-sitting with open palms receiving, a family prostrating together. Golden
+child and whispering "Amma...", a man who has carried heavy burdens now
+sitting with open palms receiving. Golden
 divine light touching each face. This is the emotional heart of why people
 come here. Ultra emotionally authentic sacred Pixar quality, warm skin + gold
 divine light emotional palette, 8K
@@ -424,7 +424,7 @@ life divine scale with the entire cosmos (stars, galaxies, sacred fire) within
 her aura or as part of her form — the fierce mother who contains universes yet
 cares for each individual devotee's tear. The Trishul blazing with sacred fire.
 Her eyes showing both cosmic authority and personal love for every soul that
-calls her "அம்மா". Ultra magnificent cosmic sacred Pixar quality, crimson-gold-
+calls her "Amma". Ultra magnificent cosmic sacred Pixar quality, crimson-gold-
 cosmic fire divine power palette, 8K
 ```
 
@@ -481,7 +481,7 @@ palette, 8K
 ```
 3D Pixar animation sacred symbolic closing scene, three beautiful lines of
 pure white sacred vibhuti (or the Amman equivalent sacred marking) slowly
-forming on a dark sacred surface, with a single golden Tamil "ஓம்" or the
+forming on a dark sacred surface, with word "Engal Angalamman" or the
 goddess's name appearing within it. The ultimate symbol of Shaiva-Amman
 tradition — what remains after all else is the sacred protective mark of
 the divine mother. Ultra peacefully transcendent sacred Pixar quality,
@@ -502,10 +502,10 @@ Ultra heartwarming peaceful sacred Pixar quality, warm peaceful gold palette, 8K
 ### Scene 21: FINAL FADE WITH "அங்காளம்மா..." ECHO (3:20–3:30)
 **Song Section:** Outro — single bell + fading echo
 ```
-3D Pixar sacred animation transcendent final scene, the image of Angalamman
+3D Pixar sacred animation transcendent final scene, the beautiful glowing  image of Angalamman
 in her sanctum slowly and peacefully fading into sacred darkness, leaving only
 the three lines of vibhuti and a soft golden glow. The final distant echo of
-the chorus "அங்காளம்மா... அங்காளம்மா..." fading like a loving mother's
+the chorus "Angalamma... Angalamma..." fading like a loving mother's
 voice. Absolute sacred silence at the end. The viewer left with the feeling
 that the goddess's grace remains even after the video ends. Ultra peacefully
 transcendent sacred Pixar quality, sacred darkness with residual gold light
