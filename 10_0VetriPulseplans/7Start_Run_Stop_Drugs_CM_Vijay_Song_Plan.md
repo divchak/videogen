@@ -345,7 +345,7 @@ Sports ah எடு, Drugs ah விடு
 ## Character / Visual Style Prompts
 
 **1. Respectful Stylized CM Vijay**  
-Energetic cinematic 3D youth motivational animation style, respectful stylized portrayal of CM Vijay with warm heroic yet humble aura, standing in golden divine light, saffron and energetic tones, ultra detailed textures, emotionally powerful, 8K.
+Energetic cinematic 3D youth motivational animation style, respectful stylized portrayal of CM Vijay with warm heroic yet humble aura, , ultra detailed textures, emotionally powerful, 8K.
 
 **2. Marina Beach Anti-Drug Run**  
 CM Vijay leading a massive energetic youth run at Marina Beach during “Start Run, Stop Drugs” event. Diverse young people running together with passion. Dynamic cinematic 3D animation with golden motivational light, sports energy, and hopeful atmosphere, 8K.
