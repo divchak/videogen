@@ -11,7 +11,7 @@ Tamil Grandma Love Song | பாட்டி பாட்டி 👵 | Paatti Pa
 ```
 ### 🥈 Option 2 — Diaspora Emotion Focus
 ```
-பாட்டி பாட்டி 👵 | Missing Your Grandma? Tamil Kids Song | Village Visit | AMMAMMAA! 😢❤️
+பாட்டி வீடு சொர்க்கம்!👵  Glimpse| Missing Your Grandma? Tamil Kids Song | Village Visit 
 ```
 ### 🥉 Option 3 — Educational Angle
 ```

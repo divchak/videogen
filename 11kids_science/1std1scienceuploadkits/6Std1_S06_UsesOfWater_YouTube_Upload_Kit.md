@@ -31,7 +31,7 @@
 
 ### ✅ Primary Title (Recommended — Best SEO + Click Appeal)
 ```
-Uses of Water 💧 | நீரின் பயன்கள் | Drinking, Washing, Plants & Animals Need It Too! | Standard 1 Science Song Tamil | KUTTY SCIENTIST
+Uses of Water 💧 | Standard 1 Science Song Tamil | KUTTY SCIENTIST| நீரின் பயன்கள் | Drinking, Washing, Plants & Animals Need It Too! |
 ```
 
 ### Alternative Titles (A/B Test or Backup)
@@ -69,12 +69,6 @@ Perfect for Tamil Nadu Standard 1 (Class 1) EVS / Science curriculum. Kids learn
 
 👉 After this video your child may start reminding the whole family: “Turn off the tap! I am a Water Scientist now!” 
 
-This is Song 06 in the Kutty Scientist — Standard 1 Science Songs series. Watch the full playlist for more joyful learning:
-▶️ https://www.youtube.com/playlist?list=PL_KUTTY_SCIENTIST_STD1 (update with real link)
-
-Previous Song: Std1-S05 Food We Eat 🥕🍎 (Healthy Foods That Make Us Strong)
-
-Next Song Coming Soon: Std1-S07 We Need Air 🌬️ (Breathing, Wind & Why All Living Things Need Air)
 
 ❤️ Like this video if your child loved learning about water uses!
 🔔 Subscribe to Kutty Scientist for a new Standard 1 Science Song every week!

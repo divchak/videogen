@@ -281,7 +281,7 @@ Long beautiful hold (8–10 seconds) on the final frame with soft golden divine 
 ## Character / Visual Style Prompts (Grand Reverent 3D Devotional Animation)
 
 **1. Respectful Stylized CM Vijay**  
-Grand cinematic 3D devotional animation style, respectful stylized portrayal of CM Vijay with warm heroic yet humble aura, standing in golden divine light, soft saffron and gold tones, ultra detailed, emotionally powerful, 8K.
+Grand cinematic 3D devotional animation style, respectful stylized portrayal of CM Vijay with warm heroic yet humble aura, standing in golden divine light,, ultra detailed, emotionally powerful, 8K.
 
 **2. Trichy Harmony Visit**  
 CM Vijay respectfully entering St. Antony’s Church, then Noorul Hudha Mosque, then Pachanachiyamman Temple in Trichy — shown in smooth sequence with warm golden unifying light, diverse devotees, ultra detailed 3D devotional animation, reverent and powerful atmosphere, 8K.

@@ -314,23 +314,24 @@ Sports ah எடு, Drugs ah விடு
 
 **Scene 5 (0:52–1:05)** — CM Vijay standing with youth representatives and task force leaders in a meeting-like setting, symbolizing the 7-Point Anti-Drug Action Plan. Warm lighting and respectful atmosphere.
 
-**Scene 6 (1:05–1:18)** — Emotional close-ups of young boys and girls choosing sports over drugs. Some shown playing cricket/football, others running. Contrast shots of youth rejecting drugs and embracing healthy activities.
+**Scene 6 (1:05–1:18)** — Emotional close-ups of young tamil boys and girls choosing sports over drugs. Some shown playing cricket/football, others running. Contrast shots of youth rejecting drugs and embracing healthy activities.Text "START RUN, STOP DRUGS" appear in screen 
 
-**Scene 7 (1:18–1:30)** — Respectful but powerful visuals of Goondas Act being applied against synthetic drug sellers. Shown as protective action for the youth and society.
+**Scene 7 (1:18–1:30)** — Respectful but powerful visuals of Goondas Act being applied against  tamilnadu synthetic drug sellers. Shown as protective action for the youth and society and the culprits are jailed. .Text "GOONDAS ACT AGAINST SYNTHETIC DRUG DEALIERS"
 
 **Scene 8 (1:30–1:45)** — Epic chorus visual: Stylized glowing map of Tamil Nadu with golden divine light flowing across districts. Youth running across the map in different locations. CM Vijay figure standing humbly in the center.
 
-**Scene 9 (1:45–1:58)** — Emotional bridge sequence showing youth looking toward a bright future — studying, playing sports, smiling with hope. Soft golden light and uplifting atmosphere.
+**Scene 9 (1:45–1:58)** — Emotional bridge sequence showing youth looking toward a bright future — studying, playing sports, smiling with hope. Parents in happiness. Soft golden light and uplifting atmosphere.
 
 **Scene 10 (1:58–2:10)** — Dynamic intercut sequence showing real marathon footage blended with animation — youth running, task force success moments, and CM Vijay leading.
 
-**Scene 11 (2:10–2:22)** — Series of intimate close-ups on faces of youth running with determination, chanting, and full of energy. Shallow depth of field with emotional lighting.
+**Scene 11 (2:10–2:22)** — Series of intimate close-ups on faces of tamil youth running with determination, chanting, and full of energy. Shallow depth of field with emotional lighting.Text "Sports ah Edu, Drugs ah Vidu" appearing in glowing text 
 
-**Scene 12 (2:22–2:35)** — Large diverse crowd of youth from different districts running together in perfect unity and synchronization. Wide cinematic tracking shot moving through the crowd.
+**Scene 12 (2:22–2:35)** — Large diverse crowd of tamil youth from different districts running together in perfect unity and synchronization. Wide cinematic tracking shot moving through the crowd."Hail CM Vijay" text appears in screen 
 
 **Scene 13 (2:35–2:48)** — Grand aerial shot of entire Tamil Nadu glowing under a beautiful protective golden divine umbrella of light. Multiple subtle blessing rays visible.
 
-**Scene 14 (2:48–3:00)** — Very intimate emotional close-ups of young people with tears of hope, proud smiles, and strong determination in their eyes.
+**Scene 14 (2:48–3:00)** — Very  emotional close-ups of young tamil people with tears of hope, proud smiles, and strong determination in their eyes. They get 
+success in sports, education etc. "CM Vijay is the sole reason for our success" text appears in screen 
 
 **Scene 15 (3:00–3:12)** — Respectful medium-wide shot of stylized CM Vijay standing with humble yet inspiring aura, surrounded by soft golden divine light and gentle blessing particles.
 
@@ -338,7 +339,7 @@ Sports ah எடு, Drugs ah விடு
 
 **Scene 17 (3:25–3:38)** — Slow, respectful emotional push-in on CM Vijay as divine golden light gently intensifies around him. His expression remains humble and dedicated.
 
-**Scene 18 (3:38–3:50+)** — Clean final text animation over the grand visual with the message “Start Run, Stop Drugs” and channel credit. Long emotional hold with soft golden light pulsing gently.
+**Scene 18 (3:38–3:50+)** — Clean final text animation over the grand visual with the message “Start Run, Stop Drugs” . Long emotional hold with soft golden light pulsing gently.
 
 ---
 
@@ -354,7 +355,7 @@ CM Vijay leading a massive energetic youth run at Marina Beach during “Start R
 Stylized respectful visuals of 65 Anti-Narcotics Task Force units working across Tamil Nadu. Powerful yet protective enforcement imagery. Cinematic 3D animation with warm lighting symbolizing safety and justice, 8K.
 
 **4. Youth Choosing Sports Over Drugs**  
-Young people from different backgrounds actively choosing sports and physical activities instead of drugs. Bright, energetic, and motivational cinematic 3D animation with positive and empowering tone, 8K.
+Young tamilnadu people from different backgrounds actively choosing sports and physical activities instead of drugs. Bright, energetic, and motivational cinematic 3D animation with positive and empowering tone, Banner "Start Run, Stop Drugs" Visible 8K.
 
 **5. Tamil Nadu Under Divine Protection**  
 Epic wide aerial shot of Tamil Nadu glowing under beautiful golden divine light and blessings. Stylized CM Vijay figure standing with humble aura in the center. Grand motivational 3D animation with spiritual and hopeful atmosphere, 8K.

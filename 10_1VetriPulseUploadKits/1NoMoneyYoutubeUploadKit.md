@@ -9,7 +9,7 @@ our channel name is Vetri Pulse. can you modify youtube upload kit accordinglyMa
 ---
 
 ## 🔥 **PRIMARY YOUTUBE TITLE** (Best Performing)
-**TVK வெற்றி பாடல் 🎉 | பணம் இல்லா புரட்சி | CM விஜய் 2026 | Vetri Pulse**
+**TVK வெற்றி பாடல் 🎉 | TVK பணம்,Caste இல்லாமல் வென்ற புரட்சி Intro| CM விஜய் 2026 | Vetri Pulse**
 
 ### Alternate High-Click Titles (Use in rotation):
 1. **CM விஜய் வெற்றி பாடல் 2026 🔥 | TVK மக்கள் புரட்சி | Vetri Pulse**

@@ -30,6 +30,8 @@
 ### 🥈 Option 2 — Educational Focus (Best for Parent-Pushed Views)
 ```
 குட்டி யானை 🐘 | Baby Elephant PAOOM Song | 5 Senses Tamil Kids Song | Kutti Yaanai
+
+குட்டி யானை Glimpse 🐘 | Baby Elephant PAOOM Song | 5 Senses Tamil Kids Song | Kutti Yaanai
 ```
 **Why this works:**
 - "5 Senses" → parents ACTIVELY push educational videos to kids

@@ -12,7 +12,7 @@
 ```
 வாராஹி அம்மன் V1 Carnatic Music 🐗✨ | Vaaraahi Amman Potri | Panchami Special | Pixar 3D Animation
 ```
-
+வாராஹி அம்மன் Glimpse 🐗✨ | Vaaraahi Amman Potri | Panchami Special | 3D Animation
 ### 🥈 Option 2 — Problem-Solving / Urgent Devotion (Highest Search Intent)
 ```
 Vaaraahi Amman Potri 🐗🙏 | Enemy Removal & Protection | Panchami Worship | Tamil Devotional 3D
