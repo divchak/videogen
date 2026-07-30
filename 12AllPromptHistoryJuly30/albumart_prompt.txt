@@ -1,0 +1,35 @@
+can you give me a image prompt which helps to generate album artwork for my brand divimahe and Album "Muruga"
+
+Here is an initial image generation prompt. It is designed to be highly effective for an AI generator, incorporating standard best practices, while adhering to the technical specifications of a 3000 x 3000px, 1:1 square ratio for DistroKid/streaming platforms.
+
+Artist: Divimahe
+Album Title: Muruga
+
+Initial Album Cover Prompt
+The default is a balanced, ethereal, and modern style suitable for spiritual, world, or devotional pop/ambient music.
+
+Prompt: 3000 x 3000 pixel, high-resolution square image for album artwork. In the center, a striking, modern and ethereal representation of a stylized sacred Vel (divine spear) glowing with internal, warm gold and deep blue light. The Vel is intertwined with subtle, iridescent peacock tail feathers that fan out behind it, forming a symbolic halo (like the energy and symbols in image_0.png and image_1.png). The background is a soft, deep gradient of royal indigo transitioning to celestial violet, with faint, abstracted geometric cosmic patterns. The mood is spiritual, majestic, and contemporary (image_2.png, image_3.png). Clean typography is essential:
+
+At the very top, in a elegant, minimalist, and clear white font, the artist brand name: DIVIMAHE
+
+At the lower center, beneath the central graphic, the album title in a larger, bolder, complementary text: MURUGA
+
+Ensure no barcodes, URLs, social handles, or 'Out Now' text are included. The border must be clean for full display.
+
+How to Customize Your Prompt
+If the initial prompt doesn't match the specific genre or mood of your album "Muruga," you should refine the input for the AI. Copy and modify the prompt with these elements based on your sound:
+
+1. Change the Art Style
+For Traditional/Classical: Replace "modern and ethereal" with "A traditional Thanjavur (Tanjore) style painting, rich with gold leaf work, embossing, and vibrant, classical color palettes (as seen in image_5.png)."
+
+For High-Energy/Electronic: Replace "soft deep gradient" with "A hyper-detailed 3D render with vaporwave or neon color aesthetics—think neon blue Vel on a background of fuchsia, electric teal, and deep space black, with stylized glitch effects."
+
+For Minimalist/Lo-fi: Keep it simple: "A ultra-minimalist vector illustration of only a single, perfectly formed white Vel and one green-blue peacock feather centered on a matte black background."
+
+2. Fine-Tune the Symbols
+The standard symbols for Murugan are the Vel (spear), Peacock (mount/vāhana), and Rooster (on his flag). Make one of these dominant depending on your album's central concept.
+
+3. Adjust the Mood and Color Palette
+Warm/Devotional: Use colors like deep ochre, turmeric, saffron, and rich red with antique gold accents.
+
+Cool/Meditative: Use colors like silver, moon white, ice blue, teal, and deep, cool violets.

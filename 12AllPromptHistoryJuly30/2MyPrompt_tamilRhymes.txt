@@ -1,0 +1,46 @@
+1)
+i want to create a similar tamil song which should be a massive hit. Can you consider all the elements which made this song success and give me a thorough plan :
+
+1) Script
+2) Explanation of characters and character image prompts
+3) Scene prompts
+Musical prompts It should capture kids attention and should be colourful 3D animation pixar style video Let the output be captured in a document
+4) Lyrics or video content should not contain tamil letter ழ "zha"
+(Avoid using the tamil word contain letter "ழ்" or "ழ" in lyrics it is not recognized by suno ai properly. change plan accordingly)
+5) No moderated content in prompt
+6) The song should be catchy and easy to sing along for kids
+7) I am planning to create music/song using suno ai. so can you categorize further details on this song: a) Lyrics b) Styles to be included and styles to be excluded c) Instruments to be used d) Vocal - Type of vocal, male or female or both. If both who needs to sing what part Update all these in this document
+8) Each scene should be of 10 seconds. Hence plan the number of scenes with each 10 seconds
+
+
+2)
+1)
+i want to create a kids tamil song which should be a massive hit. Can you consider all the elements which could make this song success and give me a thorough plan :
+Use the document : 5KuttiSingam_TamilKidsSongPlan.md for template
+
+Please take of the following part A and Part B while preparing the plan for song
+Part A
+1) Script
+2) Explanation of characters and character image prompts
+3) Scene prompts
+Musical prompts It should capture kids attention and should be colourful 3D animation pixar style video Let the output be captured in a document
+4) Lyrics or video content should not contain tamil letter ழ "zha"
+(Avoid using the tamil word contain letter "ழ்" or "ழ" in lyrics it is not recognized by suno ai properly. change plan accordingly)
+5) No moderated content in prompt
+6) The song should be catchy and easy to sing along for kids
+7) I am planning to create music/song using suno ai. so can you categorize further details on this song: a) Lyrics b) Styles to be included and styles to be excluded c) Instruments to be used d) Vocal - Type of vocal, male or female or both. If both who needs to sing what part Update all these in this document
+8) Each scene should be of 10 seconds. Hence plan the number of scenes with each 10 seconds
+
+Part B:
+| Factor | Details |
+|---|---|
+| **Signature Sound** | 🎺 **PAOOM! PAOOM!** — Elephant trumpet call (kids blow cheeks + trumpet with arms = ultimate physical participation!) |
+| **Tamil Cultural Connection** | DEEPEST of all animals — Temple elephants, Vinayagar (Ganesha), Pongal, Tamil festivals = every Tamil household has emotional connection |
+| **Story Angle** | Baby elephant who forgets the path to the temple but uses his big ears and big heart to find his way — Moral: Listen with your heart |
+| **Visual Wow Factor** | Giant colorful temple elephant decorated with flowers, lights, gold = most SPECTACULAR 3D animation possible |
+| **Why It's #1** | Lion (Kutti Singam) = courage theme. Elephant = wisdom + memory + gentleness — PERFECT emotional contrast. Parents will love it even more than Lion |
+| **Suno AI Signature Sound** | Nadaswaram trumpet blast + bass drum = natural elephant sound match |
+| **Target Views** | 80M+ (Temple + Animal + Festival = triple cultural hook) |
+| **Moral** | "Big ears to listen, big heart to love — that is true wisdom!" |
+| **Characters** | Kutti Yaanai (baby elephant), Thaatha Yaanai (grandpa elephant), a sparrow who shows the way |
+| **Avoid** | Words with "ழ்" (zha sound) — use "யானை" (yaanai) correctly |

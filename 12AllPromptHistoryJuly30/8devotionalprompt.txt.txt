@@ -1,0 +1,6 @@
+Go through the songs in C:\todel\forVideogen_old\mahevideoplansNprompts\devotionalvideoplans, for the songs that were Composed by 12 Alvar Saints (6th–9th century CE) — Fully Public Domain - Create song plans. Ensure that each song has detailed character image prompts, detailed scene prompts , also original lyrics of songs should not be changed, there should be 15 different suno style prompts similar to this song plan, ensure that those suno style prompts are less than 1000 characters: C:\todel\forVideogen_old\mahevideoplansNprompts\devotionalvideoplans\D24_KaruppaSamy_VillageProtector_Plan.md , Also the style prompts should fit the nature and meaning of this song.
+
+
+For the newly created songs, optimize and ensure that those suno style prompts are less than 1000 characters
+
+

@@ -1,0 +1,23 @@
+1) in grok 
+
+n this SRT, i have thriuppaliezhuchi song in classical tamil, i want to have english meaning of that line and tamil meaning of that below it eg:
+
+தமேவமத்வா பரவாஸுதேவம்
+Considering Him alone as Paravāsudeva (the Supreme Lord of Śrīvaikuṇṭam)
+அவரை மட்டுமே பரவாஸுதேவன் என்று கருதி
+
+
+Can you do this for all the lines? and give updated .srt file or its contents
+
+2) 
+To the attached song lyrics :
+a) i want it to start from 67, by adding 66 to each number
+b) I want time to start from 00:04:20,824, there by changing for subsequent captions and its time
+c) Also i want to have english meaning of that line and tamil meaning of that
+d) Please note that this is also part of Thiruppalliezhuchi song
+
+
+3) In this srt file, In 67 start time is 00:04:20,824,
+a) Can you change it to 00:04:28,569 and update upcoming time accordingly
+b) Start this process from 67 alone, to until the end of the file
+c) Provide the final output as .srt file or provide the output in chat

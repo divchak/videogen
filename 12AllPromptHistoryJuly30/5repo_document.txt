@@ -1,0 +1,59 @@
+1) Perform Deep analysis of each of the repos under quote-repos and for each of the repo, prepare separate documents, each document should contain the following 
+
+a)  What is the repo or application about?
+b) Architecture
+c) Data flow 
+d) What is good in application 
+e) Improvement areas 
+f) Todos
+g) Open Issues categorised as Critical/Major/Low
+
+Let the document be in this location: C:\ODS_QUOTE_REPOS\docs-quote-repos
+
+2) 
+
+
+
+
+
+3) Mermaid to architecture diagram as in mermaid: microsoft 365 
+
+can you generate diagram for the below mermaid code
+
+
+
+--code 
+
+If you'd like a full-fidelity rendering matching the Mermaid diagram exactly (including all relationships, dashed connectors, labels, colors, and grouping), I can also produce it as:
+
+PNG (high resolution)
+SVG (best for documentation)
+PowerPoint slide
+Visio-style architecture diagram
+Draw.io (.drawio) diagram
+
+
+
+4) yes pls produce in visio style architecture diagram 
+
+
+I can create editable diagram files, but I can't reliably generate a true Visio .vsdx file in the current environment because the Visio file-generation libraries aren't available.
+
+For editing, the best alternative is:
+
+Draw.io / diagrams.net (.drawio) — fully editable
+SVG — editable in Visio, Draw.io, Lucidchart, Figma, and many other tools
+PowerPoint (.pptx) — editable with Office shapes
+
+A practical workflow is:
+
+I generate a fully editable Draw.io architecture diagram.
+Open it in diagrams.net.
+Export to Visio VSDX from diagrams.net (or import into Visio directly).
+
+This preserves all boxes, connectors, labels, and layers much better than converting from an image.
+
+If you'd like, I can generate the editable .drawio file of your ODS ecosystem architecture in the next step.
+
+
+5) 

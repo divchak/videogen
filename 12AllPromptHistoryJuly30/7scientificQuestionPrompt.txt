@@ -1,0 +1,37 @@
+Hi I want to make youtube video for my kids channel. Where Kid named Acchu asks scientific based doubts on easy to her  Father  and her fathers responds
+the queries with illustration and easy manner where kids could answer. I want you to create a plan for the same 
+
+Create 3 plans for 3 good topics which could have maximum reach among kids and it should be a hit. Also access, how much it will be a hti among kids 
+
+
+The whole video shall be in 3D Pixar style. Each video 130 seconds divided into 13 scenes and i plan audio to be made from eleven labs for conversation 
+and suno ai for background music. So give me the following prompts 
+a) Character image prompts
+b) Scene prompts 
+c) Dialogue for each of the scene which is tts compatible for eleven labs, better if sound character is given 
+d) Suno ai music for background 
+
+
+
+2) I want scene prompts to be detailed. and exact dialogue for each of the scenes
+
+3) 
+With regards to Dialogue script create a section Eleven Labs Complete script section:
+
+Which if i copy and paste, will give me exact tts done and get me the required audio output for all the scenes in single shot for all the characters involved in conversation 
+
+Later i will link it will video. 
+Just ensure that length of audio is equal to scene length
+
+
+3.1) 
+With regards to Dialogue script create a section Eleven Labs Complete script section:
+
+Which if i copy and paste, will give me exact tts done and get me the required audio output for all the scenes in single shot for all the characters involved in conversation 
+
+Later i will link it will video. 
+Just ensure that length of audio is equal to scene length
+
+Consider this document's (C:\omb_mmp\forVideogen_old\mahevideoplansNprompts\projects\4NicheTopics\06_WeWork_Collapse_VideoPlan.md)
+
+a.1) 🎙️ ELEVENLABS SCRIPT section as reference to this new section 
