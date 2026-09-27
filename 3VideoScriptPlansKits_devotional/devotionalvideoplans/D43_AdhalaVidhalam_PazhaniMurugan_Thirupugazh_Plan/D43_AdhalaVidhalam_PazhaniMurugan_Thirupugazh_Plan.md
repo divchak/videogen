@@ -424,7 +424,7 @@ absolute primordial darkness before creation's full articulation — shown as an
 luminous translucent sphere containing swirling proto-galactic light within its membrane,
 deep indigo-black void surrounding it studded with countless distant stars, the faintest
 golden pulse beginning to beat at the sphere's core in perfect rhythm with the opening
-chandam syllables (thanana thanathanana...) — each rhythmic beat visualized as a ripple
+chandam — each rhythmic beat visualized as a ripple
 of golden light traveling across the cosmic egg's surface, absolute cosmic scale and silence
 but for the building rhythm, ultra vast cosmic photorealistic cinematic quality, deep
 indigo-gold cosmic palette, shot on ARRI Alexa 65 with anamorphic lens, volumetric cosmic
@@ -563,7 +563,7 @@ palm-leaf manuscript and stylus in hand under the growing dawn light, each Tamil
 inscribes glowing briefly gold on the leaf before settling into permanent script, around
 him the completed sections of Thirupugazh appear as a faint golden garland of Tamil letters
 encircling the frame, his expression one of complete devoted concentration — 'urimai adimai
-unai andri prapancham adhai nambuvenoO' (would I trust the universe over you) visible as
+unai andri prapancham adhai nambuveno' (would I trust the universe over you) visible as
 the final glowing phrase of this section, ultra sacred literary devotion photorealistic
 cinematic quality, golden manuscript dawn palette, 8K
 ```
