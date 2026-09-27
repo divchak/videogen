@@ -361,3 +361,8 @@ Mass appeal folk-rock devotional anthem for Palani Dhandayuthapani, strong acous
 **For:** Vibe Iraiva YouTube Channel — High Quality 3D Animated Devotional Content  
 **Deity:** Arulmigu Dhandayuthapani Swamy, Palani | One of the Six Abodes of Murugan (Arupadai Veedu)  
 **Special Focus:** Bogar Siddhar + Navapashanam + Hill Climb Metaphor + Thai Poosam / Panguni Uthiram Energy
+
+
+
+##tamil english tamil lyrics
+

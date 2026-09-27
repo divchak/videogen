@@ -443,7 +443,7 @@ reclining in perfect divine repose on the enormous coils of Adisesha the cosmic
 serpent — utterly at rest yet completely the sovereign of the cosmos, golden-
 blue divine aura surrounding the entire reclining form, Kaveri river sound and
 Srirangam lotus tanks visible in soft sacred focus behind, ultra magnificent
-sacred reclining Pixar quality, sacred dark-blue-gold divine palette, 8K
+sacred reclining , sacred dark-blue-gold divine palette, 8K
 ```
 
 ---
@@ -476,7 +476,7 @@ gift-giving, one held to the heart as the gesture of love, the sacred golden
 glow of the divine lotus surrounding her entire form, expression: the complete
 convergence of beauty and mercy and power in one divine face, rose-gold warm
 divine aura, Srirangam temple pillars visible in sacred soft focus behind,
-ultra beautifully compassionate sacred Pixar quality, sacred gold-crimson-lotus
+ultra beautifully compassionate sacred , sacred gold-crimson-lotus
 divine palette, 8K
 ```
 
@@ -508,7 +508,7 @@ the coil-body creating a perfectly comfortable divine seat that simultaneously
 shows the philosophy: Adisesha has transformed his entire physical existence
 into service, golden Srirangam temple light falling on the luminous coils,
 lotus flowers and Tulasi naturally resting on the coil surfaces as sacred
-offerings, ultra magnificently sacred divine-service Pixar quality, white-gold
+offerings, ultra magnificently sacred divine-service , white-gold
 divine servitude sacred palette, 8K
 ```
 
@@ -543,7 +543,7 @@ appearing as tiny floating golden Tamil letters rising from his words toward
 the temple, Srirangam's sacred gopuram visible in pre-dawn silhouette behind
 him, the Kaveri river audible in the darkness, a sacred lamp (Vilakku) burning
 beside him in the garden — his light in the pre-dawn garden, ultra sacred
-beautifully humble devotional Pixar quality, pre-dawn garden gold-warm palette, 8K
+beautifully humble devotional , pre-dawn garden gold-warm palette, 8K
 ```
 
 ---
@@ -572,7 +572,7 @@ showing his devotional identity, wearing divine golden armlets and divine jewell
 befitting the Lord's own vehicle, shown descending from the dawn sky toward
 Srirangam temple as dawn breaks — his golden wings catching and multiplying the
 first light of the sun, a tiny golden divine aura visible around his entire form,
-ultra magnificently powerful yet devotionally sacred Pixar quality, sacred gold-
+ultra magnificently powerful yet devotionally sacred , sacred gold-
 dawn-light divine eagle palette, 8K
 ```
 
@@ -585,7 +585,7 @@ dawn-light divine eagle palette, 8K
 ### Scene 1: SRIRANGAM TEMPLE AT PRE-DAWN (0:00–0:10)
 **Song Section:** Kaveri flow + temple bell opening
 ```
-3D Pixar sacred animation cinematic opening, Srirangam Ranganathaswamy temple —
+Hyper realistic  cinematic opening, Srirangam Ranganathaswamy temple —
 the greatest Vaishnava temple of Tamil Nadu and the largest functioning Hindu
 temple complex in the world — at absolute pre-dawn darkness, the Kaveri river
 flowing silently past the sacred island-temple of Srirangam catching the first
@@ -598,7 +598,7 @@ stone walls, the absolute pre-dawn sacred silence — the moment just before the
 first temple bell breaks it, sacred lotus flowers in the temple tanks beginning
 to sense the coming dawn — still closed but beginning to stir, a single egret
 on the Kaveri bank standing in motionless pre-dawn meditation, ultra majestic
-pre-dawn sacred Pixar quality, deep indigo-violet-amber sacred palette, 8K
+pre-dawn sacred , deep indigo-violet-amber sacred palette, 8K
 ```
 
 ---
@@ -606,7 +606,7 @@ pre-dawn sacred Pixar quality, deep indigo-violet-amber sacred palette, 8K
 ### Scene 2: THE DAWN BELL AND CONCH — TEMPLE AWAKENS (0:10–0:20)
 **Song Section:** First conch + veena drone
 ```
-3D Pixar sacred animation Srirangam pre-dawn temple awakening, the sacred
+Hyper realistic  Srirangam pre-dawn temple awakening, the sacred
 morning ritual beginning inside the inner sanctum corridors: the chief priest
 of Srirangam standing at the entrance of the sacred Garbhagriha (inner sanctum)
 in the pre-dawn darkness holding the sacred Shankha conch — its sacred white
@@ -621,7 +621,7 @@ jasmine, sacred Tulasi — visible in flower-baskets brought for the Lord's morn
 worship, priests in white moving with practiced sacred purpose through the ancient
 stone space, the specific pre-dawn air of the Srirangam inner sanctum: cool, stone-
 scented, heavy with incense and sacred lamp smoke from a thousand years of morning
-rituals, ultra sacred pre-dawn ritual Pixar quality, ancient stone-amber sacred palette, 8K
+rituals, ultra sacred pre-dawn ritual , ancient stone-amber sacred palette, 8K
 ```
 
 ---
@@ -629,7 +629,7 @@ rituals, ultra sacred pre-dawn ritual Pixar quality, ancient stone-amber sacred 
 ### Scene 3: THE SUN RISES IN THE EAST — KUNADISAI DAWN (0:20–0:30)
 **Song Section:** Pasuram 1 — "Kadiravan Kunadisai Sigaram Vandhanainthan"
 ```
-3D Pixar sacred animation cosmic dawn scene, the sacred moment described in
+Hyper realistic cinematic  sacred animation cosmic dawn scene, the sacred moment described in
 Pasuram 1 — the sun arriving at the eastern mountain peak: the great eastern
 horizon behind Srirangam showing the sun's golden disc appearing exactly at
 the peak of the distant eastern hills, the specific sequence of dawn colors
@@ -640,10 +640,10 @@ the eastern hill peak as described — "Kadiravan Kunadisai Sigaram Vandhanainth
 first golden light and suddenly sparkling with a thousand sacred golden points
 of reflected sunlight, the enormous lotus flowers in the temple tanks beginning
 to open simultaneously as the light reaches them — the sacred blooming shown in
-real-time gentle Pixar animation as each lotus petal slowly unfurls, night birds
+real-time gentle  as each lotus petal slowly unfurls, night birds
 returning to their trees, day birds beginning to stir, the sacred darkness
 dissolving — "Kanavirul Agandrathu" (darkness dispersed), ultra magnificent
-dawn arrival Pixar quality, dawn gold-rose-violet sacred palette, 8K
+dawn arrival , dawn gold-rose-violet sacred palette, 8K
 ```
 
 ---
@@ -651,7 +651,7 @@ dawn arrival Pixar quality, dawn gold-rose-violet sacred palette, 8K
 ### Scene 4: LORD RANGANATHA — THE SLEEPING COSMIC LORD (0:30–0:40)
 **Song Section:** Celestial beings gathering — "Vaanavar Arasar Gal"
 ```
-3D Pixar sacred animation divine sanctum reveal, inside the sacred inner sanctum
+Hyper realistic  divine sanctum reveal, inside the sacred inner sanctum
 of Srirangam at dawn — the most sacred view in all of Tamil Vaishnava tradition:
 the enormous sacred form of Lord Ranganatha reclining on Adisesha the cosmic
 serpent, facing south, the golden divine lamps of the sanctum casting warm
@@ -666,7 +666,7 @@ visible in a separate shrine to the right with golden lamp light, the first
 dawn light beginning to penetrate from the outer corridors toward the sanctum —
 the outer darkness giving way to sacred golden inner light, celestial beings
 (shown as luminous divine figures) beginning to gather at the sanctum entrance,
-ultra magnificent sacred inner sanctum Pixar quality, golden-amber-sacred blue
+ultra magnificent sacred inner sanctum , golden-amber-sacred blue
 divine palette, 8K
 ```
 
@@ -675,13 +675,13 @@ divine palette, 8K
 ### Scene 5: LOTUS FLOWERS BLOOM IN SACRED KAVERI DAWN (0:40–0:50)
 **Song Section:** "Mathuvirin Thozhugina Maamalar Ellaam"
 ```
-3D Pixar sacred animation lotus dawn scene, the sacred Kaveri riverbank alongside
+Hyper realistic  lotus dawn scene, the sacred Kaveri riverbank alongside
 Srirangam at the exact moment of full lotus blooming — described beautifully
 in Pasuram 1 as "Mathuvirin Thozhugina Maamalar Ellaam" (all the great flowers
 bloomed spreading their honey), a wide view of the sacred Kaveri showing the
 river's surface literally covered with white and pink lotus flowers all opening
 simultaneously in the new dawn light, each lotus opening shown in beautiful
-gentle Pixar animation — the petals separating and spreading, the golden sacred
+gentle  — the petals separating and spreading, the golden sacred
 pollen inside catching the morning light, the specific honey-fragrance of lotus
 dawn made visible as faint golden mist rising from the flowers into the dawn air,
 sacred bees (referred to in the Tamil as Mathu) awakening and beginning to move
@@ -689,7 +689,7 @@ toward the opened flowers — the first sacred movement of insect life in the ne
 day, the Kaveri reflecting both the blooming lotuses above and the first gold
 of the sky in its sacred current simultaneously, water birds on the lotus leaves
 stepping carefully from flower to flower, ultra beautifully sacred lotus dawn
-Pixar quality, sacred lotus-white-gold-Kaveri dawn palette, 8K
+, sacred lotus-white-gold-Kaveri dawn palette, 8K
 ```
 
 ---
@@ -697,7 +697,7 @@ Pixar quality, sacred lotus-white-gold-Kaveri dawn palette, 8K
 ### Scene 6: SACRED ELEPHANTS AND CELESTIAL PROCESSION (0:50–1:00)
 **Song Section:** "Vaanavar Arasar Gal Vandhu Vandhu Eendi" — celestial kings arrive
 ```
-3D Pixar sacred animation celestial procession scene, the arrival described in
+Hyper realistic  celestial procession scene, the arrival described in
 Pasuram 1 — the celestial kings and divine beings arriving at Srirangam in a
 great procession: luminous divine figures (Devas shown as radiant beings in
 golden-white divine forms) filling the approach to the temple from all four
@@ -710,7 +710,7 @@ played by divine drummers creating a sound like "the shaking sea" as the Pasuram
 describes — "Adhirdhalil Alaikadal Poandruladu Engum" (like a rolling sea
 everywhere) — the entire space before the temple filled with the most magnificent
 sacred procession imaginable, all facing the inner sanctum where the Lord awaits
-his morning awakening, ultra magnificent celestial procession Pixar quality,
+his morning awakening, ultra magnificent celestial procession ,
 divine gold-white ceremonial procession sacred palette, 8K
 ```
 
@@ -719,7 +719,7 @@ divine gold-white ceremonial procession sacred palette, 8K
 ### Scene 7: THE MORNING WIND FROM THE EAST (1:00–1:10)
 **Song Section:** Pasuram 2 — "Kozhungodi Mullaiyin Kozhuthmalaar Anavi"
 ```
-3D Pixar sacred animation dawn wind arrival scene, the beautiful dawn described
+Hyper realistic  dawn wind arrival scene, the beautiful dawn described
 in Pasuram 2 — the fragrant eastern morning wind arriving carrying the scent of
 jasmine: a gently flowing golden-tinted wind current visible as transparent golden
 wisps moving from the east through the jasmine-covered creepers near the temple —
@@ -732,7 +732,7 @@ of the ancient temple, finally arriving where Lord Ranganatha sleeps as if to sa
 the very fragrance of the earth's flowers has come to wake the Lord, sacred birds
 on branches feeling the new breeze and beginning to stir, the pre-dawn air taking
 on that specific quality of Tamil dawn that the Alvars loved, ultra beautifully
-fragrant sacred dawn wind Pixar quality, jasmine-white-gold dawn wind palette, 8K
+fragrant sacred dawn wind , jasmine-white-gold dawn wind palette, 8K
 ```
 
 ---
@@ -740,12 +740,12 @@ fragrant sacred dawn wind Pixar quality, jasmine-white-gold dawn wind palette, 8
 ### Scene 8: DIVINE SWANS ARISE — LOTUS BED AWAKENS (1:10–1:20)
 **Song Section:** "Ezhundana Malarannai Palliguul Annam"
 ```
-3D Pixar sacred animation divine swan awakening scene, the beautiful image of
+Hyper realistic  divine swan awakening scene, the beautiful image of
 Pasuram 2 — the great swans (Annam) rising from their flower-beds: a sacred
 pond near the temple at dawn showing five or six enormous divine white swans
 who have been sleeping on lotus pads — "Ezhundana Malarannai Palliguul Annam"
 (the swans rose from their lotus-bed sleeping place) — now awakening with the
-first light, each swan rising in a sequence of divine Pixar animation: they
+first light, each swan rising in a sequence of divine : they
 shake their enormous white wings spreading their feathers wide to scatter the
 dew — "Eenpaninanaindhadum Irunjiraghu Udhari" (shaking their large wings wet
 with dew), the dew droplets flying from their wings catching the dawn light
@@ -753,7 +753,7 @@ as hundreds of tiny sacred diamonds scattering into the air, then the swans
 rising into the air with the specific sacred elegance of the Hamsa bird that
 is itself the symbol of the liberated soul in Vaishnava theology, their white
 forms reflecting perfectly in the still sacred pond below, the sound of their
-wings a sacred music in itself, ultra beautifully sacred swan dawn Pixar quality,
+wings a sacred music in itself, ultra beautifully sacred swan dawn ,
 white-lotus-sacred-gold dawn palette, 8K
 ```
 
@@ -762,7 +762,7 @@ white-lotus-sacred-gold dawn palette, 8K
 ### Scene 9: LORD VISHNU RESCUES THE ELEPHANT — GAJENDRA MOKSHAM (1:20–1:30)
 **Song Section:** Pasuram 2 — Gajendra rescue reference
 ```
-3D Pixar sacred animation epic divine rescue scene, the mythological event
+Hyper realistic  epic divine rescue scene, the mythological event
 referenced in Pasuram 2 — Gajendra Moksham: the sacred story of Gajendra the
 elephant king who was seized by a crocodile in a sacred lake: shown as a great
 white sacred elephant Gajendra in a lotus lake, its leg seized in the enormous
@@ -778,7 +778,7 @@ free in the instant of divine grace — "Azhungiya Aanayin Arunthuyar Keduththa"
 (dispelling the great suffering of the drowning elephant), the crocodile itself
 receiving liberation in the moment of its death by divine contact, Gajendra
 rising free with the lotus — his act of devotion complete, ultra magnificently
-sacred rescue Pixar quality, sacred rescue gold-lotus-divine blue palette, 8K
+sacred rescue , sacred rescue gold-lotus-divine blue palette, 8K
 ```
 
 ---
@@ -786,7 +786,7 @@ sacred rescue Pixar quality, sacred rescue gold-lotus-divine blue palette, 8K
 ### Scene 10: THONDARADIPODI ALVAR IN HIS SACRED GARDEN (1:30–1:40)
 **Song Section:** The devotee-composer present at Srirangam
 ```
-3D Pixar sacred animation intimate devotional scene, Thondaradipodi Alvar in
+Hyper realistic  intimate devotional scene, Thondaradipodi Alvar in
 his sacred garden outside Srirangam temple in the growing dawn light — the
 garden he maintained entirely for growing flowers and Tulasi for the Lord's
 daily worship: shown as a small but paradise-beautiful garden of extraordinary
@@ -802,7 +802,7 @@ flower basket, still composing the Pasuram lines as he works — we can see the
 golden sacred text appearing beside him as his lips move in simultaneous prayer
 and work, his simple white garments slightly damp with pre-dawn dew, Srirangam's
 gopuram glowing now with the growing dawn behind him, ultra intimately sacred
-devotional garden Pixar quality, sacred garden gold-green dawn palette, 8K
+devotional garden , sacred garden gold-green dawn palette, 8K
 ```
 
 ---
@@ -810,7 +810,7 @@ devotional garden Pixar quality, sacred garden gold-green dawn palette, 8K
 ### Scene 11: THE CELESTIAL SUN GOD ARRIVES IN GOLDEN CHARIOT (1:40–1:50)
 **Song Section:** Pasuram 6 — "Iraviyar Maninetun Therrodum Ivaroo"
 ```
-3D Pixar sacred animation cosmic arrival scene, the divine assembly described
+Hyper realistic  cosmic arrival scene, the divine assembly described
 in Pasuram 6 arriving at Srirangam: the Sun God (Surya/Iraviyar) descending
 from the celestial realm in his magnificent chariot — "Iraviyar Maninetun
 Therrodum Ivaroo" (the sun-gods with their jewelled great chariots, are they
@@ -825,7 +825,7 @@ arriving on their divine bulls — "Iraiavar Pathinnoru Vidaiyarum Ivaroo"
 Mayilinan Arumukan Ivanoo" — the peacock's tail feathers spread in the dawn
 light as iridescent blue-green-gold sacred wheel, all these divine beings
 converging on Srirangam for the Lord's morning awakening, ultra spectacular
-divine arrival Pixar quality, celestial gold-dawn-divine chariot palette, 8K
+divine arrival , celestial gold-dawn-divine chariot palette, 8K
 ```
 
 ---
@@ -833,7 +833,7 @@ divine arrival Pixar quality, celestial gold-dawn-divine chariot palette, 8K
 ### Scene 12: THE CELESTIAL ARMY BEFORE THE TEMPLE (1:50–2:00)
 **Song Section:** Pasuram 6 — "Puraviyoodu Aadhalum Paadalum Therum"
 ```
-3D Pixar sacred animation epic sacred assembly scene, the spectacular gathering
+Hyper realistic  epic sacred assembly scene, the spectacular gathering
 described in Pasuram 6 — the divine army and assembly before Srirangam temple:
 "Puraviyoodu Aadhalum Paadalum Therum Kumaradandam Pugundhu Eendiya Vellam"
 (an ocean of divine armies with horses, dancing, singing, chariots, the divine
@@ -847,7 +847,7 @@ army arranged in sacred formation — not for war but for the morning puja
 where Ranganatha sleeps, the entire scene having the quality described:
 "Aruvarai Anaiya" (like an unmovable mountain) — this assembly is an immovable
 mountain of devotion before the Lord's gate, ultra magnificently epic sacred
-assembly Pixar quality, divine gold-dawn-celestial assembly sacred palette, 8K
+assembly , divine gold-dawn-celestial assembly sacred palette, 8K
 ```
 
 ---
@@ -855,7 +855,7 @@ assembly Pixar quality, divine gold-dawn-celestial assembly sacred palette, 8K
 ### Scene 13: INDRA'S ELEPHANT AIRAVATA AT THE TEMPLE GATE (2:00–2:10)
 **Song Section:** Pasuram 7 — "Indiran Aannaiyum Thaanum Vandhu Ivanoo"
 ```
-3D Pixar sacred animation divine entrance scene, from Pasuram 7 — Indra the
+Hyper realistic  divine entrance scene, from Pasuram 7 — Indra the
 king of the gods himself arriving at Srirangam temple with his sacred white
 elephant Airavata: the temple's outer gate showing the approach of Indra — the
 king of Devas — on his magnificent celestial white elephant Airavata, the most
@@ -870,7 +870,7 @@ Nerukka Visaadharar Nooka" (the Sundaras pressing, the Visakas pushing) —
 the celestial beings crowding toward the inner sanctum so enthusiastically that
 even divine beings cannot find space — "Andharam Paaritam Illai Mattr Ithuvoo"
 (neither in the sky nor on the earth is there any more space!) — the absolute
-devotional crowd gathered, ultra magnificently crowded sacred arrival Pixar quality,
+devotional crowd gathered, ultra magnificently crowded sacred arrival ,
 celestial white-gold-divine crowd palace, 8K
 ```
 
@@ -879,7 +879,7 @@ celestial white-gold-divine crowd palace, 8K
 ### Scene 14: TUMBURU AND NARADA ENTER WITH VEENA AND SONG (2:10–2:20)
 **Song Section:** Pasuram 8 — "Thumburu Naarathar Pugundhanar Ivaroo"
 ```
-3D Pixar sacred animation celestial musician arrival scene, the beautiful moment
+Hyper realistic  celestial musician arrival scene, the beautiful moment
 from Pasuram 8 — the celestial musicians Tumburu and Narada entering the temple
 for the Lord's morning worship: "Thumburu Naarathar Pugundhanar Ivaroo" (Tumburu
 and Naradha have entered, are they here?) — shown as two celestial sage-musicians
@@ -895,7 +895,7 @@ dawn as they walk — the music of divine welcome beginning before Narada has ev
 reached his place, the sacred morning offering that Narada and Tumburu bring:
 not flowers or incense but the most divine music ever composed — the celestial
 concert for the Lord's morning awakening, ultra beautifully sacred musician arrival
-Pixar quality, sacred golden musician dawn palette, 8K
+, sacred golden musician dawn palette, 8K
 ```
 
 ---
@@ -903,7 +903,7 @@ Pixar quality, sacred golden musician dawn palette, 8K
 ### Scene 15: KINNARA AND GANDHARVA CONCERT IN DIVINE ASSEMBLY (2:20–2:30)
 **Song Section:** Pasuram 9 — Sacred music of all celestial beings
 ```
-3D Pixar sacred animation celestial concert scene, the extraordinary music
+Hyper realistic  celestial concert scene, the extraordinary music
 described in Pasuram 9 — the all-night concert before the Lord performed by
 every category of celestial musician: "Ethamil Thannumai Ekkam Matthaliyee,
 Yaazh Kuzhal Muzhavamodu Isai Thisai Kezhumi" (the flawless thannumai drums,
@@ -919,7 +919,7 @@ musicians of Indra's court) in their divine garments playing the divine Yaazh
 flowing through the stone hall and toward the inner sanctum where Ranganatha hears
 all of this and stirs, all of them having performed all through the night — their
 absolute joy at having been present for the Lord's sleeping and now for his waking,
-ultra gloriously sacred concert Pixar quality, divine music gold-amber concert palette, 8K
+ultra gloriously sacred concert , divine music gold-amber concert palette, 8K
 ```
 
 ---
@@ -927,7 +927,7 @@ ultra gloriously sacred concert Pixar quality, divine music gold-amber concert p
 ### Scene 16: DAWN LIGHT REACHES THE INNER SANCTUM (2:30–2:40)
 **Song Section:** Dawn fully established — transition to awakening
 ```
-3D Pixar sacred animation sacred light penetration scene, the moment of full
+Hyper realistic  sacred light penetration scene, the moment of full
 dawn reaching the innermost sacred space of Srirangam — the progression of
 golden dawn light moving from outside through the seven sacred enclosures
 (Prakarams) of the enormous Srirangam temple complex inward toward the divine
@@ -942,7 +942,7 @@ this is the theological visual of the hymn: the entire world has awakened, all
 celestial beings have assembled, all creation is ready, all music has been played
 — now the Lord himself alone remains in sacred sleep at the center of it all,
 waiting to be called by love alone, ultra magnificently sacred light-journey
-Pixar quality, concentric sacred dawn gold-amber palette, 8K
+, concentric sacred dawn gold-amber palette, 8K
 ```
 
 ---
@@ -950,7 +950,7 @@ Pixar quality, concentric sacred dawn gold-amber palette, 8K
 ### Scene 17: THONDARADIPODI ALVAR SINGS AT THE SANCTUM ENTRANCE (2:40–2:50)
 **Song Section:** Pasuram 10 begins — the devotee's personal verse
 ```
-3D Pixar sacred animation devotional climax scene, Thondaradipodi Alvar standing
+Hyper realistic  devotional climax scene, Thondaradipodi Alvar standing
 at the threshold of the inner sanctum of Srirangam at full dawn — his woven basket
 of freshly gathered flowers and Tulasi in one hand, his other hand raised in the
 gesture of devotional singing, singing directly to Lord Ranganatha in the sacred
@@ -966,7 +966,7 @@ his name-meaning ("dust of devotees' feet") visible in every element of his post
 and expression, the golden text of the final Pasuram 10 rising from his lips:
 "Thodaioththa Thuluvamum Koodaiyum Polindhu Thoandriiya Thool Thondaradipodi
 Ennum Adiyanai Aliyan Endru Aruli..." — the most humble self-description in all
-of Tamil devotional literature, ultra sacred intimate devotional Pixar quality,
+of Tamil devotional literature, ultra sacred intimate devotional ,
 dawn-lamp threshold sacred gold palette, 8K
 ```
 
@@ -975,10 +975,10 @@ dawn-lamp threshold sacred gold palette, 8K
 ### Scene 18: LORD RANGANATHA AWAKENS — THE SACRED MOMENT (2:50–3:00)
 **Song Section:** "Palli Ezhundarulaaye!" — the Lord's awakening
 ```
-3D Pixar sacred animation supreme divine awakening scene, the sacred moment
+Hyper realistic  supreme divine awakening scene, the sacred moment
 toward which all ten Pasurams have been building — Lord Ranganatha in his inner
 sanctum beginning to awaken from his divine Yoga Nidra: shown in the most
-tender and majestic Pixar animation sequence imaginable: the Lord's closed eyes
+tender and majestic  sequence imaginable: the Lord's closed eyes
 — those lotus eyes described throughout Tamil devotional literature — beginning
 to open very slowly, the lashes parting to reveal the full sacred beauty of
 his divine gaze, the first sight those opening divine eyes see: the entire inner
@@ -992,7 +992,7 @@ awakening, Goddess Ranganayaki's shrine to the right glowing more brightly as
 if she too is relieved and joyful — for the Lord has heard the devotees' love,
 the golden lamp flames all brightening simultaneously — the most sacred visual
 of divine grace responding to human devotion, ultra sacredly beautiful divine
-awakening Pixar quality, sacred awakening gold-blue divine grace palette, 8K
+awakening , sacred awakening gold-blue divine grace palette, 8K
 ```
 
 ---
@@ -1000,7 +1000,7 @@ awakening Pixar quality, sacred awakening gold-blue divine grace palette, 8K
 ### Scene 19: THE ALVAR'S SURRENDER — PALLI EZHUNDARULAAYE (3:00–3:10)
 **Song Section:** Pasuram 10 — "Adiyanai Aliyan Endru Aruli Un Adiyaarkku Aatpaduthaai"
 ```
-3D Pixar sacred animation supreme devotional surrender scene, the theological
+Hyper realistic  supreme devotional surrender scene, the theological
 climax of Thiruppalliyezhuchi — Thondaradipodi Alvar's complete self-surrender
 in Pasuram 10: "Adiyanai Aliyan Endru Aruli Un Adiyaarkku Aatpaduthaai Palli
 Ezhundarulaaye!" (Considering this humble servant as worthy of compassion, make
@@ -1016,7 +1016,7 @@ Alvar a servant NOT of himself directly but of his devotees — the highest grac
 in the Vaishnava Acharya tradition, a golden light connecting the Lord's gaze
 to the prostrated Alvar, the ancient stone floor of Srirangam beneath them both
 — one the cosmic Lord, one the dust of devotees' feet — and between them: grace,
-ultra magnificently sacred surrender Pixar quality, sacred surrender gold-amber palette, 8K
+ultra magnificently sacred surrender , sacred surrender gold-amber palette, 8K
 ```
 
 ---
@@ -1024,7 +1024,7 @@ ultra magnificently sacred surrender Pixar quality, sacred surrender gold-amber 
 ### Scene 20: GRAND FINALE — SRIRANGAM IN FULL SACRED DAWN (3:10–3:20)
 **Song Section:** Grand finale refrain — full assembly
 ```
-3D Pixar sacred animation supreme grand finale scene, the complete sacred morning
+Hyper realistic  supreme grand finale scene, the complete sacred morning
 of Srirangam after the Lord's awakening — shown in the most magnificent aerial
 establishing shot imaginable: the enormous Srirangam temple island bathed in full
 golden morning light, the Kaveri river flowing in luminous sacred gold on both
@@ -1040,7 +1040,7 @@ golden light — Lord Ranganatha awake and gracious to receive his devotees, the
 morning puja lamps visible as amber points of warm light even from this aerial
 view, Tamil Nadu's sacred landscape visible beyond: paddy fields, coconut groves,
 ancient sacred geography all in morning gold, ultra magnificently sacred dawn
-aerial Pixar quality, sacred morning gold-Kaveri-blue complete palette, 8K
+aerial , sacred morning gold-Kaveri-blue complete palette, 8K
 ```
 
 ---
@@ -1048,7 +1048,7 @@ aerial Pixar quality, sacred morning gold-Kaveri-blue complete palette, 8K
 ### Scene 21: GARUDA SEVAI — THE LORD ON HIS DIVINE EAGLE (3:20–3:30)
 **Song Section:** Divine grace flowing — Garuda carries the Lord
 ```
-3D Pixar sacred animation Garuda Sevai sacred scene, Lord Ranganatha now shown
+Hyper realistic  Garuda Sevai sacred scene, Lord Ranganatha now shown
 in the sacred Utsava form — the processional deity form that comes out of the
 sanctum on auspicious occasions — seated with absolute divine grace on the back
 of Garuda in the sacred Garuda Sevai that is the highest grace vision for
@@ -1062,7 +1062,7 @@ moment of maximum sacred glory, the entire assembly of celestial beings around
 and below Garuda in the sky above Srirangam in absolute devotional joy —
 the sight that all the celestial beings and the Alvar came to see, Srirangam
 temple visible below and the Kaveri sparkling beneath this sacred vision in the
-sky, ultra magnificently sacred Garuda Sevai Pixar quality, sacred sky-gold-divine
+sky, ultra magnificently sacred Garuda Sevai , sacred sky-gold-divine
 blue Garuda Sevai palette, 8K
 ```
 
@@ -1071,7 +1071,7 @@ blue Garuda Sevai palette, 8K
 ### Scene 22: THE KAVERI RIVER — SACRED GEOGRAPHY OF DEVOTION (3:30–3:40)
 **Song Section:** Srirangam's sacred geography
 ```
-3D Pixar sacred animation sacred river geography scene, the Kaveri river that
+Hyper realistic  sacred river geography scene, the Kaveri river that
 makes Srirangam the sacred island-temple it is — shown in its full morning glory:
 the sacred Kaveri flowing from right to left across the frame with the morning
 sun catching every ripple as a golden-white flash of sacred light, the river's
@@ -1086,7 +1086,7 @@ caught in the river current and floating toward the temple island as if the rive
 itself is making offerings, devotees visible as tiny figures at the river ghats
 performing their morning ablutions before the temple, the river's sound itself
 sacred — the specific sound of Kaveri at Srirangam that devotees have described
-as the Lord's voice, ultra beautifully sacred river geography Pixar quality,
+as the Lord's voice, ultra beautifully sacred river geography ,
 Kaveri sacred morning gold-water palette, 8K
 ```
 
@@ -1095,7 +1095,7 @@ Kaveri sacred morning gold-water palette, 8K
 ### Scene 23: ALL DEVOTEES ACROSS TIME — SRIRANGAM PILGRIMAGE (3:40–3:50)
 **Song Section:** Universal devotion — all traditions united
 ```
-3D Pixar sacred animation devotional community scene, the devotees of Srirangam
+Hyper realistic  devotional community scene, the devotees of Srirangam
 shown across time and geography as one sacred community united by Thiruppalliyezhuchi:
 a montage composition showing the same sacred morning puja at Srirangam across
 centuries — ancient Chola era devotees in their period clothing, medieval Alvar
@@ -1109,7 +1109,7 @@ at every Ranganathaswamy temple in the world, golden threads of sacred connectio
 visible between all the devotees and between all of them and Srirangam at the
 center, Thondaradipodi Alvar himself visible at the center of this sacred web as
 the original composer — his humble act of morning devotion having created a thread
-that has never broken, ultra magnificently sacred devotional community Pixar quality,
+that has never broken, ultra magnificently sacred devotional community ,
 sacred global devotion gold-warm community palette, 8K
 ```
 
@@ -1118,7 +1118,7 @@ sacred global devotion gold-warm community palette, 8K
 ### Scene 24: RANGANATHA'S LOTUS FEET — SACRED CLOSING (3:50–4:00)
 **Song Section:** Closing — dawn complete — sacred rest
 ```
-3D Pixar sacred animation transcendent closing scene, the final image of absolute
+Hyper realistic  transcendent closing scene, the final image of absolute
 devotional completion — the lotus feet of Lord Ranganatha: shown in loving sacred
 detail, the specific sacred beauty of the divine feet of Ranganatha that are
 the highest object of Vaishnava devotion — the lotus marks on the soles visible
@@ -1134,7 +1134,7 @@ on clear Kaveri water — the most essential sacred emblem of Vaishnava devotion
 the river carrying the sacred leaf downstream, and in the moving water a golden
 OM in transliterated script appearing: OM — then dissolving in the Kaveri current,
 the sound of the morning Kaveri remaining after all the music fades, ultra
-peacefully transcendent closing sacred Pixar quality, sacred Kaveri dawn sacred
+peacefully transcendent closing sacred , sacred Kaveri dawn sacred
 feet gold palette, 8K
 ```
 
@@ -1621,7 +1621,7 @@ ranganatha 3d animation, srirangam kaveri, thondaradipodi, arangathtamma
 **Lyric basis:** *"கதிரவன் குணதிசைச் சிகரம் வந்தணைந்தான் / கனவிருள் அகன்றது காலையம் பொழுதாய் / மதுவிரிந்தொழுகின மாமலர் எல்லாம்"*
 *(The sun arrived at the eastern mountain peak / The deep darkness dissolved — it became the morning hour / All the great flowers bloomed spreading their honey)*
 ```
-3D Pixar sacred animation, the precise visual described in Pasuram 1's opening:
+Hyper realistic , the precise visual described in Pasuram 1's opening:
 the eastern horizon showing a tall mountain range silhouetted against the night
 sky — at the very peak of the highest eastern mountain, the sun's golden disc
 appearing like a crown being placed on the mountain's head — "Kadiravan Kunadisai
@@ -1634,7 +1634,7 @@ at the mountain peak a wave of transformation flows outward: "Kanavirul Agandrat
 a deep dream) dissolving as if waking, and simultaneously across the entire
 foreground the sacred lotus fields of the Kaveri and the Srirangam temple tanks
 responding — every single lotus flower opening at the identical moment the sun
-crests that peak, the opening shown in loving slow-motion Pixar animation: each
+crests that peak, the opening shown in loving slow-motion : each
 petal unfolding from tight bud to full spread, the golden pollen interior catching
 the first horizontal rays of direct sunlight, the specific honey-fragrance of lotus
 made visible as tiny golden-white mist droplets rising from each opening flower —
@@ -1642,7 +1642,7 @@ made visible as tiny golden-white mist droplets rising from each opening flower 
 opening simultaneously creating a sea of white and pink spreading toward Srirangam,
 the whole scene lit by the specific quality of first horizontal sunlight: warm gold,
 long shadows, everything touched by grace, ultra magnificently sacred dawn-arrival
-Pixar quality, sacred mountain-peak-gold-lotus dawn palette, 8K
+, sacred mountain-peak-gold-lotus dawn palette, 8K
 ```
 
 ---
@@ -1651,7 +1651,7 @@ Pixar quality, sacred mountain-peak-gold-lotus dawn palette, 8K
 **Lyric basis:** *"வானவர் அரசர்கள் வந்துவந்தீண்டி / எதிர்திசை நிறைந்தனர் இவரொடும் புகுந்த / இருங்களிற்றீட்டமும் பிடியொடும் முரசும் / அதிர்தலில் அலைகடல் போன்றுள தெங்கும்"*
 *(The celestial kings came and came and crowded / They filled the facing directions / The great dark elephant herds that entered with them, along with the female elephants and the war drums / Everywhere, like a rolling, shaking sea)*
 ```
-3D Pixar sacred animation epic celestial procession scene — directly visualizing
+Hyper realistic  epic celestial procession scene — directly visualizing
 the overwhelming arrival described in Pasuram 1's second half: an aerial wide shot
 of the four cardinal directions around Srirangam temple each filled to the horizon
 with approaching divine processions — "Edhirdisai Nirainthanar" (they filled the
@@ -1673,7 +1673,7 @@ as concentric rings of golden sound-waves radiating outward from each drum-beat
 and spreading across the water of the Kaveri — the river's surface visibly
 rippling in response to the divine drum-sound, the entire scene conveying the
 overwhelming scale and grandeur of every direction simultaneously being filled
-with divine arrival, ultra monumentally epic celestial procession Pixar quality,
+with divine arrival, ultra monumentally epic celestial procession ,
 sacred elephant-gold-dawn-drum procession palette, 8K
 ```
 
@@ -1688,7 +1688,7 @@ sacred elephant-gold-dawn-drum procession palette, 8K
 **Lyric basis:** *"கொழுங்கொடி முல்லையின் கொழுமலர் அணவிக் கூர்ந்தது குணதிசை மாருதம் இதுவோ / எழுந்தன மலரணைப் பள்ளிகொள் அன்னம் / ஈன்பனி நனைந்ததும் இருஞ்சிறகு உதறி"*
 *(From the rich-creeper jasmine's full-bloomed flowers, the eastern wind has sharpened — is this it? / The swans that slept on the flower-beds arose / They shook their great wings wet with fresh dew)*
 ```
-3D Pixar sacred animation dual-focus dawn scene — capturing both the lyrical
+Hyper realistic  dual-focus dawn scene — capturing both the lyrical
 images of Pasuram 2's first half simultaneously: on the left side of the frame,
 a section of the Srirangam garden wall where rich thick jasmine creepers ("Kozhungodi
 Mullai" — literally "fat-creeper jasmine," the Tamil emphasizing the abundance
@@ -1711,7 +1711,7 @@ flies off in hundreds of tiny droplets catching the dawn light as scattered diam
 each swan's wing-shake creating its own little rainbow of dew-light, the swans
 then rising majestically from the lotus pads into the golden dawn air, their
 reflections breaking in the pond below, ultra beautifully sacred dawn-wind-swan
-Pixar quality, jasmine-white-swan-gold dawn palette, 8K
+, jasmine-white-swan-gold dawn palette, 8K
 ```
 
 ---
@@ -1720,7 +1720,7 @@ Pixar quality, jasmine-white-swan-gold dawn palette, 8K
 **Lyric basis:** *"விழுங்கிய முதலையின் பிலம்புரை பேழ்வாய் / வெள்ளெயிறு உறவதன் விடத்து அனுக்கு அனுங்கி / அழுங்கிய ஆனையின் அருந்துயர் கெடுத்த"*
 *(The crocodile that swallowed him — its cave-like open mouth, white teeth / Pressed against, suffering from its venom, anguished / Dispelling the great unbearable suffering of the elephant who was sinking)*
 ```
-3D Pixar sacred animation epic two-part Gajendra Moksham scene — the most
+Hyper realistic  epic two-part Gajendra Moksham scene — the most
 emotionally charged mythological reference in Thiruppalliyezhuchi — rendered
 with the specific details Thondaradipodi Alvar uses: first the anguish image —
 a vast sacred lotus lake with Gajendra the white divine elephant standing chest-
@@ -1745,7 +1745,7 @@ lotus, the crocodile simultaneously receiving liberation in its death-by-divine-
 contact (shown as the crocodile transforming into a luminous divine being as it
 receives Moksha), both Gajendra and the crocodile receiving grace in the same
 sacred instant — this is the theological meaning Thondaradipodi Alvar sees as
-the reason the Lord must now awaken, ultra magnificently sacred rescue Pixar quality,
+the reason the Lord must now awaken, ultra magnificently sacred rescue ,
 lotus-lake-divine-rescue gold-blue sacred palette, 8K
 ```
 
@@ -1760,7 +1760,7 @@ lotus-lake-divine-rescue gold-blue sacred palette, 8K
 **Lyric basis:** *"சுடரொளி பரந்தன சூழ்திசை எல்லாம் / துன்னிய தாரகை மின்னொளி சுருங்கி / படரொளி பசுத்தனன் பனிமதி இவனோ / பாயிருள் அகன்றது"*
 *(Radiant light spread in all surrounding directions / The closely-packed stars' flash-light shrank / Did the spreading-light moon turn pale and wan? / The spreading darkness dispersed)*
 ```
-3D Pixar sacred animation celestial transformation scene — the astronomical dawn
+Hyper realistic  celestial transformation scene — the astronomical dawn
 described in Pasuram 3 with precise Tamil observational poetry: a wide sky view
 showing the moment when the competition between night and day is decided — the
 sky divided between the fading night and the arriving dawn: in the upper portion
@@ -1781,7 +1781,7 @@ the contrast visual: the moon's pale wan yellow against the triumphant deep gold
 rose of the dawn spreading below it, and from the horizon: "Paayirul Agandrathu"
 — the spreading darkness dispersing — the darkness not just diminishing but
 actively scattering, shown as dark indigo wisps retreating from the advancing
-dawn gold, ultra beautifully astronomical sacred dawn poetry Pixar quality,
+dawn gold, ultra beautifully astronomical sacred dawn poetry ,
 stars-shrinking-moon-paling-dawn-arriving sacred palette, 8K
 ```
 
@@ -1791,12 +1791,12 @@ stars-shrinking-moon-paling-dawn-arriving sacred palette, 8K
 **Lyric basis:** *"பைம்பொழில் கமுகின் மடலிடைக்கீறி வண்பாளைகள் நாற / வைகறை கூர்ந்தது மாருதம் இதுவோ / அடலொளி திகழ்தரு திகிரி அந்தடக்கை"*
 *(From the green garden areca palm, splitting through the sheath [a new palm flower-spike bursts] — the rich-colored paalaigal (palm flower-sheaths) release their fragrance / The early-morning wind has intensified — is this it? / The discus that shines with warrior-fire in that hand [refers to the Lord's Sudarshana Chakra])*
 ```
-3D Pixar sacred animation intimate dawn nature scene — the specific botanical
+Hyper realistic  intimate dawn nature scene — the specific botanical
 observation that only a garden-keeper like Thondaradipodi Alvar would notice:
 the areca palm groves of Srirangam island at dawn, the tall slender areca palms
 ("Kamuku" in Tamil) with their characteristic ringed trunks, and at the crown of
 each palm: "Madalidai Keeri" — the leaf-sheath that encloses the new flower-spike
-splitting open in the pre-dawn hour — this botanical moment shown in loving Pixar
+splitting open in the pre-dawn hour — this botanical moment shown in loving 
 detail: the green sheath visibly cracking along its seam, the "Vanbalaigal" (rich-
 colored palm-flower sheaths — the newly emerged flower-spike enclosed in its
 boat-shaped pale-golden sheath) emerging from the split as the growing dawn warmth
@@ -1812,7 +1812,7 @@ as his dark-blue divine hand in close detail — holding the Sudarshana Chakra
 described: the Chakra spinning as a golden wheel of divine fire even in this
 intimate natural scene — the contrast between the subtle fragrance of areca flowers
 and the cosmic blazing of the divine discus, both present in Pasuram 3's closing
-image, ultra beautifully botanically sacred Pixar quality, areca-palm-dawn-discus
+image, ultra beautifully botanically sacred , areca-palm-dawn-discus
 sacred natural palette, 8K
 ```
 
@@ -1827,7 +1827,7 @@ sacred natural palette, 8K
 **Lyric basis:** *"மேட்டிள மேதிகள் தளைவிடு மாயர் / வேய்ங்குழல் ஓசையும் விடைமணிக் குரலும் / ஈட்டிய இசை திசை பரந்தன வயலுள் / இரிந்தன சுரும்பினம்"*
 *(The hilly young male buffaloes — the cowherds (Maayar) release them from their tethers / The sound of the bamboo flute and the sound of the bull's bell-voice / The collected music spread in all directions across the paddy fields / The swarms of bees scattered)*
 ```
-3D Pixar sacred animation pastoral dawn scene — Pasuram 4's opening is a sudden
+Hyper realistic  pastoral dawn scene — Pasuram 4's opening is a sudden
 shift from the celestial to the deeply earthly: the specific Tamil pastoral landscape
 around Srirangam at dawn — paddy fields ("Vayal") in their full green morning glory
 stretching in all directions from the temple, and in the near foreground: young male
@@ -1849,7 +1849,7 @@ paddy blossoms rising suddenly from the field as a dark cloud that then disperse
 in all directions, the entire scene rich with the specific sensory fullness of Tamil
 pastoral dawn — smell of buffalo and wet paddy and jasmine, the flute and the
 cowbells, the scattering bees, the Srirangam gopuram visible in the morning distance
-beyond the paddy fields, ultra beautifully pastoral sacred Tamil dawn Pixar quality,
+beyond the paddy fields, ultra beautifully pastoral sacred Tamil dawn ,
 paddy-field-buffalo-dawn-flute sacred palette, 8K
 ```
 
@@ -1859,7 +1859,7 @@ paddy-field-buffalo-dawn-flute sacred palette, 8K
 **Lyric basis:** *"இலங்கையர் குலத்தை வாட்டிய வரிசிலை வானவர் ஏறே / மாமுனி வேள்வியைக் காத்து அவப்பிரதம் / ஆட்டிய அடுதிறல் அயோத்தியெம் அரசே"*
 *(The celestial-born hero with the striped bow who withered/destroyed Lanka's clan / Who protected the great sage's sacrifice and drove away (demons) in disgrace / The battle-powerful King of Ayodhya)*
 ```
-3D Pixar sacred animation epic Rama mythology scene — Pasuram 4 shifts from the
+Hyper realistic  epic Rama mythology scene — Pasuram 4 shifts from the
 pastoral flute to the heroic by addressing Lord Vishnu as Rama (his most celebrated
 Avatara), specifically in the episode where young Rama accompanied sage Vishwamitra
 to protect his Yajna (sacred fire sacrifice) from demon attack: shown as a forest
@@ -1881,7 +1881,7 @@ of the enemy before a hero's power) before Rama's arrows, sage Vishwamitra behin
 Rama with raised hands in blessing as his fire is protected, the Ayodhya divine
 palace barely visible in the far distance through the trees — "Ayodhiiyem Arasei"
 (our King of Ayodhya) — reminding us who this warrior is, ultra magnificently
-sacred heroic Rama Pixar quality, forest-sacrifice-divine-bow-sacred palette, 8K
+sacred heroic Rama , forest-sacrifice-divine-bow-sacred palette, 8K
 ```
 
 ---
@@ -1895,7 +1895,7 @@ sacred heroic Rama Pixar quality, forest-sacrifice-divine-bow-sacred palette, 8K
 **Lyric basis:** *"புலம்பின புட்களும் பூம்பொழில் களின்வாய் / போயிற்றுக் கங்குல் புகுந்தது புலரி / கலந்தது குணதிசைக் கனைகடல் அரவம்"*
 *(The birds cried/sounded in the flowery gardens / Night has gone — dawn has entered / The roaring sound of the eastern sea was heard)*
 ```
-3D Pixar sacred animation luminous bird-dawn scene — Pasuram 5 opens with the
+Hyper realistic  luminous bird-dawn scene — Pasuram 5 opens with the
 most sensory-rich bird-awakening image of the entire hymn: the sacred gardens
 ("Poompozil" — flowering/fragrant grove) of Srirangam island at the precise
 transition moment between night and dawn: shown as the lush sacred garden visible
@@ -1918,7 +1918,7 @@ washing over the entire garden scene, the transition "Kangul Poyitru, Pulari
 Pugundhathu" — night has LEFT, dawn has ENTERED — these shown as personified
 figures: Night as a dark serene figure departing leftward with a bow, Dawn as a
 rose-gold gentle figure entering from the right, ultra beautifully sacred bird-
-dawn Pixar quality, dawn-bird-garden-sea-sound sacred Tamil palette, 8K
+dawn , dawn-bird-garden-sea-sound sacred Tamil palette, 8K
 ```
 
 ---
@@ -1927,7 +1927,7 @@ dawn Pixar quality, dawn-bird-garden-sea-sound sacred Tamil palette, 8K
 **Lyric basis:** *"களிவண்டு மிழற்றிய கலம்பகம் புனைந்த / அலங்கல் தொடையல் கொண்டு அடியினை பணிவான் / அமரர்கள் புகுந்தனர் ஆதலில் அம்மா / இலங்கையர் கோன் வழிபாடு செய் கோயில்"*
 *(Carrying the Kalamba-flower garland that the bees buzz and hover around / To worship the sacred feet / The celestial beings (Amarar) have entered / The temple where Lanka's king (Ravana) worshipped)*
 ```
-3D Pixar sacred animation unique theological scene — Pasuram 5 contains one
+Hyper realistic  unique theological scene — Pasuram 5 contains one
 of the most interesting theological statements of the entire hymn: Srirangam
 is described as "Ilangaiyar Koon Vazhipaadu Sei Koyil" — "the temple where
 Lanka's king (Ravana) worshipped" — Ravana himself, the great demon-king of Lanka,
@@ -1947,7 +1947,7 @@ of Ravana — the ten-headed demon king — also bowing in worship before this s
 Lord, his ten crowns bent in humility, his two enormous hands folded in devotion —
 the same sacred feet receiving both the demon-king's worship and the Deva's worship,
 all worshippers equal before the Lord's grace, ultra beautifully complex theological
-sacred Pixar quality, kalamba-flower-deva-sacred-feet worship palette, 8K
+sacred , kalamba-flower-deva-sacred-feet worship palette, 8K
 ```
 
 ---
@@ -1961,7 +1961,7 @@ sacred Pixar quality, kalamba-flower-deva-sacred-feet worship palette, 8K
 **Lyric basis:** *"இரவியர் மணிநெடுந் தேரொடும் இவரோ / இறையவர் பதினொரு விடையரும் இவரோ / மருவிய மயிலினன் அறுமுகன் இவனோ / மருதரும் வசுக்களும் வந்துவந்தீண்டி"*
 *(The sun-gods with their jewel-long chariots — are they here? / The eleven lords (Rudras) with their bulls — are they here? / The one who has joined with the peacock, the six-faced one (Murugan) — is he here? / The Maruts and the Vasus came and came and crowded)*
 ```
-3D Pixar sacred animation three-arrival celestial scene — Pasuram 6 is a roll-call
+Hyper realistic  three-arrival celestial scene — Pasuram 6 is a roll-call
 of divine beings arriving, structured by Thondaradipodi Alvar as a series of
 amazed questions: "Ivaroo?" / "Ivaroo?" / "Ivanoo?" — "Are they here? Are they
 here? Is he here?" — the Alvar's astonished exclamations at the arrivals shown
@@ -1983,7 +1983,7 @@ Murugan's six faces each showing a different divine aspect, his twelve arms hold
 sacred weapons and symbols — the Vel spear blazing at the top, and everywhere
 around all three tracks: the Maruts (wind gods — divine beings of the sacred winds)
 and Vasus (eight elemental divine beings) adding to the crowded divine arrival,
-ultra magnificently multi-layered divine arrival Pixar quality, solar-chariot-
+ultra magnificently multi-layered divine arrival , solar-chariot-
 Rudra-Murugan-sacred palette, 8K
 ```
 
@@ -1993,7 +1993,7 @@ Rudra-Murugan-sacred palette, 8K
 **Lyric basis:** *"புரவியோடு ஆடலும் பாடலும் தேரும் / குமரதண்டம் புகுந்து ஈண்டிய வெள்ளம் / அருவரை அனைய நின் கோயில் முன் இவரோ"*
 *(With horses, dancing and singing and chariots / The flood that entered and gathered as Kumara's army / Like an unmovable mountain before your temple — are they here?)*
 ```
-3D Pixar sacred animation epic sacred assembly scene — the culminating visual
+Hyper realistic  epic sacred assembly scene — the culminating visual
 of Pasuram 6: the space before all seven gopurams of Srirangam described as
 filled with a divine "Vellam" (flood — used for an overwhelming multitude) that
 is simultaneously a "Kumaradandam" (Kumara/Murugan's divine army formation) and
@@ -2014,7 +2014,7 @@ gleaming divine chariots adding their height to the crowd), these three elements
 create layers within the mountain of devotion — visible at different heights in
 the packed assembly, at the very front nearest the temple gate: the crest of
 the mountain — Murugan's standard (Vel spear flag) visible above all else,
-ultra magnificently epic sacred mountain-assembly Pixar quality, divine-army-
+ultra magnificently epic sacred mountain-assembly , divine-army-
 mountain-before-temple sacred palette, 8K
 ```
 
@@ -2029,7 +2029,7 @@ mountain-before-temple sacred palette, 8K
 **Lyric basis:** *"இந்திரன் ஆனையும் தானும் வந்து இவனோ / எம்பெருமான் உன் கோயிலின் வாசல் / சுந்தரர் நெருக்க விச்சாதரர் நூக்க"*
 *(Indra with his elephant himself has come — is he here? / O Lord, at your temple's gate / The Sundaras pressing, the Vidhyadharas pushing)*
 ```
-3D Pixar sacred animation divine crowd scene with precise mythological sociology —
+Hyper realistic  divine crowd scene with precise mythological sociology —
 the specific detail of Pasuram 7's most dramatic image: the outer gateway ("Vaasal")
 of Srirangam temple showing an extraordinary scene of celestial crowding, with
 the theological irony that makes this Pasuram remarkable — even the king of the
@@ -2051,7 +2051,7 @@ all hierarchy dissolves in the single urgency of wanting to see the Lord,
 the gate itself: the ornate carved stone gopuram of Srirangam shown in loving
 architectural detail, its carved divine figures seeming to watch the living
 divine crowd below, ultra magnificently crowded sacred divine hierarchy scene
-Pixar quality, celestial-crowd-gate-divine-press sacred palette, 8K
+, celestial-crowd-gate-divine-press sacred palette, 8K
 ```
 
 ---
@@ -2060,7 +2060,7 @@ Pixar quality, celestial-crowd-gate-divine-press sacred palette, 8K
 **Lyric basis:** *"இயக்கரும் மயங்கினர் திருவடி தொழுவான் / அந்தரம் பாரிடம் இல்லை மற்றிதுவோ"*
 *(Even the Yaksha beings were bewildered/dazed — to worship the sacred feet / Neither in the sky (Andharam) nor on the earth (Paaritam) is there space — is this not so?)*
 ```
-3D Pixar sacred animation three-dimensional space-filling sacred scene — the
+Hyper realistic  three-dimensional space-filling sacred scene — the
 extraordinary statement that closes Pasuram 7: "Andharam Paaritam Illai Mattrithu"
 — neither the sky nor the earth has any remaining space — visualized in the most
 breathtaking way imaginable: a view from directly above the entire Srirangam temple
@@ -2081,7 +2081,7 @@ fierceness dissolved in the one shared desire: "Thiruvadi Thozhuvaan" — to wor
 the sacred feet — reaching their hands toward the sanctum they cannot reach through
 the crowd, the entire three-dimensional scene: every being in every direction at
 every altitude in the same posture of devotional reaching-toward-the-Lord,
-ultra magnificently three-dimensional sacred crowding Pixar quality, sky-earth-
+ultra magnificently three-dimensional sacred crowding , sky-earth-
 no-space-divine-bewilderment sacred palette, 8K
 ```
 
@@ -2096,7 +2096,7 @@ no-space-divine-bewilderment sacred palette, 8K
 **Lyric basis:** *"வம்பவிழ் வானவர் வாய் உறை வழங்க / மாநிதி கபிலை அண் கண்ணாடி முதலா / எம்பெருமான் படி மக்கலம் காண்டற்கு / ஏற்பன ஆயின கொண்டு நன் முனிவர்"*
 *(The fresh-fragrance divine beings (Vaanavars) offered their sacred word-blessings / The great treasure — the divine cow Kapila, the sacred mirror (Kannadi), and so on / To behold the Lord's sacred likeness / Bringing what is fitting, the great sages came)*
 ```
-3D Pixar sacred animation sacred morning ritual offering scene — Pasuram 8 is
+Hyper realistic  sacred morning ritual offering scene — Pasuram 8 is
 the most ceremonially detailed in the hymn, describing the specific sacred objects
 brought for the Lord's morning worship ritual: shown as the inner corridor of
 Srirangam near the sanctum entrance, a procession of great sages ("Nan Munivar"
@@ -2117,7 +2117,7 @@ water vessels, incense holders with white smoke rising, flower baskets of
 precisely arranged temple flowers, all being brought by sages whose entire bearing
 shows "the proper/fitting way" of bringing sacred offerings — measured, slow,
 reverential, the exact correct protocol — to behold "the Lord's Padi" (the sacred
-divine form — "Emperumaan Padi"), ultra beautifully sacred ritual offering Pixar
+divine form — "Emperumaan Padi"), ultra beautifully sacred ritual offering 
 quality, golden-ritual-cow-mirror-sages sacred palette, 8K
 ```
 
@@ -2127,7 +2127,7 @@ quality, golden-ritual-cow-mirror-sages sacred palette, 8K
 **Lyric basis:** *"தும்புரு நாரதர் புகுந்தனர் இவரோ / தோன்றினன் இரவியும் துலங்கொளி பரப்பி / அம்பர தலத்தில் நின்று அகல்கின்ற திருள்போய்"*
 *(Tumburu and Narada have entered — are they here? / The sun also appeared, spreading its shining light / The darkness that stood in the sky-space — having gone away)*
 ```
-3D Pixar sacred animation simultaneous sacred events scene — Pasuram 8 closes
+Hyper realistic  simultaneous sacred events scene — Pasuram 8 closes
 with three perfectly synchronized happenings described in sequence: first the
 musical arrival, then the solar event, then the cosmic cleansing, shown as three
 simultaneous visual layers: LAYER 1 — Narada and Tumburu crossing the threshold
@@ -2150,7 +2150,7 @@ has been standing in the sky — "Nindru" means it was standing/stationed there 
 now actively "Agalgindra" (departing/receding) as the sun's light arrives, the
 darkness shown as a dark indigo figure with flowing robes departing gracefully
 upward and away, yielding the sky-space to the triumphant solar arrival,
-ultra magnificently sacred triple-event Pixar quality, Narada-sun-darkness-
+ultra magnificently sacred triple-event , Narada-sun-darkness-
 departing sacred palette, 8K
 ```
 
@@ -2165,7 +2165,7 @@ departing sacred palette, 8K
 **Lyric basis:** *"ஏதமில் தண்ணுமை எக்கம் மத்தளியே / யாழ் குழல் முழவமோடு இசை திசை கெழுமி / கீதங்கள் பாடினர் கின்னரர் கெருடர் / கந்தருவர் அவர் கங்குலுள் எல்லாம்"*
 *(The flawless Thannumai drum, the Ekkam, the Mattali drum / With the Yazh (harp), the Kuzhal (flute), the Muzhavam drum — music in all directions / Kinnara beings and Garuda-beings and Gandharvas sang songs / All through the night — all of them)*
 ```
-3D Pixar sacred animation magnificent all-night concert scene — Pasuram 9 is
+Hyper realistic  magnificent all-night concert scene — Pasuram 9 is
 the most musically detailed verse in the hymn, naming six specific instruments
 by their ancient Tamil names: shown as the full interior of the Srirangam
 thousand-pillared hall transformed into a celestial concert venue at the deepest
@@ -2190,7 +2190,7 @@ into a golden-white tapestry of sacred sound filling the entire hall, on the
 walls: the carved stone musicians of the thousand-pillared hall seeming to come
 alive in sympathy with the living concert — the concert has been playing "Kangulul
 Ellaam" (all through the night — every night-hour without stopping), ultra
-gloriously sacred all-instrument concert Pixar quality, multi-instrument-night-
+gloriously sacred all-instrument concert , multi-instrument-night-
 concert divine music sacred palette, 8K
 ```
 
@@ -2200,7 +2200,7 @@ concert divine music sacred palette, 8K
 **Lyric basis:** *"மாதவர் வானவர் சாரணர் இயக்கர் / சித்தரும் மயங்கினர் திருவடி தொழுவான் / ஆதலில் அவர்க்கு நாள் ஓலக்கம் அருள"*
 *(The Mathavas, the Vanavas, the Charanas, the Yakshas / Even the Siddhas — all bewildered — to worship the sacred feet / Therefore, please grant them the daily royal audience (Oolakkam — daily court/darshan))*
 ```
-3D Pixar sacred animation seven-category divine assembly scene — Pasuram 9's
+Hyper realistic  seven-category divine assembly scene — Pasuram 9's
 closing theological argument is the most specific in the entire hymn: Thondaradipodi
 Alvar names seven distinct categories of divine beings and says ALL of them are
 "Mayanginar" (bewildered/dazed/overcome) with desire to worship the Lord's feet,
@@ -2223,7 +2223,7 @@ ornate wooden door with sacred carvings — all seven groups reaching toward it 
 folded hands, the theological argument Thondaradipodi Alvar makes visible: "ALL of
 these divine beings are waiting for YOU — how can you continue sleeping? Please
 awaken and grant them their daily darshan," ultra magnificently sacred seven-category
-divine assembly Pixar quality, seven-divine-categories-awaiting-audience sacred palette, 8K
+divine assembly , seven-divine-categories-awaiting-audience sacred palette, 8K
 ```
 
 ---
@@ -2237,7 +2237,7 @@ divine assembly Pixar quality, seven-divine-categories-awaiting-audience sacred 
 **Lyric basis:** *"கடிமலர்க் கமலங்கள் மலர்ந்தன இவையோ / கதிரவன் கனைகடல் முளைத்தனன் இவனோ / துடியிடையார் சுரிகுழல் பிழிந்து உதறித் துகிலுடுத்து ஏறினர் சூழ் புனல் அரங்கா / தொடையொத்த துளவமும் கூடையும் பொலிந்து தோன்றிய தோள் தொண்டரடிப்பொடி என்னும்"*
 *(The fragrant lotus flowers — have they bloomed? / The sun rose from the roaring sea — has he appeared? / The drum-waisted women wrung and shook their curled hair, wore their garments, climbed up from the surrounded waters of Aranga / The shoulders of the one called Thondaradipodi appeared shining with the fitting Tulasi garland and basket)*
 ```
-3D Pixar sacred animation dawn Kaveri scene — Pasuram 10 opens with the final
+Hyper realistic  dawn Kaveri scene — Pasuram 10 opens with the final
 roll-call of dawn's completion: two more rhetorical questions ("Have the fragrant
 lotuses bloomed? Has the sun arisen from the sea?") — these final proofs that
 the morning is complete — and then introduces the most intimate human scene of the
@@ -2262,7 +2262,7 @@ shoulders slightly wet with dawn dew, the woven basket on one shoulder gleaming
 with sacred Tulasi leaves and temple flowers, the garland of Tulasi arranged across
 the other shoulder, the entire image of the Alvar's shoulders bearing the Lord's
 service: the perfect visual of Kainkaryam (divine service) made physical,
-ultra beautifully sacred dawn-ghat-Alvar Pixar quality, Kaveri-dawn-Tulasi-
+ultra beautifully sacred dawn-ghat-Alvar , Kaveri-dawn-Tulasi-
 sacred-shoulders devotional palette, 8K
 ```
 
@@ -2272,7 +2272,7 @@ sacred-shoulders devotional palette, 8K
 **Lyric basis:** *"அடியனை அளியன் என்று அருளி உன் அடியார்க்கு / ஆட்படுத்தாய் பள்ளி எழுந்தருளாயே"*
 *(Regarding this humble servant (Adiyanai) as worthy of compassion (Aliyan endru) / Please aruli (bestow your grace) and make me a servant (Aatpaduthaai) of your devotees (Un Adiyaarkku) / Please graciously arise from your sacred sleep!)*
 ```
-3D Pixar sacred animation supreme devotional theology scene — the final two lines
+Hyper realistic  supreme devotional theology scene — the final two lines
 of Thiruppalliyezhuchi contain the most profound theological statement in the hymn:
 Thondaradipodi Alvar does not ask to be made the Lord's own servant directly — he
 asks to be made servant of the Lord's devotees (Un Adiyaarkku — your devotees,
@@ -2295,7 +2295,7 @@ Thondaradipodi's name-meaning "dust of devotees' feet" shown literally: the ston
 floor dust settling gently on the Alvar's outstretched hands as he receives his
 sacred destiny, and in the sanctum: the Lord's eyes opening fully — the dawn is
 complete, the Lord has awakened, the morning's purpose is fulfilled, ultra
-magnificently sacred theological surrender Pixar quality, sacred surrender-grace-
+magnificently sacred theological surrender , sacred surrender-grace-
 devoted-service ultimate devotional palette, 8K
 ```
 
