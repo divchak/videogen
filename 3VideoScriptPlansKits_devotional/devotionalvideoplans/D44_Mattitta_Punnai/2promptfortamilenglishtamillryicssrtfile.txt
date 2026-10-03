@@ -1,0 +1,5 @@
+i want you to create new SRT file with the following change:
+Use the attached SRT file as source
+for each original tamil line, i want it to have the below format
+original tamil line | english meaning of that line | tamil meaning of that line
+make the srt file downloadable and dont make any other change
